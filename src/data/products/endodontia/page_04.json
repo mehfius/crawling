@@ -1,0 +1,766 @@
+[
+  {
+    "sku": "137556",
+    "name": "Óleo de Laranja - AF do Brasil",
+    "price": "R$10,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/oleo-de-laranja-aaf-137556-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/oleo-de-laranja-af-do-brasil-137556.html"
+  },
+  {
+    "sku": "107997",
+    "name": "Cimento Endodôntico Bio-C Repair - Angelus",
+    "price": "R$593,90",
+    "description": "Embalagem com 1 seringa de 0,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-bio-c-repair-angelus-dc-107997-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-bio-c-repair-angelus-107997.html"
+  },
+  {
+    "sku": "113955",
+    "name": "Broca Endo Z FG - Prima Dental by Angelus",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/113955.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-endo-z-fg-prima-dental-by-angelus-113955.html"
+  },
+  {
+    "sku": "DC29172",
+    "name": "Extirpa Nervos - MK Life",
+    "price": "R$32,90",
+    "description": "Embalagem com 10 unidades. 25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/extirpa-nervos-mk-life-dc29172-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/extirpa-nervos-mk-life-dc29172.html"
+  },
+  {
+    "sku": "DC25454",
+    "name": "Guta Percha Calibrada - GAP",
+    "price": "R$44,90",
+    "description": "Embalagem com 120 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/9712793.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-gap-dc25454.html"
+  },
+  {
+    "sku": "200003",
+    "name": "Cimento Endodôntico Bio-C Sealer - Angelus",
+    "price": "R$539,90",
+    "description": "Embalagem com 4 seringas monodose com 0,5g e 20 pontas aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-bio-c-sealer-dental-cremer-200003-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-bio-c-sealer-angelus-200003.html"
+  },
+  {
+    "sku": "133667",
+    "name": "Guta-Percha Acessória Nº 20.03 - Easy",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-acessoria-n-20-03-easy-133667-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-n-20-03-easy-133667.html"
+  },
+  {
+    "sku": "DC26938",
+    "name": "Guta Percha Calibrada TruNatomy Conform Maillefer - Dentsply Sirona",
+    "price": "R$100,90",
+    "description": "Embalagem com 60 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC26938.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-trunatomy-conform-maillefer-dentsply-sirona-dc26938.html"
+  },
+  {
+    "sku": "133672",
+    "name": "Guta-Percha Acessória Nº 30.03 - Easy",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-acessoria-n-30-03-easy-133672-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-n-30-03-easy-133672.html"
+  },
+  {
+    "sku": "129525",
+    "name": "Guta Percha para Sistema Rotatório Protaper Next X4-X5 - Dentsply",
+    "price": "R$88,90",
+    "description": "Embalagem com 36 unidades da Gutapercha X4 + 24 unidades da Gutapercha X5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gutapercha-protaper-next-x4-x5-dentsply-129525-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-para-sistema-rotatorio-protaper-next-x4-x5-dentsply-129525.html"
+  },
+  {
+    "sku": "133782",
+    "name": "Ponta Termoplastificadora U - Easy",
+    "price": "R$299,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-termoplastificadora-u-easy-133782-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-termoplastificadora-u-easy-133782.html"
+  },
+  {
+    "sku": "133678",
+    "name": "Guta-Percha Acessória Nº 40.03 - Easy",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-acessoria-n-40-03-easy-133678-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-n-40-03-easy-133678.html"
+  },
+  {
+    "sku": "DC30563",
+    "name": "Guta Percha Calibrada Rosa - Tanari",
+    "price": "R$55,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gutapercha-calibrada-tanari-dental-cremer-dc30563.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-rosa-tanari-dc30563.html"
+  },
+  {
+    "sku": "150320",
+    "name": "Guta Percha Bassi Calibrada 20.05 - Easy",
+    "price": "R$69,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-bassi-calibrada-easy-dc39117.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-bassi-calibrada-20-05-60unid-easy-150320.html"
+  },
+  {
+    "sku": "133668",
+    "name": "Guta-Percha Acessória Nº 20.05 - Easy",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-acessoria-n-20-05-easy-133668-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-n-20-05-easy-133668.html"
+  },
+  {
+    "sku": "106106",
+    "name": "Guta Percha Calibrada 50 Tubo - Tanari",
+    "price": "R$55,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-calibrada-50-tubo-tanari-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-50-tubo-tanari.html"
+  },
+  {
+    "sku": "133812",
+    "name": "Agulha Injetora de Guta-Percha - Easy",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-injetora-de-guta-percha-easy-133812-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-injetora-de-guta-percha-easy-133812.html"
+  },
+  {
+    "sku": "295573",
+    "name": "Vaselina Sólida - Rioquímica",
+    "price": "R$9,69",
+    "description": "Embalagem com 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/vaselina-solida-30g-rioquimica-295573.jpg",
+    "url": "https://www.dentalcremer.com.br/vaselina-solida-rioquimica-295573.html"
+  },
+  {
+    "sku": "DC11329",
+    "name": "Ponta de Papel Absorvente - Meta",
+    "price": "R$26,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/398540.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-meta-dc11329.html"
+  },
+  {
+    "sku": "DC25544",
+    "name": "Broca Gates CA - Angelus",
+    "price": "R$25,90",
+    "description": "Unidade. Contra Ângulo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101446.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-gates-ca-angelus-dc25544.html"
+  },
+  {
+    "sku": "173505",
+    "name": "Cimento Endodôntico Sealapex - Kerr Endodontics",
+    "price": "R$367,90",
+    "description": "Embalagem com 1 tubo de base com 12g + 1 tubo de catalisador com 18g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-sealapex-sybronendo-kerr-endodontics-173505-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-sealapex-sybronendo-kerr-endodontics-173505.html"
+  },
+  {
+    "sku": "DC23011",
+    "name": "Broca Peeso CA - MK Life",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-peeso-ca-mk-life-dc23011.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-peeso-ca-mk-life-dc23011.html"
+  },
+  {
+    "sku": "701540",
+    "name": "Kit Cimento Endodôntico Fill Canal - Maquira",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 frasco de líquido com 10ml e 1 frasco de pó com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-fill-canal-kit-maquira-701540.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-fill-canal-kit-maquira-701540.html"
+  },
+  {
+    "sku": "DC11209",
+    "name": "Broca Gates Glidden AR Maillefer - Dentsply Sirona",
+    "price": "R$131,90",
+    "description": "Embalagem com 6 unidades. 28mm ou 32mm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/306002.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-gates-glidden-ar-maillefer-dentsply-sirona-dc11209.html"
+  },
+  {
+    "sku": "148419",
+    "name": "Lençol de Borracha Defender - Angelus",
+    "price": "R$56,90",
+    "description": "Embalagem com 26 unidades. 13,5x13,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lencol-borracha-defender-angelus-148419.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-de-borracha-defender-angelus-148419.html"
+  },
+  {
+    "sku": "427516",
+    "name": "Kit Cimento Endodôntico Pulp Fill - Biodinâmica",
+    "price": "R$50,90",
+    "description": "Embalagem com 1 frasco pó com 12g + 1 frasco líquido 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-pulp-fill-biodinamica-427516.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-pulp-fill-biodinamica-427516.html"
+  },
+  {
+    "sku": "144427",
+    "name": "Cimento Reparador MTA 0,28g 2 Aplicações - Maquira",
+    "price": "R$199,90",
+    "description": "Embalagem com 2 frasco em pó de 0,14g cada e 1 frasco líquido de 3ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-reparador-mta-0-28g-2-aplicacoes-maquira-144427-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-reparador-mta-0-28g-2-aplicacoes-maquira-144427.html"
+  },
+  {
+    "sku": "215939",
+    "name": "Arco De Ostby Autoclavavel - Angelus",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/215939.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-ostby-autoclavavel-angelus-215939.html"
+  },
+  {
+    "sku": "138364",
+    "name": "Cimento Endodôntico Sealer Plus - Mk Life",
+    "description": "Embalagem com 16g. (Seringa corpo duplo).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-obtur-sealer-plus-mk-life-119305-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-sealer-plus-mk-life-138364.html"
+  },
+  {
+    "sku": "DC24618_2",
+    "name": "Broca Largo Peeso CA - Jota",
+    "price": "R$137,90",
+    "description": "Embalagem com 6 unidades. N° 1 ao 6. 28 ou 32mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/849417.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-largo-peeso-ca-jota-dc24618-2.html"
+  },
+  {
+    "sku": "279207",
+    "name": "Cimento Endodôntico Endofill em Pó - Dentsply Sirona",
+    "price": "R$70,90",
+    "description": "Embalagem com 1 frasco com pó de 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-endofill-po-dentsply-sirona-dc-279207.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-endofill-em-po-12g-dentsply-sirona-279207.html"
+  },
+  {
+    "sku": "DC24617_2",
+    "name": "Broca Largo Peeso CA - Jota",
+    "price": "R$22,90",
+    "description": "Unidade. 28 ou 32mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/849370.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-largo-peeso-ca-jota-dc24617-2.html"
+  },
+  {
+    "sku": "DC30293",
+    "name": "Tamborel de Plástico - Maquira",
+    "price": "R$30,90",
+    "description": "Unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tamborel-de-plastico-maquira-dc30293-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tamborel-de-plastico-maquira-dc30293.html"
+  },
+  {
+    "sku": "199857",
+    "name": "Biodentine Cimento Reparador Biocerâmico - Septodont",
+    "price": "R$691,90",
+    "description": "Embalagem com 5 cápsulas de 0,7g de pó e 5 ampolas dose única de 0,20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/substituto-dentinario-bioativo-biodentine-septodont-dc-199857-01.jpg",
+    "url": "https://www.dentalcremer.com.br/substituto-dentinario-bioativo-biodentine-septodont-199857.html"
+  },
+  {
+    "sku": "DC25216",
+    "name": "Ponta Para Irrigação Navitip - Ultradent",
+    "price": "R$142,90",
+    "description": "Embalagem com 20 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114874.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-para-irrigac-o-navitip-ultradent-dc25216.html"
+  },
+  {
+    "sku": "214772",
+    "name": "Hidróxido de Cálcio P.A. - Biodinâmica",
+    "price": "R$10,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/hidroxido-de-calcio-pa-biodinamica-dc-214772-01.jpg",
+    "url": "https://www.dentalcremer.com.br/hidroxido-de-calcio-p-a-biodinamica-214772.html"
+  },
+  {
+    "sku": "145074",
+    "name": "Kit Endodontia Allcem Core - FGM",
+    "price": "R$320,90",
+    "description": "Kit com 1 seringa de 5g (A2), 1 frasco de 3ml (adesivo) e 5 pinos (Whitepost System DC0,4 FIT Intro) e 1 broca.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-endodontia-allcem-core-145074.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-endodontia-allcem-core-fgm-145074.html"
+  },
+  {
+    "sku": "DC17417",
+    "name": "Ponta de Papel Absorvente Cell Pack Recipro - Tanari",
+    "price": "R$79,90",
+    "description": "Embalagem com 180 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/579420.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-cell-pack-recipro-tanari-dc17417.html"
+  },
+  {
+    "sku": "546446",
+    "name": "Hidróxido de Cálcio Hydropast com Iodofórmio - Biodinâmica",
+    "price": "R$51,90",
+    "description": "Embalagem com 2,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/hydropast-c-iodoformio-25g-biodinamica-dc-546446-03.jpg",
+    "url": "https://www.dentalcremer.com.br/hidroxido-de-calcio-hydropast-com-iodoformio-biodinamica-546446.html"
+  },
+  {
+    "sku": "184280",
+    "name": "Broca Endo Z FG - AllPrime",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade. FG (Alta Rotação). 25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-endo-z-fg-allprime-184280-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-endo-z-fg-allprime-184280.html"
+  },
+  {
+    "sku": "DC25900",
+    "name": "Lençol de Borracha - Nictone",
+    "price": "R$379,90",
+    "description": "Embalagem com 36 unidades. Tamanho 15,2 x 15,2 cm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc25900.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-de-borracha-nictone-dc25900.html"
+  },
+  {
+    "sku": "658941",
+    "name": "Kit Cimento Endodôntico Ciment-Fill - AF do Brasil",
+    "price": "R$27,90",
+    "description": "Kit com 12g de pó e 10ml de líquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cimento-endodontico-endo-fill-aaf-658941-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cimento-endodontico-ciment-fill-af-do-brasil-658941.html"
+  },
+  {
+    "sku": "656176",
+    "name": "Broca Carbide Endo Z-K FG - Jet",
+    "price": "R$58,90",
+    "description": "Embalagem com 1 unidade. Alta Rotação. 19mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-endo-z-k-fg-jet-656176-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-endo-z-k-fg-jet-656176.html"
+  },
+  {
+    "sku": "506976",
+    "name": "Arco de Yong Adulto - Golgran",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-de-young-em-metal-golgran-dc-506976-01.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-yong-young-golgran-506976.html"
+  },
+  {
+    "sku": "DC11248",
+    "name": "Espaçador Digital - Dentsply Sirona",
+    "price": "R$153,90",
+    "description": "Embalagem com 4 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/280081.jpg",
+    "url": "https://www.dentalcremer.com.br/espacador-digital-dentsply-sirona-dc11248.html"
+  },
+  {
+    "sku": "DC11212",
+    "name": "Broca Largo Peeso CA Maillefer - Dentsply Sirona",
+    "price": "R$127,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-largo-peeso-ca-maillefer-dentsply-sirona-dc11212.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-largo-peeso-ca-maillefer-dentsply-sirona-dc11212.html"
+  },
+  {
+    "sku": "DC38964",
+    "name": "Kit Lima Rotatória S2 - Easy",
+    "price": "R$142,90",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-lima-rotatoria-s2-amarelo-easy-148753.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-lima-rotatoria-s2-easy-dc38964.html"
+  },
+  {
+    "sku": "DC11213",
+    "name": "Broca Largo Peeso CA - Mani",
+    "price": "R$19,90",
+    "description": "Unidade. 28 ou 32mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-largo-peeso-ca-mani-dc11213-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-largo-peeso-ca-mani-dc11213.html"
+  },
+  {
+    "sku": "101634",
+    "name": "Broca Endo Z FG - Prima Dental by Angelus",
+    "price": "R$67,90",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-endo-z-fg-prima-dental-by-angelus-101634.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-endo-z-fg-prima-dental-by-angelus-101634.html"
+  },
+  {
+    "sku": "119043",
+    "name": "Régua Endodôntica Milimetrada de Plastico Autoclove - Mk Life",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/regua-endodontica-milimetrada-de-plastico-autoclove-mk-life-119043-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/regua-endodontica-milimetrada-de-plastico-autoclove-mk-life-119043.html"
+  },
+  {
+    "sku": "DC30009",
+    "name": "Arco de Ostby Autoclavável Simples - Maquira",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/427950_635919238815569549.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-ostby-autoclavavel-maquira-dc30009.html"
+  },
+  {
+    "sku": "537802",
+    "name": "Cimento Endodôntico MTA Fillapex - Angelus",
+    "price": "R$475,90",
+    "description": "Embalagem com 1 bisnaga de pasta catalisadora (12g) + 1 bisnaga de pasta base (18g) + 1 bloco de espatulação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-mta-fillapex-bisnaga-base-18g-catalisador-12g-angelus-dc-537802-02.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-mta-fillapex-angelus-537802.html"
+  },
+  {
+    "sku": "105368",
+    "name": "Régua Endodôntica Calibradora Milimetrada Plástica - Prisma",
+    "price": "R$48,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/regua-endodontica-calibradora-milimetrada-prisma-105368.jpg",
+    "url": "https://www.dentalcremer.com.br/regua-endodontica-calibradora-milimetrada-prisma-105368.html"
+  },
+  {
+    "sku": "267983",
+    "name": "Cimento Endodôntico Fill Canal em Pó - Maquira",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 frasco com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-fill-canal-em-po-maquira-267983.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-fill-canal-em-po-maquira-267983.html"
+  },
+  {
+    "sku": "148726",
+    "name": "Lima Rotatória Logic cm 35.05 21mm - Easy",
+    "price": "R$179,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-rotatoria-logic-cm-35-05-21mm-easy-148726.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-rotatoria-logic-cm-35-05-21mm-easy-148726.html"
+  },
+  {
+    "sku": "DC38965",
+    "name": "Lima Target 5 - Easy",
+    "price": "R$75,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-target-5-easy-dc38965-2.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-target-5-easy-dc38965.html"
+  },
+  {
+    "sku": "114608",
+    "name": "Cimento Endodôntico Fill Canal em Pó - Maquira",
+    "description": "Embalagem com 1 frasco pó com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-fill-canal-em-po-maquira-114608-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-fill-canal-em-po-maquira-114608.html"
+  },
+  {
+    "sku": "341157",
+    "name": "Cimento Forrador de Hidróxido de Cálcio Biocal Branco - Biodinâmica",
+    "price": "R$47,90",
+    "description": "Embalagem com 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/hidroxido-de-calcio-biocal-branco-biodinamica-dc-341157-02.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-forrador-de-hidroxido-de-calcio-biocal-biodinamica-341157.html"
+  },
+  {
+    "sku": "107368",
+    "name": "Cimento Endodôntico Hydrosealer - Biodinâmica",
+    "price": "R$120,90",
+    "description": "Embalagem com 1 Pó de 8g + 1 Resina de 9g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/emabalgem-e-produtos-cimento-endodontico-hydrosealer-biodinamica-107368.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-hydrosealer-biodinamica-107368.html"
+  },
+  {
+    "sku": "DC24615_2",
+    "name": "Broca Gates CA - Jota",
+    "price": "R$21,90",
+    "description": "Unidade. 28 ou 32mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/849332.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-gates-ca-jota-dc24615-2.html"
+  },
+  {
+    "sku": "137739",
+    "name": "Cimento Endodôntico Fill Canal Líquido - Maquira",
+    "description": "Embalagem com 1 frasco líquido com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-fill-canal-liquido-maquira-267991-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-fill-canal-liquido-maquira-267991.html"
+  },
+  {
+    "sku": "144428",
+    "name": "Cimento Reparador MTA 1g 7 Aplicações - Maquira",
+    "price": "R$449,90",
+    "description": "Embalagem com 1 frasco em pó de 0,14g, 1 frasco líquido de 3ml e 1 colher dosadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-reparador-mta-1g-7-aplicacoes-maquira-144428-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-reparador-mta-1g-7-aplicacoes-maquira-144428.html"
+  },
+  {
+    "sku": "546521",
+    "name": "Kit Cimento Endodôntico N-Rickert - Biodinâmica",
+    "price": "R$390,90",
+    "description": "Kit com 10g do pó + 10ml do líquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cimento-endodontico-n-rickert-biodinamica-546521.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cimento-endodontico-n-rickert-biodinamica-546521.html"
+  },
+  {
+    "sku": "DC11208",
+    "name": "Broca Gates CA - Mani",
+    "price": "R$15,90",
+    "description": "Unidade. 28 ou 32mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-gates-ca-mani-dc11208-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-gates-ca-mani-dc11208.html"
+  },
+  {
+    "sku": "DC17415",
+    "name": "Ponta de Papel Absorvente Cell Pack Pro Universal - Tanari",
+    "price": "R$79,90",
+    "description": "Embalagem com 180 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/579352.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-cell-pack-pro-universal-tanari-dc17415.html"
+  },
+  {
+    "sku": "267990",
+    "name": "Cimento Endodôntico Fill Canal Líquido - Maquira",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 frasco com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-fill-canal-liquido-maquira-267990.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-fill-canal-liquido-maquira-267990.html"
+  },
+  {
+    "sku": "DC17416",
+    "name": "Ponta de Papel Absorvente Cell Pack - Tanari",
+    "price": "R$75,90",
+    "description": "Embalagem com 180 unidades de 26mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-de-papel-absorvente-cell-pack-tanari-dc17416-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-cell-pack-tanari-dc17416.html"
+  },
+  {
+    "sku": "DC30389",
+    "name": "Lençol de Borracha New Tone - Madeitex",
+    "price": "R$207,90",
+    "description": "Embalagem com 26 unidades. Tamanho 15x15cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lencol-de-borracha-15cm-madeitex-dc30389-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-de-borracha-15cm-madeitex-dc30389.html"
+  },
+  {
+    "sku": "DC27036",
+    "name": "Lençol de Borracha Sanctuary - K-Dent",
+    "price": "R$54,90",
+    "description": "Embalagem com 26 unidades. 15x15cm - médio. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lencol-de-borracha-sanctuary-k-dent-dc27036.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-de-borracha-sanctuary-k-dent-dc27036.html"
+  },
+  {
+    "sku": "143385",
+    "name": "Cimento Endodôntico Pulposul Pó 50g - Iodontosul",
+    "price": "R$16,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-pulposul-po-50g-iodontosul-dental-cremer-143385.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-pulposul-po-50g-iodontosul-143385.html"
+  },
+  {
+    "sku": "DC11327",
+    "name": "Ponta de Papel Absorvente Cellpack - Tanari",
+    "price": "R$75,90",
+    "description": "Embalagem com 180 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/213997.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-cellpack-tanari-dc11327.html"
+  },
+  {
+    "sku": "546545",
+    "name": "Cimento Endo N-Rickert Pó - Biodinâmica",
+    "price": "R$365,90",
+    "description": "Embalagem com 1 frasco Pó com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/546545.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endo-n-rickert-po-biodinamica-546545.html"
+  },
+  {
+    "sku": "145723",
+    "name": "Kit Cimento Endodôntico - Vigodent",
+    "price": "R$60,90",
+    "description": "Embalagem com 1 frasco de 10ml (Líquido) e 1 frasco de 12g (Pó).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cimento-endodontico-vigodent-145723.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cimento-endodontico-vigodent-145723.html"
+  },
+  {
+    "sku": "215045",
+    "name": "Cimento Endodôntico Pulp Fill em Pó - Biodinâmica",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 frasco de pó com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-pulp-fill-em-po-biodinamica-embalagem-produto-215045.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-pulp-fill-em-po-biodinamica-215045.html"
+  },
+  {
+    "sku": "143384",
+    "name": "Cimento Endodôntico Pulposul Líquido 10ml - Iodontosul",
+    "price": "R$12,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-pulposul-liquido-10ml-iodontosul-dental-cremer-143384.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-pulposul-liquido-10ml-iodontosul-143384.html"
+  },
+  {
+    "sku": "DC11328",
+    "name": "Ponta de Papel Absorvente Maillefer - Dentsply Sirona",
+    "price": "R$45,90",
+    "description": "Embalagem com 120 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/279085.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-maillefer-dentsply-sirona-dc11328.html"
+  },
+  {
+    "sku": "145722",
+    "name": "Cimento Endodôntico - Vigodent",
+    "price": "R$39,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-vigodent-145722.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-vigodent-145722.html"
+  },
+  {
+    "sku": "215038",
+    "name": "Cimento Endodôntico Pulp Fill Líquido - Biodinâmica",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 frasco de líquido com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-pulp-fill-liquido-biodinamica-215038.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-pulp-fill-liquido-biodinamica-215038.html"
+  },
+  {
+    "sku": "145429",
+    "name": "Vaselina Sólida Especial Branca 35g - AF do Brasil",
+    "price": "R$7,89",
+    "description": "Embalagem com 35g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/vaselina-solida-especial-branca-35g-aaf-145429.jpg",
+    "url": "https://www.dentalcremer.com.br/vaselina-solida-especial-branca-35g-af-do-brasil-145429.html"
+  },
+  {
+    "sku": "144835",
+    "name": "Lençol de Borracha Flexi Dam NON LATEX - Coltene",
+    "price": "R$400,90",
+    "description": "Embalagem com 30 unidades. 15,2x15,2cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lencol-de-borracha-flexi-dam-15-2cm-hygenic-144835.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-de-borracha-flexi-dam-15-2cm-coltene-144835.html"
+  },
+  {
+    "sku": "DC23004",
+    "name": "Tamborel Para Limas - Microdont",
+    "price": "R$39,90",
+    "description": "Unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tamborel-para-limas-microdont-718591-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tamborel-para-limas-microdont-dc23004.html"
+  },
+  {
+    "sku": "570007",
+    "name": "Ponta de Aspiração Endo Tips 0,014 - Angelus",
+    "price": "R$64,90",
+    "description": "Embalagem com 20 unidades de 0,35mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-de-aspiracao-endo-tips-0-014-angelus-570007.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-aspirac-o-endo-tips-0-014-angelus.html"
+  },
+  {
+    "sku": "377736",
+    "name": "Conjunto de Aspiração Endodôntico - Indusbello",
+    "price": "R$71,90",
+    "description": "Kit com 1 cânula + 3 agulhas com bisel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/377736.jpg",
+    "url": "https://www.dentalcremer.com.br/conjunto-de-aspirac-o-endodontico-indusbello.html"
+  },
+  {
+    "sku": "398250",
+    "name": "Hidróxido de Cálcio P.A. - Maquira",
+    "price": "R$8,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-hidroxido-de-calcio-p-a-maquira-398250.jpg",
+    "url": "https://www.dentalcremer.com.br/hidroxido-de-calcio-p-a-maquira-398250.html"
+  },
+  {
+    "sku": "341140",
+    "name": "Hidróxido de Cálcio Biocal Dentina - Biodinâmica",
+    "price": "R$47,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/hidroxido-de-calcio-biocal-dentina-biodinamica-341140-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/hidroxido-de-calcio-biocal-dentina-biodinamica.html"
+  },
+  {
+    "sku": "DC18722",
+    "name": "Cimento Forrador de Hidróxido de Cálcio Ultra-Blend Plus - Ultradent",
+    "price": "R$199,90",
+    "description": "Embalagem com 1,2ml + 2 ponteiras Black Micro Tips.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-forrador-de-hidroxido-de-calcio-ultra-blend-plus-ultradent-dc18722-dental-creme-1.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-forrador-de-hidroxido-de-calcio-ultra-blend-plus-ultradent-dc18722.html"
+  },
+  {
+    "sku": "DC11326",
+    "name": "Ponta de Papel Absorvente Cellpack Protaper Maillefer - Dentsply Sirona",
+    "price": "R$85,90",
+    "description": "Embalagem com 72 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/431841.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-cellpack-protaper-maillefer-dentsply-sirona-dc11326.html"
+  },
+  {
+    "sku": "DC38960",
+    "name": "Kit Lima Rotatória RT - Easy",
+    "price": "R$136,90",
+    "description": "Kit com 3 unidades (30.10, 25.08 e 20.06).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-lima-rotatoria-rotatoria-rt-cm-21mm-easy-148722.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-lima-rotatoria-rt-easy-dc38960.html"
+  },
+  {
+    "sku": "398496",
+    "name": "Régua de Alumínio Milimetrada Endodôntica - Maquira",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade. 40mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/regua-de-aluminio-milimetrada-endodontica-40mm-maquira-398496.jpg",
+    "url": "https://www.dentalcremer.com.br/regua-de-aluminio-milimetrada-endodontica-maquira-398496.html"
+  },
+  {
+    "sku": "548136",
+    "name": "Régua Endodôntica Calibradora Intermedium - Angelus",
+    "price": "R$215,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/regua-intermedium-angelus-dc-548136-01.jpg",
+    "url": "https://www.dentalcremer.com.br/regua-endodontica-calibradora-intermedium-angelus-548136.html"
+  },
+  {
+    "sku": "398519",
+    "name": "Tamborel de Alumínio Autoclavável - Maquira",
+    "price": "R$30,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/398519.jpg",
+    "url": "https://www.dentalcremer.com.br/tamborel-de-aluminio-autoclavavel-maquira.html"
+  },
+  {
+    "sku": "DC39118",
+    "name": "Lençol de Borracha 15x15cm - Easy",
+    "price": "R$67,90",
+    "description": "Embalagem com 36 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lencol-de-borracha-15x15cm-easy-dc39118.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-de-borracha-15x15cm-easy-dc39118.html"
+  },
+  {
+    "sku": "148795",
+    "name": "Kit Condensador Niti - Easy",
+    "price": "R$289,90",
+    "description": "Kit com 4 condensador duplos (Mais detalhes em informações adicionais).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-condensador-niti-easy-148795.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-condensador-niti-easy-148795.html"
+  },
+  {
+    "sku": "604894",
+    "name": "Arco Young Adulto - Jon",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 unidade. Cores sortidas, sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/604894_635749050596549584.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-young-adulto-jon-604894.html"
+  },
+  {
+    "sku": "DC39114",
+    "name": "Lima Manual M 25mm 2ª Série - Easy",
+    "price": "R$54,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-manual-m-25mm-2-serie-easy-dc39114.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-manual-m-25mm-2-serie-easy-dc39114.html"
+  },
+  {
+    "sku": "DC38959",
+    "name": "Lima Rotatória RT - Easy",
+    "price": "R$156,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-rotatoria-rotatoria-rt-cm-20-06-21mm-4unid--easy-148716.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-rotatoria-rt-easy-dc38959.html"
+  }
+]

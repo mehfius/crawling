@@ -1,0 +1,767 @@
+[
+  {
+    "sku": "DC30519",
+    "name": "Maleta Organizadora - Crippa",
+    "price": "R$121,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/maleta-organizadora-transparente-com-azul-turquesa-crippa-132411.jpg",
+    "url": "https://www.dentalcremer.com.br/maleta-organizadora-crippa-dc30519.html"
+  },
+  {
+    "sku": "DC22271",
+    "name": "Dental Álbum - Angie by Angelus",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/712865.jpg",
+    "url": "https://www.dentalcremer.com.br/dental-album-angie-by-angelus-dc22271.html"
+  },
+  {
+    "sku": "DC16608",
+    "name": "Luva Verniz Silver Amarela - Volk",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 par.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-luva-verniz-silver-amarela-volk-dc16608.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-verniz-silver-amarela-volk-dc16608.html"
+  },
+  {
+    "sku": "129542",
+    "name": "Organizador Pequeno - Nitronplast",
+    "price": "R$8,79",
+    "description": "Embalagem com 1 unidade (acompanha divisórias).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aberto-organizador-pequeno-nitronplast-129542.jpg",
+    "url": "https://www.dentalcremer.com.br/organizador-pequeno-nitronplast-129542.html"
+  },
+  {
+    "sku": "DC29961",
+    "name": "Maleta Fashion Bag 3 Bandejas - Pollymer",
+    "price": "R$81,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/maleta-fashion-bag-3-bandejas-pollymer-124976.jpg",
+    "url": "https://www.dentalcremer.com.br/maleta-fashion-bag-3-bandejas-pollymer-dc29961.html"
+  },
+  {
+    "sku": "125044",
+    "name": "Papel Sulfite A4 Chamex 300 Folhas - Chamex",
+    "price": "R$28,90",
+    "description": "Embalagem com 300 Folhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-sulfite-a4-chamex-300-folhas-chamex-125044-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-sulfite-a4-chamex-300-folhas-chamex-125044.html"
+  },
+  {
+    "sku": "120504",
+    "name": "Saco para Lixo Hospitalar Branco 15L 4,5Kg - Zibag",
+    "price": "R$18,90",
+    "description": "Embalagem com 100 unidades. 39x58cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-hospitalar-branco-15l-4-5kg-zibag-120504-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-branco-15l-4-5kg-zibag-120504.html"
+  },
+  {
+    "sku": "DC22285",
+    "name": "Dental Album Premium - Angie by Angelus",
+    "price": "R$62,90",
+    "description": "Embalagem com unidade 1. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/725582.jpg",
+    "url": "https://www.dentalcremer.com.br/dental-album-premium-angie-by-angelus-dc22285.html"
+  },
+  {
+    "sku": "115487",
+    "name": "Papel Toalha Interfolhado Folha Dupla - Kleenex®",
+    "price": "R$24,90",
+    "description": "Embalagem com 150 folhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115487_2.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-interfolhado-supreme-folha-dupla-kleenexr-115487.html"
+  },
+  {
+    "sku": "130906",
+    "name": "Papel Toalha Interfolha 2 Dobras Slim - Nobre",
+    "price": "R$25,90",
+    "description": "Embalagem com 1.000 unidades. (Slim 20x20,5cm)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-toalha-interfolha-slim-2-dobras-20-20cm-com-1000-folhas-130906-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-interfolha-2-dobras-slim-nobre-130906.html"
+  },
+  {
+    "sku": "904512",
+    "name": "Dispenser de Papel Toalha - Nobre",
+    "price": "R$37,90",
+    "description": "Embalagem com 1 unidade. Acompanha 4 parafusos, 4 buchas, 1 chave de segurança e 1 trava de segurança.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/904512.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-de-papel-toalha-nobre-904512.html"
+  },
+  {
+    "sku": "537574",
+    "name": "Cartão Horário - Preven",
+    "price": "R$8,99",
+    "description": "Embalagem com 100 folhas. 9,4x5,4cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cartao-horario-para-consultas-odontologicas-preven-537574.jpg",
+    "url": "https://www.dentalcremer.com.br/cart-o-horario-preven-537574.html"
+  },
+  {
+    "sku": "145327",
+    "name": "Papel Toalha Interfolhado Smart - Scott®",
+    "description": "Embalagem com 4 pacotes de 250 folhas cada (1.000 folhas no total).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-toalha-interfolhado-smart-scott-1000-folhas-115465.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-interfolhado-smart-scottr-145327.html"
+  },
+  {
+    "sku": "714623",
+    "name": "Medalha de Bom Comportamento - Dental Kids",
+    "price": "R$59,90",
+    "description": "Embalagem com 18 unidades sortidas + Cordão.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/714623.jpg",
+    "url": "https://www.dentalcremer.com.br/medalha-de-bom-comportamento-dental-kids-714623.html"
+  },
+  {
+    "sku": "115465",
+    "name": "Papel Toalha Interfolhado Smart - Scott®",
+    "price": "R$51,90",
+    "description": "Embalagem com 4 pacotes de 250 folhas cada (1.000 folhas no total).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-toalha-interfolhado-smart-scott-1000-folhas-115465.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-interfolhado-smart-scottr-115465.html"
+  },
+  {
+    "sku": "115473",
+    "name": "Lenço De Papel Folha Dupla - Kleenex®",
+    "price": "R$4,29",
+    "description": "Embalagem com 50 lenços.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lenco-de-papel-folha-dupla-kleenex-115473.jpg",
+    "url": "https://www.dentalcremer.com.br/lenco-de-papel-folha-dupla-kleenex-115473.html"
+  },
+  {
+    "sku": "120502",
+    "name": "Chaveiro Escova Dental - Agir",
+    "price": "R$45,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chaveiro-escova-dental-agir-120502-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/chaveiro-escova-dental-agir-120502.html"
+  },
+  {
+    "sku": "187076",
+    "name": "Prancheta Ofício Cristal - Dello",
+    "price": "R$24,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prancheta-cristal-dental-cremer-187076-01.jpg",
+    "url": "https://www.dentalcremer.com.br/prancheta-oficio-cristal-dello-187076.html"
+  },
+  {
+    "sku": "115548",
+    "name": "Dispenser para Papel Toalha Interfolhado MOD - Kimberly-Clark",
+    "price": "R$123,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115548.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-de-papel-toalha-interfolhado-mod-kimberly-clark-115548.html"
+  },
+  {
+    "sku": "115469",
+    "name": "Papel Toalha Interfolhado Folha Simples - Scott®",
+    "price": "R$11,90",
+    "description": "Embalagem com 250 folhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115469_2.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-interfolhado-scottr-115469.html"
+  },
+  {
+    "sku": "142898",
+    "name": "Lava Roupas Clinical - Omo",
+    "price": "R$95,90",
+    "description": "Embalagem com 4Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lava-roupas-clinical-omo-dental-cremer-142898.jpg",
+    "url": "https://www.dentalcremer.com.br/lava-roupas-clinical-omo-142898.html"
+  },
+  {
+    "sku": "117950",
+    "name": "Medalha Bom Comportamento - Turma da Ritinha",
+    "price": "R$54,90",
+    "description": "Embalagem com 18 unidades sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117950.jpg",
+    "url": "https://www.dentalcremer.com.br/medalha-bom-comportamento-turma-da-ritinha-117950.html"
+  },
+  {
+    "sku": "115467",
+    "name": "Papel Higiênico Folha Dupla Dermacare  - Neve®",
+    "price": "R$9,19",
+    "description": "Embalagem com 4 rolos de 30cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115467.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-dermacare-folha-dupla-rolo-never-115467.html"
+  },
+  {
+    "sku": "DC29322",
+    "name": "Porta Dentinho LysKids Azul - Lysanda",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-dentinho-lyskids-rosa-lysanda-119164-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-dentinho-lyskids-azul-lysanda-dc29322.html"
+  },
+  {
+    "sku": "115551",
+    "name": "Dispenser para Sabonete em Espuma MOD Manual 800ml - Kimberly-Clark",
+    "price": "R$224,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dispenser-para-sabonete-espuma-manual-800ml-kimberly-clark-dc-115551-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-para-sabonete-espuma-manual-800ml-kimberly-clark-115551.html"
+  },
+  {
+    "sku": "101319",
+    "name": "Álcool 92,8% Saneante - Prolink",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-prolink-96-1l-prolink-dc-101319-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-92-8-saneante-prolink-101319.html"
+  },
+  {
+    "sku": "115552",
+    "name": "Dispenser para Sabonete em Spray MOD Manual 400ml - Kimberly-Clark",
+    "price": "R$222,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115552.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-para-sabonete-em-spay-manual-400ml-kimberly-clark-115552.html"
+  },
+  {
+    "sku": "121967",
+    "name": "Sabonete Espuma Riomax Standard Refil 1L - Rioquímica",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabonete-espuma-riomax-standard-refil-1l-rioquimica-121967-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-espuma-riomax-standard-refil-1l-rioquimica-121967.html"
+  },
+  {
+    "sku": "115483",
+    "name": "Papel Higiênico Essential Folha Dupla Rolo - Scott®",
+    "price": "R$267,90",
+    "description": "Embalagem com 12 rolos de 250m cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115483.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-essential-folha-dupla-rolo-scottr-115483.html"
+  },
+  {
+    "sku": "115484",
+    "name": "Papel Higiênico Folha Simples Rolo Jumbo - Scott®",
+    "price": "R$260,90",
+    "description": "Embalagem com 12 rolos de 500m cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115484.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-folha-simples-rolo-jumbo-scottr-115484.html"
+  },
+  {
+    "sku": "115488",
+    "name": "Papel Toalha Folha Simples Rolo - Scott®",
+    "price": "R$455,90",
+    "description": "Embalagem com 12 rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115488.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-folha-simples-rolo-scottr-115488.html"
+  },
+  {
+    "sku": "115485",
+    "name": "Papel Higiênico Folha Dupla Rolo 250m - Neve®",
+    "price": "R$358,90",
+    "description": "Embalagem com 18 rolos de 250m cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115485.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-folha-dupla-rolo-never-115485.html"
+  },
+  {
+    "sku": "129246",
+    "name": "Organizador Nitronplast Mini - Nitronplast",
+    "price": "R$8,09",
+    "description": "Embalagem com 1 unidade (acompanha divisórias). Os itens no interior do produto são ilustrativos, não acompanham o produto.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/organizador-nitronplast-mini-nitronplast-129246-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/organizador-nitronplast-mini-nitronplast-129246.html"
+  },
+  {
+    "sku": "899641",
+    "name": "Papel Toalha Interfolha 2 Dobras Fit - Nobre",
+    "price": "R$35,90",
+    "description": "Embalagem com 1.000 unidades. 20x23cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/899641.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-interfolha-2-dobras-fit-nobre-899641.html"
+  },
+  {
+    "sku": "925449",
+    "name": "Estojo Organizador Tudo Top - Nitronplast",
+    "price": "R$48,90",
+    "description": "Embalagem com 1 unidade. 27 x 36 x 6 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/925449.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-organizador-tudo-top-nitronplast-925449.html"
+  },
+  {
+    "sku": "DC29321",
+    "name": "Álbum LysKids + Porta Dentinho - Lysanda",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 Álbum Dental + 1 Porta Dentinho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/album-lyskids-porta-dentinho-azul-lysanda-119162-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/album-lyskids-porta-dentinho-azul-lysanda-dc29321.html"
+  },
+  {
+    "sku": "709100",
+    "name": "Cartão de Aniversário - Angie by Angelus",
+    "price": "R$39,90",
+    "description": "Embalagem com 50 Unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/709100_635932862557627280.jpg",
+    "url": "https://www.dentalcremer.com.br/cart-o-de-aniversario-angie-by-angelus-709100.html"
+  },
+  {
+    "sku": "537598",
+    "name": "Ficha Clínica Dupla – Preven",
+    "price": "R$41,90",
+    "description": "Embalagem com 100 folhas. 21 x 14,9 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/537598.jpg",
+    "url": "https://www.dentalcremer.com.br/ficha-clinica-preven-537598.html"
+  },
+  {
+    "sku": "124973",
+    "name": "Maleta Premium 3 Bandejas Preta - Pollymer",
+    "price": "R$58,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/maleta-premium-3-bandejas-preta-pollymer-124973-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/maleta-premium-3-bandejas-preta-pollymer-124973.html"
+  },
+  {
+    "sku": "126232",
+    "name": "Papel Toalha Interfolha Nobre Confort 2 Dobras - Nobre",
+    "price": "R$42,90",
+    "description": "Embalagem com 1000 folhas. Tamanho: 20x23cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-toalha-interfolha-nobre-confort-2-dobras-nobre-126232-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-interfolha-nobre-confort-2-dobras-nobre-126232.html"
+  },
+  {
+    "sku": "DC16668",
+    "name": "Marcador de Retroprojetor 2.0 - Pilot",
+    "price": "R$6,89",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556278_635452673422498746.jpg",
+    "url": "https://www.dentalcremer.com.br/marcador-de-retroprojetor-2-0-pilot-dc16668.html"
+  },
+  {
+    "sku": "537567",
+    "name": "Bloco para Orçamento - Preven",
+    "price": "R$37,90",
+    "description": "Embalagem com 5 blocos com 50 folhas cada. 22 x 15,4 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/537567.jpg",
+    "url": "https://www.dentalcremer.com.br/bloco-para-orcamento-preven-537567.html"
+  },
+  {
+    "sku": "120506",
+    "name": "Saco para Lixo Hospitalar Branco 50L 15Kg - Zibag",
+    "price": "R$41,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-hospitalar-branco-50l-15kg-zibag-120506-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-branco-50l-15kg-zibag-120506.html"
+  },
+  {
+    "sku": "606089",
+    "name": "Papel Toalha - Sorella",
+    "price": "R$7,29",
+    "description": "Embalagem com 2 Rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606089_636016642151173060.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-sorella-606089.html"
+  },
+  {
+    "sku": "604733",
+    "name": "Almotolia Graduada - Jon",
+    "price": "R$13,90",
+    "description": "Frasco com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/almotolia-graduada-250ml-jon-dc-604733-01.jpg",
+    "url": "https://www.dentalcremer.com.br/almotolia-graduada-jon-604733.html"
+  },
+  {
+    "sku": "112973",
+    "name": "Pulverizador Plástico Transparente - Nobre",
+    "price": "R$8,49",
+    "description": "Frasco com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112973.jpg",
+    "url": "https://www.dentalcremer.com.br/pulverizador-plastico-transparente-nobre-112973.html"
+  },
+  {
+    "sku": "166293",
+    "name": "Balão Canudo - São Roque",
+    "price": "R$15,90",
+    "description": "Embalagem com 50 unidades Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/166293.jpg",
+    "url": "https://www.dentalcremer.com.br/bal-o-canudo-s-o-roque-166293.html"
+  },
+  {
+    "sku": "115500",
+    "name": "Papel Toalha Essential Folha Dupla Rolo - Scott®",
+    "price": "R$213,90",
+    "description": "Embalagem com 6 rolos de 160 metros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115500.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-essential-folha-dupla-rolo-scottr-115500.html"
+  },
+  {
+    "sku": "173703",
+    "name": "Quebra Cabeça 9 Peças - Turma da Ritinha",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/173703.jpg",
+    "url": "https://www.dentalcremer.com.br/quebra-cabeca-9-pecas-turma-da-ritinha-173703.html"
+  },
+  {
+    "sku": "173710",
+    "name": "Dómino - Turma da Ritinha",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/173710.jpg",
+    "url": "https://www.dentalcremer.com.br/domino-turma-da-ritinha-173710.html"
+  },
+  {
+    "sku": "103948",
+    "name": "Botton Conclusão de Tratamento - Dentfun Kids",
+    "price": "R$61,90",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/103948.jpg",
+    "url": "https://www.dentalcremer.com.br/botton-conclus-o-de-tratamento-dentfun-kids-103948.html"
+  },
+  {
+    "sku": "166316",
+    "name": "Balão 7 Liso Cores Sortidas Pic Pic - Riberball",
+    "price": "R$15,90",
+    "description": "Embalagem com 50 unidades Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/166316.jpg",
+    "url": "https://www.dentalcremer.com.br/bal-o-pic-pic-riberball-166316.html"
+  },
+  {
+    "sku": "615852",
+    "name": "Caneta Marcador de Retroprojetor 1.1 Azul - Faber Castell",
+    "price": "R$6,89",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/615852_635719421058401295.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-marcador-de-retroprojetor-1-1-faber-castell-615852.html"
+  },
+  {
+    "sku": "173727",
+    "name": "Jogo da Memória - Turma da Ritinha",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/173727.jpg",
+    "url": "https://www.dentalcremer.com.br/jogo-da-memoria-turma-da-ritinha-173727.html"
+  },
+  {
+    "sku": "129249",
+    "name": "Maleta para Medicamentos - Média - Nitronplast",
+    "price": "R$25,90",
+    "description": "Peça única sem embalagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/maleta-para-medicamentos-media-nitronplast-129249-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/maleta-para-medicamentos-media-nitronplast-129249.html"
+  },
+  {
+    "sku": "109930",
+    "name": "Luminária Dente 3D - Agir",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luminaria-3d-dente-agir-dc-109930-02.jpg",
+    "url": "https://www.dentalcremer.com.br/luminaria-dente-3d-agir-128151-5-lovers-109930.html"
+  },
+  {
+    "sku": "556483",
+    "name": "Lápis Sextavado Evolutions 2HB - Bic",
+    "price": "R$7,59",
+    "description": "Embalagem com 4 unidades. Sem borracha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556483_635452555888746747.jpg",
+    "url": "https://www.dentalcremer.com.br/lapis-sextavado-evolutions-2hb-bic-556483.html"
+  },
+  {
+    "sku": "116349",
+    "name": "Filtro de Água Cartridge - EMS",
+    "price": "R$699,90",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/filtro-de-agua-cartridge-ems-116349-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/filtro-de-agua-cartridge-ems-116349.html"
+  },
+  {
+    "sku": "DC29255",
+    "name": "Placa Decorativa - Agir",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-decorativa-agir-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-decorativa-agir-dc29255.html"
+  },
+  {
+    "sku": "119590",
+    "name": "Guardanapo Grand Hotel Coquetel Folha Dupla G - Scott",
+    "price": "R$9,90",
+    "description": "Embalagem com 50 folhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guardanapo-grand-hotel-coquetel-folha-dupla-g-scott-119590-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/guardanapo-grand-hotel-coquetel-folha-dupla-g-scott-119590.html"
+  },
+  {
+    "sku": "556292",
+    "name": "Marcador de Retroprojetor 1.0 - Pilot",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade. (Cor Preta)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556292_635452554868480587.jpg",
+    "url": "https://www.dentalcremer.com.br/marcador-de-retroprojetor-1-0-pilot-556292.html"
+  },
+  {
+    "sku": "606058",
+    "name": "Guardanapo Papel - Sorella",
+    "price": "R$3,99",
+    "description": "Embalagem com 50 unidades de 30x30,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606058_636016078944710705.jpg",
+    "url": "https://www.dentalcremer.com.br/guardanapo-papel-sorella-606058.html"
+  },
+  {
+    "sku": "805390",
+    "name": "Saco de Lixo Preto 20L - Azeplast",
+    "price": "R$10,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/805390_2.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-de-lixo-preto-20l-azeplast-805390.html"
+  },
+  {
+    "sku": "556582",
+    "name": "Caneta Esferográfica Cristal Fina - Bic",
+    "price": "R$9,69",
+    "description": "Embalagem com 3 unidades de cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556582_635460526929832129.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-esferografica-cristal-fina-bic-556582.html"
+  },
+  {
+    "sku": "606430",
+    "name": "Álcool Isopropílico - Rioquímica",
+    "price": "R$6,89",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-isopropilico-rioquimica-606430.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-isopropilico-rioquimica-606430.html"
+  },
+  {
+    "sku": "128010",
+    "name": "Maleta para Medicamentos Mega Luxo - Nitronplast",
+    "price": "R$88,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/maleta-medicamentos-mega-luxo-nitronplast-128010.jpg",
+    "url": "https://www.dentalcremer.com.br/maleta-para-medicamentos-mega-luxo-nitronplast-128010.html"
+  },
+  {
+    "sku": "904529",
+    "name": "Lixeira Coletora de Copos Dupla Papacopo - Nobre",
+    "price": "R$56,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/904529.jpg",
+    "url": "https://www.dentalcremer.com.br/lixeira-coletora-de-copos-dupla-papacopo-nobre-904529.html"
+  },
+  {
+    "sku": "700725",
+    "name": "Lixeira Coletora de Copos - Nobre",
+    "price": "R$37,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700725_635852596160738975.jpg",
+    "url": "https://www.dentalcremer.com.br/lixeira-coletora-de-copos-nobre-700725.html"
+  },
+  {
+    "sku": "129248",
+    "name": "Maleta para Medicamentos Grande com Bandeja - Nitronplast",
+    "price": "R$49,90",
+    "description": "Peça única sem embalagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/maleta-para-medicamentos-grande-com-bandeja-nitronplast-129248.jpg",
+    "url": "https://www.dentalcremer.com.br/maleta-para-medicamentos-grande-com-bandeja-nitronplast-129248.html"
+  },
+  {
+    "sku": "127057",
+    "name": "Dispenser para Protetor de Assento - Kimberly-Clark",
+    "price": "R$36,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-dispenser-protetor-assento-kimberly-clark-127057.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-para-protetor-de-assento-kimberly-clark-127057.html"
+  },
+  {
+    "sku": "122447",
+    "name": "Dispenser com Suporte para Parede - Bioclean",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dispenser-com-suporte-para-parede-bioclean-122447-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-com-suporte-para-parede-bioclean-122447.html"
+  },
+  {
+    "sku": "127060",
+    "name": "Dispenser para Higienizador de Assento Manual - Kimberly-Clark",
+    "price": "R$140,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dispenser-higienizador-assento-manual-kimberly-clark-127060.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-para-higienizador-de-assento-manual-kimberly-clark-127060.html"
+  },
+  {
+    "sku": "142647",
+    "name": "Dispenser Multicopo Branco - Nobre",
+    "price": "R$58,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dispenser-multicopo-branco-nobre-142647-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-multicopo-branco-nobre-142647.html"
+  },
+  {
+    "sku": "122448",
+    "name": "Placa de Sinalização para Banheiro com Acessibilidade - Biosin",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-de-sinalizacao-acessivel-biosin-122448-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-sinalizac-o-para-banheiro-com-acessibilidade-biosin-122448.html"
+  },
+  {
+    "sku": "122453",
+    "name": "Placa de Sinalização para Banheiro Familiar - Biosin",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-de-sinalizacao-familia-biosin-122453-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-sinalizac-o-para-banheiro-familiar-biosin-122453.html"
+  },
+  {
+    "sku": "122450",
+    "name": "Placa de Sinalização para Banheiro Masculino - Biosin",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-de-sinalizacao-masculino-biosin-122450-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-sinalizac-o-para-banheiro-masculino-biosin-122450.html"
+  },
+  {
+    "sku": "122449",
+    "name": "Placa de Sinalização para Banheiro Feminino - Biosin",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-de-sinalizacao-feminino-biosin-122449-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-sinalizac-o-para-banheiro-feminino-biosin-122449.html"
+  },
+  {
+    "sku": "122451",
+    "name": "Placa de Sinalização para Fraldário - Biosin",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-de-sinalizacao-trocador-biosin-122451-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-sinalizac-o-para-fraldario-biosin-122451.html"
+  },
+  {
+    "sku": "104627",
+    "name": "Necessaire Zip Zap - Oral-B",
+    "price": "R$92,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/necessaire-trans-zip-zap-24un-oral-b-104627-01.jpg",
+    "url": "https://www.dentalcremer.com.br/necessaire-trans-zip-zap-24un-oral-b-104627.html"
+  },
+  {
+    "sku": "606065",
+    "name": "Guardanapo Papel - Sorella",
+    "price": "R$2,19",
+    "description": "Embalagem com 50 unidades de 22 x 23 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606065_636027914592407596.jpg",
+    "url": "https://www.dentalcremer.com.br/guardanapo-papel-sorella-606065.html"
+  },
+  {
+    "sku": "805406",
+    "name": "Saco de Lixo Preto 60L - Azeplast",
+    "price": "R$27,90",
+    "description": "Embalagem com 100 unidades. 59cmx65cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/805406.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-de-lixo-preto-60l-azeplast-805406.html"
+  },
+  {
+    "sku": "101320",
+    "name": "Álcool Absoluto 99,3% Saneante - ProLink",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-absoluto-prolink-995-993-inpm-1l-prolink-dc-101320-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-absoluto-99-3-saneante-prolink-101320.html"
+  },
+  {
+    "sku": "115470",
+    "name": "Pano de Limpeza X70 - WypAll®",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 rolo contendo 88 panos. 42,1x27,6cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pano-de-limpeza-x70-wypallr-115470.jpg",
+    "url": "https://www.dentalcremer.com.br/pano-de-limpeza-x70-wypallr-115470.html"
+  },
+  {
+    "sku": "537581",
+    "name": "Ficha Clínica Simples - Preven",
+    "price": "R$19,90",
+    "description": "Embalagem com 100 folhas. 15 x 10,4 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/537581.jpg",
+    "url": "https://www.dentalcremer.com.br/ficha-clinica-simples-preven-537581.html"
+  },
+  {
+    "sku": "119591",
+    "name": "Guardanapo Folha Dupla - Scott",
+    "price": "R$8,90",
+    "description": "Embalagem com 200 folhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guardanapo-folha-dupla-scott-119591-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/guardanapo-folha-dupla-scott-119591.html"
+  },
+  {
+    "sku": "109928",
+    "name": "Saco de Lixo 60L - Nobre",
+    "price": "R$46,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109928.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-de-lixo-60l-nobre-109928.html"
+  },
+  {
+    "sku": "553314",
+    "name": "Saco de Lixo - Nobre",
+    "price": "R$24,90",
+    "description": "Embalagem com 100 unidades de 20 litros cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/553291_635449279507432180.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-de-lixo-nobre-553314.html"
+  },
+  {
+    "sku": "124974",
+    "name": "Maleta SOS 3 Bandejas Branca - Pollymer",
+    "price": "R$82,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/maleta-sos-3-bandejas-branca-pollymer-124974-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/maleta-sos-3-bandejas-branca-pollymer-124974.html"
+  },
+  {
+    "sku": "606614",
+    "name": "Álcool Etílico 99,3% Rialcool Absoluto - Rioquímica",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606614.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-etilico-99-3-rialcool-absoluto-rioquimica-606614.html"
+  },
+  {
+    "sku": "925432",
+    "name": "Pote Multiuso com Trava - Nitronplast",
+    "price": "R$17,90",
+    "description": "Unidade de 2,3 litros. 18x26x7,8cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/925432.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-multiuso-com-trava-nitronplast-925432.html"
+  },
+  {
+    "sku": "119588",
+    "name": "Guardanapo Grand Hotel Coquetel Folha Dupla P - Scott",
+    "price": "R$4,90",
+    "description": "Embalagem com 50 folhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guardanapo-grand-hotel-coquetel-folha-dupla-p-scott-119588-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/guardanapo-grand-hotel-coquetel-folha-dupla-p-scott-119588.html"
+  },
+  {
+    "sku": "142779",
+    "name": "Pano de Limpeza X60 Higiene Corporal - Wypall",
+    "price": "R$561,90",
+    "description": "Embalagem com 100 unidades. 28,4x34,4cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pano-de-limpeza-x60-higiene-corporal-wypall-dental-cremer-142779.jpg",
+    "url": "https://www.dentalcremer.com.br/pano-de-limpeza-x60-higiene-corporal-wypall-142779.html"
+  },
+  {
+    "sku": "142777",
+    "name": "Pano de Limpeza X60 Dobrado - Wypall",
+    "price": "R$543,90",
+    "description": "Embalagem com 50 unidades. 28,4x34,4cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pano-de-limpeza-x60-dobrado-wypall-dental-cremer-142777.jpg",
+    "url": "https://www.dentalcremer.com.br/pano-de-limpeza-x60-dobrado-wypall-142777.html"
+  },
+  {
+    "sku": "DC29298",
+    "name": "Aplique com Adesivo - Agir",
+    "description": "Embalagem com 10 unidades. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aplique-com-adesivo-frente-agir-dental-cremer-118996.jpg",
+    "url": "https://www.dentalcremer.com.br/aplique-com-adesivo-agir-dc29298.html"
+  },
+  {
+    "sku": "559811",
+    "name": "Papel Higiênico Duplo - Fofinho",
+    "price": "R$8,89",
+    "description": "Embalagem com 4 unidades de 30m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559811_635458736120036943.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-duplo-fofinho-559811.html"
+  },
+  {
+    "sku": "556667",
+    "name": "Estilete Profissional Com Trava - Tramontina",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556667_635452564860147738.jpg",
+    "url": "https://www.dentalcremer.com.br/estilete-profissional-com-trava-tramontina-556667.html"
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "sku": "118497",
+    "name": "Câmara Protetora Vision - Agir",
+    "price": "R$259,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/camara-protetora-vision-agir-118497-a.jpg",
+    "url": "https://www.dentalcremer.com.br/camara-protetora-vision-agir-118497.html"
+  },
+  {
+    "sku": "DC30084",
+    "name": "Ponteira Ponta Agulha Perfect Clean - Microdont",
+    "price": "R$157,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponteira-ponta-agulha-perfect-clean-verde-grossa-microdont-126207-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponteira-ponta-agulha-perfect-clean-microdont-dc30084.html"
+  },
+  {
+    "sku": "137404",
+    "name": "Sensor Digital Intraoral Eagle S T1 - Dabi Atlante",
+    "price": "R$12.210,90",
+    "description": "Embalagem com 1 sensor com cabo de 3mts + 1 caixa de transporte.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sensor-digital-intraoral-eagle-s-t1-dabi-atlante-137404.jpg",
+    "url": "https://www.dentalcremer.com.br/sensor-digital-intraoral-eagle-s-t1-dabi-atlante-137404.html"
+  },
+  {
+    "sku": "126203",
+    "name": "Agitador Sônico Endodôntico Perfect Clean + 75 Ponterias Ponta Agulha - Microdont",
+    "price": "R$2.999,90",
+    "description": "Embalagem com 1 unidade e 75 ponteiras Perfect Clean (25 brancas - finas, 25 vermelhas - médias e 25 verdes - grossas).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agitador-sonico-perfect-clean-e-75-ponteiras-microdont-126203.jpg",
+    "url": "https://www.dentalcremer.com.br/agitador-sonico-endodontico-perfect-clean-75-ponterias-ponta-agulha-microdont-126203.html"
+  },
+  {
+    "sku": "125434",
+    "name": "Termômetro Digital Infravermelho Testa sem Contato E127 - Bioland",
+    "price": "R$143,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/termometro-digital-infravermelho-testa-sem-contato-e127-125434.jpg",
+    "url": "https://www.dentalcremer.com.br/termometro-digital-infravermelho-testa-sem-contato-e127-bioland-125434.html"
+  },
+  {
+    "sku": "600568",
+    "name": "Microjato Gold Line - Essence Dental",
+    "price": "R$743,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microjato-gold-line-essence-dental-vh-600568.jpg",
+    "url": "https://www.dentalcremer.com.br/microjato-gold-line-essence-dental-vh.html"
+  },
+  {
+    "sku": "121658",
+    "name": "Central de Jateamento Trijato - Protécni",
+    "price": "R$2.926,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/central-de-jateamento-trijato-protecni-121658-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/central-de-jateamento-trijato-protecni-121658.html"
+  },
+  {
+    "sku": "107945",
+    "name": "Forno para Cerâmica Accure - EDG",
+    "price": "R$12.745,90",
+    "description": "Embalagem com 1 unidade. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forno-para-ceramica-accure-edg-107945.jpg",
+    "url": "https://www.dentalcremer.com.br/forno-para-ceramica-accure-%20edg-107945.html"
+  },
+  {
+    "sku": "739206",
+    "name": "Suporte para Fotoclareador Bright Max - MMO",
+    "price": "R$571,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/739206_636022750477560265.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-fotoclareador-bright-max-mmo-739206.html"
+  },
+  {
+    "sku": "724202",
+    "name": "Misturador de Alginato - Biotron",
+    "price": "R$598,90",
+    "description": "Unidade. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/724202.jpg",
+    "url": "https://www.dentalcremer.com.br/misturador-de-alginato-biotron.html"
+  },
+  {
+    "sku": "150403",
+    "name": "Aferidor Laser Check 2.0 - MMO",
+    "price": "R$1.529,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aferidor-laser-check-2-0-150403.jpg",
+    "url": "https://www.dentalcremer.com.br/aferidor-laser-check-2-0-mmo-150403.html"
+  },
+  {
+    "sku": "115024",
+    "name": "Fonte de Alimentação para Carregador Valo Cordless - Ultradent",
+    "price": "R$409,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115024.jpg",
+    "url": "https://www.dentalcremer.com.br/fonte-valo-cordless-charging-unit-power-supply-ultradent.html"
+  },
+  {
+    "sku": "DC30202",
+    "name": "Ponta para Gotejador Elétrico Waxlectric - Renfert",
+    "price": "R$400,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-para-gotejador-eletrico-waxletric-fino-n-1-127247.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-para-gotejador-eletrico-waxlectric-renfert-dc30202.html"
+  },
+  {
+    "sku": "125936",
+    "name": "Forno para Cerâmica Phoenix com Bomba de Vácuo - OdontoMega",
+    "price": "R$24.074,90",
+    "description": "Embalagem com 1 unidade. 220V.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forno-para-ceramica-phoenix-com-bomba-de-vacuo-200-v-odontomega-125936-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/forno-para-ceramica-phoenix-com-bomba-de-vacuo-220v-odontomega-125936.html"
+  },
+  {
+    "sku": "116349",
+    "name": "Filtro de Água Cartridge - EMS",
+    "price": "R$699,90",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/filtro-de-agua-cartridge-ems-116349-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/filtro-de-agua-cartridge-ems-116349.html"
+  },
+  {
+    "sku": "130177",
+    "name": "Misturador Mixstar Emotion - DMG",
+    "price": "R$8.554,90",
+    "description": "Unidade. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/misturador-mixstar-emotion-dmg-130177-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/misturador-mixstar-emotion-dmg-130177.html"
+  },
+  {
+    "sku": "101159",
+    "name": "Microscópio Focus-Z10 - Talmax",
+    "price": "R$4.587,90",
+    "description": "Unidade. 220V.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microscopio-odontologico-focus-z10-talmax-101159-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/microscopio-focus-z10-talmax.html"
+  },
+  {
+    "sku": "124961",
+    "name": "Head Spot II Mod ST - MMO",
+    "price": "R$3.394,90",
+    "description": "Embalagem com 1 Aparelho Head Spott II Mod ST + 1 Carregador de bateria.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/head-spot-ii-mod-st-mmo-124961-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/head-spot-ii-mod-st-mmo-124961.html"
+  },
+  {
+    "sku": "DC38870",
+    "name": "Secador de Instrumentos Kitdry Plus - Technolife",
+    "price": "R$2.014,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/secador-de-instrumentos-kitdry-plus-technolife.jpg",
+    "url": "https://www.dentalcremer.com.br/secador-de-instrumentos-kitdry-plus-technolife-dc38870.html"
+  },
+  {
+    "sku": "148660",
+    "name": "Carinho Cart para Scanner Intraoral - Agir",
+    "price": "R$5.780,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/carinho-cart-para-scanner-intraoral-agir.jpg",
+    "url": "https://www.dentalcremer.com.br/carinho-cart-para-scanner-intraoral-agir-148660.html"
+  },
+  {
+    "sku": "115000",
+    "name": "Fonte de Alimentação Valo com Fio - Ultradent",
+    "price": "R$409,90",
+    "description": "Unidade. Com adaptadores.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115000.jpg",
+    "url": "https://www.dentalcremer.com.br/fonte-valo-power-supply-w-plugs-ultradent.html"
+  },
+  {
+    "sku": "127260",
+    "name": "Ponta para Gotejador Elétrico Waxlectric Espátula Larga Nº 12 - Renfert",
+    "price": "R$828,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-gotejador-eletrico-waxletric-espatula-larga-n-12-127260.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-para-gotejador-eletrico-waxlectric-espatula-larga-n-12-renfert-127260.html"
+  },
+  {
+    "sku": "101160",
+    "name": "Lâmpada Para Microscópio Focus Z-10 - Talmax",
+    "price": "R$544,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lampada-para-microscopio-focus-z10-talmax-101160-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lampada-para-microscopio-focus-z-10-talmax.html"
+  },
+  {
+    "sku": "597509",
+    "name": "Perfurador para Pino Top Spin - Renfert",
+    "price": "R$10.684,90",
+    "description": "Embalagem com 1 unidade. 220V.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/perfurador-para-pino-top-spin-renfert-597509.jpg",
+    "url": "https://www.dentalcremer.com.br/perfurador-para-pino-top-spin-renfert.html"
+  },
+  {
+    "sku": "100145",
+    "name": "Ponta Ultrassônica PS Perio Slim DS-016A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-perio-ps-ds-016a-ems-100145.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-perio-ps-ds-016a-ems-100145.html"
+  },
+  {
+    "sku": "569711",
+    "name": "Ponta Ultrassônica Endo E3-S - Schuster",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-endo-e3-s-schuster-569711.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-endo-e3-s-schuster.html"
+  },
+  {
+    "sku": "100141",
+    "name": "Ponta Ultrassônica P DS-011A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100141.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-perio-p-ds-011a-ems-100141.html"
+  },
+  {
+    "sku": "DC22305",
+    "name": "Ponta Ultrassônica E2D Cônica Diamantada - Helse",
+    "description": "Embalagem com 1 unidade. Escolha o modelo. Compatibilidade disponível em Informações Adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-e2d-conica-diamantada-helse-dc22305.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-e2d-conica-diamantada-helse-dc22305.html"
+  },
+  {
+    "sku": "DC22313",
+    "name": "Ponta Ultrassônica E10 - Helse",
+    "description": "Embalagem com 1 unidade. Escolha o modelo. Compatibilidade disponível em Informações Adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-e10-helse-dc22313.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-e10-helse-dc22313.html"
+  },
+  {
+    "sku": "128096",
+    "name": "Ponta Ultrassônica Endodontia Insert 10P - Satelec",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-endodontia-insert-10p-satelec-128096-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-endodontia-insert-10p-satelec-128096.html"
+  },
+  {
+    "sku": "DC22307",
+    "name": "Ponta Ultrassônica E4D Cônica Diamantada - Helse",
+    "description": "Embalagem com 1 unidade. Escolha o modelo. Compatibilidade disponível em Informações Adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-e4d-conica-diamantada-helse-dc22307.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-e4d-conica-diamantada-helse-dc22307.html"
+  },
+  {
+    "sku": "100116",
+    "name": "Kit Ponta Ultrassônica P1 Para Implantes - EMS",
+    "description": "Kit com 4 pontas P1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100116.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-ponta-ultrassonica-p1-para-imoplantes-ems-100116.html"
+  },
+  {
+    "sku": "100132",
+    "name": "Ponta Ultrassônica A DS-001A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-perio-a-ds-001a-ems-100132.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-perio-a-ds-001a-ems-100132.html"
+  },
+  {
+    "sku": "705300",
+    "name": "Kit de Pontas Ultrassônicas - CVDentus",
+    "description": "Kit com 5 Pontas Ultrassônicas. Modelos T1,R2, T0S-E1, R1-E e C1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-de-pontas-ultrassonicas-cvdentus-c1-705300.jpg",
+    "url": "https://www.dentalcremer.com.br/pontas-ultrassonicas-cvdentus.html"
+  },
+  {
+    "sku": "100134",
+    "name": "Ponta Ultrassônica Endo H DS-004A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100134.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-endo-h-ds-004a-ems-100134.html"
+  },
+  {
+    "sku": "100133",
+    "name": "Ponta Ultrassônica Perio B DS-003A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-perio-b-ds-003a-ems-100133.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-perio-b-ds-003a-ems-100133.html"
+  },
+  {
+    "sku": "DC27072",
+    "name": "Ponta Ultrassônica Bone Serra Especial - W&H",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-bone-w-h-serra-especial-dc27072.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-bone-w-h-dc27072.html"
+  },
+  {
+    "sku": "128126",
+    "name": "Ponta Ultrassônica Endodontia Insert ET40 - Satelec",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-endodontia-insert-et40-satelec-128126-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-endodontia-insert-et40-satelec-128126.html"
+  },
+  {
+    "sku": "100177",
+    "name": "Ponta Ultrassônica RT3 DT-062 - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100177.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-rt3-dt-062-ems-100177.html"
+  },
+  {
+    "sku": "100160",
+    "name": "Ponta Ultrassônica Endo RT1 DS-066A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100160.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-endo-rt1-ds-066a-ems-100160.html"
+  },
+  {
+    "sku": "100147",
+    "name": "Ponta Ultrassônica Perio PL2 DS-031A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-perio-pl2-ds-031a-ems-dental-cremer-100147-01.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-perio-pl2-ds-031a-ems-100147.html"
+  },
+  {
+    "sku": "128127",
+    "name": "Ponta Ultrassônica Endodontia Insert ET20 - Satelec",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-endodontia-insert-et20-satelec-128127-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-endodontia-insert-et20-satelec-128127.html"
+  },
+  {
+    "sku": "DC27073",
+    "name": "Ponta Ultrassônica Sinus - W&H",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-sinus-w-h-modelo-s2-dc27073-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-sinus-w-h-dc27073.html"
+  },
+  {
+    "sku": "100159",
+    "name": "Ponta Ultrassônica Perio DPL3 DS-065A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100159.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-perio-dpl3-ds-065a-ems-100159.html"
+  },
+  {
+    "sku": "DC27071",
+    "name": "Ponta Ultrassônica Bone Afiada - W&H",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-bone-w-h-ponta-afiada-dc27071.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-bone-w-h-dc27071.html"
+  },
+  {
+    "sku": "DC27070",
+    "name": "Ponta Ultrassônica Bone com Engrenagem - W&H",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-bone-w-h-dc27070.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-bone-w-h-dc27070.html"
+  },
+  {
+    "sku": "100153",
+    "name": "Ponta Ultrassônica SD DS-052A - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-sd-ds-052a-lateral-ems-dental-cremer-100153.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-sd-ds-052a-ems-100153.html"
+  },
+  {
+    "sku": "128097",
+    "name": "Ponta Ultrassônica Endodontia Insert 10Z - Satelec",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-endodontia-insert-10z-satelec-128097-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-endodontia-insert-10z-satelec-128097.html"
+  },
+  {
+    "sku": "159646",
+    "name": "Ponta Ultrassônica Sinus S4 - W&H",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-sinus-modelo-s4-w-h-159646.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-sinus-w-h.html"
+  },
+  {
+    "sku": "139731",
+    "name": "Compressor de Ar DA1500 50VF 220V 50L - AirZap",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressor-de-ar-da1500-50vf-220v-airzap-139731.jpg",
+    "url": "https://www.dentalcremer.com.br/compressor-de-ar-da1500-50vf-220v-airzap-139731.html"
+  },
+  {
+    "sku": "971521",
+    "name": "Fotopolimerizador LED-6 - Kondentech",
+    "description": "Embalagem com 1 unidade Bivolt sem fio. Com Radiômetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fotopolimerizador-led-6-kondentech-971521.jpg",
+    "url": "https://www.dentalcremer.com.br/fotopolimerizador-led-6-kondentech.html"
+  },
+  {
+    "sku": "104590",
+    "name": "Ultrassom e Jato de Bicarbonato Profi Class Perio - Dabi Atlante",
+    "description": "Unidade. Bivolt. Acompanha 2 Pontas Ultrassônicas Perio Sub, 1 Ponta Ultrassônica Perio Supra e 2 Chaves de instalação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ultrassom-e-jato-de-bicarbonato-profi-class-dabi-atlante-104590.jpg",
+    "url": "https://www.dentalcremer.com.br/ultrassom-e-jato-de-bicarbonato-profi-class-perio-dabi-atlante.html"
+  },
+  {
+    "sku": "100671",
+    "name": "Air Flow Easy-Clean - EMS",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/air-flow-easy-clean-fv-083-ems-100671-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/air-flow-easy-clean-ems.html"
+  },
+  {
+    "sku": "100119",
+    "name": "Peça de Mão Para Ultrassom Piezon 150 e 250 - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-peca-de-mao-para-ultrassom-piezon-ems-100119.jpg",
+    "url": "https://www.dentalcremer.com.br/peca-de-mao-para-ultrassom-piezon-ems-100119.html"
+  },
+  {
+    "sku": "104556",
+    "name": "Fotopolimerizador Optilight Max - Dabi Atlante",
+    "description": "Embalagem com 1 unidade, acompanha peça de mão, condutor de luz, protetor ocular, base carregadora. Fonte de alimentação. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104556.jpg",
+    "url": "https://www.dentalcremer.com.br/fotopolimerizador-optilight-max-dabi-atlante.html"
+  },
+  {
+    "sku": "125210",
+    "name": "Caneta Ultrassônica Completa SW Surgery/SW Surgey II Led - Schuster",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-para-ultrassom-completa-sw-surgery-led-schuster-125210.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-ultrassonica-completa-sw-surgery-sw-surgey-ii-led-schuster-125210.html"
+  },
+  {
+    "sku": "139569",
+    "name": "Sonic Duo - Bivolt - Saevo",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sonic-duo-bivolt-dental-cremer-139569.jpg",
+    "url": "https://www.dentalcremer.com.br/sonic-duo-bivolt-saevo-139569.html"
+  },
+  {
+    "sku": "107901",
+    "name": "Jato de Bicarbonato e Ultrassom Jet Laxis Sonic BP II LED - Schuster",
+    "description": "Unidade + Pontas. Bivolt. Com bomba peristáltica. 02 Reservatórios.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107901.jpg",
+    "url": "https://www.dentalcremer.com.br/jato-de-bicarbonato-e-ultrassom-jet-laxis-sonic-bp-ii-led-schuster-107901.html"
+  },
+  {
+    "sku": "580013",
+    "name": "Ponteira/Lente Magnética Proxicure Ball Valo - Ultradent",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/370369_2.jpg",
+    "url": "https://www.dentalcremer.com.br/ponteira-lente-magnetica-proxicure-ball-valo-ultradent.html"
+  },
+  {
+    "sku": "104335",
+    "name": "Ultrassom + Jato de Bicarbonato Jet - D700",
+    "description": "Unidade + 3 Pontas Ultrassônicas. Bivolt (Chaveamento Manual).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104335.jpg",
+    "url": "https://www.dentalcremer.com.br/ultrassom-jato-de-bicarbonato-jet-d700.html"
+  },
+  {
+    "sku": "125209",
+    "name": "Chave Torquímetro SW Surgery/SW Surgey II LED - Schuster",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-torquimetro-sw-surgery-led-schuster-125209.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-torquimetro-sw-surgery-sw-surgey-ii-led-schuster-125209.html"
+  },
+  {
+    "sku": "120969",
+    "name": "Câmara de Pó AIRFLOW® Plus - EMS",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/camara-de-po-air-flow-plus-ems-120969-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/camara-de-po-air-flow-plus-ems-120969.html"
+  },
+  {
+    "sku": "125200",
+    "name": "Ponta Ultrassônica de Periodontia UP2 - Schuster",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pontra-ultrassonica-de-periodontia-up2-schuster-125200.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-de-periodontia-up2-schuster-125200.html"
+  },
+  {
+    "sku": "125187",
+    "name": "Ponta Ultrassônica de Cirurgia Óssea US2 - Schuster",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-de-cirurgia-ossea-us2-schuster-125187.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-de-cirurgia-ossea-us2-schuster-125187.html"
+  },
+  {
+    "sku": "125201",
+    "name": "Ponta Ultrassônica de Periodontia UP5 - Schuster",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-ultrassonica-periodontia-up5-schuster-125201.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-ultrassonica-de-periodontia-up5-schuster-125201.html"
+  },
+  {
+    "sku": "121123",
+    "name": "Bico Descartável Perio Flow Marked Nozzles - EMS",
+    "description": "Embalagem com 40 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bico-descartavel-perio-flow-marked-nozzles-sem-121123.jpg",
+    "url": "https://www.dentalcremer.com.br/bico-descartavel-perio-flow-marked-nozzles-ems-121123.html"
+  },
+  {
+    "sku": "947274",
+    "name": "Fotopolimerizador Super Dual Led - Gnatus",
+    "description": "Embalagem com 1 unidade. Bivolt. Sem Fio.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fotopolimerizador-super-dual-led-gnatus-947274.jpg",
+    "url": "https://www.dentalcremer.com.br/fotopolimerizador-super-dual-led-gnatus.html"
+  },
+  {
+    "sku": "594911",
+    "name": "Régua Fox com Arco - Bio-Art",
+    "description": "Embalagem com 1 unidade. Fabricado em polímero.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/regua-fox-com-arco-bio-art-594911.jpg",
+    "url": "https://www.dentalcremer.com.br/regua-fox-com-arco-bio-art-594911.html"
+  },
+  {
+    "sku": "563245",
+    "name": "Protetor Ocular Gota - Indusbello",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/563245_635482074026112286.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-ocular-gota-indusbello.html"
+  },
+  {
+    "sku": "580037",
+    "name": "Ponteira/Lente Magnética Valo Endoguide - Ultradent",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/580037_2.jpg",
+    "url": "https://www.dentalcremer.com.br/ponteira-lente-magnetica-valo-endoguide-ultradent.html"
+  },
+  {
+    "sku": "712384",
+    "name": "Raio X Timex 70E Parede - Gnatus",
+    "description": "Unidade. 220V.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/raiox-timex-70e-parede-gnatus-712384.jpg",
+    "url": "https://www.dentalcremer.com.br/raio-x-timex-70e-parede-220v-gnatus.html"
+  },
+  {
+    "sku": "DC39209",
+    "name": "Compressor de Ar Odontológico 40 38L - Dentemed",
+    "description": "Embalagem com 1 unidade de 38 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressor-de-ar-odontologico-40-38l-dc39209.jpg",
+    "url": "https://www.dentalcremer.com.br/compressor-de-ar-odontologico-40-38l-dentemed-dc39209.html"
+  },
+  {
+    "sku": "DC38199",
+    "name": "Compressor de Ar S60 GIII 51L - Schuster",
+    "description": "Embalagem com 1 unidade. Escolha a voltagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressor-de-ar-para-consultorios-s60-giii-schuster-dc25639.jpg",
+    "url": "https://www.dentalcremer.com.br/compressor-de-ar-s60-giii-schuster-dc38199.html"
+  },
+  {
+    "sku": "139739",
+    "name": "Compressor de Ar DA4000 150VF 220V 150L - AirZap",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressor-de-ar-da4000-150vf-220v-airzap-139739.jpg",
+    "url": "https://www.dentalcremer.com.br/compressor-de-ar-da4000-150vf-220v-airzap-139739.html"
+  },
+  {
+    "sku": "104302",
+    "name": "Autoclave Bioclave 21L - D700",
+    "description": "Embalagem com 1 unidade. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/autoclave-bioclave-21l-d700-104302-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/autoclave-bioclave-21l-d700-104302.html"
+  },
+  {
+    "sku": "104550",
+    "name": "Autoclave Bioclave 12L - Dabi Atlante",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/produto-autoclave-bioclave-12l-dabi-atlante-104550.jpg",
+    "url": "https://www.dentalcremer.com.br/autoclave-bioclave-12l-dabi-atlante-104550.html"
+  },
+  {
+    "sku": "DC38026",
+    "name": "Autoclave Elite 12L - Bio-Art",
+    "description": "Embalagem com 1 Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/163629.jpg",
+    "url": "https://www.dentalcremer.com.br/autoclave-elite-12l-bio-art-dc38026.html"
+  },
+  {
+    "sku": "DC25326",
+    "name": "Autoclave Elite 12L - Bio-Art",
+    "description": "Embalagem com 1 unidade. Escolha a voltagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/autoclave-elite-12l-bio-art-dc25326.jpg",
+    "url": "https://www.dentalcremer.com.br/autoclave-elite-12l-bio-art-dc25326.html"
+  },
+  {
+    "sku": "DC27147",
+    "name": "Autoclave Linea Classe B22 - Schuster",
+    "description": "Embalagem com 1 unidade de 22 litros. Escolha a voltagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/autoclave-linea-b-22l-schuster-dc27147.jpg",
+    "url": "https://www.dentalcremer.com.br/autoclave-linea-b-22l-schuster-dc27147.html"
+  },
+  {
+    "sku": "DC22287",
+    "name": "Autoclave Elite 17L - Bio-Art",
+    "description": "Embalagem com 1 autoclave, 2 bandejas (uma grande e uma pequena), 1 suporte para bandeja, 01 suporte de envelope, 1 copo dosador, 1 filtro interno de saída de vapor, 1 mangueira para drenagem e 1 manual de instruções. Escolha a voltagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/728354.jpg",
+    "url": "https://www.dentalcremer.com.br/autoclave-elite-17l-bio-art-dc22287.html"
+  },
+  {
+    "sku": "124984",
+    "name": "Kit Wi-Fi Remoto para Autoclave - W&H",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-wi-fi-remoto-para-autoclave-weh-124984.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-wi-fi-remoto-para-autoclave-w-h-124984.html"
+  },
+  {
+    "sku": "104552",
+    "name": "Bomba de Vácuo Ciclone - Dabi Atlante",
+    "description": "Unidade. Para 4 Consultórios. Bivolt. Obs: Não acompanha capa Anti Ruido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104552.jpg",
+    "url": "https://www.dentalcremer.com.br/bomba-de-vacuo-ciclone-dabi-atlante-104552.html"
+  },
+  {
+    "sku": "561623",
+    "name": "Estetoscópio Duplo - Solidor",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/561623_635501013282691470.jpg",
+    "url": "https://www.dentalcremer.com.br/estetoscopio-duplo-solidor.html"
+  },
+  {
+    "sku": "132127",
+    "name": "Raio-X X-Mind Prime 2D Panorâmico Parede Bivolt - Acteon",
+    "description": "Embalagem com 1 Sensor Pan, 1 Pan Wall 2D, 1 Placa de Suporte (P/N 6195170100), 1 Ferramenta de Centralidade (P/N 6195170200), 1 Fantasma de Qualidade (P/N 61951700000), 1 Apoio Mandíbula Única, 1 Kit Mordedor Dentes Maxilares, 1 Apoio TMJ, 1 Apoio TMU, 1 Par Bloqueio Têmpora, 1 Pen Drive Sistema AIS/Licensa e 1 Manual de Instalação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/raio-x-prime-2d-panoramico-parede-bivolt-acteon-132127-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/raio-x-prime-2d-panoramico-parede-bivolt-acteon-132127.html"
+  },
+  {
+    "sku": "375589",
+    "name": "Bomba de Vácuo Suctron Pratic - Schuster",
+    "description": "Unidade para 1 consultório. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bomba-vacuo-suctron-pratic-schuster-375589-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/bomba-de-vacuo-suctron-pratic-schuster.html"
+  },
+  {
+    "sku": "121314",
+    "name": "Motor Endodôntico com Contra Ângulo e Localizador Apical E-Connect S - MK Life",
+    "description": "Embalagem com 1 contra ângulo + 1 endomotor + 1 cabo localizador + 1 base e 1 fonte de energia. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/motor-endodontico-com-contra-angulo-e-localizador-apical-e-connect-s-mk-life-121314-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/motor-endodontico-com-contra-angulo-e-localizador-apical-e-connect-s-mk-life-121314.html"
+  },
+  {
+    "sku": "DC29962",
+    "name": "Seladora Seal - W&H",
+    "description": "Embalagem com 1 unidade. Escolha a voltagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seladora-termica-seal-2-110v-124983.jpg",
+    "url": "https://www.dentalcremer.com.br/seladora-seal-w-h-dc29962.html"
+  },
+  {
+    "sku": "101754",
+    "name": "Motor Cirúrgico Para Implante 600 Baby Brushless Led - Driller",
+    "description": "Unidade. Bivolt. Contra Ângulo 20:1 55Nm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101754.jpg",
+    "url": "https://www.dentalcremer.com.br/motor-cirurgico-para-implante-600-baby-brushless-led-driller.html"
+  },
+  {
+    "sku": "125071",
+    "name": "Motor de Implante e Cirúrgico Implantmed Plus SI-1023 220V - W&H",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/motor-cirurgico-implantmed-si-1023-110v-125071.jpg",
+    "url": "https://www.dentalcremer.com.br/motor-cirurgico-implantmed-si-1023-cabo-pedal-sem-luz-220v-w-h-125071.html"
+  },
+  {
+    "sku": "647525",
+    "name": "Motor Cirúrgico Implante/Endo Master - Driller",
+    "description": "Embalagem com 1 caixa de comando, 1 cabo, 1 pedal inteligente, 1 micromotor honda, 1 suporte de silicone, 1 kit de irrigação, 1 haste e 1 maleta tipo exportação driller.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/647525_636032465117730156.jpg",
+    "url": "https://www.dentalcremer.com.br/motor-cirurgico-implante-endo-master-driller.html"
+  },
+  {
+    "sku": "DC38025",
+    "name": "Seladora Smart - Bio-Art",
+    "description": "Embalagem com 1 Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/163599.jpg",
+    "url": "https://www.dentalcremer.com.br/seladora-smart-bio-art-dc38025.html"
+  },
+  {
+    "sku": "125069",
+    "name": "Motor de Implante e Cirúrgico Implantmed Plus SI-1015 110V - W&H",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/motor-cirurgico-implantmed-si-1015-110v-125069.jpg",
+    "url": "https://www.dentalcremer.com.br/motor-cirurgico-implantmed-si-1015-cabo-pedal-sem-luz-110v-w-h-125069.html"
+  },
+  {
+    "sku": "947281",
+    "name": "Motor de Implante Avanti - Gnatus",
+    "description": "Unidade. Não acompanha contra-ângulo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/947281.jpg",
+    "url": "https://www.dentalcremer.com.br/motor-de-implante-avanti-gnatus.html"
+  },
+  {
+    "sku": "104553",
+    "name": "Bomba de Vácuo Ciclone - Dabi Atlante",
+    "description": "Unidade. Para 2 Consultórios. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104553.jpg",
+    "url": "https://www.dentalcremer.com.br/bomba-de-vacuo-ciclone-dabi-atlante.html"
+  },
+  {
+    "sku": "125070",
+    "name": "Motor de Implante e Cirúrgico Implantmed Plus SI-1015 110V - W&H",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/motor-cirurgico-implantmed-si-1023-pedal-azul-c-luz-220v-w-h-125072-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/motor-cirurgico-implantmed-si-1015-pedal-sem-fio-com-luz-100v-w-h-125070.html"
+  },
+  {
+    "sku": "DC25537",
+    "name": "Selador Sela-Tech - Kondentech",
+    "description": "Unidade. 25cm. Escolha a Voltagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101044.jpg",
+    "url": "https://www.dentalcremer.com.br/selador-sela-tech-kondentech-dc25537.html"
+  }
+]

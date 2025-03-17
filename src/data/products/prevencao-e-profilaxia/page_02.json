@@ -1,0 +1,669 @@
+[
+  {
+    "sku": "689228",
+    "name": "Pedra Pomes - Villevie",
+    "price": "R$9,90",
+    "description": "Embalagem com 100 g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/689228_635830036036318543.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-villevie.html"
+  },
+  {
+    "sku": "144400",
+    "name": "Cimento Endodôntico Endo Sealer Plus 15g - Maquira",
+    "price": "R$348,90",
+    "description": "Embalagem com 1 seringa corpo duplo com 15g e 20 ponteiras aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/selante-endosealer-premium-plus-maquira-144400-01.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-endosealer-premium-plus-maquira-144400.html"
+  },
+  {
+    "sku": "376739",
+    "name": "Selante de Superfície Bioforty - Biodinâmica",
+    "price": "R$113,90",
+    "description": "Embalagem com 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/376739.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-de-superficie-bioforty-biodinamica.html"
+  },
+  {
+    "sku": "367805",
+    "name": "Selante Ionomérico 3M™ Clinpro™ XT Varnish - Solventum",
+    "price": "R$910,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/367805.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-ionomerico-clinprotm-xt-varnish-3m-solventum-367805.html"
+  },
+  {
+    "sku": "753332",
+    "name": "Selante Riva Coat - SDI",
+    "price": "R$151,90",
+    "description": "Embalagem com 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/selante-riva-coat-sdi-753332-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-riva-coat-sdi.html"
+  },
+  {
+    "sku": "546392",
+    "name": "Selante Bioseal Foto - Biodinâmica",
+    "price": "R$73,90",
+    "description": "Embalagem com 2 Seringas, 2,5g cada + 1 Ácido attaque gel de 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/546392.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-bioseal-foto-biodinamica.html"
+  },
+  {
+    "sku": "145426",
+    "name": "Kit Selante Selaf - AF do Brasil",
+    "price": "R$99,90",
+    "description": "Kit com 5 seringas de 3g cada (Selante), 1 seringa de 3g (Ácido) e 20 pontas aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-selante-selaf-aaf-145426.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-selante-selaf-af-do-brasil-145426.html"
+  },
+  {
+    "sku": "738056",
+    "name": "Selante Super Seal - Superdont",
+    "price": "R$59,90",
+    "description": "Embalagem com 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/selante-super-seal-superdont-738056.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-super-seal-superdont.html"
+  },
+  {
+    "sku": "DC25932",
+    "name": "Pasta Profilática - SS White",
+    "price": "R$11,90",
+    "description": "Embalagem com 90g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-profilatica-ss-white-dc25932-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-profilatica-ss-white-dc25932.html"
+  },
+  {
+    "sku": "143339",
+    "name": "Pasta Profilática Past-X 23G – Iodontosul",
+    "price": "R$25,90",
+    "description": "Embalagem com 23g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-profilatica-past--x-23g-iodontosul-dental-cremer-143339.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-profilatica-past-x-23g-iodontosul-143339.html"
+  },
+  {
+    "sku": "122124",
+    "name": "Pasta Profilática Shine - Maquira",
+    "description": "Embalagem com 90g. Sabor Tutti-Frutti.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-profilatica-shine-maquira-122124-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-profilatica-shine-maquira-122124.html"
+  },
+  {
+    "sku": "126337",
+    "name": "Pedra Pomes - Quimidrol",
+    "price": "R$5,39",
+    "description": "Embalagem com 1 pote de 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-pomes-quimidrol-126337-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-quimidrol-126337.html"
+  },
+  {
+    "sku": "774030",
+    "name": "Evidenciador de Placa Eviplac - Biodinâmica",
+    "price": "R$21,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-de-placa-eviplac-biodinamica-774030-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-eviplac-biodinamica-774030.html"
+  },
+  {
+    "sku": "114591",
+    "name": "Verniz Enamelast Fluoride Varnish - Ultradent",
+    "price": "R$129,90",
+    "description": "Embalagem com 2 Seringas de 1,2ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114591.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-enamelast-fluoride-varnish-ultradent.html"
+  },
+  {
+    "sku": "138045",
+    "name": "Evidenciador de Cárie Rev Cárie - Iodontosul",
+    "price": "R$9,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-de-placa-rev-carie-10ml-iodontosul-dental-cremer-138045-1.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-rev-carie-10ml-iodontosul-138045.html"
+  },
+  {
+    "sku": "DC26523",
+    "name": "Pedra Pomes - Yamay",
+    "price": "R$8,09",
+    "description": "Embalagem com 1 kg. Escolha a granulação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-pomes-yamay-dc26523.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-yamay-dc26523.html"
+  },
+  {
+    "sku": "143267",
+    "name": "Pedra Pomes 100G - Iodontosul",
+    "price": "R$6,89",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-pomes-100g-iodontosul-143267.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-100g-iodontosul-143267.html"
+  },
+  {
+    "sku": "774023",
+    "name": "Evidenciador de Placa Eviplac - Biodinâmica",
+    "price": "R$48,90",
+    "description": "Blister com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-placa-eviplac-blister120pastilhas-biodinamica-dc-774023-02.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-eviplac-biodinamica-774023.html"
+  },
+  {
+    "sku": "651843",
+    "name": "Evidenciador de Placa Eviform Solução - Fórmula & Ação",
+    "price": "R$122,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/651843_635844944707251440.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-eviform-solucao-formula-e-acao-651843.html"
+  },
+  {
+    "sku": "214703",
+    "name": "Evidenciador de Placa Eviplac - Biodinâmica",
+    "price": "R$41,90",
+    "description": "Embalagem com 120 pastilhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/214703.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-eviplac-biodinamica-2.html"
+  },
+  {
+    "sku": "138043",
+    "name": "Evidenciador de Placa Replasul S 500ml - Iodontosul",
+    "price": "R$47,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-de-placa-replasul-s-500ml-iodontosul-dental-cremer-138043.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-replasul-s-500ml-iodontosul-138043.html"
+  },
+  {
+    "sku": "DC39268",
+    "name": "Verniz de Flúor 3M Clinpro Clear Tratamento de Flúor - Solventum",
+    "price": "R$793,50",
+    "description": "Embalagem com 50 unidades de 0,5ml. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/capa-verniz-fluor-3m-clinpro-clear-solventum.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-de-fluor-3m-clinpro-clear-tratamento-de-fluor-solventum-dc39268.html"
+  },
+  {
+    "sku": "239096",
+    "name": "Verniz Forrador de Cavidades Cavitine - SS White",
+    "price": "R$33,90",
+    "description": "Embalagem com 15ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/verniz-cavitine-ss-white-dc-239096-01.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-forrador-de-cavidades-cavitine-ss-white.html"
+  },
+  {
+    "sku": "DC29461",
+    "name": "Flúor Gel Lysfluor - Lysanda",
+    "price": "R$8,39",
+    "description": "Embalagem com 200ml. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluor-gel-acidulado-lysfluor-lysanda-dental-cremer-120061.jpg",
+    "url": "https://www.dentalcremer.com.br/fluor-gel-lysfluor-lysanda-dc29461.html"
+  },
+  {
+    "sku": "DC21801",
+    "name": "Moldeira Descartável Dupla para Flúor - AF do Brasil",
+    "price": "R$30,90",
+    "description": "Embalagem com 24 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/modelo-moldeira-descartavel-dupla-para-fluor-aaf-DC21801.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-descartavel-dupla-para-fluor-af-do-brasil-dc21801.html"
+  },
+  {
+    "sku": "625622",
+    "name": "Verniz de Flúor 3M™ Clinpro™ White Varnish - Solventum",
+    "price": "R$381,90",
+    "description": "Embalagem com 20 unidades de 0,5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/verniz-clinpro-white-varnish-3m-dc-625622-01.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-de-fluor-clinprotm-white-varnish-3m-solventum-625622.html"
+  },
+  {
+    "sku": "219647",
+    "name": "Pedra Pomes Extra Fina - SS White",
+    "price": "R$14,90",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-pomes-ss-white-dc-219647-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-extra-fina-ss-white.html"
+  },
+  {
+    "sku": "774061",
+    "name": "Verniz Cavitário Varnal - Biodinâmica",
+    "price": "R$25,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/774061.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-cavitario-varnal-biodinamica.html"
+  },
+  {
+    "sku": "145422",
+    "name": "Verniz Cavitário CavitAAF 15ml - AF do Brasil",
+    "price": "R$14,90",
+    "description": "Embalagem com 15ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/verniz-cavitario-cavitaaf-15ml-aaf-145422.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-cavitario-cavitaf-do-brasil-15ml-af-do-brasil-145422.html"
+  },
+  {
+    "sku": "DC12649",
+    "name": "Protetor Labial - Fórmula & Ação",
+    "price": "R$51,90",
+    "description": "Embalagem com 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-labial-formula-e-acao-DC12649-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-labial-formula-e-ac-o-dc12649.html"
+  },
+  {
+    "sku": "382846",
+    "name": "Pedra Pomes Extra Fina - Biodinâmica",
+    "price": "R$22,90",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/382846.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-extra-fina-biodinamica.html"
+  },
+  {
+    "sku": "DC24143",
+    "name": "Taça de Borracha CA - American Burrs",
+    "price": "R$9,19",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/taca-borracha-ca-american-burrs-dental-cremer-dc24143.jpg",
+    "url": "https://www.dentalcremer.com.br/taca-de-borracha-american-burrs-dc24143.html"
+  },
+  {
+    "sku": "702781",
+    "name": "Pedra Pomes - Lysanda",
+    "price": "R$14,90",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/702781.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-lysanda.html"
+  },
+  {
+    "sku": "100635",
+    "name": "Pedra Pomes - Polidental",
+    "price": "R$12,90",
+    "description": "Embalagem com 1kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100635.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-polidental.html"
+  },
+  {
+    "sku": "143268",
+    "name": "Pedra Pomes 1Kg - Iodontosul",
+    "price": "R$17,90",
+    "description": "Embalagem com 1Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-pomes-1kg-iodontosul-143268.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-1kg-iodontosul-143268.html"
+  },
+  {
+    "sku": "537543",
+    "name": "Taça de Borracha CA - Preven",
+    "price": "R$2,59",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/537543.jpg",
+    "url": "https://www.dentalcremer.com.br/taca-de-borracha-ca-preven.html"
+  },
+  {
+    "sku": "904352",
+    "name": "Pedra Pomes - Kota Knebel",
+    "price": "R$9,90",
+    "description": "Embalagem com 1kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/904352.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-pomes-kota-knebel.html"
+  },
+  {
+    "sku": "DC38662",
+    "name": "Moldeira de Cera com Espuma para Flúor Sortida - Lysanda",
+    "price": "R$74,90",
+    "description": "Embalagem contendo 50 Espumas de Cera",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/moldeira-de-cera-com-espuma-para-fluor-p-amarela-lysanda-145264.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-de-cera-com-espuma-para-fluor-sortida-lysanda-dc38662.html"
+  },
+  {
+    "sku": "DC25938",
+    "name": "Moldeira Dupla para Flúor Descartável - Biodinâmica",
+    "price": "R$97,90",
+    "description": "Embalagem com 50 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108049.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-dupla-para-fluor-descartavel-biodinamica-dc25938.html"
+  },
+  {
+    "sku": "126264",
+    "name": "Moldeira Dupla para Flúor Mista - Preven",
+    "price": "R$96,90",
+    "description": "Embalagem com 100 unidades de tamanhos sortidos (P,M e G - sem opção de escolha).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/moldeira-dupla-para-fluor-mista-preven-126264.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-dupla-para-fluor-mista-preven.html"
+  },
+  {
+    "sku": "DC38661",
+    "name": "Moldeira de Cera com Espuma para Flúor - Lysanda",
+    "price": "R$129,90",
+    "description": "Embalagem contendo 100 Espumas de Cera",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/moldeira-de-cera-com-espuma-para-fluor-p-amarela-lysanda-145261.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-de-cera-com-espuma-para-fluor-p-amarela-lysanda-dc38661.html"
+  },
+  {
+    "sku": "DC38675",
+    "name": "Moldeira Dupla para Flúor - AF do Brasil",
+    "price": "R$57,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/moldeira-dupla-para-fluor-aaf-dc38676.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-dupla-para-fluor-af-do-brasil-dc38675.html"
+  },
+  {
+    "sku": "DC38676",
+    "name": "Moldeira Dupla para Flúor - AF do Brasil",
+    "price": "R$112,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/moldeira-dupla-para-fluor-aaf-dc38676.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-dupla-para-fluor-af-do-brasil-dc38676.html"
+  },
+  {
+    "sku": "123203",
+    "name": "Hidratante Labial Potenza Idrata - PHS",
+    "price": "R$58,90",
+    "description": "Bisnaga com 15g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/hidratante-labial-potenza-idrata-phs-123203-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/hidratante-labial-potenza-idrata-phs.html"
+  },
+  {
+    "sku": "143840",
+    "name": "Taça de Borracha para Profilaxia Ca -  AF do Brasil",
+    "price": "R$158,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/taca-de-borracha-para-profilaxia-ca-143840.jpg",
+    "url": "https://www.dentalcremer.com.br/taca-de-borracha-para-profilaxia-ca-af-do-brasil-143840.html"
+  },
+  {
+    "sku": "376890",
+    "name": "Evidenciador de Cárie Evicárie - Biodinâmica",
+    "price": "R$52,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/376890.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-carie-evicarie-biodinamica.html"
+  },
+  {
+    "sku": "703061",
+    "name": "Evidenciador de Cárie Revelacárie - Asfer",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade de 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-carie-revelacarie-solucao-10ml-dental-cremer-703061-01.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-carie-revelacarie-asfer.html"
+  },
+  {
+    "sku": "511413",
+    "name": "Branco de Espanha - Asfer",
+    "price": "R$12,90",
+    "description": "Embalagem com 200g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/branco-de-espanha-200g-asfer-dc-511413-01.jpg",
+    "url": "https://www.dentalcremer.com.br/branco-de-espanha-asfer.html"
+  },
+  {
+    "sku": "578751",
+    "name": "Saliva Artificial Saliform Spray - Fórmula & Ação",
+    "price": "R$53,90",
+    "description": "Embalagem com 40ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saliva-artificial-saliform-spray-40ml-dental-cremer-578751-01.jpg",
+    "url": "https://www.dentalcremer.com.br/saliva-artificial-saliform-spray-formula-e-ac-o.html"
+  },
+  {
+    "sku": "125081",
+    "name": "Escova para Profilaxia e Polimento LatchShort - W&H",
+    "price": "R$838,90",
+    "description": "Embalagem com 144 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-profilaxia-e-polimento-latchshort-125081.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-para-profilaxia-e-polimento-latchshort-w-h-125081.html"
+  },
+  {
+    "sku": "560800",
+    "name": "Branco de Espanha - Asfer",
+    "price": "R$23,90",
+    "description": "Embalagem com 1kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/560800_635466498616715385.jpg",
+    "url": "https://www.dentalcremer.com.br/branco-de-espanha-asfer-1.html"
+  },
+  {
+    "sku": "116348",
+    "name": "Filtro de Ar Cartridge - EMS",
+    "price": "R$399,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/filtro-de-ar-cartridge-ems-116348-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/filtro-de-ar-cartridge-ems-116348.html"
+  },
+  {
+    "sku": "145054",
+    "name": "Kit Profilaxia - Maquira",
+    "description": "Kit com: 1 Escova Robinson Reta CA – Allprime; 40 Sugador Descartável Transparente; 200ml Flúor em Gel – Maquira; 90g Pasta Profilática Shine – Maquira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-profilaxia-ciosp-maquira-145054.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-profilaxia-ciosp-maquira-145054.html"
+  },
+  {
+    "sku": "DC12598",
+    "name": "Flúor em Espuma Flúor Care - FGM",
+    "description": "Embalagem com 100g. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluor-em-espuma-fluor-care-fgm-dc12598.jpg",
+    "url": "https://www.dentalcremer.com.br/fluor-em-espuma-fluor-care-fgm-dc12598.html"
+  },
+  {
+    "sku": "DC12570",
+    "name": "Escova Robinson Reta CA - Microdont",
+    "description": "Embalagem com 1 unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-robinson-reta-ca-microdont-332575-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-robinson-reta-ca-microdont-dc12570.html"
+  },
+  {
+    "sku": "133881",
+    "name": "Kit Pó Air-Flow Powder Plus - EMS",
+    "description": "Kit com 4 unidades 400g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-po-air-flow-pwder-plus-400g-ems-133881-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-po-air-flow-powder-plus-ems-133881.html"
+  },
+  {
+    "sku": "DC39124",
+    "name": "Escova de Robinson Reta CA - Microdont",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc39124branco.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-robinson-reta-ca-microdont-dc39124.html"
+  },
+  {
+    "sku": "DC29542",
+    "name": "Pasta Profilática ProphyCare - Allplan",
+    "description": "Embalagem com 1 bisnaga de 90g. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-profilatica-prophycare-allplan-dc29542-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-profilatica-prophycare-allplan-dc29542.html"
+  },
+  {
+    "sku": "382471",
+    "name": "Bicarbonato de Sódio - Biodonâmica",
+    "description": "Embalagem com 200g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bicarbonato-de-sodio-200g-biodinamica-dc-382471-01.jpg",
+    "url": "https://www.dentalcremer.com.br/bicarbonato-de-sodio-biodonamica.html"
+  },
+  {
+    "sku": "DC39262",
+    "name": "Escova de Robinson Color-Brush Mini Pincel Reto - American Burrs",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-robinson-color-brush-mini-pincel-reto-american-burrs-dc39262.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-robinson-color-brush-mini-pincel-reto-american-burrs-dc39262.html"
+  },
+  {
+    "sku": "DC29177",
+    "name": "Bicarbonato de Sódio Clean Okta - DCMA",
+    "description": "Embalagem com 200g. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC29177.jpg",
+    "url": "https://www.dentalcremer.com.br/bicarbonato-de-sodio-clean-okta-dcma-dc29177.html"
+  },
+  {
+    "sku": "122596",
+    "name": "Bicarbonato de Sódio - 2I",
+    "description": "Embalagem com 250g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/122596.jpg",
+    "url": "https://www.dentalcremer.com.br/bicarbonato-de-sodio-2i.html"
+  },
+  {
+    "sku": "142230",
+    "name": "Flúor Espuma Fluoretada Framboesa - Villevie",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluor-espuma-fluoretada-framboesa-villevie-dental-cremer-142230.jpg",
+    "url": "https://www.dentalcremer.com.br/fluor-espuma-fluoretada-framboesa-villevie-142230.html"
+  },
+  {
+    "sku": "332599",
+    "name": "Escova Robinson Cônica CA - Microdont",
+    "description": "Embalagem com 1 unidade. Na cor branco.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-robinson-conica-ca-microdont-332599-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-robinson-conica-ca-microdont.html"
+  },
+  {
+    "sku": "DC29992",
+    "name": "Escova de Robinson Cônica - Cotisen",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-robinson-conico-soft-laranja-cotisen-125356-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-robson-conico-cotisen-dc29992.html"
+  },
+  {
+    "sku": "101459",
+    "name": "Evidenciador de Placa Angie - Angelus",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101459.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-angelus.html"
+  },
+  {
+    "sku": "142306",
+    "name": "Cimento Endodôntico Endo Sealer - Maquira",
+    "description": "Embalagem com 1 frasco de Endosealer pó com 8g e 1 bisnaga de Endosealer resina com 9g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/selante-endosealer-maquira-142306-01.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-endosealer-maquira-142306.html"
+  },
+  {
+    "sku": "DC29566",
+    "name": "Pasta Profilática Mi Paste Plus - GC",
+    "description": "Embalagem com 40g. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-profilatica-mi-paste-plus-menta-dc29566-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-profilatica-mi-paste-plus-gc-dc29566.html"
+  },
+  {
+    "sku": "107601",
+    "name": "Flúor Gel Neutro Tutti-Frutti - SS White",
+    "description": "Embalagem com 200ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107601.jpg",
+    "url": "https://www.dentalcremer.com.br/fluor-gel-neutro-tutti-frutti-ss-white.html"
+  },
+  {
+    "sku": "138036",
+    "name": "Fluoreto de Sódio - Iodontosul",
+    "description": "Embalagem com 1 unidade de 1000g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluoreto-de-sodio-1000g-iodontosul-dental-cremer-138036.jpg",
+    "url": "https://www.dentalcremer.com.br/fluoreto-de-sodio-1000g-iodontosul-138036.html"
+  },
+  {
+    "sku": "138039",
+    "name": "Fluorsul Pastilha 120Unid. - Iodontosul",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluorsul-pastilha-120unid-iodontosul-dental-cremer-138039.jpg",
+    "url": "https://www.dentalcremer.com.br/fluorsul-pastilha-120unid-iodontosul-138039.html"
+  },
+  {
+    "sku": "138037",
+    "name": "Fluoreto de Sódio 1g Sachê 500und. - Iodontosul",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluoreto-de-sodio-1g-sache-500und-iodontosul-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/fluoreto-de-sodio-1g-sache-500und-iodontosul-138037.html"
+  },
+  {
+    "sku": "144399",
+    "name": "Cimento Endodôntico Endo Sealer Premium - Maquira",
+    "description": "Embalagem com 1 frasco de Endosealer Premium pó com 8g e 1 bisnaga de Endosealer Premium resina com 9g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/selante-endosealer-premium-maquira-144399-01.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-endosealer-premium-maquira-144399.html"
+  },
+  {
+    "sku": "138038",
+    "name": "Fluoreto de Sódio 2G Sachê 500Und. - Iodontosul",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluoreto-de-sodio-2g-sache-500und-iodontosul-dental-cremer-138038.jpg",
+    "url": "https://www.dentalcremer.com.br/fluoreto-de-sodio-2g-sache-500und-iodontosul-138038.html"
+  },
+  {
+    "sku": "138040",
+    "name": "Fluorsul Pastilha 60Unid. - Iodontosul",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluorsul-pastilha-120unid-iodontosul-dental-cremer-138039.jpg",
+    "url": "https://www.dentalcremer.com.br/fluorsul-pastilha-60unid-iodontosul-138040.html"
+  },
+  {
+    "sku": "228458",
+    "name": "Flúor em Gel Flutop - SS White",
+    "description": "Embalagem com 200ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/228458_635850990006973824.jpg",
+    "url": "https://www.dentalcremer.com.br/fluor-em-gel-flutop-ss-white.html"
+  },
+  {
+    "sku": "116343",
+    "name": "Revelador Biofilm - EMS",
+    "description": "Embalagem com 250 Pellets",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/116343.jpg",
+    "url": "https://www.dentalcremer.com.br/revelador-biofilm-ems-116343.html"
+  },
+  {
+    "sku": "114304",
+    "name": "Evidenciador de Placa Tri Plaque ID Gel - GC",
+    "description": "Embalagem com 1 unidade (40g, 36 ml).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-de-placa-tri-plaque-id-gel-gc-dental-cremer-114304.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-triplaque-id-gel-gc-114304.html"
+  },
+  {
+    "sku": "586039",
+    "name": "Selante Defense Chroma - Angie by Angelus",
+    "description": "Embalagem com 2,5g + Ponta aplicadora + Cobertura para Seringa.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/586039.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-defense-chroma-angie-by-angelus-1.html"
+  },
+  {
+    "sku": "119240",
+    "name": "Selante e Glaze Proviplast - Biodinâmica",
+    "description": "Embalagem com 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/selante-e-glaze-proviplast-biodinamica-119240-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-e-glaze-proviplast-biodinamica-119240.html"
+  },
+  {
+    "sku": "119404",
+    "name": "Taça de Borracha - MK Life",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/119404.jpg",
+    "url": "https://www.dentalcremer.com.br/taca-de-borracha-mk-life-119404.html"
+  },
+  {
+    "sku": "145431",
+    "name": "Evidenciador de Placa Viplak Duo 10ml - AF do Brasil",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-de-placa-viplak-duo-10ml-aaf-145431-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placa-viplak-duo-10ml-af-do-brasil-145431.html"
+  },
+  {
+    "sku": "130530",
+    "name": "Evidenciador de Placas Evilux 100 - Fórmula & Ação",
+    "description": "Embalagem com 3ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/evidenciador-de-placas-evilux-100-formula-e-acao-130530-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/evidenciador-de-placas-evilux-100-formula-e-ac-o-130530.html"
+  },
+  {
+    "sku": "DC29568",
+    "name": "Verniz Fluoretado Mi Varnish Fresh - GC",
+    "description": "Embalagem com 44g. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/verniz-fluoretado-vi-varnish-fresh-menta-dc29568-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-fluoretado-mi-varnish-fresh-gc-dc29568.html"
+  },
+  {
+    "sku": "DC38181",
+    "name": "Verniz de Flúor Profluorid Varnish Dose Única - Voco",
+    "description": "Embalagem com 50 sachês, 0,40ml cada. Escolha o sabor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabores-verniz-de-fluor-profluorid-varnish-dose-unica-voco-dc16610.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-de-fluor-profluorid-varnish-dose-unica-voco-dc38181.html"
+  },
+  {
+    "sku": "135272",
+    "name": "Verniz Forrador de Cavidades Cavitine - SS White",
+    "description": "Embalagem com 15ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/verniz-cavitine-ss-white-dc-239096-01.jpg",
+    "url": "https://www.dentalcremer.com.br/verniz-forrador-de-cavidades-cavitine-ss-white-135272.html"
+  },
+  {
+    "sku": "DC25937",
+    "name": "Moldeira Dupla para Flúor Descartável - Biodinâmica",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108043.jpg",
+    "url": "https://www.dentalcremer.com.br/moldeira-dupla-para-fluor-descartavel-biodinamica-dc25937.html"
+  },
+  {
+    "sku": "DC25936",
+    "name": "Ponta Automistura Flow Tips - Biodinâmica",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108037.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-automistura-flow-tips-biodinamica-dc25936.html"
+  }
+]

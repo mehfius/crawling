@@ -1,0 +1,767 @@
+[
+  {
+    "sku": "123545",
+    "name": "Parafuso Mini Pilar Angulado HE 2.0mm - AllPrime Select",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-transmucoso-angulado-he-hi-2-0mm-allprime-select-dental-cremer-123545_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-mini-pilar-angulado-he-2mm-allprime-select-123545.html"
+  },
+  {
+    "sku": "DC29747",
+    "name": "Análogo HE - AllPrime Select",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-he-5-0mm-allprime-select-dental-cremer-123269_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-he-allprime-select-dc29747.html"
+  },
+  {
+    "sku": "120582",
+    "name": "Transfer Moldeira Aberta TG - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-aberta-tg-singular-120582-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-tg-singular-120582.html"
+  },
+  {
+    "sku": "123320",
+    "name": "Cápsula do Pilar de Retenção do O-Ring - AllPrime Select",
+    "price": "R$7,79",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/capsula-do-pilar-de-retencao-do-o-ring-allprime-select-dental-cremer-123320_1.jpg",
+    "url": "https://www.dentalcremer.com.br/capsula-do-pilar-de-retenc-o-do-o-ring-allprime-select-123320.html"
+  },
+  {
+    "sku": "107322",
+    "name": "Broca Coletora de Osso Instruments - Criteria",
+    "price": "R$674,90",
+    "description": "Embalagem com 1 unidade. Acompanha Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-coletora-de-osso-c-broqueiro-135-dental-cremer-107322-01.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-coletora-de-osso-instruments-criteria-107322.html"
+  },
+  {
+    "sku": "DC29808",
+    "name": "Ucla Calcinável HE - AllPrime Select",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-plastico-nao-rotacional-he-allprime-select-dental-cremer-dc29808_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-he-allprime-select-dc29808.html"
+  },
+  {
+    "sku": "DC29789",
+    "name": "Parafuso Pilar Multi Unit CM 1.6mm - AllPrime Select",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-transmucoso-multi-unit-cm-e-lz-allprime-select-dental-cremer-dc29789_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-pilar-multi-unit-cm-1-6-mm-allprime-select-dc29789.html"
+  },
+  {
+    "sku": "DC29840",
+    "name": "Transfer Moldeira Fechada Não Rotacional Multi-Unit - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-fechada-nao-rotacional-multi-unit-allprime-select-dental-cremer-dc29840_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-n-o-rotacional-multi-unit-allprime-select-dc29840.html"
+  },
+  {
+    "sku": "120581",
+    "name": "Transfer Moldeira Fechada TG - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-fechada-tg-singular-120581-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-tg-singular-120581.html"
+  },
+  {
+    "sku": "DC29788",
+    "name": "Manipulo Análogo Digital - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/manipulo-analogo-digital-allprime-select-dental-cremer-dc29788_1.jpg",
+    "url": "https://www.dentalcremer.com.br/manipulo-analogo-digital-allprime-select-dc29788.html"
+  },
+  {
+    "sku": "127195",
+    "name": "Ucla Calcinável Rotacional HE 5.0 Compatível com Singular HEX 2.7 - Singular",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade + parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/127195.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-he-rotacional-singular-127195.html"
+  },
+  {
+    "sku": "147370",
+    "name": "Análogo Digital Precision Mini Pilar - Singular",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-digital-precision-mini-pilar-singular-147370.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-digital-precision-mini-pilar-singular-147370.html"
+  },
+  {
+    "sku": "827064",
+    "name": "Membrana Sintética Polipropileno - Bone Heal",
+    "price": "R$344,90",
+    "description": "Embalagem com 1 unidade. 30x40mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-sintetica-polipropileno-bone-heal-827064.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-sintetica-polipropileno-bone-heal-827064.html"
+  },
+  {
+    "sku": "147376",
+    "name": "Cicabody - Singular",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Com parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cicabody-singular-147376.jpg",
+    "url": "https://www.dentalcremer.com.br/cicabody-singular-147376.html"
+  },
+  {
+    "sku": "123688",
+    "name": "Protetor do Mini Pilar 4.8mm - AllPrime Select",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-transmucoso-mini-padrao-4-8mm-allprime-select-dental-cremer-123688_1.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-do-mini-pilar-allprime-select-123688.html"
+  },
+  {
+    "sku": "DC29834",
+    "name": "Ti-Base HE - AllPrime Select",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ti-base-he-allprime-select-dc29834.jpg",
+    "url": "https://www.dentalcremer.com.br/ti-base-he-allprime-select-dc29834.html"
+  },
+  {
+    "sku": "DC29770",
+    "name": "Cicatrizador Regular HE - AllPrime Select",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cicatrizador-regular-he-allprime-select-dental-cremer-dc29770_1.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-regular-he-allprime-select-dc29770.html"
+  },
+  {
+    "sku": "DC29844",
+    "name": "Transfer Moldeira Fechada Rotacional Multi-Unit - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transferente-moldeira-fechada-rotacional-multi-unit-allprime-select-dental-cremer-dc29844_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-rotacional-multi-unit-allprime-select-dc29844.html"
+  },
+  {
+    "sku": "DC29838",
+    "name": "Transfer Moldeira Aberta LZ - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-aberta-allprime-select-dental-cremer-dc29838_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-lz-allprime-select-dc29838.html"
+  },
+  {
+    "sku": "123826",
+    "name": "Ucla Calcinável Com Liga Cocr Mini Pilar - AllPrime Select",
+    "price": "R$60,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ucla-cocr-do-transmucoso-mini-padrao-4-8mm-allprime-select-dental-cremer-123826_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-com-liga-cocr-mini-pilar-allprime-select-123826.html"
+  },
+  {
+    "sku": "DC29772",
+    "name": "Coping Estético CM - AllPrime Select",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/coping-estetico-cm-allprime-select-dental-cremer-dc29772_1.jpg",
+    "url": "https://www.dentalcremer.com.br/coping-estetico-cm-allprime-select-dc29772.html"
+  },
+  {
+    "sku": "123757",
+    "name": "Ti-Base do Mini Pilar - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ti-base-do-transmucoso-mini-padrao-longo-4-8mm-allprime-select-dental-cremer-123757_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ti-base-do-mini-pilar-allprime-select-123757.html"
+  },
+  {
+    "sku": "DC26053",
+    "name": "TiBase 4 Para Cerec - Singular",
+    "price": "R$82,90",
+    "description": "Embalagem com 1 Tibase4 + Parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/817447.jpg",
+    "url": "https://www.dentalcremer.com.br/tibase-4-para-cerec-singular-dc26053.html"
+  },
+  {
+    "sku": "DC29818",
+    "name": "Pilar Regular 3.5mm CM - AllPrime Select",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-regular-curto-cm-allprime-select-dental-cremer-dc29818_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-regular-curto-cm-allprime-select-dc29818.html"
+  },
+  {
+    "sku": "DC29812",
+    "name": "Ucla Titânio HE - AllPrime Select",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-provisorio-nao-rotacional-he-allprime-select-dental-cremer-dc29812_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-he-allprime-select-dc29812.html"
+  },
+  {
+    "sku": "DC29792",
+    "name": "Parafuso Transferente Moldeira HE - AllPrime Select",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-laboratorial-transferente-moldeira-aberta-he-2-0mm-allprime-select-dental-cremer-123530_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-transferente-moldeira-he-allprime-select-dc29792.html"
+  },
+  {
+    "sku": "123787",
+    "name": "Transfer Moldeira Fechada CM 3.5mm - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-fechada-cm-3-5mm-allprime-select-dental-cremer-123787_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-cm-3-5-mm-allprime-select-123787.html"
+  },
+  {
+    "sku": "DC29811",
+    "name": "Ucla Calcinável LZ - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-plastico-rotacional-lz-allprime-select-dental-cremer-dc29811_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-lz-allprime-select-dc29811.html"
+  },
+  {
+    "sku": "DC29803",
+    "name": "Ucla Calcinável com Liga CoCr LZ - AllPrime Select",
+    "price": "R$60,90",
+    "description": "Embalagem com 1 unidade. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-cocr-rotacional-lz-allprime-select-dental-cremer-dc29803_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-com-liga-cocr-lz-allprime-select-dc29803.html"
+  },
+  {
+    "sku": "147379",
+    "name": "Transfer Digital Esfera HE 4.1 - Singular",
+    "price": "R$89,90",
+    "description": "Embalagem com 1 unidade. Com parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-digital-esfera-he-4-1-singular-147379.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-digital-esfera-he-4-1-singular-147379.html"
+  },
+  {
+    "sku": "818420",
+    "name": "Cilindro Co-Cr Micro Pilar - 109133 - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 Ucla CoCr + Parafuso Sextavado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/818420.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-micro-pilar-co-cr-singular-818420.html"
+  },
+  {
+    "sku": "DC29827",
+    "name": "Pilar Multi Unit HE - AllPrime Select",
+    "price": "R$59,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-transmucoso-multi-unit-he-allprime-select-dental-cremer-dc29827_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-transmucoso-multi-unit-he-allprime-select-dc29827.html"
+  },
+  {
+    "sku": "123515",
+    "name": "Mini Pilar de Retenção do O-Ring - AllPrime Select",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-pilar-de-retencao-do-o-ring-allprime-select-dental-cremer-123515_1.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-de-retenc-o-do-o-ring-allprime-select-123515.html"
+  },
+  {
+    "sku": "DC29796",
+    "name": "Pilar Angulado 20º HE - AllPrime Select",
+    "price": "R$88,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-angulado-20-curto-he-allprime-select-dental-cremer-dc29796_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-angulado-20-curto-he-allprime-select-dc29796.html"
+  },
+  {
+    "sku": "DC29807",
+    "name": "Pilar Estético HE - AllPrime Select",
+    "price": "R$60,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-estetico-longo-he-allprime-select-dental-cremer-dc29807_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-estetico-longo-he-allprime-select-dc29807.html"
+  },
+  {
+    "sku": "DC29769",
+    "name": "Cicatrizador Regular CM - AllPrime Select",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cicatrizador-regular-cm-allprime-select-dental-cremer-dc29769_1.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-regular-cm-allprime-select-dc29769.html"
+  },
+  {
+    "sku": "DC29748",
+    "name": "Análogo Pilar Regular e Angulado CM - AllPrime Select",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-pilar-regular-e-angulado-cm-allprime-select-dental-cremer-dc29748_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-pilar-regular-e-angulado-cm-allprime-select-dc29748.html"
+  },
+  {
+    "sku": "147368",
+    "name": "Análogo Digital Precision CM N. - Singular",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-digital-precision-cm-n-1unid--singular-147368.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-digital-precision-cm-n-1unid-singular-147368.html"
+  },
+  {
+    "sku": "DC29832",
+    "name": "Ti-Base 4 Cerec CM - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ti-base-4-cerec-cm-allprime-select-dental-cremer-dc29832_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ti-base-4-cerec-cm-allprime-select-dc29832.html"
+  },
+  {
+    "sku": "DC29790",
+    "name": "Parafuso Pilar Multi Unit HE - AllPrime Select",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-transmucoso-multi-unit-he-cinta-allprime-select-dental-cremer-dc29790_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-pilar-multi-unit-he-2mm-allprime-select-dc29790.html"
+  },
+  {
+    "sku": "DC29841",
+    "name": "Transfer Moldeira Aberta Rotacional Multi-Unit - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-aberta-rotacional-multi-unit-allprime-select-dental-cremer-dc29841_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-rotacional-multi-unit-allprime-select-dc29841.html"
+  },
+  {
+    "sku": "123689",
+    "name": "Ucla Titânio Mini Pilar - AllPrime Select",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-provisorio-do-transmucoso-mini-padrao-4-8mm-allprime-select-dental-cremer-123689_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-mini-pilar-allprime-select-123689.html"
+  },
+  {
+    "sku": "DC29797",
+    "name": "Pilar Angulado 20º CM - AllPrime Select",
+    "price": "R$88,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-angulado-curto-cm-allprime-select-dental-cremer-dc29797_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-angulado-curto-cm-allprime-select-dc29797.html"
+  },
+  {
+    "sku": "123525",
+    "name": "Parafuso Fixação no Pilar Multi-Unit 2.0mm - AllPrime Select",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-de-fixacao-transmucoso-2-0mm-allprime-select-dental-cremer-123525_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-de-fixac-o-transmucoso-2-0mm-allprime-select-123525.html"
+  },
+  {
+    "sku": "DC29833",
+    "name": "Ti-Base 4 Cerec HE - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ti-base-4-cerec-he-allprime-select-dental-cremer-dc29833_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ti-base-4-cerec-he-allprime-select-dc29833.html"
+  },
+  {
+    "sku": "DC30023",
+    "name": "Análogo Pilar Estético CM - AllPrime Select",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-pilar-estetico-cm-allprime-select-dental-cremer-dc30023_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-pilar-estetico-cm-allprime-select-dc30023.html"
+  },
+  {
+    "sku": "DC29745",
+    "name": "Análogo Digital HE - AllPrime Select",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-digital-he-allprime-select-dental-cremer-dc29745_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-digital-he-allprime-select-dc29745.html"
+  },
+  {
+    "sku": "DC29767",
+    "name": "Cicatrizador Estético HE  - AllPrime Select",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cicatrizador-estetico-he-allprime-select-dental-cremer-dc29767_1.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-estetico-he-allprime-select-dc29767.html"
+  },
+  {
+    "sku": "DC29744",
+    "name": "Análogo Digital CM - AllPrime Select",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-digital-cm-allprime-select-dental-cremer-dc29744_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-digital-cm-allprime-select-dc29744.html"
+  },
+  {
+    "sku": "123275",
+    "name": "Análogo Mini Pilar  - AllPrime Select",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-transmucoso-mini-padrao-4-8mm-allprime-select-dental-cremer-123275_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-mini-pilar-padrao-4-8mm-allprime-select-123275.html"
+  },
+  {
+    "sku": "907391",
+    "name": "Ucla co-cr HE 5.0 Rotacional Compatível com Singular HEX 2.7 - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade + parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/23151_a.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-he-rotacional-singular-907391.html"
+  },
+  {
+    "sku": "DC29802",
+    "name": "Ucla Calcinável com Liga CoCr HE - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-cocr-rotacional-he-allprime-select-dental-cremer-dc29802_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-cocr-rotacional-he-allprime-select-dc29802.html"
+  },
+  {
+    "sku": "DC30523",
+    "name": "Ucla Titânio Pilar Multi Unit - AllPrime Select",
+    "price": "R$34,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-provisorio-rotacional-multi-unit-cm-lz-hi-he-4mm-allprime-select-dental-cremer-123698_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-pilar-multi-unit-allprime-select-dc30523.html"
+  },
+  {
+    "sku": "DC29826",
+    "name": "Pilar Multi Unit CM - AllPrime Select",
+    "price": "R$59,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-transmucoso-multi-unit-cm-allprime-select-dental-cremer-dc29826_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-transmucoso-multi-unit-cm-allprime-select-dc29826.html"
+  },
+  {
+    "sku": "DC29766",
+    "name": "Cicatrizador Estético CM - AllPrime Select",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cicatrizador-estetico-cm-allprime-select-dental-cremer-dc29766_1.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-estetico-cm-allprime-select-dc29766.html"
+  },
+  {
+    "sku": "DC29743",
+    "name": "Análogo CM - AllPrime Select",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-cm-allprime-select-dental-cremer-dc29743_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-cm-allprime-select-dc29743.html"
+  },
+  {
+    "sku": "123263",
+    "name": "Análogo Digital Mini Pilar - AllPrime Select",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-digital-mini-pilar-4-8mm-allprime-select-dental-cremer-123263_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-digital-mini-pilar-4-8mm-allprime-select-123263.html"
+  },
+  {
+    "sku": "DC29839",
+    "name": "Transfer Moldeira Aberta Não Rotacional Multi-Unit - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-aberta-nao-rotacional-multi-unit-allprime-select-dental-cremer-dc29839_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-n-o-rotacional-multi-unit-allprime-select-dc29839.html"
+  },
+  {
+    "sku": "DC30517",
+    "name": "Ucla Calcinável Multi Unit - AllPrime Select",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/calcinavel-nao-rotacional-multi-unit-lz-hi-he-5mm-allprime-select-dental-cremer-123318_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-multi-unit-allprime-select-dc30517.html"
+  },
+  {
+    "sku": "DC29820",
+    "name": "Pilar Regular LZ - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-regular-curto-lz-allprime-select-dental-cremer-dc29820_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-regular-curto-lz-allprime-select-dc29820.html"
+  },
+  {
+    "sku": "120580",
+    "name": "Transfer Moldeira Aberta Micro Pilar - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-aberta-micro-pilar-singular-120580-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-micro-pilar-singular-120580.html"
+  },
+  {
+    "sku": "DC29813",
+    "name": "Ucla Titânio LZ - AllPrime Select",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-provisorio-nao-rotacional-lz-5-0mm-allprime-select-dental-cremer-123614_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-lz-allprime-select-dc29813.html"
+  },
+  {
+    "sku": "807479",
+    "name": "Mini Pilar Angulado 17 Graus HE 5,0x4mm - Singular",
+    "price": "R$178,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-pilar-angulado-17-graus-he-singular-dc23122-2.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-angulado-17-graus-he-singular-807479.html"
+  },
+  {
+    "sku": "DC30514",
+    "name": "Ucla Calcinável com Liga CoCr Multi Unit - AllPrime Select",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/calcinavel-com-liga-cocr-rotacional-multi-unit-cm-lz-hi-he-4mm-allprime-select-dental-cremer-123311_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-com-liga-cocr-multi-unit-allprime-select-dc30514.html"
+  },
+  {
+    "sku": "DC29773",
+    "name": "Coping Regular CM - AllPrime Select",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/coping-regular-cm-allprime-select-dental-cremer-dc29773_1.jpg",
+    "url": "https://www.dentalcremer.com.br/coping-regular-cm-allprime-select-dc29773.html"
+  },
+  {
+    "sku": "DC29843",
+    "name": "Transfer Moldeira Fechada LZ - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-fechada-lz-allprime-select-dental-cremer-dc29843_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-lz-allprime-select-dc29843.html"
+  },
+  {
+    "sku": "123797",
+    "name": "Transfer Moldeira Aberta Mini Pilar - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transferente-moldeira-aberta-mini-padrao-4-8mm-allprime-select-dental-cremer-123797_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-mini-padr-o-4-8mm-allprime-select-123797.html"
+  },
+  {
+    "sku": "DC28073",
+    "name": "Implante Cônico HE - Singular",
+    "description": "Embalagem com 1 Implante + Cover. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-conico-he-singular-dc28073-lovers.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-conico-he-singular-dc28073.html"
+  },
+  {
+    "sku": "DC29768",
+    "name": "Cicatrizador Estético LZ - AllPrime Select",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cicatrizador-estetico-lz-allprime-select-dental-cremer-dc29768_1.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-estetico-lz-allprime-select-dc29768.html"
+  },
+  {
+    "sku": "DC29819",
+    "name": "Pilar Regular HE - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-regular-curto-he-allprime-select-dental-cremer-dc29819_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-regular-curto-he-allprime-select-dc29819.html"
+  },
+  {
+    "sku": "DC30607",
+    "name": "Protetor do Pilar Multi Unit - AllPrime Select",
+    "price": "R$28,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-transmucoso-mini-padrao-lz-hi-he-5mm-allprime-select-128624-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-do-pilar-multi-unit-allprime-select-dc30607.html"
+  },
+  {
+    "sku": "DC29749",
+    "name": "Análogo Pilar Multi Unit - AllPrime Select",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-transmucoso-multi-unit-allprime-select-dental-cremer-dc29749_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-pilar-multi-unit-allprime-select-dc29749.html"
+  },
+  {
+    "sku": "DC29771",
+    "name": "Cicatrizador Regular LZ - AllPrime Select",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cicatrizador-regular-lz-allprime-select-dental-cremer-dc29771_1.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-regular-lz-allprime-select-dc29771.html"
+  },
+  {
+    "sku": "DC29746",
+    "name": "Análogo Digital Multi Unit - AllPrime Select",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-digital-multi-unit-allprime-select-dental-cremer-dc29746_1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-digital-multi-unit-allprime-select-dc29746.html"
+  },
+  {
+    "sku": "123279",
+    "name": "Anel de Silicone para Chaves de Instalação 2,0 x 1,3mm - AllPrime Select",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/anel-o-ring-de-silicone-2-1-x-0-8mm-allprime-select-dental-cremer-123279_1.jpg",
+    "url": "https://www.dentalcremer.com.br/anel-o-ring-de-silicone-2-1-x-0-8mm-allprime-select-123279.html"
+  },
+  {
+    "sku": "906707",
+    "name": "Enxerto Ósseo Bovino Bonefill Porous - Bionnovation",
+    "price": "R$424,90",
+    "description": "Embalagem com 1g. Médio 0,60-1,50mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/906707.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-bonefill-porous-bionnovation-906707.html"
+  },
+  {
+    "sku": "138462",
+    "name": "Ucla Co-Cr HE 3,3 Anti - Rotac 103033",
+    "description": "Embalagem com 1 ucla em CoCr + 1 parafuso sextavado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ucla-co-cr-he-DC38713-lovers.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-he-3-3-anti-rotac-103033-138462.html"
+  },
+  {
+    "sku": "138463",
+    "name": "Ucla Co-Cr HE 4,1 E 4,3 Anti - Rotac 103034",
+    "description": "Embalagem com 1 ucla em CoCr + 1 parafuso sextavado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ucla-co-cr-he-DC38713-lovers.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-he-4-1-e-4-3-anti-rotac-103034-138463.html"
+  },
+  {
+    "sku": "543865",
+    "name": "Enxerto Ósseo Bovino GenOx Org - Baumer",
+    "price": "R$161,90",
+    "description": "Embalagem com 0,3g ou 0,5cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-genox-org-baumer-543865-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-genox-org-baumer-543865.html"
+  },
+  {
+    "sku": "629392",
+    "name": "Enxerto Ósseo Bovino Lumina Bone Porous - Criteria",
+    "price": "R$479,90",
+    "description": "Embalagem com 2 unidades. 0,5g. Grosso/Large.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-lumina-bone-porous-criteria-629392.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-lumina-bone-porous-criteria-629392.html"
+  },
+  {
+    "sku": "DC39177",
+    "name": "Membrana de Colágeno Hemospon - Maquira",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-de-colageno-hemospon-20x30mm-dc39177.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-de-colageno-hemospon-maquira-dc39177.html"
+  },
+  {
+    "sku": "122730",
+    "name": "Enxerto Ósseo Col.Hap-91 - JHS",
+    "price": "R$143,90",
+    "description": "Embalagem com 1 tira (10x20x0,3mm).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-col-hap-91-jhs-122730-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-col-hap-91-jhs-122730.html"
+  },
+  {
+    "sku": "140332",
+    "name": "Kit Cirúrgico Smart Singular 19 Peças + Estojo - Singular",
+    "price": "R$1.847,90",
+    "description": "Kit com 3 Brocas Cônicas, 1 Broca Helicoidal, 1 Broca Lança, 4 Chaves Catraca, 2 Chaves Digitais Hexagonais, 1 Chave Digital Tork, 2 Conjunto de Chaves Digitais para Chaves Torque, 1 Extrator de Mucosa, 2 Montadores, 1 Paralelizador, 1 Sonda Milimetrada e 1 Estojo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-smart-singular-19-pecas-estojo-singular-140332-2.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-smart-singular-19-pecas-estojo-singular-140332.html"
+  },
+  {
+    "sku": "DC25929",
+    "name": "Enxerto Ósseo Sintético Nanosynt - FGM",
+    "price": "R$423,49",
+    "description": "Embalagem com 1g. Escolha a granulação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-sintetico-nanosynt-fgm-05g-dc25928.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-sintetico-nanosynt-fgm-dc25929.html"
+  },
+  {
+    "sku": "130505",
+    "name": "Kit Protético para Implantes - Singular",
+    "price": "R$1.567,90",
+    "description": "Embalagem com 14 peças + 1 estojo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-protetico-para-implantes-singular-130505-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-protetico-para-implantes-singular-130505.html"
+  },
+  {
+    "sku": "DC16360",
+    "name": "Enxerto Ósseo Bovino OrthoGen - Baumer",
+    "price": "R$216,90",
+    "description": "Embalagem com 0,5cc (cm³). Granulação de 0,25x0,50mm ou 0,50x0,75mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-orthogen-baumer-546323.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-orthogen-baumer-dc16360.html"
+  },
+  {
+    "sku": "107323",
+    "name": "Broca Acesso Seio Instruments - Criteria",
+    "price": "R$368,90",
+    "description": "Embalagem com 1 unidade. Acompanha Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107323.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-acesso-seio-instruments-criteria-107323.html"
+  },
+  {
+    "sku": "DC25540",
+    "name": "Chave Torque Hexagonal - Singular",
+    "price": "R$100,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101128.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-torque-hexagonal-singular-dc25540.html"
+  },
+  {
+    "sku": "DC30597",
+    "name": "Enxerto Ósseo Bovino Geistlich Bio-Oss Pen 0.5G - Geistlich",
+    "price": "R$686,90",
+    "description": "Embalagem com 1 seringa de 0,5g. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-geistlich-bio-oss-pen-05g-025-1mm-geistlich-132905-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-geistlich-bio-oss-pen-0-5g-geistlich-dc30597.html"
+  },
+  {
+    "sku": "132899",
+    "name": "Membrana de Colágeno Geistlich Bio-Gide 13x25mm – Geistlich",
+    "price": "R$821,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-colageno-geistlich-bio-gide-1g-13-x-25mm-geistlich-132899-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-colageno-geistlich-bio-gide-1g-13-x-25mm-geistlich-132899.html"
+  },
+  {
+    "sku": "906721",
+    "name": "Enxerto Ósseo Bovino Bonefill Porous - Bionnovation",
+    "price": "R$469,90",
+    "description": "Embalagem com 1g. Grânulo grosso 1,50-2,50mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bonefill-grande-porous-bovino-1g-dental-cremer-906721-01.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-bonefill-porous-bionnovation-906721.html"
+  },
+  {
+    "sku": "DC27219",
+    "name": "Kit Chave para Implante HE - Singular",
+    "price": "R$268,90",
+    "description": "Kit com 1 Montador HE, 1 Chave Catraca HE Longa e Chave Catraca HE Curta. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/194388_2.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-chave-para-implante-he-singular-dc27219.html"
+  },
+  {
+    "sku": "DC30333",
+    "name": "Chave de Instalação CM 2,0mm - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-de-instalacao-cm-allprime-select-dc30333-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/intermediario-hexagonal-curto-cm-allprime-select-dc30333.html"
+  },
+  {
+    "sku": "905762",
+    "name": "Kit Chave Para Implante Cm Compat. Com Singular, Neodent 150220 - Singular",
+    "price": "R$268,90",
+    "description": "Kit com 1 Chave CM contra-ângulo: 26,50mm; 1 Chave Catrata CM longa: 30,50mm e Chave Catraca CM Curta: 26,50mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/905762_2.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-chave-para-implante-cm-singular-905762.html"
+  },
+  {
+    "sku": "543896",
+    "name": "Membrana Biológica Bovina GenDerm - Baumer",
+    "price": "R$239,90",
+    "description": "Embalagem com 1 unidade. Média - 30x30mm. 150 - 200 μ.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-genderm-baumer-543896.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-genderm-baumer-543896.html"
+  },
+  {
+    "sku": "DC29002",
+    "name": "Parafuso para Enxerto e Fixação - Bionnovation",
+    "price": "R$59,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc29002.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-para-enxerto-e-fixac-o-bionnovation-dc29002.html"
+  }
+]

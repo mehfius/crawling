@@ -1,0 +1,674 @@
+[
+  {
+    "sku": "125910",
+    "name": "Condicionador Ácido Fluorídrico Pró-10 10% - Protech-Derm",
+    "description": "Embalagem com 1 seringa de 2,5ml e 3 ponteiras aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fluoridrico-pro-10-protech-derm-dc-125910.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fluoridrico-pro-10-10-protech-derm-125910.html"
+  },
+  {
+    "sku": "104056",
+    "name": "Condicionador Ácido Fluorídrico 10% - Microdont",
+    "description": "Embalagem com 1 seringa de 2,5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fluoridrico-10-microdont-104056-01.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fluoridrico-10-microdont-104056.html"
+  },
+  {
+    "sku": "125911",
+    "name": "Condicionado Ácido Fosfórico Pró-37 37% - Protech-Derm",
+    "description": "Embalagem com 3 seringas de 3g cada e 3 ponteiras aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringas-condicionado-acido-fosforico-pro-37-37-protech-derm-125911.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionado-acido-fosforico-pro-37-37-protech-derm-125911.html"
+  },
+  {
+    "sku": "122858",
+    "name": "Disco de Lixa - TDV",
+    "description": "Embalagem com 50 unidades de 16mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-tdv-122858-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-tdv-122858.html"
+  },
+  {
+    "sku": "DC38174",
+    "name": "Resina Tetric N-Flow - Ivoclar Vivadent",
+    "description": "Embalagem com 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-e-aplicador-tetric-n-flow-ivoclar-vivadent-dc10981.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-tetric-n-flow-ivoclar-vivadent-dc38174.html"
+  },
+  {
+    "sku": "586305",
+    "name": "Disco de Lixa Praxis - TDV",
+    "description": "Embalagem com 75 unidades + Mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-praxis-tdv-586305.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-praxis-tdv-586305.html"
+  },
+  {
+    "sku": "104825",
+    "name": "Tinta Arti Brux Quick - Bausch",
+    "description": "Embalagem com 0,15ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tinta-arti-brux-quick-vermelha-104825-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tinta-arti-brux-quick-bausch-104825.html"
+  },
+  {
+    "sku": "122866",
+    "name": "Disco de Lixa Praxis - TDV",
+    "description": "Embalagem com 60 unidades sortidas + Mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-praxis-tdv-122866-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-praxis-tdv-122866.html"
+  },
+  {
+    "sku": "600841",
+    "name": "Pasta de Polimento Diamond Paste - Allplan",
+    "description": "Embalagem com 1 seringa com 3g + 1 ponta aplicadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamond-paste-allplan-dc-600841-114918-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamond-paste-allplan-600841.html"
+  },
+  {
+    "sku": "119090",
+    "name": "Disco de Lixa Sortido 22mm - Microdont",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-sortido-22mm-microdont-119090-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-sortido-22mm-microdont-119090.html"
+  },
+  {
+    "sku": "DC38924",
+    "name": "Cunha Anatômica Plástica Interproximal Ultrawedge Tulwar - American Burrs",
+    "description": "Embalagem com 40 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-plastica-interproximal-ultrawedge-tulwar-grande-40unid--american-burrs-148150.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-plastica-interproximal-ultrawedge-tulwar-american-burrs-dc38924.html"
+  },
+  {
+    "sku": "123081",
+    "name": "Pasta de Polimento Diamantada Potenza Specchi PRO - PHS",
+    "description": "Embalagem com 1 seringa de 3g + 1 ponteiras de aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamantada-potenza-specchi-pro-phs-123081-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamantada-potenza-specchi-pro-phs-123081.html"
+  },
+  {
+    "sku": "118418",
+    "name": "Kit Disco de Lixa Sof-Gloss - American Burrs",
+    "description": "Embalagem com 40 unidades de discos de lixa + 2 mandris.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-disco-de-lixa-odontologico-sof-gloss-american-burrs-118418.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-sof-gloss-kit-american-burrs-118418.html"
+  },
+  {
+    "sku": "111503",
+    "name": "Discos de Polimento - Neolab",
+    "description": "Embalagem com 40 unidades. 16mm  + 1 Mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/discos-de-polimento-16mm-40un-1-mandril-neolab-dental-cremer-111503-01.jpg",
+    "url": "https://www.dentalcremer.com.br/discos-de-polimento-neolab-111503.html"
+  },
+  {
+    "sku": "123036",
+    "name": "Dessensibilizante Potenza Esente 2,0% - PHS",
+    "description": "3 Seringas com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-potenza-esente-2-0-phs-123036-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-potenza-esente-2-0-phs-123036.html"
+  },
+  {
+    "sku": "706147",
+    "name": "Papel Carbono Filme Hanel 12Micras - Roeko",
+    "description": "Embalagem com 22mmx25m. Dupla Face (Preto e Vermelho).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/706147.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-filme-hanel-12micras-roeko-706147.html"
+  },
+  {
+    "sku": "148149",
+    "name": "Kit Cunha Anatômica Plástica Interproximal Ultrawedge Sortido - American Burrs",
+    "description": "Embalagem com 120 unidades (sortido).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-cores-cunha-anatomica-plastica-inter-proximal-ultrawedge-sortido-american-burrs-148149.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cunha-anatomica-plastica-interproximal-ultrawedge-sortido-american-burrs-148149.html"
+  },
+  {
+    "sku": "DC38458",
+    "name": "Carbono Spray Occlutec - Renfert",
+    "description": "Embalagem com 75ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/carbono-spray-occlutec-verde-75ml-renfert-142999.jpg",
+    "url": "https://www.dentalcremer.com.br/carbono-spray-occlutec-renfert-dc38458.html"
+  },
+  {
+    "sku": "114918",
+    "name": "Pasta de Polimento Diamond Paste - Allplan",
+    "description": "Embalagem com 1 seringa de 3g + 1 ponta aplicadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamond-paste-allplan-dc-600841-114918-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamond-paste-allplan-114918.html"
+  },
+  {
+    "sku": "104826",
+    "name": "Tinta Bio Ink Flow - Bausch",
+    "description": "Embalagem com 1ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104826.jpg",
+    "url": "https://www.dentalcremer.com.br/tinta-bio-ink-flow-bausch-104826.html"
+  },
+  {
+    "sku": "123033",
+    "name": "Papel Carbono Arti-Fol Complete - Bausch",
+    "description": "Embalagem com 100 unidades, nas cores vermelho e preto.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-arti-fol-complete-bausch-123033-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-arti-fol-complete-bausch-123033.html"
+  },
+  {
+    "sku": "DC18810",
+    "name": "Carbono Líquido Arti-Spot - Bausch",
+    "description": "Embalagem com 15ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/carbono-liquido-arti-spot-bausch-dc18810-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/carbono-liquido-arti-spot-bausch-dc18810.html"
+  },
+  {
+    "sku": "143353",
+    "name": "Abridor de Boca Adulto - Iodontosul",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/abridor-de-boca-adulto-iodontosul-dental-cremer-143353.jpg",
+    "url": "https://www.dentalcremer.com.br/abridor-de-boca-adulto-iodontosul-143353.html"
+  },
+  {
+    "sku": "DC24785",
+    "name": "Papel Carbono - Komet",
+    "description": "Embalagem com 100 unidades. 8 Micras. Azul ou Vermelho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/904857.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-komet-dc24785.html"
+  },
+  {
+    "sku": "758108",
+    "name": "Carbono Spray Occlean - OdontoMega",
+    "description": "Embalagem com 75ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/carbono-spray-occlean-verde-75ml-dental-cremer-758108-01.jpg",
+    "url": "https://www.dentalcremer.com.br/carbono-spray-occlean-odontomega-758108.html"
+  },
+  {
+    "sku": "DC38067",
+    "name": "Resina Yflow - Yller",
+    "description": "Embalagem com 1 seringa de 2,5g + 5 pontas aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-composta-fluida-yflow-yller-dc27128.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-yflow-yller-dc38067.html"
+  },
+  {
+    "sku": "123074",
+    "name": "Pasta de Polimento Potenza Specchi Argilla PRO - PHS",
+    "description": "Embalagem com 1 seringa de 3g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-potenza-specchi-argilla-pro-phs-123074-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-potenza-specchi-argilla-pro-phs-123074.html"
+  },
+  {
+    "sku": "759860",
+    "name": "Afastador Labial Adulto Expandex Azul - Indusbello",
+    "description": "Embalagem com 2 unidades. (Adulto)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/759860_636116947577198383.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-adulto-expandex-azul-indusbello.html"
+  },
+  {
+    "sku": "148154",
+    "name": "Cunha Anatômica Plástica Interproximal Ultrawedge Tulwar Sortido - American Burrs",
+    "description": "Embalagem com 90 unidades (sortido).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-plastica-interproximal-ultrawedge-tulwar-sortido-american-burrs-148154.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-plastica-interproximal-ultrawedge-tulwar-sortido-american-burrs-148154.html"
+  },
+  {
+    "sku": "126055",
+    "name": "Pasta Nanodiamantada para Polimento Eagle Diamond - American Burrs",
+    "description": "Embalagem com 1 seringa de 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-nanodiamantada-eagle-diamond-2g-american-burrs-126055-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-nanodiamantada-eagle-diamond-2g-american-burrs-126055.html"
+  },
+  {
+    "sku": "629286",
+    "name": "Disco Diamantado Dupla Face PM - Komet",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629286_635817260558495408.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-dupla-face-pm-komet-629286.html"
+  },
+  {
+    "sku": "629378",
+    "name": "Ponta Diamantada Formato Lentilha PM - Komet",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629378_635817259591444738.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-diamantada-pm-formato-lentilha-komet-629378.html"
+  },
+  {
+    "sku": "128645",
+    "name": "Pasta de Polimento Potenza Specchi Pro 0,5 a 1,5 Microns - PHS",
+    "description": "Embalagem com 1 seringa com 3g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-potenza-specchi-pro-0-5-a-1-5-microns-phs-128645-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-potenza-specchi-pro-0-5-a-1-5-microns-phs-128645.html"
+  },
+  {
+    "sku": "131993",
+    "name": "Cunha de Madeira Sortida - Polydentia",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-madeira-sortida-polydentia-131993.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-de-madeira-sortida-polydentia-131993.html"
+  },
+  {
+    "sku": "128646",
+    "name": "Pasta de Polimento Potenza Specchi Pro 5 a 10 Microns - PHS",
+    "description": "Embalagem com 1 seringa com 3g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-potenza-specchi-pro-5-a-10-microns-phs-128646-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-potenza-specchi-pro-5-a-10-microns-phs-128646.html"
+  },
+  {
+    "sku": "568615",
+    "name": "Amálgama GS-80 - SDI",
+    "description": "Embalagem com 500 cápsulas. Rende 1 porção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/amalgama-gs-80-1-porcao-500-capsulas-dental-cremer-568615-01.jpg",
+    "url": "https://www.dentalcremer.com.br/amalgama-gs-80-sdi-568615.html"
+  },
+  {
+    "sku": "123029",
+    "name": "Dessensibilizante Potenza Esente 2,0% - PHS",
+    "description": "Embalagem com 1 seringa de 3g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-potenza-esente-2-0-phs-123029-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-potenza-esente-2-0-phs-123029.html"
+  },
+  {
+    "sku": "148162",
+    "name": "Cunha Anatômica Plástica Interproximal Ultrawedge Diamantada Sortido - American Burrs",
+    "description": "Embalagem com 120 unidades (sortido).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-plastica-interproximal-ultrawedge-diamantada-sortido-american-burrs-148162.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-plastica-interproximal-ultrawedge-diamantada-sortido-american-burrs-148162.html"
+  },
+  {
+    "sku": "DC38923",
+    "name": "Cunha Anatômica Plástica Interproximal Ultrawedge - American Burrs",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-plastica-interproximal-ultrawedge-grande-50unid-american-burrs-148144-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-plastica-interproximal-ultrawedge-american-burrs-dc38923.html"
+  },
+  {
+    "sku": "122122",
+    "name": "Resina Applic Flow - Maquira",
+    "description": "Resina Microhibrida. Embalagem com 1 seringa 2g A2 + 5 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-applic-flow-maquira-122122-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-applic-flow-maquira-122122.html"
+  },
+  {
+    "sku": "962642",
+    "name": "Cunha Anatômica 3D - Garrison",
+    "description": "Embalagem com 25 unidades. (Tamanho P - Azul)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/24920.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-3d-garrison-962642.html"
+  },
+  {
+    "sku": "DC38217",
+    "name": "Porta Resina New Square 20 Furos - Archneer",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-resina-new-square-20-furos-prata-archneer-134268.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-resina-new-square-20-furos-archneer-dc38217.html"
+  },
+  {
+    "sku": "133953",
+    "name": "Dessensibilizante Cavex ExSense Gel 2% - Cavex",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-cavex-exsense-gel-2-cavex-dental-cremer-133953.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-cavex-exsense-gel-2-cavex-133953.html"
+  },
+  {
+    "sku": "110179",
+    "name": "Broca Carbide Operatória Pêra CA N° 330 22mm - AllPrime",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-n-5-ca-dental-cremer-110179-01.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-operatoria-pera-ca-n-330-22mm-allprime-110179.html"
+  },
+  {
+    "sku": "110193",
+    "name": "Broca Carbide Cilíndrica Corte Liso CA Nº 56 22mm - AllPrime",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-cilindrica-corte-liso-ca-n-56-22mm-allprime-broca-110193.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-cilindrica-corte-liso-ca-n-56-22mm-allprime-110193.html"
+  },
+  {
+    "sku": "137716",
+    "name": "Kit de Acabamento e Polimento de Facetas em Cerâmica - Dr. Renato Voss e Dr. Raphael Monte Alto -",
+    "description": "Kit com 6 polidores, 2 Ponta Diamantada e 1 Broqueiro Autoclavável 75 furos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-de-acabamento-polimento-facetas-ceramicas-dr-renatovoss-dr-raphaelmontealto-dental-cremer-137716.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-de-acabamento-e-polimento-de-facetas-em-ceramica-dr-renato-voss-e-dr-raphael-monte-alto.html"
+  },
+  {
+    "sku": "600858",
+    "name": "Pasta Profilática Dessensibilizante Pró-Dessense - Allplan",
+    "description": "Embalagem com 1 bisnaga com 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-profilatica-dessensib-pro-dessense-bisn-30g-dental-cremer-600858-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-profilatica-dessensibilizante-pro-dessense-allplan-600858.html"
+  },
+  {
+    "sku": "DC30152",
+    "name": "Kit Cimento Resinoso Dual Autoadesivo 3M™ Relyx™ - Solventum",
+    "description": "Embalagem com 1 seringa de Cimento de Resina RelyX™ Universal de 3,4g + 15 pontas misturadoras Micro Mixing + 5 pontas alongadoras. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-3m-relyx-universal-a1-127031.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cimento-resinoso-dual-autoadesivo-relyx-refil-3m-solventum-dc30152.html"
+  },
+  {
+    "sku": "121489",
+    "name": "Dessensibilizante em Moldeira Ultraez 3% - Ultradent",
+    "description": "Embalagem com 1 moldeira superior e 1 moldeira inferior.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-moldeira-ultraez-3-ultradent-121489-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-em-moldeira-ultraez-3-ultradent-121489.html"
+  },
+  {
+    "sku": "134305",
+    "name": "Dessensibilizante - Vigodent",
+    "description": "Embalagem com 1 seringa de 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-vigodent-134305-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-vigodent-134305.html"
+  },
+  {
+    "sku": "624793",
+    "name": "Dessensibilizante Soothe 6% - SDI",
+    "description": "Embalagem com 1,2ml + ponta aplicadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/624793_635810321306317959.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-soothe-6-sdi-624793.html"
+  },
+  {
+    "sku": "124737",
+    "name": "Barreira Gengival 2g - Indusbello",
+    "description": "Embalagem com 1 seringa de 2g e 3 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-gengival-2g-indusbello-124737-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-gengival-2g-indusbello-124737.html"
+  },
+  {
+    "sku": "DC25229",
+    "name": "Barreira Gengival Fotopolimerizável Potenza Blocco - PHS",
+    "description": "Embalagem com 3 seringas de 2,5g cada + 6 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-gengival-potenza-blocco-phs-dc25229-01.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-gengival-potenza-blocco-phs-dc25229.html"
+  },
+  {
+    "sku": "101600",
+    "name": "Kit Preparo Cavitário Broca Carbide - Prima Dental by Angelus",
+    "description": "Kit com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101600.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-preparo-cavitario-broca-carbide-prima-dental-by-angelus-101600.html"
+  },
+  {
+    "sku": "DC29957",
+    "name": "Cimento Resinoso Dual Clearfil DC Core Plus - Kuraray",
+    "description": "Embalagem com 1 seringa dupla do Cimento Resinoso Dual Clearfil DC Core Plus Dentina (sendo 8,9g de pasta A e 9g de pasta B) + 20 Pontas misturadoras + 10 Pontas de guia L + 10 Pontas de guia S.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-clearfil-dc-core-plus-kuraray-dc29957-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-clearfil-dc-core-plus-kuraray-dc29957.html"
+  },
+  {
+    "sku": "693201",
+    "name": "Porta Resina Simples - Ortoguaru",
+    "description": "Unidade. Para 28 resinas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-resina-simples-p28res-acrilico-ortoguaru-dental-cremer-693201-01.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-resina-simples-ortoguaru-693201.html"
+  },
+  {
+    "sku": "DC29331",
+    "name": "Cimento Resinoso Dual Master Cement - Biodinâmica",
+    "description": "Embalagem com 2,5g de Base e 2,5g de Catalisador.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-master-cement-biodinamica-dc29331-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-master-cement-biodinamica-dc29331.html"
+  },
+  {
+    "sku": "DC20293",
+    "name": "Cimento Resinoso Dual Permacem 2.0 Smartmix - DMG",
+    "description": "Kit com 1 Seringa Smartmix de 9g + 15 Pontas Smartmix Curtas + 5 Pontas Smartmix Endo M. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-permacem-smartmix-dmg-DC20293.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-permacem-2-0-smartmix-dmg-dc20293.html"
+  },
+  {
+    "sku": "DC30748",
+    "name": "Resina Wave Flow - SDI",
+    "description": "Seringa com 1g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/541533.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-wave-flow-sdi-dc30748.html"
+  },
+  {
+    "sku": "173604",
+    "name": "Cimento Resinoso Foto Natures Try-In Clear - Maquira",
+    "description": "Embalagem com 1 seringa com 2g e 5 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-foto-natures-try-in-clear-bm4-173604.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-foto-natures-try-in-clear-maquira-173604.html"
+  },
+  {
+    "sku": "134309",
+    "name": "Kit Cimento Resinoso Truecore - Vigodent",
+    "description": "Kit com 4 seringas de corpo duplo com 6g nas cores universal, yellow, opaque e bleach.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cimento-resinoso-truecore-vigodent-134309-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cimento-resinoso-truecore-vigodent-134309.html"
+  },
+  {
+    "sku": "DC29333",
+    "name": "Cimento Resinoso Master Cement Try-in - Biodinâmica",
+    "description": "Embalagem com 2,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-master-cement-biodinamica-try-in-dc29333-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-master-cement-try-in-biodinamica-dc29333.html"
+  },
+  {
+    "sku": "DC30763",
+    "name": "Opacificador Opak - Angelus",
+    "description": "Embalagem com 1 unidade de 1,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/opacificador-opak-rosa-escuro-ser-15g-dental-cremer-608755-01.jpg",
+    "url": "https://www.dentalcremer.com.br/opacificador-opak-angelus-dc30763.html"
+  },
+  {
+    "sku": "110307",
+    "name": "Broca Carbide Cirúrgica Cônica FG Nº 267 19mm - AllPrime",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-cirurgica-conica-fg-n-267-19mm-allprime-produto-110307.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-cirurgica-conica-fg-n-267-19mm-allprime-110307.html"
+  },
+  {
+    "sku": "130476",
+    "name": "Kit Ultra Gloss e Vittra BL1 - American Burrs",
+    "description": "Confira oque acompanha o kit em detalhes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-ultra-gloss-e-vittra-bl1-american-burr-dental-cremer-130476.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-ultra-gloss-e-vittra-bl1-american-burrs-130476.html"
+  },
+  {
+    "sku": "137916",
+    "name": "Porta Resina Simples - Ortoguaru",
+    "description": "Unidade. Para 28 resinas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-resina-simples-p28res-acrilico-ortoguaru-dental-cremer-693201-01.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-resina-simples-ortoguaru-137916.html"
+  },
+  {
+    "sku": "126913",
+    "name": "Broca Carbide N° 1172 CA - Jota",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-1172-ca-jota-126913.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-n-1172-ca-jota-126913.html"
+  },
+  {
+    "sku": "125087",
+    "name": "Taça para Polimento Profilaxis Firme - W&H",
+    "description": "Embalagem com 144 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/taca-polimento-profilaxis-firme-weh-125087.jpg",
+    "url": "https://www.dentalcremer.com.br/taca-para-polimento-profilaxis-descartavel-firme-verde-escuro-w-h-125087.html"
+  },
+  {
+    "sku": "DC30097",
+    "name": "Ponta de Acabamento Dura Green CA - Shofu",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-acabamento-dura-green-ca-rd1-shofu-126448.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-acabamento-dura-green-ca-shofu-dc30097.html"
+  },
+  {
+    "sku": "110471",
+    "name": "Broca Multilaminada Agulha FG N° 9904 19mm 30 Lâminas - AllPrime",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/110471.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-multilaminada-agulha-fg-n-9904-19mm-30-laminas-allprime-110471.html"
+  },
+  {
+    "sku": "DC38218",
+    "name": "Porta Resina Square 40 Furos Prata - Archneer",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-resina-square-40-furos-dourado-archneer-134274.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-resina-square-40-furos-prata-archneer-dc38218.html"
+  },
+  {
+    "sku": "537260",
+    "name": "Restaurador Provisório Revotek LC 16g - GC",
+    "description": "Embalagem com 16g (Bastão B2), 1 caixa protetora e 1 espátula.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/restaurador-provisorio-revotek-lc-16g-cg-537260.jpg",
+    "url": "https://www.dentalcremer.com.br/restaurador-provisorio-revotek-lc-16g-cg-537260.html"
+  },
+  {
+    "sku": "110195",
+    "name": "Broca Carbide Cilindrica Corte Liso Ca N° 58 22mm - AllPrime",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-cilindrica-corte-liso-ca-n-58-22mm-allprime-110195-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-cilindrica-corte-liso-ca-n-58-22mm-allprime-110195.html"
+  },
+  {
+    "sku": "627251",
+    "name": "Resina Umidificadora Modeling Resin - Bisco",
+    "description": "Embalagem com 2 unidades de 1,5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/627251_635808606107620699.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-umidificadora-modeling-resin-bisco-627251.html"
+  },
+  {
+    "sku": "DC11410",
+    "name": "Broca Carbide Esférica FG Maillefer - Dentsply Sirona",
+    "description": "Unidade. Alta Rotação. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/430950.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-esferica-fg-maillefer-dentsply-sirona-dc11410.html"
+  },
+  {
+    "sku": "110112",
+    "name": "Broca Carbide Esférica CA N°6 22mm - AllPrime",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-esferica-ca-n-6-22mm-allprime-110112-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-esferica-ca-n-6-22mm-allprime-110112.html"
+  },
+  {
+    "sku": "143359",
+    "name": "Mandril Ca Pop-On - Iodontosul",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mandril-ca-pop-on-iodontosul-dental-cremer-143359.jpg",
+    "url": "https://www.dentalcremer.com.br/mandril-ca-pop-on-iodontosul-143359.html"
+  },
+  {
+    "sku": "604979",
+    "name": "Camurça para Amálgama - Jon",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/camurca-p-amalgama-jon-dc-604979-01.jpg",
+    "url": "https://www.dentalcremer.com.br/camurca-para-amalgama-jon-604979.html"
+  },
+  {
+    "sku": "126802",
+    "name": "Amálgama GS-80 - SDI",
+    "description": "Embalagem com 50 cápsulas. Rende 1 porção - 400 mg. Regular.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/amalgama-gs-80-sdi-363951-1.jpg",
+    "url": "https://www.dentalcremer.com.br/amalgama-gs-80-sdi-126802.html"
+  },
+  {
+    "sku": "596458",
+    "name": "Infiltrante de Cáries Icon Proximal - DMG",
+    "description": "Kit com duas unidades de tratamento com 3 seringas (Ácido clorídrico, Etanol e Resina infiltrante) + pontas + cunhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/596458_635666816995542839.jpg",
+    "url": "https://www.dentalcremer.com.br/infiltrante-de-caries-icon-proximal-dmg-596458.html"
+  },
+  {
+    "sku": "559170",
+    "name": "Porta Matriz Infantil - Prisma",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559170.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-matriz-infantil-prisma-559170.html"
+  },
+  {
+    "sku": "559187",
+    "name": "Porta Matriz Adulto - Prisma",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559170_635490767709190556.jpg",
+    "url": "https://www.dentalcremer.com.br/adulto-cod-559187-559187.html"
+  },
+  {
+    "sku": "399479",
+    "name": "Porta Matriz Tofflemire Infantil - Fava",
+    "description": "Embalagem com 1 unidade, Infantil.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/399479.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-matriz-tofflemire-fava-399479.html"
+  },
+  {
+    "sku": "134280",
+    "name": "Suporte Expositor para Lente de Contato e Faceta Preto - Archneer",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-lente-de-contato-e-faceta-preto-archneer-134280.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-lente-de-contato-e-faceta-preto-archneer-134280.html"
+  },
+  {
+    "sku": "DC23085",
+    "name": "Pedra Arkansas American Stones Grossa FG - American Burrs",
+    "description": "Embalagem com 1 unidade. Escolha o formato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-arkansas-american-stones-grossa-fg-american-burrs-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-arkansas-ultra-green-american-stones-fg-american-burrs-dc23085.html"
+  },
+  {
+    "sku": "DC27100",
+    "name": "Polidor Diamantado de Resina TopGloss AR - Edenta",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/169553.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-de-resina-topgloss-ar-edenta-dc27100.html"
+  },
+  {
+    "sku": "138420",
+    "name": "Resina Umidificadora Modeling Resin - Bisco",
+    "description": "Embalagem com 2 unidades de 1,5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/627251_635808606107620699.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-umidificadora-modeling-resin-bisco-138420.html"
+  },
+  {
+    "sku": "DC24629_B_2",
+    "name": "Polidor Diamantado de Cerâmica PM - Jota",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/851632.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-de-ceramica-pm-jota-dc24629-b-2.html"
+  },
+  {
+    "sku": "949322",
+    "name": "Corante para Resina Final Touch Kit - Voco",
+    "description": "Kit com 5 seringas de 1,5 g cada, na cores Branco, Azul, Amarelo, Laranja e Marron + acessórios.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/949322.jpg",
+    "url": "https://www.dentalcremer.com.br/corante-para-resina-final-touch-kit-voco-949322.html"
+  },
+  {
+    "sku": "101010",
+    "name": "Guias Para Confecção de Facetas em Resina Composta Uveneer - Ultradent",
+    "description": "Kit com 16 Guias superiores e inferiores de tamanho médio + 16 Guias superiores e inferiores de tamanho grande.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/demonstracao-guia-confeccao-facetas-uneveer-ultradent-101010.jpg",
+    "url": "https://www.dentalcremer.com.br/sistema-de-guias-para-confecc-o-de-facetas-uveneer-ultradent-101010.html"
+  },
+  {
+    "sku": "135187",
+    "name": "Guias Para Confecção de Facetas em Resina Composta Uveneer - Ultradent",
+    "description": "Kit 16 Guias superiores e inferiores tamanho médio + 16 Guias superiores e inferiores tamanho grande.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/demonstracao-guia-confeccao-facetas-uneveer-ultradent-101010.jpg",
+    "url": "https://www.dentalcremer.com.br/guias-para-confeccao-de-facetas-em-resina-composta-uveneer-ultradent-135187.html"
+  },
+  {
+    "sku": "701607",
+    "name": "Alicate Palodent V3 - Dentsply",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-palodent-v3-dentsply-701607-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-palodent-v3-dentsply-701607.html"
+  },
+  {
+    "sku": "130479",
+    "name": "Kit Twist Gloss e Vittra BL1 - American Burrs",
+    "description": "Kit com 2 Polidores Espirais Diamantados CA (Média, Fina), 3 Polidores de Resina CA (Grossa, Média, Fina), 1 Escova Pelo de Cabra, 1 Broqueiro Autoclavável de 75 furos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-twist-gloss-e-vittra-bl1-american-burrs-dental-cremer-130479.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-twist-gloss-e-vittra-bl1-american-burrs-130479.html"
+  },
+  {
+    "sku": "124856",
+    "name": "Escala de Cor Compacta Resina AP-X ES-2 - Kuraray",
+    "description": "Embalagem com 1 guia de cores compacta (A1, A2, A3, A3.5, A4, B1, B2, B3, B4, C1, C2, C3, C4, D2, D3, XW e W).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-compacta-resina-ap-x-es-2-kuraray-124856-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-compacta-resina-ap-x-es-2-kuraray-124856.html"
+  },
+  {
+    "sku": "130480",
+    "name": "Kit Twist Gloss e Vittra BL2 - American Burrs",
+    "description": "Kit com 2 Polidores Espirais Diamantados CA (Média, Fina), 3 Polidores de Resina CA (Grossa, Média, Fina), 1 Escova Pelo de Cabra, 1 Broqueiro Autoclavável de 75 furos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-twist-gloss-e-vittra-bl2-american-burrs-dental-cremer-130480.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-twist-gloss-e-vittra-bl2-american-burrs-130480.html"
+  },
+  {
+    "sku": "124855",
+    "name": "Escala de Cor Resina AP-X ES-2 - Kuraray",
+    "description": "Embalagem com 1 guia de cores para todas as cores.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-resina-ap-x-es-2-kuraray-dental-cremer-124855.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-resina-ap-x-es-2-kuraray-124855.html"
+  }
+]

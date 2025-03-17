@@ -1,0 +1,757 @@
+[
+  {
+    "sku": "DC25831",
+    "name": "Cortante de Black Simples - Golgran",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/106580.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-simples-golgran-dc25831.html"
+  },
+  {
+    "sku": "686890",
+    "name": "Cortante de Black Duplo Revisado Enxada 18-19 Duflex - SS White",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cortante-black-duplo-revisado-tipo-enxada-1819-duflex-sswhite-686890-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-revisado-enxada-18-19-duflex-ss-white-686890.html"
+  },
+  {
+    "sku": "764727",
+    "name": "Estojo Acrílico Porta Alicate com Tampa - Ortoguaru",
+    "price": "R$99,90",
+    "description": "Unidade. Para 20 Alicates.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/764727.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-acrilico-porta-alicate-com-tampa-ortoguaru-764727.html"
+  },
+  {
+    "sku": "DC29330",
+    "name": "Cortante de Black - Quinelato",
+    "price": "R$219,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cortante-de-black-quinelato-dc29330-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-quinelato-dc29330.html"
+  },
+  {
+    "sku": "DC25113",
+    "name": "Calcador Clevi Dent - Fava",
+    "price": "R$9,19",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771558_636138642402110199.jpg",
+    "url": "https://www.dentalcremer.com.br/calcador-clevi-dent-fava-dc25113.html"
+  },
+  {
+    "sku": "746099",
+    "name": "Foice SH 5/33 Millennium - Golgran",
+    "price": "R$72,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/foice-sh-5-33-millennium-golgran-746099-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-sh-5-33-millennium-golgran-746099.html"
+  },
+  {
+    "sku": "145768",
+    "name": "Condensador Fotoplus - TDV",
+    "price": "R$60,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condensador-fotoplus-tdv-145768-a.jpg",
+    "url": "https://www.dentalcremer.com.br/condensador-fotoplus-tdv-145768.html"
+  },
+  {
+    "sku": "614954",
+    "name": "Foice Raspador Ponta Morse 0-00 - Hu-Friedy",
+    "price": "R$339,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/614954_635749684479334293.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-raspador-ponta-morse-0-00-hu-friedy-614954.html"
+  },
+  {
+    "sku": "344080",
+    "name": "Gengivótomo Kirkland 15/16 Millennium - Golgran",
+    "price": "R$73,90",
+    "description": "Embalagem com 1 unidade. Ref: 90-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gengivotomo-kirland-15-16-dental-cremer-344080-01.jpg",
+    "url": "https://www.dentalcremer.com.br/gengivotomo-kirkland-15-16-millennium-golgran-344080.html"
+  },
+  {
+    "sku": "508383",
+    "name": "Porta Amálgama Simples - Golgran",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 unidade. Ref: 140-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-amalgama-simples-adulto-dental-cremer-508383-01.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-amalgama-simples-golgran-508383.html"
+  },
+  {
+    "sku": "760781",
+    "name": "Retentor para Rolo de Algodão - Jon",
+    "price": "R$7,99",
+    "description": "Embalagem com 1 unidade. Modelo cavalete.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/produto-retentor-para-rolo-de-algod-o-jon-760781.jpg",
+    "url": "https://www.dentalcremer.com.br/retentor-para-rolo-de-algod-o-jon-760781.html"
+  },
+  {
+    "sku": "605341",
+    "name": "Pedra para Afiar Goiva 186 - Jon",
+    "price": "R$52,90",
+    "description": "Embalagem com 1 unidade. Na cor branca.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-p-afiar-goiva-186-dental-cremer-605341-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-para-afiar-goiva-186-jon-605341.html"
+  },
+  {
+    "sku": "593334",
+    "name": "Cuba Inox Rim - Golgran",
+    "price": "R$75,90",
+    "description": "Unidade. 26x12cm. Ref: 186-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/593334.jpg",
+    "url": "https://www.dentalcremer.com.br/cuba-inox-rim-golgran.html"
+  },
+  {
+    "sku": "DC21386",
+    "name": "Foice - Hu-Friedy",
+    "price": "R$275,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc21386.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-hu-friedy-dc21386.html"
+  },
+  {
+    "sku": "100482",
+    "name": "Gengivótomo Orban Quality Line - Ice",
+    "price": "R$58,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gengivotomo-orban-quality-line-ice-dental-cremer-100482-01.jpg",
+    "url": "https://www.dentalcremer.com.br/gengivotomo-orban-quality-line-ice-100482.html"
+  },
+  {
+    "sku": "508222",
+    "name": "Martelo Mead - Golgran",
+    "price": "R$154,90",
+    "description": "Embalagem com 1 unidade. Ref: 125-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/martelo-mead-golgran-508222-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/martelo-mead-golgran-508222.html"
+  },
+  {
+    "sku": "383959",
+    "name": "Aplicador MTA - Angelus",
+    "price": "R$279,90",
+    "description": "Unidade. Tamanho Médio.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/383959.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-mta-angelus-383959.html"
+  },
+  {
+    "sku": "399325",
+    "name": "Alveolótomo Curvo - Fava",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alveolotomo-curvo-16-cm-dental-cremer-399325-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alveolotomo-curvo-fava-399325.html"
+  },
+  {
+    "sku": "148349",
+    "name": "Abridor de Boca Abritec Verde Bebê - Indusbello",
+    "price": "R$296,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/abridor-de-boca-abritec-verde-bebe-indusbello-148349.jpg",
+    "url": "https://www.dentalcremer.com.br/abridor-de-boca-abritec-verde-bebe-indusbello-148349.html"
+  },
+  {
+    "sku": "143364",
+    "name": "Pedra de Afiar Pério Stone Triangular Rosa - Iodontosul",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-de-afiar-perio-stone-triangular-rosa-iodontosul-dental-cremer-143364.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-de-afiar-perio-stone-triangular-rosa-iodontosul-143364.html"
+  },
+  {
+    "sku": "102561",
+    "name": "Concha Para Cera Inox - Mac Dental",
+    "price": "R$136,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102561.jpg",
+    "url": "https://www.dentalcremer.com.br/concha-para-cera-inox-mac-dental-102561.html"
+  },
+  {
+    "sku": "DC27050",
+    "name": "Foice LM - Quinelato",
+    "price": "R$195,90",
+    "description": "Unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/827217.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-lm-quinelato-dc27050.html"
+  },
+  {
+    "sku": "712520",
+    "name": "Pinça para Copping Simples - Kota",
+    "price": "R$127,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/712520-1.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-para-copping-simples-kota-712520.html"
+  },
+  {
+    "sku": "148996",
+    "name": "Kit Concha para Cera Inox Mais Cera 7 - Lysanda",
+    "price": "R$111,90",
+    "description": "Embalagem com 1 choncha e 1 cera 7.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-concha-para-cera-inox-mais-cera-7-lysanda-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-concha-para-cera-inox-mais-cera-7-lysanda-148996.html"
+  },
+  {
+    "sku": "920550",
+    "name": "Cuba Polpa de Celulose Rim - Kolplast",
+    "price": "R$1,99",
+    "description": "Unidade. Capacidade 600ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/920550.jpg",
+    "url": "https://www.dentalcremer.com.br/cuba-polpa-de-celulose-rim-kolplast.html"
+  },
+  {
+    "sku": "508390",
+    "name": "Porta Amálgama Micro - Golgran",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 unidade. Ref: 140-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-amalgama-micro-dental-cremer-508390-01.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-amalgama-micro-golgran-508390.html"
+  },
+  {
+    "sku": "508215",
+    "name": "Martelo Cirurgico 150 Grs - Golgran",
+    "price": "R$187,90",
+    "description": "Embalagem com 1 unidade. Ref: 138-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/508215.jpg",
+    "url": "https://www.dentalcremer.com.br/martelo-cirurgico-150-grs-golgran-508215.html"
+  },
+  {
+    "sku": "100513",
+    "name": "Sindesmótomo - Ice",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100513.jpg",
+    "url": "https://www.dentalcremer.com.br/sindesmotomo-ice-100513.html"
+  },
+  {
+    "sku": "102161",
+    "name": "Abridor de Boca Molt Infantil - Ice",
+    "price": "R$299,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102161.jpg",
+    "url": "https://www.dentalcremer.com.br/abridor-de-boca-molt-infantil-ice-102161.html"
+  },
+  {
+    "sku": "143366",
+    "name": "Pedra de Afiar Pério Stone Goiva Pro Max Laranja - Iodontosul",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-de-afiar-perio-stone-goiva-pro-max-laranja-iodontosul-dental-cremer-143366.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-de-afiar-perio-stone-goiva-pro-max-laranja-iodontosul-143366.html"
+  },
+  {
+    "sku": "615111",
+    "name": "Pedra Afiar Cerâmica - SS3C - Hu-Friedy",
+    "price": "R$451,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-afiar-ceramica-ss3c-hu-friedy-615111.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-afiar-ceramica-ss3c-hu-friedy-615111.html"
+  },
+  {
+    "sku": "746075",
+    "name": "Extrator de Excesso Intraprox IPC 1 - Golgran",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade. Ref: 218-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/extrator-de-excesso-removedor-intraprox-ipc-1-dental-cremer-746075-01.jpg",
+    "url": "https://www.dentalcremer.com.br/extrator-de-excesso-intraprox-ipc-1-golgran-746075.html"
+  },
+  {
+    "sku": "655148",
+    "name": "Pinça Reta para Casquetes - Defama",
+    "price": "R$63,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/655148.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-reta-para-casquetes-defama-655148.html"
+  },
+  {
+    "sku": "680461",
+    "name": "Pinça Para Coroas Empress - Ivoclar Vivadent",
+    "price": "R$675,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/680461_635829400067118404.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-para-coroas-empress-ivoclar-vivadent-680461.html"
+  },
+  {
+    "sku": "395112",
+    "name": "Brunidor nº33 Simples - Golgran",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Ref: 60-12.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/brunidor-33-simples-dental-cremer-395112-01.jpg",
+    "url": "https://www.dentalcremer.com.br/brunidor-n-33-simples-golgran-395112.html"
+  },
+  {
+    "sku": "102178",
+    "name": "Compasso Castroviejo - Ice",
+    "price": "R$284,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compasso-castroviejo-ice-102178-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/compasso-castroviejo-ice-102178.html"
+  },
+  {
+    "sku": "508147",
+    "name": "Kit Extrator de Tártaro - Golgran",
+    "price": "R$56,90",
+    "description": "Embalagem com 1 Extrator de Tártaro Nº 3 + 1 Extrator de Tártaro Nº 33 + 1 Extrator de Tártaro Nº 34.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/508147.jpg",
+    "url": "https://www.dentalcremer.com.br/extrator-de-tartaro-golgran-508147.html"
+  },
+  {
+    "sku": "399387",
+    "name": "Extrator de Excesso 349 - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/399387_635488185369096958.jpg",
+    "url": "https://www.dentalcremer.com.br/extrator-de-excesso-349-fava-399387.html"
+  },
+  {
+    "sku": "105001",
+    "name": "Especímetro - Ice",
+    "price": "R$48,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/especimetro-dental-cremer-105001-01.jpg",
+    "url": "https://www.dentalcremer.com.br/especimetro-ice-105001.html"
+  },
+  {
+    "sku": "DC29326",
+    "name": "Cabo para Bisturi Lâmina Dupla Reta - Quinelato",
+    "price": "R$120,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-para-bisturi-lamina-dupla-reta-quinelato-dc29326-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-bisturi-lamina-dupla-reta-quinelato-dc29326.html"
+  },
+  {
+    "sku": "131902",
+    "name": "Colocador Metálico para Elástico Duplo - Zatty",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/colocador-metalico-para-elastico-duplo-coltene-131902-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/colocador-metalico-para-elastico-duplo-zatty-131902.html"
+  },
+  {
+    "sku": "745948",
+    "name": "Especímetro Castroviejo - Golgran",
+    "price": "R$293,90",
+    "description": "Embalagem com 1 unidade. Ref: 99-4.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/745948.jpg",
+    "url": "https://www.dentalcremer.com.br/especimetro-castroviejo-golgran-745948.html"
+  },
+  {
+    "sku": "693133",
+    "name": "Porta Alicate Desmontável - Ortoguaru",
+    "price": "R$53,90",
+    "description": "Unidade. Para 22 alicates.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/693133_635902703705709255.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-alicate-desmontavel-ortoguaru-693133.html"
+  },
+  {
+    "sku": "119002",
+    "name": "Espelho Toucador com Cabo Kids Boca - Agir",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-toucador-com-cabo-kids-boca-agir-dental-cremer-119002.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-toucador-com-cabo-kids-boca-agir-119002.html"
+  },
+  {
+    "sku": "DC30435",
+    "name": "Dobrador Distal 022 - Zatty",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dobrador-distal-022-slot-aberto-zatty-131905-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dobrador-distal-022-zatty-dc30435.html"
+  },
+  {
+    "sku": "613377",
+    "name": "Ponta Sonda Milim Colorvue - 36912 6UNPCV12PT - Hu-Friedy",
+    "price": "R$387,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-sonda-milim-colorvue-36912-6unpcv12pt-hu-friedy-613377.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-sonda-milim-colorvue-36912-6unpcv12pt-hu-friedy-613377.html"
+  },
+  {
+    "sku": "100485",
+    "name": "Kit de Irrigação - Ice",
+    "price": "R$71,90",
+    "description": "Embalagem com 4 unidades. 1 intermediário, 1 agulha fina, 1 agulha média e 1 agulha grossa.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-de-irrigacao-dental-cremer-100485-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-de-irrigac-o-ice.html"
+  },
+  {
+    "sku": "612738",
+    "name": "Gengivótomo Orban - Hu-Friedy",
+    "price": "R$958,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gengivotomo-orban-1-2-hu-friedy-dc-612738-01.jpg",
+    "url": "https://www.dentalcremer.com.br/gengivotomo-orban-hu-friedy-612738.html"
+  },
+  {
+    "sku": "127614",
+    "name": "Compasso de Willis - Fava",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/127614.jpg",
+    "url": "https://www.dentalcremer.com.br/compasso-de-willis-fava-127614.html"
+  },
+  {
+    "sku": "396997",
+    "name": "Marcador de Instrumento Redondo com Estojo - Indusbello",
+    "price": "R$31,90",
+    "description": "Embalagem com 120 unidades + 1 Estojo. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/foto-marcador-instrumentais-redondo-indusbello-396997.jpg",
+    "url": "https://www.dentalcremer.com.br/marcador-de-instrumento-redondo-indusbello-396997.html"
+  },
+  {
+    "sku": "772708",
+    "name": "Alveolótomo Reto - Fava",
+    "price": "R$150,90",
+    "description": "Embalagem com 1 unidade de 16cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alveolotomo-reto-16cm-fava-dc-772708-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alveolotomo-reto-fava-772708.html"
+  },
+  {
+    "sku": "557596",
+    "name": "Alicate Ortodôntico de Bico Chato Nº 121 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-bico-chato-121-zatty-557596.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-de-bico-chato-n-121-zatty-557596.html"
+  },
+  {
+    "sku": "126850",
+    "name": "Alicate Ortodôntico para Dobrar Fio na Distral - Ice",
+    "price": "R$368,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-para-dobrar-fio-na-distral-ice-126850-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-dobrar-fio-na-distral-ice-126850.html"
+  },
+  {
+    "sku": "127229",
+    "name": "Alicate Ortodôntico Tridente Longo Nº 201 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-tridente-longo-n-201-zatty-127229-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-tridente-longo-n-201-zatty-127229.html"
+  },
+  {
+    "sku": "123951",
+    "name": "Estojo Acrílico Porta Alicate com Tampa - Ortoguaru",
+    "price": "R$123,80",
+    "description": "Unidade. Para 30 alicates.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/123951.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-acrilico-porta-alicate-com-tampa-ortoguaru-123951.html"
+  },
+  {
+    "sku": "131903",
+    "name": "Extrator de Excesso Metálico - Zatty",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/extrator-de-excesso-metalico-zatty-131903-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/extrator-de-excesso-metalico-zatty-131903.html"
+  },
+  {
+    "sku": "126837",
+    "name": "Alicate Ortodôntico Removedor de Bráquete Cerâmico - Ice",
+    "price": "R$139,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-removedor-de-braquete-ceramico-ice-3.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-de-braquete-ceramico-ice-126837.html"
+  },
+  {
+    "sku": "510010",
+    "name": "Martelo De Mead - Quinelato",
+    "price": "R$149,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/martelo-mead-dental-cremer-510010-01.jpg",
+    "url": "https://www.dentalcremer.com.br/martelo-de-mead-quinelato-510010.html"
+  },
+  {
+    "sku": "745955",
+    "name": "Especímetro Cirúrgico - Golgran",
+    "price": "R$270,90",
+    "description": "Embalagem com 1 unidade. Ref: 99-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/especimetro-cirurgico-745955-01-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/especimetro-cirurgico-golgran-745955.html"
+  },
+  {
+    "sku": "508154",
+    "name": "Especímetro Cirúrgico Para Implante - Golgran",
+    "price": "R$385,90",
+    "description": "Embalagem com 1 unidade. Ref: 99-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/especimetro-cirurgico-p-implante-golgran-dc-508154-01.jpg",
+    "url": "https://www.dentalcremer.com.br/especimetro-cirurgico-para-implante-golgran-508154.html"
+  },
+  {
+    "sku": "105018",
+    "name": "Especímetro Cirúrgico - Ice",
+    "price": "R$239,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/especimetro-cirurgico-ice-105018.jpg",
+    "url": "https://www.dentalcremer.com.br/especimetro-cirurgico-ice-105018.html"
+  },
+  {
+    "sku": "605440",
+    "name": "Porta Amalgama Delrin de Plástico - Jon",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/605440.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-amalgama-delrin-de-plastico-jon-605440.html"
+  },
+  {
+    "sku": "126838",
+    "name": "Alveolótomo Luer Curvo - Ice",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alveolotomo-luer-ice-126838-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alveolotomo-luer-ice-126838.html"
+  },
+  {
+    "sku": "841916",
+    "name": "Martelo Mead - Ice",
+    "price": "R$129,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/martelo-de-mead-branco-ice-dental-cremer-841916-01.jpg",
+    "url": "https://www.dentalcremer.com.br/martelo-mead-ice-841916.html"
+  },
+  {
+    "sku": "114799",
+    "name": "Adaptador de Sucção Luer Vaccum - Ultradent",
+    "price": "R$134,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/604696.jpg",
+    "url": "https://www.dentalcremer.com.br/adaptador-de-succ-o-luer-vaccum-ultradent.html"
+  },
+  {
+    "sku": "759310",
+    "name": "Espátula de Vidro para Opaco Opaqueglass - Formaden",
+    "price": "R$113,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-de-vidro-para-opaco-opaqueglass-formaden-759310-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-vidro-para-opaco-opaqueglass-formaden-759310.html"
+  },
+  {
+    "sku": "605549",
+    "name": "Separador Mecânico Helliotti Inox - Jon",
+    "price": "R$179,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/605549.jpg",
+    "url": "https://www.dentalcremer.com.br/separador-mecanico-helliotti-inox-jon-605549.html"
+  },
+  {
+    "sku": "119208",
+    "name": "Abaixador de Língua Bruenings - Quinelato",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/abaixador-de-lingua-bruenings-quinelato-119208.jpg",
+    "url": "https://www.dentalcremer.com.br/abaixador-de-lingua-bruenings-quinelato-119208.html"
+  },
+  {
+    "sku": "DC24529",
+    "name": "Osteótomo - Ice",
+    "price": "R$354,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/841886.jpg",
+    "url": "https://www.dentalcremer.com.br/osteotomo-ice-dc24529.html"
+  },
+  {
+    "sku": "668322",
+    "name": "Tunelizador - Hu-Friedy",
+    "price": "R$387,90",
+    "description": "Embalagem com 1 unidade. (Modelo N° 2).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/668322.jpg",
+    "url": "https://www.dentalcremer.com.br/tunelizador-hu-friedy-668322.html"
+  },
+  {
+    "sku": "119238",
+    "name": "Cabo para Bisturi Lm-Ergohold - Quinelato",
+    "price": "R$249,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-para-bisturi-lm-ergohold-quinelato-119238-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-bisturi-lm-ergohold-quinelato-119238.html"
+  },
+  {
+    "sku": "126895",
+    "name": "Saca Prótese com 3 Pontas - Ice",
+    "price": "R$118,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saca-protese-com-3-pontas-ice-126895-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saca-protese-com-3-pontas-ice-126895.html"
+  },
+  {
+    "sku": "126307",
+    "name": "Lima Schluger nº 9/10 - Quinelato",
+    "price": "R$89,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-schluger-n-9-10-quinelato-126307-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-schluger-n-9-10-quinelato-126307.html"
+  },
+  {
+    "sku": "841664",
+    "name": "Adaptador de Sucção - Ice",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/intermediario-adaptador-de-succao-dental-cremer-841664-01.jpg",
+    "url": "https://www.dentalcremer.com.br/adaptador-de-succ-o-ice.html"
+  },
+  {
+    "sku": "124902",
+    "name": "Pinça para Tubos - Orthometric",
+    "price": "R$47,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pinca-para-tubos-orthometric-124902-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-para-tubos-orthometric.html"
+  },
+  {
+    "sku": "613629",
+    "name": "Medidor Proporcionalidade Chu - Hu-Friedy",
+    "price": "R$858,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/613629_635749646232881125.jpg",
+    "url": "https://www.dentalcremer.com.br/medidor-proporcionalidade-chu-hu-friedy-613629.html"
+  },
+  {
+    "sku": "508185",
+    "name": "Destaca Periósteo Mead - Golgran",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Ref: 38-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/508185.jpg",
+    "url": "https://www.dentalcremer.com.br/destaca-periosteo-mead-golgran-508185.html"
+  },
+  {
+    "sku": "DC30738",
+    "name": "Porta Alicates Tooth - Archneer",
+    "price": "R$199,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-alicates-tooth-dourado-archneer-134281.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-alicates-tooth-archneer-dc30738.html"
+  },
+  {
+    "sku": "118396",
+    "name": "Serra G 127mm - Mac Dental",
+    "price": "R$150,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118396.jpg",
+    "url": "https://www.dentalcremer.com.br/serra-g-127mm-mac-dental-118396.html"
+  },
+  {
+    "sku": "146012",
+    "name": "Trava Seringa 20ml - Ice",
+    "price": "R$98,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/trava-seringa-20ml-ice-146012.jpg",
+    "url": "https://www.dentalcremer.com.br/trava-seringa-20ml-ice-146012.html"
+  },
+  {
+    "sku": "DC21248",
+    "name": "Cabo para Espelho Bucal - Hu-Friedy",
+    "price": "R$171,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-para-espelho-com-encaixe-conico-mh6-hu-friedy-612813.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-espelho-bucal-hu-friedy-dc21248.html"
+  },
+  {
+    "sku": "124911",
+    "name": "Lápis Ligador para Aplicação de Amarrilho -  Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lapis-ligador-para-aplicac-o-de-amarrilho-orthometric-124911-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lapis-ligador-para-aplicac-o-de-amarrilho-orthometric.html"
+  },
+  {
+    "sku": "712469",
+    "name": "Dosador de Porcelana - Kota",
+    "price": "R$156,90",
+    "description": "Unidade. 12cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dosador-de-porcelana-kota-712469-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/dosador-de-porcelana-kota-712469.html"
+  },
+  {
+    "sku": "127984",
+    "name": "Kit Dosador Duplo Sortido - Jon",
+    "price": "R$119,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-dosador-duplo-jon-sortido-127984.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-dosador-duplo-sortido-jon-127984.html"
+  },
+  {
+    "sku": "767797",
+    "name": "Espátula para Resina N° 7 + Thompson - Ice",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-pres-thompson-c-espatula-presina-7-ice-dc-767797-02.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-n-7-thompson-ice-767797.html"
+  },
+  {
+    "sku": "477207",
+    "name": "Espátula Para Resina Nº 1 - Quinelato",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-resina-numero-1-quinelato-477207.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-quinelato-477207.html"
+  },
+  {
+    "sku": "399127",
+    "name": "Alicate Ortodôntico Corte De Distal 116 - Fava",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/399127.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-de-distal-116-fava.html"
+  },
+  {
+    "sku": "512953",
+    "name": "Alicate Goldman Fox - Quinelato",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/512953.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-goldman-fox-quinelato-512953.html"
+  },
+  {
+    "sku": "567816",
+    "name": "Alicate Unimatrix - TDV",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-unimatrix-tdv-dental-cremer-567816.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-unimatrix-4123-tdv-567816.html"
+  },
+  {
+    "sku": "767391",
+    "name": "Alicate Ortodôntico 325 Universal - Ice",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-325-universal-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-325-universal-ice.html"
+  },
+  {
+    "sku": "122811",
+    "name": "Alicate Unimatrix - TDV",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-unimatrix-tdv-lovers-dental-cremer-567816.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-unimatrix-4123-tdv-122811.html"
+  },
+  {
+    "sku": "143333",
+    "name": "Espátula Plástica para Ionômero de Vidro 142 - Iodontosul",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-plastica-para-ionomero-de-vidro-142-143333.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-plastica-para-ionomero-de-vidro-142-iodontosul-143333.html"
+  },
+  {
+    "sku": "707472",
+    "name": "Alicate Perfurador Ainsworth - SS White",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/707472_635911249234364814.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-perfurador-ainsworth-ss-white-707472.html"
+  },
+  {
+    "sku": "149714",
+    "name": "Alicate Ortodôntico Corte Pesado Pequeno com Widea Nº266Pw - Zatty",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-pesado-pequeno-com-widea-n266pw-zatty-149714.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-pesado-pequeno-com-widea-n-266pw-zatty-149714.html"
+  },
+  {
+    "sku": "121497",
+    "name": "Alicate Ortodôntico Corte Distal 700 com Widia - Orthometric",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-orto-700-corte-distal-widia-orthometric-121497-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-700-com-widia-orthometric-121497.html"
+  },
+  {
+    "sku": "111273",
+    "name": "Alicate Ortodôntico Corte Amarrilho com Widia Black Diamond - Ice",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111273.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-orto-corte-amarrilho-c-widia-black-diamond-ice-111273.html"
+  }
+]

@@ -1,0 +1,769 @@
+[
+  {
+    "sku": "144766",
+    "name": "Líquido Stain MF 20ml - Kulzer",
+    "price": "R$89,90",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-stain-mf-20ml-kulzer-144766.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-stain-mf-20ml-kulzer-144766.html"
+  },
+  {
+    "sku": "131628",
+    "name": "Cerâmica Ceramco3 Pasta Base - Dentsply Sirona",
+    "price": "R$310,90",
+    "description": "Embalagem com 2ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/131628.png",
+    "url": "https://www.dentalcremer.com.br/ceramica-ceramco3-pasta-base-dentsply-sirona-131628.html"
+  },
+  {
+    "sku": "679519",
+    "name": "Opaco Ips Inline Pom Intensive Opaquer Brown 3G - Ivoclar Vivadent",
+    "price": "R$249,90",
+    "description": "Embalagem com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/opaco-ips-inline-pom-intensive-opaquer-brown-3g-dental-cremer-679519.jpg",
+    "url": "https://www.dentalcremer.com.br/opaco-ips-inline-pom-intensive-opaquer-brown-3g-ivoclar-vivadent-679519.html"
+  },
+  {
+    "sku": "DC38816",
+    "name": "Cerâmica HeraCeram Incisal - Kulzer",
+    "price": "R$769,90",
+    "description": "Embalagem com 1 frasco de 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-incisal-kulzer-dc38816.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-incisal-kulzer-dc38816.html"
+  },
+  {
+    "sku": "DC38810",
+    "name": "Cerâmica HeraCeram Dentina Bleach D - Kulzer",
+    "price": "R$209,90",
+    "description": "Embalagem com 1 frasco de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-dentina-bleach-d-kulzer-dc38810.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-dentina-bleach-d-kulzer-dc38810.html"
+  },
+  {
+    "sku": "DC24025",
+    "name": "Cerâmica VM13 Base Dentina - Vita",
+    "price": "R$351,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/24025_635942647379141648.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm13-base-dentina-vita-dc24025.html"
+  },
+  {
+    "sku": "DC26251",
+    "name": "Pote Coletor Cerâmica Ceramco3 - Dentsply Sirona",
+    "price": "R$324,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc26251.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-coletor-ceramica-ceramco3-dentsply-sirona-dc26251.html"
+  },
+  {
+    "sku": "DC25976",
+    "name": "Cerâmica Initial Lisi Enamel Opal - GC",
+    "price": "R$355,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108312.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-lisi-enamel-opal-gc-dc25976.html"
+  },
+  {
+    "sku": "DC38575",
+    "name": "Cerâmica HeraCeram Saphir Margin - Kulzer",
+    "price": "R$241,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-kulzer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-margin-kulzer-dc38575.html"
+  },
+  {
+    "sku": "DC38586",
+    "name": "Cerâmica HeraCeram Zircônia 750 Dentina Mamelon - Kulzer",
+    "price": "R$288,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-zirconia-750-dentina-mamelon-kulzer-dc38586.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-zirconia-750-dentina-mamelon-kulzer-dc38586.html"
+  },
+  {
+    "sku": "DC26141",
+    "name": "Cerâmica IPS Style Transpa - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/915570_.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-transpa-ivoclar-vivadent-dc26141.html"
+  },
+  {
+    "sku": "DC25972",
+    "name": "Cerâmica Initial Chroma Shade Translucent MC CST - GC",
+    "price": "R$330,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108269.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-chroma-shade-translucent-mc-cst-gc-dc25972.html"
+  },
+  {
+    "sku": "DC26032",
+    "name": "Cerâmica VM9 Effect Esmalte - Vita",
+    "price": "R$381,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/640403.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm9-effect-esmalte-vita-dc26032.html"
+  },
+  {
+    "sku": "DC26031",
+    "name": "Cerâmica VM9 Effect Chroma - Vita",
+    "price": "R$508,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/640335.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm9-effect-chroma-vita-dc26031.html"
+  },
+  {
+    "sku": "DC30447",
+    "name": "Porcelana Vintage Halo Corpo Dentes Clareados - Shofu",
+    "price": "R$559,90",
+    "description": "Embalagem com 50g. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-vintage-halo-shofu-dc30402-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porcelana-vintage-halo-corpo-dentes-clareados-shofu-dc30447.html"
+  },
+  {
+    "sku": "DC38828",
+    "name": "Cerâmica HeraCeram Transparente - Kulzer",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 frasco de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-transparente-kulzer-dc38828.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-transparente-kulzer-dc38828.html"
+  },
+  {
+    "sku": "720389",
+    "name": "Cerâmica VM11 Effect Chroma - Vita",
+    "price": "R$415,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/720389_635942634567490426.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm11-effect-chroma-vita-720389.html"
+  },
+  {
+    "sku": "661910",
+    "name": "Cerâmica CC Kiss Corrector - Dentsply Sirona",
+    "price": "R$356,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-cc-kiss-corrector-dentsply-sirona-661910.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-kiss-corrector-dentsply-sirona-661910.html"
+  },
+  {
+    "sku": "DC18318",
+    "name": "Cerâmica CZR Transparente - Noritake",
+    "price": "R$868,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-czr-transparente-noritake-dc18318.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-czr-transparente-noritake-dc18318.html"
+  },
+  {
+    "sku": "DC26097",
+    "name": "Cerâmica Baot JC Margin - Baot",
+    "price": "R$151,90",
+    "description": "Embalagem com 10g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-baot-jc-margen-edg-dc26097-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-baot-jc-margen-dc26097.html"
+  },
+  {
+    "sku": "DC24023",
+    "name": "Cerâmica Vita VM 11 Sun Dentina - Vita",
+    "price": "R$312,90",
+    "description": "Embalagem com 12g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-vita-vm11-sun-dentina-sd1-12g-wilcos-720419.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vita-vm-11-sun-dentina-vita-dc24023.html"
+  },
+  {
+    "sku": "652079",
+    "name": "Líquido de Modelar Vision Classic - Bradent",
+    "price": "R$112,90",
+    "description": "Embalagem com 25ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/652079.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-vision-classic-bradent-652079.html"
+  },
+  {
+    "sku": "915907",
+    "name": "Cerâmica IPS Style Incisal Bleach - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/915907.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-incisal-bleach-ivoclar-vivadent-915907.html"
+  },
+  {
+    "sku": "146890",
+    "name": "Cerâmica HeraCeram Incisal Opal Bleach OS BL - Kulzer",
+    "price": "R$229,90",
+    "description": "Embalagem com 1 frasco de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-incisal-opal-bleach-os-bl-kulzer-146890.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-incisal-opal-bleach-os-bl-kulzer-146890.html"
+  },
+  {
+    "sku": "915914",
+    "name": "Cerâmica Ips Style Add-On Bl 20G - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ips-style-add-on-bl-20g-dental-cremer-915914.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-add-on-bl-20g-ivoclar-vivadent-915914.html"
+  },
+  {
+    "sku": "144674",
+    "name": "Cerâmica HeraCeram Zircônia 750 Incisal Bleach S BL 20g - Kulzer",
+    "price": "R$299,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-zirconia-750-incisal-bleach-s-bl-20g-kulzer-144674.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-zirconia-750-incisal-bleach-s-bl-20g-kulzer-144674.html"
+  },
+  {
+    "sku": "DC25964",
+    "name": "Cerâmica Initial Cervical Translúcida MC - GC",
+    "price": "R$313,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108199.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-cervical-translucida-mc-gc-dc25964.html"
+  },
+  {
+    "sku": "DC24006",
+    "name": "Cerâmica VM7 Chroma Plus - Vita",
+    "price": "R$396,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/718959_635943326879231901.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm7-chroma-plus-vita-dc24006.html"
+  },
+  {
+    "sku": "DC21772",
+    "name": "Cerâmica Duceram Kiss Power Chroma - Dentsply Sirona",
+    "price": "R$367,90",
+    "description": "Embalagem com 20g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-duceram-kiss-power-chroma-dentsply-sirona-embalagem-dc21772.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-duceram-kiss-power-chroma-dentsply-sirona-dc21772.html"
+  },
+  {
+    "sku": "DC26153",
+    "name": "Cerâmica IPS Style One - Ivoclar Vivadent",
+    "price": "R$1.119,90",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/916126.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-one-ivoclar-vivadent-dc26153.html"
+  },
+  {
+    "sku": "DC38597",
+    "name": "Cerâmica HeraCeram Zircônia 750 Transparentearente - Kulzer",
+    "price": "R$267,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-zirconia-750-transparentearente-kulzer-dc38597.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-zirconia-750-transparentearente-kulzer-dc38597.html"
+  },
+  {
+    "sku": "131871",
+    "name": "Cerâmica Ceramco3 Mamel Red Orange - Dentsply",
+    "price": "R$317,90",
+    "description": "Embalagem com 28,4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ceramco3-mamel-red-orange-dentsply-131871.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ceramco3-mamel-red-orange-dentsply-131871.html"
+  },
+  {
+    "sku": "DC30459",
+    "name": "Porcelana Vintage Halo Value Minus - Shofu",
+    "price": "R$259,90",
+    "description": "Embalagem com 15g. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-vintage-halo-value-minus-shofu-dc30459-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porcelana-vintage-halo-value-minus-shofu-dc30459.html"
+  },
+  {
+    "sku": "DC38565",
+    "name": "Cerâmica HeraCeram Saphir Chroma - Kulzer",
+    "price": "R$208,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-chroma-kulzer-dc38565.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-chroma-kulzer-dc38565.html"
+  },
+  {
+    "sku": "DC38829",
+    "name": "Cerâmica HeraCeram Value - Kulzer",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 frasco de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-value-kulzer-dc38829.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-value-kulzer-dc38829.html"
+  },
+  {
+    "sku": "DC26152",
+    "name": "Cerâmica IPS Style One - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/916065.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-one-ivoclar-vivadent-dc26152.html"
+  },
+  {
+    "sku": "DC24032",
+    "name": "Cerâmica VM13 Chroma Plus - Vita",
+    "price": "R$427,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/720815_635943433725009946.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm13-chroma-plus-vita-dc24032.html"
+  },
+  {
+    "sku": "DC21729",
+    "name": "Cerâmica VMK Master Modificador Dentina - Vita",
+    "price": "R$508,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/638912_635844974951542573.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vmk-master-modificador-dentina-vita-dc21729.html"
+  },
+  {
+    "sku": "DC19647",
+    "name": "Cerâmica IPS d.SIGN Dentin - Ivoclar Vivadent",
+    "price": "R$204,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/684254_635830287487252728.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-d-sign-dentin-ivoclar-vivadent-dc19647.html"
+  },
+  {
+    "sku": "DC26085",
+    "name": "Cerâmica Baot JC Cervical - Baot",
+    "price": "R$151,90",
+    "description": "Embalagem com 10g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-baot-jc-cervical-edg-dc26085-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-baot-jc-cervical-dc26085.html"
+  },
+  {
+    "sku": "DC21961",
+    "name": "Cerâmica EX-3 Speed Enamel - Noritake",
+    "price": "R$605,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ex-3-speed-enamel-noritake-dc21961.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ex-3-speed-enamel-noritake-dc21961.html"
+  },
+  {
+    "sku": "130809",
+    "name": "Porcelana Vintage Líquido de Modelar HC - Shofu",
+    "price": "R$296,90",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-vintage-liquido-de-modelar-hc-shofu-130809-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porcelana-vintage-liquido-de-modelar-hc-shofu-130809.html"
+  },
+  {
+    "sku": "DC26230",
+    "name": "Cerâmica Ceramco3 Opaco em Pó - Dentsply",
+    "price": "R$310,90",
+    "description": "Embalagem com 28,4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/130119.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ceramco3-opaco-em-po-dentsply-dc26230.html"
+  },
+  {
+    "sku": "DC25974",
+    "name": "Cerâmica Initial Lisi Enamel - GC",
+    "price": "R$355,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108299.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-lisi-enamel-gc-dc25974.html"
+  },
+  {
+    "sku": "DC39035",
+    "name": "Cerâmica em Pastilha Pressceramic MO - Sagemax",
+    "price": "R$297,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-em-pastilha-pressceramic-mo-sagemax-dc39035.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-em-pastilha-pressceramic-mo-sagemax-dc39035.html"
+  },
+  {
+    "sku": "DC26132",
+    "name": "Opaco IPS Style Pow Opaquer 870 - Ivoclar Vivadent",
+    "price": "R$1.020,90",
+    "description": "Embalagem com 80g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/914948.jpg",
+    "url": "https://www.dentalcremer.com.br/opaco-ips-style-pow-opaquer-870-ivoclar-vivadent-dc26132.html"
+  },
+  {
+    "sku": "DC38809",
+    "name": "Cerâmica HeraCeram Dentina - Kulzer",
+    "price": "R$769,90",
+    "description": "Embalagem com 1 frasco de 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-dentina-dd4-100g-kulzer-146853.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-dentina-kulzer-dc38809.html"
+  },
+  {
+    "sku": "DC24008",
+    "name": "Cerâmica VM7 Transpa Dentina - Vita",
+    "price": "R$312,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/24008_635942601604430284.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm7-transpa-dentina-vita-dc24008.html"
+  },
+  {
+    "sku": "DC26270",
+    "name": "Cerâmica em Pastilha Celtra Press MT - Dentsply Sirona",
+    "price": "R$542,90",
+    "description": "Embalagem com 3 unidades de 6g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/133165.png",
+    "url": "https://www.dentalcremer.com.br/ceramica-em-pastilha-celtra-press-mt-dentsply-sirona-dc26270.html"
+  },
+  {
+    "sku": "DC25977",
+    "name": "Cerâmica Initial Lisi Cervical Translúcida - GC",
+    "price": "R$355,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108315.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-lisi-cervical-translucida-gc-dc25977.html"
+  },
+  {
+    "sku": "DC38817",
+    "name": "Cerâmica HeraCeram Increaser IN - Kulzer",
+    "price": "R$230,90",
+    "description": "Embalagem com 1 frasco de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-increaser-in-kulzer-dc38817.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-increaser-in-kulzer-dc38817.html"
+  },
+  {
+    "sku": "DC26240",
+    "name": "Cerâmica Ceramco3 Modificador de Dentina - Dentsply Sirona",
+    "price": "R$317,90",
+    "description": "Embalagem com 28,4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/131666.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ceramco3-modificador-de-dentina-dentsply-sirona-dc26240.html"
+  },
+  {
+    "sku": "DC21726",
+    "name": "Cerâmica VMK Master Margem - Vita",
+    "price": "R$233,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/638769_635844990569227446.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vmk-master-margem-vita-dc21726.html"
+  },
+  {
+    "sku": "DC38823",
+    "name": "Cerâmica HeraCeram Opaco Intensivo Pasta - Kulzer",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 frasco de 2ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-opaco-intensivo-pasta-kulzer-dc38823.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-opaco-intensivo-pasta-kulzer-dc38823.html"
+  },
+  {
+    "sku": "DC21131",
+    "name": "Cerâmica EX-3 Cervical - Noritake",
+    "price": "R$605,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ex-3-cervical-noritake-dc21131-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ex-3-cervical-noritake-dc21131.html"
+  },
+  {
+    "sku": "DC30446",
+    "name": "Porcelana Vintage Halo Corpo - Shofu",
+    "price": "R$491,90",
+    "description": "Embalagem com 50g. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-vintage-halo-shofu-dc30402-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porcelana-vintage-halo-corpo-shofu-dc30446.html"
+  },
+  {
+    "sku": "682151",
+    "name": "Cerâmica Ips E-Max Ceram Cerv Transparente Yellow 20G - Ivoclar Vivadent",
+    "price": "R$379,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ips-e-max-ceram-cerv-transparente-yellow-20g-dental-cremer-682151.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-e-max-ceram-cerv-transparente-yellow-20g-ivoclar-vivadent-682151.html"
+  },
+  {
+    "sku": "DC26030",
+    "name": "Cerâmica VM9 Transpa Dentina - Vita",
+    "price": "R$381,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/639988.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm9-transpa-dentina-vita-dc26030.html"
+  },
+  {
+    "sku": "668513",
+    "name": "Cerâmica Duceram Kiss Stand By Sby - Dentsply Sirona",
+    "price": "R$367,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-duceram-kiss-stand-by-sby-dentsply-sirona-668513.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-duceram-kiss-stand-by-sby-dentsply-sirona-668513.html"
+  },
+  {
+    "sku": "144500",
+    "name": "Cerâmica HeraCeram Saphir Correction COR 20g - Kulzer",
+    "price": "R$208,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-kulzer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-correction-cor-20g-kulzer-144500.html"
+  },
+  {
+    "sku": "699098",
+    "name": "Cerâmica Duceram Kiss Dentes Clareados - Dentsply Sirona",
+    "price": "R$367,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-duceram-kiss-dentes-clareados-dentsply-sirona-699098-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-duceram-kiss-dentes-clareados-dentsply-sirona-699098.html"
+  },
+  {
+    "sku": "DC38579",
+    "name": "Cerâmica HeraCeram Saphir Opal Transparentea 20g - Kulzer",
+    "price": "R$254,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-kulzer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-opal-transparentea-20g-kulzer-dc38579.html"
+  },
+  {
+    "sku": "DC29648",
+    "name": "Cerâmica em Pastilha Initial Lisi Press MT - GC",
+    "description": "Embalagem com 5 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-em-pastilha-initial-lisi-press-mt-gc-dc29648-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-em-pastilha-initial-lisi-press-mt-gc-dc29648.html"
+  },
+  {
+    "sku": "DC38813",
+    "name": "Cerâmica HeraCeram Enhancer - Kulzer",
+    "price": "R$230,90",
+    "description": "Embalagem com 1 frasco de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-enhancer-kulzer-dc38813.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-enhancer-kulzer-dc38813.html"
+  },
+  {
+    "sku": "DC25983",
+    "name": "Cerâmica Initial Lisi Enamel Occlusal - GC",
+    "price": "R$355,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108348.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-lisi-enamel-occlusal-gc-dc25983.html"
+  },
+  {
+    "sku": "DC25980",
+    "name": "Cerâmica Initial Lisi Bleach Dentin - GC",
+    "price": "R$355,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108337.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-lisi-bleach-dentin-gc-dc25980.html"
+  },
+  {
+    "sku": "131888",
+    "name": "Cerâmica Ceramco3 Mamel - Dentsply Sirona",
+    "price": "R$317,90",
+    "description": "Embalagem com 28,4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ceramco-3-mamel-dentsply-sirona-131888.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ceramco3-mamel-dentsply-sirona-131888.html"
+  },
+  {
+    "sku": "DC26234",
+    "name": "Cerâmica Ceramco3 Dentina Opaca - Dentsply Sirona",
+    "price": "R$317,90",
+    "description": "Embalagem com 28,4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ceramco3-dentina-opaca-dentsply-sirona-dc26234.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ceramco3-dentina-opaca-dentsply-sirona-dc26234.html"
+  },
+  {
+    "sku": "DC30457",
+    "name": "Porcelana Vintage Halo Opal - Shofu",
+    "price": "R$491,90",
+    "description": "Embalagem com 50g. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-vintage-halo-opal-shofu-dc30457-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porcelana-vintage-halo-opal-shofu-dc30457.html"
+  },
+  {
+    "sku": "637472",
+    "name": "Cerâmica VMK Master Opaca OP2 - Vita",
+    "price": "R$201,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/637472_636143729828967752.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vmk-master-opaca-op2-vita-637472.html"
+  },
+  {
+    "sku": "915891",
+    "name": "Cerâmica IPS Style Deep Dentin Bleach BL3/BL4 - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/915891.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-deep-dentin-bleach-ivoclar-vivadent-915891.html"
+  },
+  {
+    "sku": "DC19638",
+    "name": "Cerâmica em Pastilha IPS E.Max ZirPress Gingiva - Ivoclar Vivadent",
+    "price": "R$828,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/683448_635835223359871771.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-em-pastilha-ips-e-max-zirpress-gingiva-ivoclar-vivadent-dc19638.html"
+  },
+  {
+    "sku": "DC21770",
+    "name": "Cerâmica Duceram Kiss Massa Final - Dentsply Sirona",
+    "price": "R$367,90",
+    "description": "Embalagem com 20g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-duceram-kiss-massa-final-dentsply-sirona-dc21770.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-duceram-kiss-massa-final-dentsply-sirona-dc21770.html"
+  },
+  {
+    "sku": "680188",
+    "name": "Cerâmica IPS InLine Transparent Neutral - Ivoclar Vivadent",
+    "price": "R$999,90",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/680188_635829320936341784.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-inline-transparent-neutral-ivoclar-vivadent.html"
+  },
+  {
+    "sku": "638691",
+    "name": "Cerâmica VMK Master Opal Translucent - Vita",
+    "price": "R$233,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/638691_635844962343397042.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vmk-master-opal-translucent-vita-638691.html"
+  },
+  {
+    "sku": "DC19630",
+    "name": "Cerâmica IPS E.Max Ceram Deep Dentina BL - Ivoclar Vivadent",
+    "price": "R$379,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ips-e-max-ceram-deep-dentina-bl-ivoclar-vivadent-dc-19630.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-e-max-ceram-deep-dentina-bl-ivoclar-vivadent-dc19630.html"
+  },
+  {
+    "sku": "DC26326",
+    "name": "Cerâmica Ceramco3 Corretor O - Dentsply Sirona",
+    "price": "R$317,90",
+    "description": "Embalagem com 1 unidade de 28,4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ceramco3-corretor-dentsply-dirona-131819-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ceramco3-corretor-o-dentsply-sirona-dc26326.html"
+  },
+  {
+    "sku": "DC30404",
+    "name": "Porcelana Vintage Halo Margin - Shofu",
+    "price": "R$217,90",
+    "description": "Embalagem com 15g. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-vintage-halo-margin-shofu-dc30404-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porcelana-vintage-halo-margin-shofu-dc30404.html"
+  },
+  {
+    "sku": "DC25960",
+    "name": "Cerâmica Initial Enamel Intensive MC - GC",
+    "price": "R$313,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108185.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-enamel-intensive-mc-gc-dc25960.html"
+  },
+  {
+    "sku": "DC26033",
+    "name": "Cerâmica VM9 Effect Liner - Vita",
+    "price": "R$508,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/640540.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm9-effect-liner-vita-dc26033.html"
+  },
+  {
+    "sku": "130808",
+    "name": "Porcelana Vintage Líquido de Modelar - Shofu",
+    "price": "R$296,90",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-vintage-liquido-de-modelar-shofu-130808-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porcelana-vintage-liquido-de-modelar-shofu-130808.html"
+  },
+  {
+    "sku": "DC26037",
+    "name": "Cerâmica VM9 Mamelon - Vita",
+    "price": "R$508,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc26037.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm9-mamelon-vita-dc26037.html"
+  },
+  {
+    "sku": "DC26039",
+    "name": "Ceramica VM9 Margin - Vita",
+    "price": "R$508,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/640892.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm9-margin-vita-dc26039.html"
+  },
+  {
+    "sku": "DC24030",
+    "name": "Cerâmica VM13 Transpa Dentina - Vita",
+    "price": "R$351,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/24030_635943252337623901.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm13-transpa-dentina-vita-dc24030.html"
+  },
+  {
+    "sku": "915754",
+    "name": "Cerâmica Ips Style Inter Incisal Wihite/Blue 20G - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ips-style-inter-incisal-wihite-blue-20g-dental-cremer-915754.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-inter-incisal-wihite-blue-20g-ivoclar-vivadent-915754.html"
+  },
+  {
+    "sku": "DC25993",
+    "name": "Cerâmica Initial ZR Translucent Mod - GC",
+    "price": "R$396,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108417.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-zr-translucent-mod-gc-dc25993.html"
+  },
+  {
+    "sku": "DC38580",
+    "name": "Cerâmica HeraCeram Saphir Sec. Dentine - Kulzer",
+    "price": "R$241,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-kulzer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-sec-dentine-kulzer-dc38580.html"
+  },
+  {
+    "sku": "DC26150",
+    "name": "Cerâmica IPS Style Gingiva - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/915921.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-gingiva-ivoclar-vivadent-dc26150.html"
+  },
+  {
+    "sku": "DC38567",
+    "name": "Cerâmica HeraCeram Saphir Dentina - Kulzer",
+    "price": "R$835,90",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-dentina-kulzer-dc38567.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-dentina-kulzer-dc38567.html"
+  },
+  {
+    "sku": "DC38825",
+    "name": "Cerâmica HeraCeram Opal - Kulzer",
+    "price": "R$923,90",
+    "description": "Embalagem com 1 frasco de 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-opal-kulzer-dc38825.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-opal-kulzer-dc38825.html"
+  },
+  {
+    "sku": "DC26145",
+    "name": "Cerâmica Ips Style Special Incisal - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ips-style-special-incisal-dental-cremer-dc26145.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-special-incisal-ivoclar-vivadent-dc26145.html"
+  },
+  {
+    "sku": "DC25975",
+    "name": "Cerâmica Initial Lisi Dentine Fluo - GC",
+    "price": "R$355,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc25975.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-initial-lisi-dentine-fluo-gc-dc25975.html"
+  },
+  {
+    "sku": "DC38811",
+    "name": "Cerâmica HeraCeram Dentina Mamelon - Kulzer",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 frasco de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-dentina-mamelon-kulzer-dc38811.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-dentina-mamelon-kulzer-dc38811.html"
+  },
+  {
+    "sku": "DC38583",
+    "name": "Cerâmica HeraCeram Saphir Value - Kulzer",
+    "price": "R$241,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-kulzer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-value-kulzer-dc38583.html"
+  },
+  {
+    "sku": "DC38578",
+    "name": "Cerâmica HeraCeram Saphir Opal Incisal 20g - Kulzer",
+    "price": "R$241,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-heraceram-saphir-kulzer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-heraceram-saphir-opal-incisal-20g-kulzer-dc38578.html"
+  },
+  {
+    "sku": "DC24007",
+    "name": "Cerâmica VM7 Corretivo - Vita",
+    "price": "R$396,90",
+    "description": "Embalagem com 12g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/719017_635943327212759901.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm7-corretivo-vita-dc24007.html"
+  }
+]

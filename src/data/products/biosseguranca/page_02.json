@@ -1,0 +1,770 @@
+[
+  {
+    "sku": "765144",
+    "name": "Papel Crepado para Esterilização 40x40cm - HospFlex",
+    "price": "R$180,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/765144.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterelizac-o-40x40cm-hospflex.html"
+  },
+  {
+    "sku": "159387",
+    "name": "Wrap para Esterilização 40x40cm - HospFlex",
+    "price": "R$38,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/159387.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-40x40cm-hospflex.html"
+  },
+  {
+    "sku": "214390",
+    "name": "Envelope Autosselante 90x260mm - Amcor",
+    "price": "R$60,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-p-esterilizacao-autosselante-9-x-26cm-200-unid-amcor-dc-214390-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-90x260mm-amcor-214390.html"
+  },
+  {
+    "sku": "795325",
+    "name": "Rolo Para Esterilização Best Care 20cmx100m - Injecta",
+    "price": "R$145,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-20cmx100m-injecta-dc-795325-02.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-best-care-20cmx100m-injecta.html"
+  },
+  {
+    "sku": "150130",
+    "name": "Envelope para Esterilização Autosselante 55 x 130mm - Microdont",
+    "price": "R$27,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150126.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-55-x-130mm-microdont-150130.html"
+  },
+  {
+    "sku": "150118",
+    "name": "Rolo para Esterilização 150mm x 100M - Microdont",
+    "price": "R$124,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-150mm-x-100m-microdont-150118.html"
+  },
+  {
+    "sku": "127988",
+    "name": "Wrap para Esterilização 30x30cm - Vedamax",
+    "price": "R$17,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wrap-para-esterilizac-o-30x30cm-vedamax-127988-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-30x30cm-vedamax-127988.html"
+  },
+  {
+    "sku": "544022",
+    "name": "Rolo Para Esterilização 8cmx50m - HospFlex",
+    "price": "R$34,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-8cmx50m-hospflex-544022.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-8cmx50m-hospflex.html"
+  },
+  {
+    "sku": "543926",
+    "name": "Envelope Autosselante 140x290mm - HospFlex",
+    "price": "R$76,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/543926.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-140x290mm-hospflex-543926.html"
+  },
+  {
+    "sku": "132920",
+    "name": "Wrap para Esterilização SMS Leve 40G 50x50cm - Amcor",
+    "price": "R$224,90",
+    "description": "Embalagem com 250 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-leve-40g-50-50-amcor-132920.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-leve-40g-50x50cm-amcor-132920.html"
+  },
+  {
+    "sku": "159400",
+    "name": "Wrap para Esterilização 60x60cm - HospFlex",
+    "price": "R$82,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/159400.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-60x60cm-hospflex.html"
+  },
+  {
+    "sku": "738742",
+    "name": "Envelope Autosselante 190x330mm - HospFlex",
+    "price": "R$76,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-esterilizacao-autosselante-190x330mm-100-unidades-dental-cremer-738742-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-190x330mm-hospflex.html"
+  },
+  {
+    "sku": "150123",
+    "name": "Rolo para Esterilização 75mm x 100M - Microdont",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-75mm-x-100m-microdont-150123.html"
+  },
+  {
+    "sku": "150121",
+    "name": "Rolo para Esterilização 300mm x 100M - Microdont",
+    "price": "R$249,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-300mm-x-100m-microdont-150121.html"
+  },
+  {
+    "sku": "101318",
+    "name": "Álcool 70% Saneante - Prolink",
+    "price": "R$48,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-70-saneante-5l-prolink-dc-101318-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-70-saneante-prolink-101318.html"
+  },
+  {
+    "sku": "150120",
+    "name": "Rolo para Esterilização 250mm x 100M - Microdont",
+    "price": "R$207,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-250mm-x-100m-microdont-150120.html"
+  },
+  {
+    "sku": "215007",
+    "name": "Rolo Para Esterilização 10cmx50m - Amcor",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/foto-ii-rolo-p-esterilizacao-10cm-x-50m-amcor-215007.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-10cmx50m-amcor.html"
+  },
+  {
+    "sku": "107430",
+    "name": "Papel Crepado para Esterilização 90x90cm - HospFlex",
+    "price": "R$392,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107430.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterilizac-o-90x90cm-hospflex-107430.html"
+  },
+  {
+    "sku": "150132",
+    "name": "Envelope para Esterilização Autosselante 70 x 230mm - Microdont",
+    "price": "R$22,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150125.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-70-x-230mm-microdont-150132.html"
+  },
+  {
+    "sku": "765151",
+    "name": "Papel Crepado para Esterilização 50x50cm - HospFlex",
+    "price": "R$281,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/765151.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterelizac-o-50x50cm-hospflex.html"
+  },
+  {
+    "sku": "795301",
+    "name": "Rolo Para Esterilização Best Care 10cmx100m - Injecta",
+    "price": "R$78,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/795301.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-best-care-10cmx100m-injecta.html"
+  },
+  {
+    "sku": "795295",
+    "name": "Rolo Para Esterilização Best Care 7,5cmx100m - Injecta",
+    "price": "R$63,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolos-p-esterilizacao-de-75mm-x-100m-dental-cremer-795295-01.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-best-care-7-5cmx100m-injecta.html"
+  },
+  {
+    "sku": "150126",
+    "name": "Envelope para Esterilização Autosselante 150 x 250mm - Microdont",
+    "price": "R$103,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150126.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150126.html"
+  },
+  {
+    "sku": "132927",
+    "name": "Wrap para Esterilização SMS Pesado 50G 50x50cm - Amcor",
+    "price": "R$275,90",
+    "description": "Embalagem com 250 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-pesado-50g-50-50-amcor-132927.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-pesado-50g-50x50cm-amcor-132927.html"
+  },
+  {
+    "sku": "132935",
+    "name": "Wrap para Esterilização SMS Super Pesado 60G 75x75cm - Amcor",
+    "price": "R$363,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-super-pesado-60g-75-75-amcor-132935.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-super-pesado-60g-75x75cm-amcor-132935.html"
+  },
+  {
+    "sku": "132912",
+    "name": "Papel Crepado para Esterilização 30x30cm - Amcor",
+    "price": "R$223,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-crepado-para-esterilizacao-amcor-30-30-132912.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterelizac-o-30x30cm-amcor-132912.html"
+  },
+  {
+    "sku": "150116",
+    "name": "Rolo para Esterilização 100mm x 100M - Microdont",
+    "price": "R$82,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.html"
+  },
+  {
+    "sku": "150127",
+    "name": "Envelope para Esterilização Autosselante 190 x 330mm - Microdont",
+    "price": "R$85,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150125.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-190-x-330mm-microdont-150127.html"
+  },
+  {
+    "sku": "196887",
+    "name": "Rolo Para Esterilização 5cmx100m - Injecta",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/196887.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-5cmx100m-injecta.html"
+  },
+  {
+    "sku": "101432",
+    "name": "Wrap Para Esterilização 75x75cm - HospFlex",
+    "price": "R$147,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101432.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-75x75cm-hospflex.html"
+  },
+  {
+    "sku": "127991",
+    "name": "Wrap para Esterilização 60x60cm - Vedamax",
+    "price": "R$72,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wrap-para-esterilizac-o-60x60cm-vedamax-127991-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-60x60cm-vedamax-127991.html"
+  },
+  {
+    "sku": "107431",
+    "name": "Papel Crepado para Esterilização 100x100cm - HospFlex",
+    "price": "R$483,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107431.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterilizac-o-100x100cm-hospflex-107431.html"
+  },
+  {
+    "sku": "236002",
+    "name": "Envelope Autosselante 190x370mm - Amcor",
+    "price": "R$229,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-auto-selante-190x370mm-amcor-236002.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-190x370mm-amcor-236002.html"
+  },
+  {
+    "sku": "127992",
+    "name": "Wrap para Esterilização 75x75cm - Vedamax",
+    "price": "R$113,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wrap-para-esterilizac-o-75x75cm-vedamax-127992-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-75x75cm-vedamax-127992.html"
+  },
+  {
+    "sku": "795318",
+    "name": "Rolo Para Esterilização Best Care 15cmx100m - Injecta",
+    "price": "R$110,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/795318.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-best-care-15cmx100m-injecta.html"
+  },
+  {
+    "sku": "132928",
+    "name": "Wrap para Esterilização SMS Pesado 50G 60x60cm - Amcor",
+    "price": "R$397,90",
+    "description": "Embalagem com 250 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-pesado-50g-60-60-amcor-132928.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-pesado-50g-60x60cm-amcor-132928.html"
+  },
+  {
+    "sku": "107429",
+    "name": "Papel Crepado para Esterilização 80x80cm - HospFlex",
+    "price": "R$308,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107429.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterilizac-o-80x80cm-hospflex-107429.html"
+  },
+  {
+    "sku": "132921",
+    "name": "Wrap para Esterilização SMS Leve 40G 60x60cm - Amcor",
+    "price": "R$323,90",
+    "description": "Embalagem com 250 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-leve-40g-60-60-amcor-132921.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-leve-40g-60x60cm-amcor-132921.html"
+  },
+  {
+    "sku": "132926",
+    "name": "Wrap para Esterilização SMS Leve 40G 120x120cm - Amcor",
+    "price": "R$621,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-leve-40g-120-120-amcor-132926.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-leve-40g-120x120cm-amcor-132926.html"
+  },
+  {
+    "sku": "150133",
+    "name": "Envelope para Esterilização Autosselante 70 x 230mm - Microdont",
+    "price": "R$44,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150126.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-70-x-230mm-microdont-150133.html"
+  },
+  {
+    "sku": "150135",
+    "name": "Envelope para Esterilização Autosselante 90 x 260mm - Microdont",
+    "price": "R$57,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150126.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-90-x-260mm-microdont-150135.html"
+  },
+  {
+    "sku": "132355",
+    "name": "Estojo para Esterilização Inox Perfurado Autoclavável 26x12x6cm - Golgran",
+    "price": "R$167,90",
+    "description": "Embalagem com 1 estojo autoclavável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-inox-perfurado-autoclavavel-132355-golgran-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-inox-perfurado-autoclavavel-26x12x6cm-golgran-132355.html"
+  },
+  {
+    "sku": "560817",
+    "name": "Desinfetante Germicidal - Asfer",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-germicidal-asfer-560817-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-germicidal-asfer-560817.html"
+  },
+  {
+    "sku": "DC29609",
+    "name": "Estojo para Esterilização Perfurado Sterilys Perio Glitter - Lysanda",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-esterilizacao-perfurado-sterilys-perio-lysanda-dc29609-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-sterilys-perio-glitter-lysanda-dc29609.html"
+  },
+  {
+    "sku": "512779",
+    "name": "Estojo Inox Perfurado Para Endodontia 72 Furos - Fava",
+    "price": "R$256,90",
+    "description": "Unidade. 20x10x5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fechado-estojo-inox-perfurado-endodontia-72-furos-fava-512779.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-para-endodontia-72-furos-fava-512779.html"
+  },
+  {
+    "sku": "DC38876",
+    "name": "Bandeja para Esterilização Plástico Colors Média - Golgran",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 unidade. tamanho 1,5x13,7x23,5cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-para-esterilizacao-plastico-colors-media-1-5x13-7x23-5cm-amarelo-1unid--golgran.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-para-esterilizacao-plastico-colors-media-golgran-dc38876.html"
+  },
+  {
+    "sku": "111192",
+    "name": "Estojo de Esterilização Para 60 Limas  - Mk Life",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 unidade. Para 60 limas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111192.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-para-60-limas-mk-life-111192.html"
+  },
+  {
+    "sku": "745993",
+    "name": "Estojo de Inox Perfurado para Endo - Golgran",
+    "price": "R$94,90",
+    "description": "Unidade com divisorias. 12x5x2cm. Ref: 88-18.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-endo-perfurado-12x5x2cm-8-divisorias-golgran-dc-745993-02.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-para-endo-golgran-745993.html"
+  },
+  {
+    "sku": "746020",
+    "name": "Estojo de Inox Perfurado com Trava - Golgran",
+    "price": "R$220,90",
+    "description": "Unidade. 26x12x6cm. Ref: 88-25.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746020.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-com-trava-golgran-746020.html"
+  },
+  {
+    "sku": "770148",
+    "name": "Estojo de Inox Milleniun - Fava",
+    "price": "R$34,90",
+    "description": "Unidade. 12x5x2cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770148.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-milleniun-fava-770148.html"
+  },
+  {
+    "sku": "818956",
+    "name": "Fita para Autoclave - Cremer",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 unidade. 19mmx30m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fita-para-autoclave-cremer-818956.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-para-autoclave-cremer-818956.html"
+  },
+  {
+    "sku": "DC38245",
+    "name": "Estojo para Esterilização Plástico 18,5x10x2cm - Nova Ogp",
+    "price": "R$26,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterelizacao-plastico-18-5x10x2cm-nova-ogp-dental-cremer-dc38245.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterelizac-o-plastico-18-5x10x2cm-nova-ogp-dc38245.html"
+  },
+  {
+    "sku": "770476",
+    "name": "Estojo de Inox Perfurado Milleniun - Fava",
+    "price": "R$54,90",
+    "description": "Unidade. 12x5x2cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770476.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-milleniun-fava-770476.html"
+  },
+  {
+    "sku": "132358",
+    "name": "Estojo para Esterilização Inox Perfurado Endo Autoclavável 20x10x5cm - Golgran",
+    "price": "R$217,90",
+    "description": "Embalagem com 1 estojo autoclavável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-inox-perfurado-endo-autoclavavel-golgran-132358-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-inox-perfurado-endo-autoclavavel-20x10x5cm-golgran-132358.html"
+  },
+  {
+    "sku": "299960",
+    "name": "Óculos de Proteção - SSPlus",
+    "price": "R$5,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/oculos-protecao-ssplus-dental-cremer-299960.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-protec-o-ssplus-299960.html"
+  },
+  {
+    "sku": "132360",
+    "name": "Estojo para Esterilização Inox Perfurado Autoclavável 32x16x8cm - Golgran",
+    "price": "R$304,90",
+    "description": "Embalagem com 1 estojo autoclavável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-inox-perfurado-autoclavavel-golgran-132360-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-inox-perfurado-autoclavavel-32x16x8cm-golgran-132360.html"
+  },
+  {
+    "sku": "DC29636",
+    "name": "Estojo para Esterilização de Instrumento Sterilys Pério - Lysanda",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-de-instrumento-sterilys-perio-vinho-bordo-lysanda-122406-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-de-instrumento-sterilys-perio-lysanda-dc29636.html"
+  },
+  {
+    "sku": "770483",
+    "name": "Estojo de Inox Perfurado Milleniun - Fava",
+    "price": "R$71,90",
+    "description": "Unidade. 18x7x2cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770483.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-milleniun-fava-770483.html"
+  },
+  {
+    "sku": "111189",
+    "name": "Estojo para Esterilização Para 16 Limas - Mk Life",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade. Para 16 Limas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-p-esteriliz-limas-p-16un-mk-life-dental-cremer-111189-01.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-para-16-limas-mk-life-111189.html"
+  },
+  {
+    "sku": "DC38878",
+    "name": "Estojo para Esterilização Plástico Colors Cirúrgico - Golgran",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade. 4,5x9,5x20,8cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-plastico-colors-cirurgico-4-5x9-5x20-8cm-amarelo-1unid--golgran-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizacao-plastico-colors-cirurgico-golgran-dc38878.html"
+  },
+  {
+    "sku": "770575",
+    "name": "Estojo de Inox para Periodontia Perfurado - Fava",
+    "price": "R$287,90",
+    "description": "Embalagem com 1 unidade. 20 x 14 x 3 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770575.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-para-periodontia-perfurado-fava-770575.html"
+  },
+  {
+    "sku": "DC25950",
+    "name": "Estojo para Esterilização Perfurado Sterilys Pequeno - Lysanda",
+    "price": "R$44,90",
+    "description": "Embalagem com 2 unidades. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108500.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-sterilys-pequeno-lysanda-dc25950.html"
+  },
+  {
+    "sku": "DC39180",
+    "name": "Kit Estojo para Esterilização Plástico Sterilys - Lysanda",
+    "price": "R$94,90",
+    "description": "Kit com 3 estojos (pequeno, grande e pério) e 1 bandeja média.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-estojo-para-esterelizacao-plastico-sterilys-lysanda-dc39180.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-estojo-para-esterelizacao-plastico-sterilys-lysanda-dc39180.html"
+  },
+  {
+    "sku": "770162",
+    "name": "Estojo de Inox para Endodontia com Divisões Milleniun - Fava",
+    "price": "R$50,90",
+    "description": "Unidade. Medidas 12x5x2cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-milleniun-12x05x02-cm-c-08-divisorias-endodontia-fava-dc-770162-01.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-para-endodontia-com-divisoes-milleniun-fava-770162.html"
+  },
+  {
+    "sku": "746044",
+    "name": "Estojo de Inox Perfurado - Golgran",
+    "price": "R$400,90",
+    "description": "Unidade. 33x16x8cm. Ref: 88-28.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746044.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-golgran-746044.html"
+  },
+  {
+    "sku": "746037",
+    "name": "Estojo de Inox Perfurado com Trava - Golgran",
+    "price": "R$283,90",
+    "description": "Unidade. 28x14x6cm. Ref: 88-24.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746037.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-com-trava-golgran-746037.html"
+  },
+  {
+    "sku": "512588",
+    "name": "Estojo Inox Perfurado Milleniun - Fava",
+    "price": "R$98,90",
+    "description": "Unidade. 18x08x05cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-estojo-inox-perfurado-milelnium-fava-512588.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-milleniun-fava-512588.html"
+  },
+  {
+    "sku": "479102",
+    "name": "Estojo Inox Perfurado - Golgran",
+    "price": "R$182,90",
+    "description": "Embalagem com 1 unidade. 26 x 12 x 6 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perfurado-26x12x6-cm-golgran-479102.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-golgran-479102.html"
+  },
+  {
+    "sku": "770346",
+    "name": "Estojo de Inox para Endodontia Placa Alumínio - Fava",
+    "price": "R$226,90",
+    "description": "Unidade. 20x10x5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770346.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-para-endodontia-placa-aluminio-fava-770346.html"
+  },
+  {
+    "sku": "770186",
+    "name": "Estojo de Inox para Grampos - Fava",
+    "price": "R$148,90",
+    "description": "Unidade. 12x9x3cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770186.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-para-grampos-fava-770186.html"
+  },
+  {
+    "sku": "512762",
+    "name": "Estojo Inox Perfurado - Fava",
+    "price": "R$134,90",
+    "description": "Unidade. 20x10x5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/512762.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-fava-512762.html"
+  },
+  {
+    "sku": "DC38246",
+    "name": "Estojo para Esterilização Plástico 20,8x5,10x2cm - Nova Ogp",
+    "price": "R$32,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterelizacao-plastico-20-8x5-10x2cm-nova-ogp-dental-cremer-dc38246.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterelizac-o-plastico-20-8x5-10x2cm-nova-ogp-dc38246.html"
+  },
+  {
+    "sku": "DC25951b",
+    "name": "Estojo para Esterilização Perfurado Sterilys com Glitter Grande - Lysanda",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fechado-estojo-para-esterilizacao-perfurado-sterilys-com-glitter-grande-lysanda-azul-111391.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-sterilys-com-glitter-grande-lysanda-dc25951b.html"
+  },
+  {
+    "sku": "512359",
+    "name": "Estojo Inox Perfurado - Fava",
+    "price": "R$36,90",
+    "description": "Unidade. 6x3,5x3,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/512359.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-fava-512359.html"
+  },
+  {
+    "sku": "692730",
+    "name": "Estojo Endo Porta Limas - Indusbello",
+    "price": "R$68,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-endo-porta-limas-indusbello-dc692730.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-endo-para-limas-2818-indusbello-692730.html"
+  },
+  {
+    "sku": "512731",
+    "name": "Estojo Inox Perfurado - Fava",
+    "price": "R$218,90",
+    "description": "Unidade. 26x12x06cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-estojo-inox-perfurado-fava-26cm-512731.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-fava-512731.html"
+  },
+  {
+    "sku": "112082",
+    "name": "Estojo de Inox Perfurado - Fava",
+    "price": "R$245,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perfurado-fava-dental-cremer-112082.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-fava.html"
+  },
+  {
+    "sku": "134829",
+    "name": "Estojo para Esterilização Periodontia Branco - Nova Ogp",
+    "price": "R$31,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-periodontia-branco-nova-ogp-134829.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-periodontia-branco-nova-ogp-134829.html"
+  },
+  {
+    "sku": "111188",
+    "name": "Estojo para Esterilização Para 8 Limas - Mk Life",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-para-8-limas-dental-cremer-111188-01.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-para-8-limas-mk-life-111188.html"
+  },
+  {
+    "sku": "770193",
+    "name": "Estojo de Inox Milleniun - Fava",
+    "price": "R$67,90",
+    "description": "Unidade. 18x7x2cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770193.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-milleniun-fava-770193.html"
+  },
+  {
+    "sku": "512755",
+    "name": "Estojo Inox Perfurado - Fava",
+    "price": "R$388,90",
+    "description": "Unidade. 28x14x6cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perfurado-28cm-fava-512755.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-fava-512755.html"
+  },
+  {
+    "sku": "746068",
+    "name": "Estojo de Inox Perfurado para Broca - Golgran",
+    "price": "R$104,90",
+    "description": "Unidade. Capacidade para até 30 brocas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perf-p30-brocas-7x6x3cm-golgran-dental-cremer-746068-01.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-para-broca-golgran-746068.html"
+  },
+  {
+    "sku": "634648",
+    "name": "Indicador Químico - Clean Up",
+    "price": "R$109,90",
+    "description": "Embalagem com 250 unidades. Classe 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/634648.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-clean-up.html"
+  },
+  {
+    "sku": "764468",
+    "name": "Estojo de Inox Perfurado Mileniun - Fava",
+    "price": "R$85,90",
+    "description": "Unidade. 18x8x3cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perf-18x8x3cm-mileniun-fava-dc-764468-01.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-mileniun-fava-764468.html"
+  },
+  {
+    "sku": "271959",
+    "name": "Desinfetante Sugclean - DFL",
+    "price": "R$51,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-sug-clean-nova-dfl-271959.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-sug-clean-nova-dfl-271959.html"
+  },
+  {
+    "sku": "746006",
+    "name": "Estojo de Inox Perfurado - Golgran",
+    "price": "R$66,90",
+    "description": "Unidade. 12x5x2cm. Ref: 88-17.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746006.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-golgran-746006.html"
+  },
+  {
+    "sku": "DC38879",
+    "name": "Estojo para Esterilização Plástico Colors Periodontia - Golgran",
+    "price": "R$26,90",
+    "description": "Embalagem com 2 unidades. Tamanho 2x10x18cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-plastico-colors-periodontia-golgran-preto-147595-88-323.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizacao-plastico-colors-periodontia-golgran-dc38879.html"
+  },
+  {
+    "sku": "111191",
+    "name": "Estojo para Esterilização Para 36 Limas - Mk Life",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade. Para 36 limas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111191.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-para-36-limas-mk-life-111191.html"
+  },
+  {
+    "sku": "593358",
+    "name": "Estojo Inox Perfurado - Golgran",
+    "price": "R$95,90",
+    "description": "Unidade. 18x8x3cm. Ref: 88-6.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/593358.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-golgran-593358.html"
+  },
+  {
+    "sku": "119233",
+    "name": "Estojo para Esterilização de Instrumentos Lm-Servo 8 - Quinelato",
+    "price": "R$329,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-de-instrumentos-lm-servo-8-quinelato-119233-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-de-instrumentos-lm-servo-8-quinelato-119233.html"
+  },
+  {
+    "sku": "111397",
+    "name": "Estojo para Esterilização Perfurado Sterilys Grande - Lysanda",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizac-o-perfurado-sterilys-grande-lysanda-111397-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-sterilys-grande-lysanda-111397.html"
+  },
+  {
+    "sku": "DC38880",
+    "name": "Estojo para Esterilização Plástico Colors Clínico - Golgran",
+    "price": "R$32,90",
+    "description": "Embalagem com 2 unidades. Tamanho 4,5X4,8X20,5cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-plastico-colors-clinico-golgran-preto-147602-88-313.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizacao-plastico-colors-clinico-golgran-dc38880.html"
+  },
+  {
+    "sku": "DC25660",
+    "name": "Estojo para Esterilização Steribox 3 - Prisma",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/103835.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-steribox-3-prisma-dc25660.html"
+  },
+  {
+    "sku": "746013",
+    "name": "Estojo de Inox Perfurado - Golgran",
+    "price": "R$77,90",
+    "description": "Unidade. 18x4x3cm. Ref: 88-29.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746013.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-golgran-746013.html"
+  },
+  {
+    "sku": "DC25659",
+    "name": "Estojo para Esterilização Steribox 2 - Prisma",
+    "price": "R$46,90",
+    "description": "Embalagem com 2 unidades. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/103824.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-steribox-2-prisma-dc25659.html"
+  },
+  {
+    "sku": "119050",
+    "name": "Estojo para Esterilização Perfurado - Mk Life",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-perfurado-mk-life-119050-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-mk-life-119050.html"
+  }
+]

@@ -1,0 +1,763 @@
+[
+  {
+    "sku": "DC38176",
+    "name": "Luva de Procedimento de Látex com Pó - Supermax",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-procedimento-supermax-dc11158-dental-cremer-13.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-supermax-dc38176.html"
+  },
+  {
+    "sku": "141141",
+    "name": "Touca Sanfonada Branca - Desc Shop",
+    "price": "R$11,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-sanfonada-branca-desc-shop-dental-cremer-141141.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-sanfonada-branca-desc-shop-141141.html"
+  },
+  {
+    "sku": "142905",
+    "name": "Seringa Descartável Plastipak Luer Lock 3ml com Agulha - BD",
+    "price": "R$0,49",
+    "description": "Embalagem com 1 unidade. 3ml - 0,60x25",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-plastipak-luer-lock-3ml-com-agulha-bd-dental-cremer-142905.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-plastipak-luer-lock-3ml-com-agulha-bd-142905.html"
+  },
+  {
+    "sku": "107607",
+    "name": "Campo para Mesa Auxiliar 30GR - Medis",
+    "price": "R$12,90",
+    "description": "Embalagem com 10 unidades. 45x60cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/campo-para-mesa-auxiliar-30gr-medis-107607.jpg",
+    "url": "https://www.dentalcremer.com.br/campo-para-mesa-auxiliar-30gr-medis-107607.html"
+  },
+  {
+    "sku": "141136",
+    "name": "Avental Descartável Manga Longa com Punho Látex Branco 30g - Desc Shop",
+    "price": "R$41,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-com-punho-latex-branco-20g-desc-shop-dental-cremer-141135.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-com-punho-latex-branco-30g-desc-shop-141136.html"
+  },
+  {
+    "sku": "DC25625",
+    "name": "Touca Descartável Colorida - Protdesc",
+    "price": "R$27,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-colorida-verde-protdesc-103101.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-colorida-protdesc-dc25625.html"
+  },
+  {
+    "sku": "DC38431",
+    "name": "Luva para Procedimento Nitrilo Nitraflex Medical Azul Cobalto Sem Pó - Bluesail",
+    "price": "R$37,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-nitrilo-nitraflex-medical-azul-cobalto-sem-po-bluesail-dental-cremer-dc38431.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-nitrilo-nitraflex-medical-azul-cobalto-sem-po-bluesail-dc38431.html"
+  },
+  {
+    "sku": "132141",
+    "name": "Avental TNT Manga Longa 40G Branco - SP Protection",
+    "price": "R$59,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-20g-branco-sp-protection-132139-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-40g-branco-sp-protection-132141.html"
+  },
+  {
+    "sku": "141137",
+    "name": "Avental Descartável Manga Longa com Punho Látex Branco 40g - Desc Shop",
+    "price": "R$55,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-com-punho-latex-branco-20g-desc-shop-dental-cremer-141135.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-com-punho-latex-branco-40g-desc-shop-141137.html"
+  },
+  {
+    "sku": "107435",
+    "name": "Compressa de Gaze 13 Fios - Ultracotton Melhormed",
+    "price": "R$35,90",
+    "description": "Embalagem com 500 unidades. 7,5x7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-de-gaze-ultracotton-9-fios-nao-esteril-ultracotton-melhormed-100545.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-13-fios-ultracotton-melhormed-107435.html"
+  },
+  {
+    "sku": "132134",
+    "name": "Touca Descartável Sanfonada Branca - SP Protection",
+    "price": "R$12,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-sanfonada-branca-sp-protection.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-sanfonada-branca-sp-protection-132134.html"
+  },
+  {
+    "sku": "806519",
+    "name": "Algodão Hidrófilo em Rolo - Melhormed",
+    "price": "R$23,90",
+    "description": "Embalagem com 500g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-algodao-hidrofilo-rolo-melhormed-806519.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-hidrofilo-melhormed.html"
+  },
+  {
+    "sku": "965339",
+    "name": "Seringa Hipodérmica Sem Agulha - BD",
+    "price": "R$0,79",
+    "description": "3ml LL. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-lock-3-ml-c-agulha-30x7-bd-dental-cremer-965339.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-bd-965339.html"
+  },
+  {
+    "sku": "132140",
+    "name": "Avental TNT Manga Longa 30G Branco - SP Protection",
+    "price": "R$45,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-20g-branco-sp-protection-132139-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-30g-branco-sp-protection-132140.html"
+  },
+  {
+    "sku": "141134",
+    "name": "Avental TNT Manga Longa 30G Branco - Sp Health",
+    "price": "R$36,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-30gr-branco-sp-health-dental-cremer-141134.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-30gr-branco-sp-health-141134.html"
+  },
+  {
+    "sku": "804003",
+    "name": "Seringa Ultra Fine Com Agulha - BD",
+    "price": "R$38,90",
+    "description": "1ml. Embalagem com 10 unidades. Agulha 8x0,30mm. 30G. 100UI (Unidade de Insulina).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/804003_636110986906288400.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-ultra-fine-com-agulha-bd-804003.html"
+  },
+  {
+    "sku": "804010",
+    "name": "Seringa Ultra Fine Com Agulha 50UI - BD",
+    "price": "R$36,90",
+    "description": "0,5ml. Embalagem com 10 unidades. Agulha 8x0,30mm. 30G. 50UI (Unidade de insulina).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/804010_636110986936552788.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-ultra-fine-com-agulha-bd-804010.html"
+  },
+  {
+    "sku": "803983",
+    "name": "Seringa Ultra Fine Com Agulha 50UI - BD",
+    "price": "R$39,90",
+    "description": "0,5ml. Embalagem com 10 unidades. Agulha 6x0,25mm. 31G. 50UI (Unidade de Insulina).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/803983_636110986842327580.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-ultra-fine-com-agulha-50ui-bd-803983.html"
+  },
+  {
+    "sku": "119035",
+    "name": "Seringa Hipodérmica Com Agulha - Injex",
+    "price": "R$1,29",
+    "description": "20ml LS. Embalagem com 1 unidade. 25X7mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-hipodermica-com-agulha-injex-119035-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-com-agulha-injex-119035.html"
+  },
+  {
+    "sku": "DC39018",
+    "name": "Luva para Procedimento Nitrílo Sem Pó Azul - Medix",
+    "price": "R$31,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-nitrilo-sem-po-azul-dc39018.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-nitrilo-sem-po-azul-medix-dc39018.html"
+  },
+  {
+    "sku": "145322",
+    "name": "Algodão Hidrófilo Rolete - Melhormed",
+    "price": "R$9,09",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/algodao-hidrofilo-rolete-melhormed-145322.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-hidrofilo-rolete-melhormed-145322.html"
+  },
+  {
+    "sku": "114782",
+    "name": "Seringa Hipodérmica Sem Agulha - Ultradent",
+    "price": "R$134,90",
+    "description": "5ml LL. Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114782.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-ultradent-114782.html"
+  },
+  {
+    "sku": "142904",
+    "name": "Seringa Descartável Plastipak Luer Lock 10ml com Agulha - BD",
+    "price": "R$1,99",
+    "description": "Embalagem com 1 unidade. 0,80x40.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-plastipak-luer-lock-10ml-com-agulha-bd-dental-cremer-142904.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-plastipak-luer-lock-10ml-com-agulha-bd-142904.html"
+  },
+  {
+    "sku": "145330",
+    "name": "Avental TNT Manga Longa 40G Branco - SP Protection",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-20g-branco-sp-protection-132139-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-40g-branco-sp-protection-145330.html"
+  },
+  {
+    "sku": "147981",
+    "name": "Avental Descartável Cirúrgico Sem Manga Rosa 30GR - Medis",
+    "price": "R$49,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-cirurgico-sem-manga-rosa-30gr-medis-147981-01.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-cirurgico-sem-manga-rosa-30gr-medis-147981.html"
+  },
+  {
+    "sku": "147978",
+    "name": "Avental Descartável Cirúrgico Manga Longa Azul Claro 30GR - Medis",
+    "price": "R$89,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-cirurgico-manga-longa-azul-claro-30gr-medis-147978-01.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-cirurgico-manga-longa-azul-claro-30gr-medis-147978.html"
+  },
+  {
+    "sku": "119905",
+    "name": "Avental Descartável Cirúrgico Manga Longa 30g - Medis",
+    "price": "R$89,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-com-punho-20g-medis-119905-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-cirurgico-manga-longa-30g-medis-119905.html"
+  },
+  {
+    "sku": "DC39269",
+    "name": "Luva para Procedimento Látex com Pó - SSPlus",
+    "price": "R$37,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-latex-com-po-ssplus-pp-151889.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-latex-com-po-ssplus-dc39269.html"
+  },
+  {
+    "sku": "148013",
+    "name": "Avental Descartável Manga Longa 20G Lilás - Protdesc",
+    "price": "R$60,10",
+    "description": "Embalagem com 10 unidades. 20g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-20g-lilas-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-20g-lilas-protdesc-148013.html"
+  },
+  {
+    "sku": "706123",
+    "name": "Rolo Dental 2 Luna - Roeko",
+    "price": "R$81,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/706123_635901172894861557.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-dental-2-luna-roeko-706123.html"
+  },
+  {
+    "sku": "132139",
+    "name": "Avental TNT Manga Longa 20G Branco - SP Protection",
+    "price": "R$39,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-20g-branco-sp-protection-132139-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-20g-branco-sp-protection-132139.html"
+  },
+  {
+    "sku": "120114",
+    "name": "Sugador Odontológico Descartável - SSPlus",
+    "description": "Embalagem com 40 unidades. Colorido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-ssplus-40unidades-lovers-dental-cremer-120114.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-descartavel-ssplus-120114.html"
+  },
+  {
+    "sku": "103739",
+    "name": "Rolo Dental Soft WA Colorido - Sugbem",
+    "price": "R$4,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-dental-soft-wa-colorido-sugbem-embalagem-103739.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-dental-soft-wa-colorido-sugbem-103739.html"
+  },
+  {
+    "sku": "483246",
+    "name": "Seringa Hipodérmica Sem Agulha - BD",
+    "price": "R$1,99",
+    "description": "20ml LS. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/483246.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-bd-483246.html"
+  },
+  {
+    "sku": "803990",
+    "name": "Seringa Ultra Fine Com Agulha 30UI - BD",
+    "price": "R$39,90",
+    "description": "0,3ml. Embalagem com 10 unidades. Agulha 6x0,25mm. 31G. 30UI (Unidade de Insulina).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/803990_636110986876024012.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-ultra-fine-com-agulha-30ui-bd-803990.html"
+  },
+  {
+    "sku": "148009",
+    "name": "Avental Descartável Manga Longa 40G Rosa - Protdesc",
+    "price": "R$117,90",
+    "description": "Embalagem com 10 unidades. 40g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-40g-rosa-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-40g-rosa-protdesc-148009.html"
+  },
+  {
+    "sku": "119904",
+    "name": "Avental Descartável Cirúrgico Manga Longa 20g - Medis",
+    "price": "R$73,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-com-punho-20g-medis-119904.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-cirurgico-manga-longa-20g-medis-119904.html"
+  },
+  {
+    "sku": "118646",
+    "name": "Avental Descartável de Manga Longa 30G - Fava",
+    "price": "R$133,90",
+    "description": "Embalagem com 10 unidades. 30G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-TNT-branco-30G-fava-118646-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-tnt-branco-30g-fava-118646.html"
+  },
+  {
+    "sku": "143292",
+    "name": "Avental TNT Manga Longa com Punho 40G Branco - Iodontosul",
+    "price": "R$83,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-com-punho-40g-branco-10unid--143292.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-com-punho-40g-branco-iodontosul-143292.html"
+  },
+  {
+    "sku": "148016",
+    "name": "Avental Descartável Manga Longa 30G Preto - Protdesc",
+    "price": "R$104,90",
+    "description": "Embalagem com 10 unidades. 30g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-30g-preto-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-30g-preto-protdesc-148016.html"
+  },
+  {
+    "sku": "148007",
+    "name": "Avental Descartável Manga Longa 20G Laranja - Protdesc",
+    "price": "R$60,10",
+    "description": "Embalagem com 10 unidades. 20g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-20g-laranja-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-20g-laranja-protdesc-148007.html"
+  },
+  {
+    "sku": "804034",
+    "name": "Seringa Hipodérmica Sem Agulha - BD",
+    "price": "R$2,09",
+    "description": "20ml LL. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-lock-20ml-bd-dc-804034-01.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-bd-804034.html"
+  },
+  {
+    "sku": "119907",
+    "name": "Avental Descartável Sem Manga 30g - Medis",
+    "price": "R$49,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-sem-manga-20g-medis-119907-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-sem-manga-30g-medis-119907.html"
+  },
+  {
+    "sku": "148011",
+    "name": "Avental Descartável Manga Longa 20G Verde - Protdesc",
+    "price": "R$57,90",
+    "description": "Embalagem com 10 unidades. 20g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-20g-verde-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-20g-verde-protdesc-148011.html"
+  },
+  {
+    "sku": "119906",
+    "name": "Avental Descartável Sem Manga 20g - Medis",
+    "price": "R$39,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-sem-manga-20g-medis-119906-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-sem-manga-20g-medis-119906.html"
+  },
+  {
+    "sku": "118647",
+    "name": "Avental Descartável Sem Manga 30G - Fava",
+    "price": "R$83,90",
+    "description": "Embalagem com 10 unidades. 30G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-sem-manga-tnt-branco-30g-fava-118645.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-tnt-branco-30g-fava-118647.html"
+  },
+  {
+    "sku": "819007",
+    "name": "Compressa de Gaze Nídia 11 Fios Estéril - Cremer",
+    "price": "R$1,99",
+    "description": "Embalagem com 10 unidades. 7,5x7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/513585_a_635997625923499916.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-nidia-11-fios-esteril-cremer-819007.html"
+  },
+  {
+    "sku": "145323",
+    "name": "Algodão Hidrófilo Rolete - Melhormed",
+    "price": "R$43,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/algodao-hidrofilo-rolete-melhormed-145323.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-hidrofilo-rolete-melhormed-145323.html"
+  },
+  {
+    "sku": "148014",
+    "name": "Avental Descartável Manga Longa 30G Azul - Protdesc",
+    "price": "R$100,90",
+    "description": "Embalagem com 10 unidades. 30g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-30g-azul-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-30g-azul-protdesc-148014.html"
+  },
+  {
+    "sku": "146171",
+    "name": "Avental TNT Manga Longa Branco - Medis",
+    "price": "R$109,90",
+    "description": "Embalagem com 10 unidades. 40g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-branco-medis-146171-01.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-branco-medis-146171.html"
+  },
+  {
+    "sku": "106910",
+    "name": "Máscara Cirúrgica Fashion Descartável Tripla - Protdesc",
+    "price": "R$17,90",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/106910.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-cirurgica-fashion-descartavel-tripla-protdesc-106910.html"
+  },
+  {
+    "sku": "124955",
+    "name": "Compressa de Gaze 09 Fios Não Estéril - Melhormed",
+    "price": "R$34,90",
+    "description": "Embalagem com 500 compressas. Dimensões 7,5 x 7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-gaze-9-fios-melhormed-124955.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-09-fios-melhormed-124955.html"
+  },
+  {
+    "sku": "125011",
+    "name": "Seringa para Insulina 0,5ml - 5mm x 0,23mm 32g - Uniqmed",
+    "price": "R$187,90",
+    "description": "0,5ml. Embalagem com 100 unidades. 5mm x 0,23mm 32G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-para-insulina-0-5ml-5mmx0-23mm-32g-unq-125011-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-para-insulina-0-5ml-5mm-x-0-23mm-32g-uniqmed-125011.html"
+  },
+  {
+    "sku": "747454",
+    "name": "Equipo Macrogotas Completo - Descarpack",
+    "price": "R$2,29",
+    "description": "Comprimento 1,5m",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/equipo-mac-il-ls-rolete-corta-fluxo-1-5m-descarpack-747454-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/equipo-macrogotas-completo-descarpack-747454.html"
+  },
+  {
+    "sku": "150208",
+    "name": "Luva Plástica Descartável Não Estéril - Medix",
+    "price": "R$1,49",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-plastica-descartavel-nao-esteril-medix-150208.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-plastica-descartavel-nao-esteril-medix-150208.html"
+  },
+  {
+    "sku": "804027",
+    "name": "Seringa Ultra Fine Com Agulha - BD",
+    "price": "R$36,90",
+    "description": "0,3ml. Embalagem com 10 unidades. Agulha 8x0,30mm. 30G. 30UI (Unidade de Insulina).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-ultra-fine-com-agulha-bd-precision-dc-804027.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-ultra-fine-com-agulha-bd-804027.html"
+  },
+  {
+    "sku": "125012",
+    "name": "Seringa para Insulina 0,5ml - 6mm x 0,25mm 31g - Uniqmed",
+    "price": "R$187,90",
+    "description": "0,5ml. Embalagem com 100 unidades. 6mm x 0,25mm 31G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-para-insulina-0-5ml-6mmx0-25mm31g-unq-125012-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-para-insulina-0-5ml-6mm-x-0-25mm-31g-uniqmed-125012.html"
+  },
+  {
+    "sku": "125015",
+    "name": "Seringa para Insulina 1ml 6mm x 0,25mm 31g - Uniqmed",
+    "price": "R$187,90",
+    "description": "1ml. Embalagem com 100 unidades. 6mm x 0,25mm 31G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-para-insulina-1ml-6mmx0-25mm-31g-unq-125015-1-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-para-insulina-1ml-6mm-x-0-25mm-31g-uniqmed-125015.html"
+  },
+  {
+    "sku": "483239",
+    "name": "Seringa Hipodérmica Sem Agulha - BD",
+    "price": "R$1,59",
+    "description": "10ml LS. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-slip-10-ml-bd-dc-483239-01.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-bd-483239.html"
+  },
+  {
+    "sku": "125013",
+    "name": "Seringa para Insulina 0,5ml - 8mm x 0,30mm 30g - Uniqmed",
+    "price": "R$167,90",
+    "description": "0,5ml. Embalagem com 100 unidades. 8mm x 0,30mm 30G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-para-insulina-0-5ml-8mmx0-30mm30g-unq-125013-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-para-insulina-0-5ml-8mm-x-0-30mm-30g-uniqmed-125013.html"
+  },
+  {
+    "sku": "DC11159",
+    "name": "Luva de Vinil Com Pó - Volk",
+    "price": "R$27,90",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-luva-vinil-com-po-volk-dental-cremer-DC11159.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-vinil-com-po-volk-dc11159.html"
+  },
+  {
+    "sku": "DC10244",
+    "name": "Aplicador Kg Brush - KG Sorensen",
+    "price": "R$25,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/377958.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-kg-brush-kg-sorensen-dc10244.html"
+  },
+  {
+    "sku": "516128",
+    "name": "Equipo para Transfusão de Sangue Luer Lock 1,50m 0406G – Embramed",
+    "price": "R$8,09",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/equipo-mac-sangue-1-50m-0406g-ll-embramed-516128-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/equipo-mac-sangue-1-50m-0406g-ll-embramed-516128.html"
+  },
+  {
+    "sku": "949308",
+    "name": "Seringa Hipodérmica Sem Agulha 20ml - Injex",
+    "price": "R$329,90",
+    "description": "20ml LS. Embalagem com 300 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/949308.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-injex-949308.html"
+  },
+  {
+    "sku": "947250",
+    "name": "Seringa Hipodérmica Sem Agulha - Injex",
+    "price": "R$329,90",
+    "description": "20ml LL. Embalagem com 300 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-hipodermica-sem-agulha-injex-947250.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-injex-947250.html"
+  },
+  {
+    "sku": "511628",
+    "name": "Sobre Luva de Plástico Vital Protection - Boma",
+    "price": "R$12,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sobre-luva-plastico-vital-protection-boma-511628-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/sobre-luva-vital-protection-boma-511628.html"
+  },
+  {
+    "sku": "114904",
+    "name": "Agulha Endo-Eze Irrigator - Ultradent",
+    "price": "R$98,90",
+    "description": "Embalagem com 20 unidades. 27G - Fina.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-endo-eze-irrigator-ultradent-27g-114904.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-endo-eze-tips-ultradent.html"
+  },
+  {
+    "sku": "DC29979",
+    "name": "Máscara Descartável Tripla com Clipe Nasal - SP Protection",
+    "price": "R$15,90",
+    "description": "Embalagem com 50 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-clipe-nasal-azul-sp-protection-125233-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-descartavel-tripla-com-clipe-nasal-sp-protection-dc29979.html"
+  },
+  {
+    "sku": "805772",
+    "name": "Gorro Descartável Branco - Fava",
+    "price": "R$19,90",
+    "description": "Embalagem com 10 unidades. 30G. Com elástico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/805772_636108535797164724.jpg",
+    "url": "https://www.dentalcremer.com.br/gorro-descartavel-branco-fava-805772.html"
+  },
+  {
+    "sku": "103101",
+    "name": "Touca Descartável Sanfonada Verde - Protdesc",
+    "price": "R$26,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-colorida-verde-protdesc-103101.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-verde-protdesc-103101.html"
+  },
+  {
+    "sku": "126290",
+    "name": "Compressa de Gaze Estéril 9 Fios 7,5 x 7,5cm - Ultracotton",
+    "price": "R$0,99",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-de-gaze-esteril-9-fios-7-5-x-7-5cm-ultradent-126290-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-esteril-9-fios-7-5-x-7-5cm-ultracotton-126290.html"
+  },
+  {
+    "sku": "126682",
+    "name": "Touca Descartável Sanfonada Branca - Descarpack",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lovers-touca-descartavel-sanfonada-branca-descarpack-126682.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-sanfonada-branca-descarpack-126682.html"
+  },
+  {
+    "sku": "141131",
+    "name": "Máscara Descartável Tripla com Elástico Branca - SP Health",
+    "price": "R$11,90",
+    "description": "Máscaras Descartáveis 50 unidades SP Health",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-elastico-branca-sp-health-141131-1.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-descartavel-tripla-com-elastico-branca-sp-health-141131.html"
+  },
+  {
+    "sku": "819373",
+    "name": "Compressa de Gaze 11 Fios Estéril - Cremer",
+    "price": "R$1,29",
+    "description": "Embalagem com 5 unidades. 7,5x7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/514759_635475912852861324.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-nidia-11-fios-esteril-cremer-819373.html"
+  },
+  {
+    "sku": "DC11183",
+    "name": "Sugador Descartável Monoart - Euronda",
+    "price": "R$12,90",
+    "description": "Embalagem com 40 unidades. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/387070.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-descartavel-monoart-euronda-dc11183.html"
+  },
+  {
+    "sku": "107434",
+    "name": "Compressa de Gaze 11 Fios - Ultracotton Melhormed",
+    "price": "R$29,90",
+    "description": "Embalagem com 500 unidades. 7,5 x 7,5 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-gaze-11-fios-ultracotton-melhormed-107434-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-11-fios-ultracotton-melhormed-107434.html"
+  },
+  {
+    "sku": "733792",
+    "name": "Dispenser de Luvas Multiuso - Nova OGP",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-luvas-multiuso-nova-ogp-733792.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-multiuso-nova-ogp-733792.html"
+  },
+  {
+    "sku": "111862",
+    "name": "Touca Descartável Sanfonada Branca - Protdesc",
+    "price": "R$20,90",
+    "description": "Embalagem com 100 unidades. Gramatura 20",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-sanfonada-branca-protdesc-20g-111862.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-sanfonada-branca-protdesc-111862.html"
+  },
+  {
+    "sku": "141140",
+    "name": "Propé Descartável Branco 30g - Desc Shop",
+    "price": "R$19,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prope-descartavel-branco-20g-desc-shop-dental-cremer-141138.jpg",
+    "url": "https://www.dentalcremer.com.br/propoe-descartavel-branco-30g-desc-shop-141140.html"
+  },
+  {
+    "sku": "124957",
+    "name": "Compressa de Gaze 13 Fios Não Estéril - Melhormed",
+    "price": "R$49,90",
+    "description": "Embalagem com 500 compressas. 7,5 x 7,5 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-gaze-13-fios-nao-esteril-melhormed-124957.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-13-fios-melhormed-124957.html"
+  },
+  {
+    "sku": "236323",
+    "name": "Touca Descartável Branca - Fava",
+    "price": "R$26,90",
+    "description": "Embalagem com 50 unidades. 12G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/236323.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-branca-fava-236323.html"
+  },
+  {
+    "sku": "128835",
+    "name": "Compressa de Gaze Estrela 13 Fios 7,5x7,5cm - Cremer",
+    "price": "R$79,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-de-gaze-estrela-13-fios-75-75cm-cremer-128835-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-estrela-13-fios-7-5x7-5cm-cremer-128835.html"
+  },
+  {
+    "sku": "119024",
+    "name": "Algodão Hidrófilo Delicato - Cremer",
+    "description": "Embalagem com 500g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/algodao-hidrofilo-delicato-cremer-119024.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-hidrofilo-delicato-cremer-119024.html"
+  },
+  {
+    "sku": "819014",
+    "name": "Algodão Hidrófilo - Cremer",
+    "price": "R$3,99",
+    "description": "Embalagem com 25g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/algodao-hidrofilo-cremer-25g.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-hidrofilo-cremer-819014.html"
+  },
+  {
+    "sku": "100830",
+    "name": "Compressa Cirúrgica Estéril Non Woven - Polarfix",
+    "price": "R$0,79",
+    "description": "Embalagem com 5 unidades. 7,5 x 7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100830.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-cirurgica-esteril-non-woven-polarfix-100830.html"
+  },
+  {
+    "sku": "604368",
+    "name": "Bolinha de Espuma Pele Tim - Voco",
+    "price": "R$131,90",
+    "description": "Embalagem com 1000 unidades. Tamanho 2 (Médio).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bolinha-de-espuma-pele-tim-voco-604368.jpg",
+    "url": "https://www.dentalcremer.com.br/bolinha-de-espuma-pele-tim-voco-604368.html"
+  },
+  {
+    "sku": "819342",
+    "name": "Compressa de Gaze Estrela 13 Fios Estéril 7,5 x 7,5cm - Cremer",
+    "price": "R$2,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/514711_635818212469916206.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-estrela-13-fios-esteril-cremer-819342.html"
+  },
+  {
+    "sku": "128834",
+    "name": "Compressa de Gaze Íris 9 Fios Não Estéril - Cremer",
+    "price": "R$65,90",
+    "description": "Embalagem com 500 unidades. Tamanho 7,5x7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-de-gaze-iris-9-fios-cremer-128834-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-iris-9-fios-cremer-128834.html"
+  },
+  {
+    "sku": "114371",
+    "name": "Algodão Disco - Dengo",
+    "price": "R$16,90",
+    "description": "Embalagem com 3 unidades de 35g cada. LEVE 3, PAGUE 2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/algoda-disco-dengo-leve-3-pague-2-114371.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-disco-dengo-114371.html"
+  },
+  {
+    "sku": "DC29613",
+    "name": "Touca Descartável com Elástico - Fava",
+    "price": "R$26,90",
+    "description": "Embalagem com 50 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-com-elastico-fava-dc29613-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-com-elastico-fava-dc29613.html"
+  },
+  {
+    "sku": "135197",
+    "name": "Rolo Dental Soft WA Colorido - Sugbem",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-dental-soft-wa-colorido-sugbem-embalagem-103739.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-dental-soft-wa-colorido-sugbem-135197.html"
+  },
+  {
+    "sku": "122354",
+    "name": "Compressa de Gaze Estrela 13 Fios Não Estéril - Cremer",
+    "description": "Embalagem com 500 unidades. 10x10cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-de-gaze-estrela-13-fios-n-o-esteril-cremer-122354-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-estrela-13-fios-n-o-esteril-cremer-122354.html"
+  },
+  {
+    "sku": "819038",
+    "name": "Algodão Hidrófilo em Rolo - Cremer",
+    "price": "R$18,90",
+    "description": "Embalagem com 250g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-algodao-hidrofilo-rolo-cremer-250g-819038.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-hidrofilo-cremer-819038.html"
+  },
+  {
+    "sku": "706109",
+    "name": "Rolo Dental 1 Luna - Roeko",
+    "price": "R$79,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/706109_635901172260561491.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-dental-1-luna-roeko-706109.html"
+  },
+  {
+    "sku": "819250",
+    "name": "Algodão Hidrófilo Delicato em Rolo - Cremer",
+    "price": "R$33,90",
+    "description": "Embalagem com 500g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/algodao-hidrofilo-delicato-cremer-819250.jpg",
+    "url": "https://www.dentalcremer.com.br/algod-o-hidrofilo-delicato-cremer.html"
+  },
+  {
+    "sku": "115734",
+    "name": "Disco de Algodão - Cremer",
+    "price": "R$9,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-algodao-cremer-115734.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-algod-o-cremer.html"
+  }
+]

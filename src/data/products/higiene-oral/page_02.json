@@ -1,0 +1,770 @@
+[
+  {
+    "sku": "701580",
+    "name": "Antisséptico Bucal Riohex Gard 0,12% - Rioquímica",
+    "price": "R$68,90",
+    "description": "Embalagem com 2 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-riohex-gard-0-12-rioquimica-701580-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-riohex-gard-0-12-rioquimica-701580.html"
+  },
+  {
+    "sku": "104024",
+    "name": "Fio Dental Gum Flosser Multiple Action - Sunstar",
+    "price": "R$21,90",
+    "description": "Embalagem com 40 unidades. Com haste de Menta.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-flosser-multiple-accion-gum-dc-104024-03.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-gum-flosser-multiple-action-sunstar-104024.html"
+  },
+  {
+    "sku": "653410",
+    "name": "Refil Escova Elétrica Cross Action 2un - Oral-B",
+    "price": "R$45,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-refil-escova-eletrica-cross-action-prosaude-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eletrica-refil-cross-action-oral-b-653410.html"
+  },
+  {
+    "sku": "110326",
+    "name": "Escova Dental Infantil Dr. Rabbit - Colgate",
+    "price": "R$6,79",
+    "description": "Embalagem com 1 unidade. Sortida.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-dr-dentuco-dental-cremer-110326-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-dr-rabbit-colgate-110326.html"
+  },
+  {
+    "sku": "572247",
+    "name": "Fio Dental Encerado Essential Floss Menta - Oral-B",
+    "price": "R$12,90",
+    "description": "Embalagem com 50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-fio-dental-essential-flos-encerado-50m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-essential-floss-menta-oral-b-572247.html"
+  },
+  {
+    "sku": "119339",
+    "name": "Escova Dental Life Pro Infantil Macia - Medfio",
+    "price": "R$2,99",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-life-pro-infantil-macia-medfio-119339-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-life-pro-infantil-macia-medfio-119339.html"
+  },
+  {
+    "sku": "108797",
+    "name": "Escova Dental Infantil Stages 3 Spider-Man - Oral-B",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade. Personagens e cores sortidas, sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-stages-3-spiderman-oral-b-dental-cremer-108797-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-stages-3-spider-man-oral-b-108797.html"
+  },
+  {
+    "sku": "132322",
+    "name": "Escova Dental Elétrica Infantil Pro Kids 3+ Spiderman Bivolt - Oral-B",
+    "price": "R$219,90",
+    "description": "Embalagem com 1 escova e 1 carregador.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-vitality-kids-homem-aranha-oral-b-132322-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-infantil-pro-kids-3-spiderman-bivolt-oral-b-132322.html"
+  },
+  {
+    "sku": "141097",
+    "name": "Escova Dental Elétrica Pro Séries 2 Bivolt - Oral-B",
+    "price": "R$245,90",
+    "description": "Embalagem com 1 escova de dentes elétrica Oral-B PRO Series 2, 1 refil (Cross Action) e 1 carregador.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-pro-series-2-bivolt-oral-b-dental-cremer-141097.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-pro-series-2-bivolt-oral-b-141097.html"
+  },
+  {
+    "sku": "572285",
+    "name": "Fio Dental Satin Tape - Oral-B",
+    "price": "R$14,90",
+    "description": "Embalagem com 25m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-fio-dental-satin-tape-menta-25m-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-satin-floss-tape-oral-b-572285.html"
+  },
+  {
+    "sku": "125989",
+    "name": "Fio Dental Flosser Dual Technique - Gum",
+    "price": "R$15,90",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-flosser-dual-technique-gum-125989.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-flosser-dual-technique-gum-125989.html"
+  },
+  {
+    "sku": "126331",
+    "name": "Fio Dental Ortodôntico - Gum",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-ortodontico-gum-dental-cremer-126331.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-ortodontico-gum-126331.html"
+  },
+  {
+    "sku": "572230",
+    "name": "Fio Dental Essential Floss - Oral-B",
+    "price": "R$12,90",
+    "description": "Embalagem com 50m. Com cera.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-essential-floss-50m-oral-b-dc-572230-01.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-essential-floss-oral-b-572230.html"
+  },
+  {
+    "sku": "125905",
+    "name": "Escova Dental Kids B - Kess",
+    "price": "R$7,39",
+    "description": "Embalagem com 1 unidade. Cores sortidas (azul ou rosa), sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-kids-b-kess-125905-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-kids-b-kess-125905.html"
+  },
+  {
+    "sku": "DC30035",
+    "name": "Escova Interdental ID Orthokit - Powerdent",
+    "price": "R$24,90",
+    "description": "Kit com Escova Ortodôntica + Intertufo + 6 Refis de Interdental. Escolha o formato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-id-intertufo-powerdent-dental-cremer-DC30035.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-interdental-id-orthokit-powerdent-dc30035.html"
+  },
+  {
+    "sku": "117591",
+    "name": "Escova Elétrica Kids Princesas - Oral-B",
+    "price": "R$128,90",
+    "description": "Embalagem com 1 escova elétrica (cabo) + 1 refil Oral-B Kids Princesas e 2 pilhas AA.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-dente-eletrica-infantil-princesas-disney-dental-cremer-117591-2.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eletrica-kids-princesas-oral-b-117591.html"
+  },
+  {
+    "sku": "125903",
+    "name": "Escova Dental Steps 1 - Kess",
+    "price": "R$7,39",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-steps-1-kess-125903-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-steps-1-kess-125903.html"
+  },
+  {
+    "sku": "125908",
+    "name": "Escova Dental Dentinho - Kess",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade. Cores sortidas (rosa e/ou azul), sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-dentinho-kess-125908-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-dentinho-kess-125908.html"
+  },
+  {
+    "sku": "572254",
+    "name": "Fio Dental Encerado Essential Floss - Oral-B",
+    "price": "R$9,90",
+    "description": "Embalagem com 25m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-fio-dental-essential-floss-encerado-25m-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-essential-floss-oral-b-572254.html"
+  },
+  {
+    "sku": "151681",
+    "name": "Gel Dental Infantil Patrulha Canina Sem Flúor - Gum",
+    "price": "R$14,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gel-dental-infantil-patrulha-canina-sem-fluor-gum-151681.jpg",
+    "url": "https://www.dentalcremer.com.br/gel-dental-infantil-patrulha-canina-sem-fluor-gum-151681.html"
+  },
+  {
+    "sku": "108796",
+    "name": "Creme Dental Kids Spider-Man - Oral-B",
+    "price": "R$6,99",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-creme-dental-fluor-kids-spider-man-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-kids-spider-man-oral-b-108796.html"
+  },
+  {
+    "sku": "759402",
+    "name": "Escova Dental Infantil Macia - Medfio",
+    "price": "R$1,49",
+    "description": "Embalagem com 1 unidade. Cores Sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-macia-medfio-dental-cremer-759402-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-macia-medfio-759402.html"
+  },
+  {
+    "sku": "110081",
+    "name": "Fio Dental Regular - Colgate",
+    "price": "R$9,79",
+    "description": "Embalagem com 50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/110081.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-regular-colgate-110081.html"
+  },
+  {
+    "sku": "122198",
+    "name": "Antisséptico Bucal 100% 1L - Oral-B",
+    "price": "R$27,90",
+    "description": "Embalagem com 1L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-100-1l-oral-b-122198-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-100-1l-oral-b-122198.html"
+  },
+  {
+    "sku": "104031",
+    "name": "Passa Fio Gum Eez-Thru - Sunstar",
+    "price": "R$9,90",
+    "description": "Embalagem com 25 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104031.jpg",
+    "url": "https://www.dentalcremer.com.br/passa-fio-gum-eez-thru-sunstar-104031.html"
+  },
+  {
+    "sku": "107595",
+    "name": "Escova Personalizada Dental Compact Purification - Oral-B",
+    "price": "R$380,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-compact-purification-24-un-oral-b-personalizada-dental-cremer-107595-05.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-dental-compact-purification-oral-b-107595.html"
+  },
+  {
+    "sku": "111338",
+    "name": "Creme Dental Detox Sensitive Care - Oral-B",
+    "price": "R$19,90",
+    "description": "Embalagem com 102g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-produto-creme-dental-detox-sensitive-oral-b-111338.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-detox-sensitive-oral-b-111338.html"
+  },
+  {
+    "sku": "127176",
+    "name": "Creme Dental Duplo Alívio - Oral-B",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade de 70g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-duplo-alivio-oral-b-127176.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-duplo-alivio-oral-b-127176.html"
+  },
+  {
+    "sku": "111334",
+    "name": "Fio Dental Floss Picks - Oral-B",
+    "price": "R$37,90",
+    "description": "Embalagem com 45 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-haste-floss-picks-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-floss-picks-oral-b-111334.html"
+  },
+  {
+    "sku": "125906",
+    "name": "Escova Dental Pro Kids com Ventosa - Kess",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-pro-kids-com-ventosa-kess-125906-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-pro-kids-com-ventosa-kess-125906.html"
+  },
+  {
+    "sku": "149397",
+    "name": "Kit Promocional Escova de Dentes Elétrica Pro Series 3 - Oral-B",
+    "price": "R$739,90",
+    "description": "Kit com 02 unidades do Escova De Dentes Elétrica Pro Series 3 Oral-B",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-escova-de-dentes-eletrica-pro-series-3-oral-b-m-117587.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-escova-de-dentes-eletrica-pro-series-3-oral-b-149397.html"
+  },
+  {
+    "sku": "111105",
+    "name": "Escova Interdental Expert Micro - Oral-B",
+    "price": "R$28,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-interdental-expert-micro-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-interdental-expert-micro-oral-b-111105.html"
+  },
+  {
+    "sku": "125028",
+    "name": "Fio Dental Infantil Peppa Pig 20m Sortido - Dentalclean",
+    "price": "R$9,09",
+    "description": "Embalagem com 20m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-infantil-peppa-pig-25m-azul-dentalclean-125028-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-infantil-peppa-pig-20m-sortido-dentalclean-125028.html"
+  },
+  {
+    "sku": "117593",
+    "name": "Escova Elétrica Kids Carros - Oral-B",
+    "price": "R$128,90",
+    "description": "Embalagem com 1 escova elétrica (cabo) + 1 refil Oral-B Kids Carros e 2 pilhas AA.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-eletrica-dental-infantil-carros-disney-dental-cremer-117593.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eletrica-kids-carros-oral-b-117593.html"
+  },
+  {
+    "sku": "120331",
+    "name": "Fio Dental Menta - Hálito Puro",
+    "price": "R$19,90",
+    "description": "Embalagem com 500m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-menta-halito-puro-120331.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-menta-halito-puro-120331.html"
+  },
+  {
+    "sku": "147027",
+    "name": "Escova Dental Elétrica Infantil Pro Kids 3+ Frozen - Oral-B",
+    "price": "R$219,90",
+    "description": "Embalagem com 1 escova elétrica, 1 refil, 1 carregador e 4 adesivos. Bivolt",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-infantil-pro-kids-3-frozen-oral-b-147027.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-infantil-pro-kids-3-frozen-oral-b-147027.html"
+  },
+  {
+    "sku": "DC22341",
+    "name": "Escova Dental ID Intertufo - Powerdent",
+    "price": "R$18,90",
+    "description": "Kit com 1 Escova ID Intertufo + 6 Refis Interdentais nos formatos Cilíndrico ou Cônico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-unitufo-interdental-id-intertufo-powerdent-dc22341.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-unitufo-interdental-id-intertufo-powerdent-dc22341.html"
+  },
+  {
+    "sku": "748253",
+    "name": "Creme Dental - BlueM",
+    "price": "R$65,00",
+    "description": "Embalagem com 1 unidade de 75ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-bluem-748253-frente.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-bluem-748253.html"
+  },
+  {
+    "sku": "111195",
+    "name": "Creme Dental Total 12 Professional Gengiva Saudável - Colgate",
+    "price": "R$3,99",
+    "description": "Embalagem com 1 unidade de 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-total-12-professional-gengiva-saudavel-colgate-111195-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-total-12-professional-gengiva-saudavel-colgate-111195.html"
+  },
+  {
+    "sku": "132321",
+    "name": "Escova Eletrica Vitality Kids Princesas Bivolt - Oral-B",
+    "price": "R$219,90",
+    "description": "Embalagem com 1 escova elétrica, 1 carregador e 1 refil.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-vitality-kids-princesas-oral-b-132321-1.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-vitality-kids-princesas-oral-b-132321.html"
+  },
+  {
+    "sku": "DC22338",
+    "name": "Escova Interdental ID - Powerdent",
+    "price": "R$19,90",
+    "description": "Embalagem com 10 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/751765_636015116044274466.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-interdental-id-powerdent-dc22338.html"
+  },
+  {
+    "sku": "DC38483",
+    "name": "Fio Dental 100M - Iodontosul",
+    "price": "R$13,90",
+    "description": "Embalagem com 100m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-morango-100m-iodontosul-143327.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-100m-iodontosul-dc38483.html"
+  },
+  {
+    "sku": "125892",
+    "name": "Fio Dental Menta 50m - Kess",
+    "price": "R$6,49",
+    "description": "Embalagem com 50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-menta-50m-kess-125892-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-menta-50m-kess-125892.html"
+  },
+  {
+    "sku": "125891",
+    "name": "Passa Fio - Kess",
+    "price": "R$10,90",
+    "description": "Embalagem com 35 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/passa-fio-kess-125891-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/passa-fio-kess-125891.html"
+  },
+  {
+    "sku": "125025",
+    "name": "Fio Dental Infantil Heróis 20m - DentalClean",
+    "price": "R$9,09",
+    "description": "Embalagem com 25m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-fio-dental-infantil-herois-20m-sortido-dentalclean-125025.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-infantil-herois-25m-sortido-dentalclean-125025.html"
+  },
+  {
+    "sku": "DC16891",
+    "name": "Escova Interdental Refil - Morelli",
+    "price": "R$7,00",
+    "description": "Embalagem com 6 unidades. Escolha o formato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-interdental-morelli-dc16891.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-interdental-morelli-dc16891.html"
+  },
+  {
+    "sku": "101170",
+    "name": "Creme Dental Detox Deep Clean - Oral-B",
+    "price": "R$19,90",
+    "description": "Embalagem com 102g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-detox-deep-clean-oral-b-dc-101170-02.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-detox-deep-clean-oral-b-101170.html"
+  },
+  {
+    "sku": "131890",
+    "name": "Creme Dental Gengiva Detox Tartar Defense - Oral-B",
+    "price": "R$19,90",
+    "description": "Embalagem com 102g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-anti-tartaro-detox-deep-clean-oral-b-131890-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-anti-tartaro-detox-deep-clean-oral-b-131890.html"
+  },
+  {
+    "sku": "105141",
+    "name": "Escova Dental Infantil Stages 3 Toy Story - Oral-B",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade. Personagens sortidos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-stages3-toy-story-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-stages-3-toy-story-oral-b-105141.html"
+  },
+  {
+    "sku": "141095",
+    "name": "Escova Dental Elétrica Io Séries 6 Bivolt - Oral-B",
+    "price": "R$1.229,90",
+    "description": "Embalagem com 1 escova iO6, 1 carregador, 4 refis.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-io-series-6-bivolt-oral-b-dental-cremer-141095.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-io-series-6-bivolt-oral-b-141095.html"
+  },
+  {
+    "sku": "104033",
+    "name": "Palito Dental Soft Picks Gum - Sunstar",
+    "price": "R$10,90",
+    "description": "Embalagem com 15 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104033.jpg",
+    "url": "https://www.dentalcremer.com.br/palito-dental-soft-picks-gum-sunstar-104033.html"
+  },
+  {
+    "sku": "119338",
+    "name": "Escova Dental Floppy Infantil Macia - Medfio",
+    "price": "R$2,79",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-floppy-infantil-macia-medfio-119338-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-floppy-infantil-macia-medfio-119338.html"
+  },
+  {
+    "sku": "115644",
+    "name": "Escova Personalizada Indicator Colors 30 - Oral-B",
+    "price": "R$176,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-personalizada-indicator-colors-30-oral-b-dental-cremer-115644-1.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-indicator-colors-30-oral-b-115644.html"
+  },
+  {
+    "sku": "109935",
+    "name": "Escova Dental Infantil Trolls Manual - Sunstar",
+    "price": "R$15,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109935.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-trolls-manual-sunstar-109935.html"
+  },
+  {
+    "sku": "125895",
+    "name": "Fio Dental Menta 100m - Kess",
+    "price": "R$9,19",
+    "description": "Embalagem com 100m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-menta-100m-kess-125895-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-menta-100m-kess-125895.html"
+  },
+  {
+    "sku": "130283",
+    "name": "Fio Dental Black - MEDFIO",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade de 50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-black-medfio-50m-dc-130283.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-black-medfio-130283.html"
+  },
+  {
+    "sku": "122200",
+    "name": "Antisséptico Bucal 100% Noite 500ml - Oral-B",
+    "price": "R$19,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-noite-500ml-oral-b-122200-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-noite-500ml-oral-b-122200.html"
+  },
+  {
+    "sku": "748260",
+    "name": "Creme Dental - BlueM",
+    "price": "R$24,90",
+    "description": "Embalagem com 1 unidade de 15ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-bluem-748260-att.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-bluem-748260.html"
+  },
+  {
+    "sku": "111319",
+    "name": "Escova Dental Infantil Minions 2-5 - Colgate",
+    "price": "R$19,70",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-minions-meu-malvado-favorito-2-5-anos-dental-cremer-111319-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-minions-colgate-111319.html"
+  },
+  {
+    "sku": "DC38481",
+    "name": "Fio Dental 50M - Iodontosul",
+    "price": "R$11,90",
+    "description": "Embalagem com 50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-morango-50m-iodontosul-143321.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-50m-iodontosul-dc38481.html"
+  },
+  {
+    "sku": "128264",
+    "name": "Refil Escova Eletrica Ultimate Clean Io Black 2un - Oral-B",
+    "price": "R$109,90",
+    "description": "Embalagem com 2 refis.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-escova-eletrica-ultimate-clean-io-black-oralb-128264.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-escova-eletrica-ultimate-clean-io-black-oral-b-128264.html"
+  },
+  {
+    "sku": "147026",
+    "name": "Refil Escova Dental Elétrica Infantil Pro Kids 3+ Frozen - Oral-B",
+    "price": "R$44,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-escova-dental-eletrica-infantil-pro-kids-3-frozen-oral-b-147026.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-escova-dental-eletrica-infantil-pro-kids-3-frozen-oral-b-147026.html"
+  },
+  {
+    "sku": "102686",
+    "name": "Escova Personalizada Ultrafino 35 - Oral-B",
+    "price": "R$176,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-ultrafino-35-2un-oral-b-personalizada-dental-cremer-102686-05.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-ultrafino-35-oral-b-102686.html"
+  },
+  {
+    "sku": "119342",
+    "name": "Fio Dental Slide Pro Menta 100m - Medfio",
+    "price": "R$9,39",
+    "description": "Embalagem com 100m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-slide-pro-menta-100m-medfio-119342.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-slide-pro-menta-100m-medfio-119342.html"
+  },
+  {
+    "sku": "700730",
+    "name": "Gel Dental Peppa Pig - Dentalclean",
+    "price": "R$5,19",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700730.jpg",
+    "url": "https://www.dentalcremer.com.br/gel-dental-peppa-pig-dentalclean-700730.html"
+  },
+  {
+    "sku": "DC38479",
+    "name": "Fio Dental 25M - Iodontosul",
+    "price": "R$7,89",
+    "description": "Embalagem com 25m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-morango-25m-iodontosul-143315.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-25m-iodontosul-dc38479.html"
+  },
+  {
+    "sku": "113279",
+    "name": "Creme Dental 100% - Oral-B",
+    "price": "R$9,90",
+    "description": "Embalagem com 70g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-escova-dental-fluor-100-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-100-oral-b-113279.html"
+  },
+  {
+    "sku": "DC38480",
+    "name": "Fio Dental 50M - Iodontosul",
+    "price": "R$8,99",
+    "description": "Embalagem com 50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-hortela-50m-iodontosul-143319.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-50m-iodontosul-dc38480.html"
+  },
+  {
+    "sku": "139053",
+    "name": "Fio Dental Slide Pro Menta - MEDFIO",
+    "price": "R$6,99",
+    "description": "Embalagem com 50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-slide-pro-menta-medfio-139053-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-slide-pro-menta-medfio.html"
+  },
+  {
+    "sku": "427325",
+    "name": "Antisséptico Bucal Riohex Gard 0,12% - Rioquímica",
+    "price": "R$13,90",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-riohex-gard-0-12-rioquimica-427325-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-riohex-gard-0-12-rioquimica-427325.html"
+  },
+  {
+    "sku": "122199",
+    "name": "Antisséptico Bucal 100% 250ml - Oral-B",
+    "price": "R$13,90",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-100-250ml-oral-b-122199-detal-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-100-250ml-oral-b-122199.html"
+  },
+  {
+    "sku": "141099",
+    "name": "Refil Escova Elétrica Orthodontic Clean - Oral-B",
+    "price": "R$44,90",
+    "description": "Embalagem com 2 refis para escovas elétricas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-escova-eletrica-orthodontic-clean-oral-b-dental-cremer-141099.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-escova-eletrica-orthodontic-clean-oral-b-141099.html"
+  },
+  {
+    "sku": "111320",
+    "name": "Escova Dental Infantil Batman/Mulher Maravilha - Colgate",
+    "price": "R$19,70",
+    "description": "Embalagem com 2 unidades. Sortido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pack-escova-dental-infantil-batman-e-mulher-maravilha-colgate-122002.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-batman-mulher-maravilha-colgate-111320.html"
+  },
+  {
+    "sku": "141098",
+    "name": "Refil Escova Elétrica iO Ultimate Care - Oral-B",
+    "price": "R$84,90",
+    "description": "Embalagem com 2 refis para escovas do modelo iO.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-escova-eletrica-io-ultimate-care-oral-b-dental-cremer-141098.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-escova-eletrica-io-ultimate-care-oral-b-141098.html"
+  },
+  {
+    "sku": "134334",
+    "name": "Enxaguante Bucal Elmex Anticáries - Colgate",
+    "price": "R$35,90",
+    "description": "Embalagem com 400ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-elmex-anticaries-400ml-colgate-134334-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-elmex-anticaries-colgate-134334.html"
+  },
+  {
+    "sku": "147023",
+    "name": "Creme Dental 3D White Mineral Clean - Oral-B",
+    "price": "R$10,90",
+    "description": "Embalagem com 70g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-3d-white-mineral-clean-oral-b-147023.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-3d-white-mineral-clean-oral-b-147023.html"
+  },
+  {
+    "sku": "DC38482",
+    "name": "Fio Dental 100M - Iodontosul",
+    "price": "R$11,90",
+    "description": "Embalagem com 100m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-hortela-100m-iodontosul-143325.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-100m-iodontosul-dc38482.html"
+  },
+  {
+    "sku": "DC38478",
+    "name": "Fio Dental 25M - Iodontosul",
+    "price": "R$6,59",
+    "description": "Embalagem com 25m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-dental-hortela-25m-iodontosul-143313.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-25m-iodontosul-dc38478.html"
+  },
+  {
+    "sku": "111144",
+    "name": "Creme Dental Advanced Repair - Bianco",
+    "price": "R$9,39",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111144.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-advanced-repair-bianco-111144.html"
+  },
+  {
+    "sku": "131891",
+    "name": "Creme Dental Detox Tartar Defense - Oral-B",
+    "price": "R$21,90",
+    "description": "Embalagem com 130g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-anti-tartaro-detox-deep-clean-oral-b-131891-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-anti-tartaro-detox-deep-clean-oral-b-131891.html"
+  },
+  {
+    "sku": "127177",
+    "name": "Refil Escova Eletrica Kids Spiderman 2un - Oral-B",
+    "price": "R$45,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-escova-dental-eletrica-infantil-spiderman-dc-127177.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-escova-dental-eletrica-infantil-spiderman-oral-b-127177.html"
+  },
+  {
+    "sku": "123070",
+    "name": "Antisséptico Bucal 100% 500ml - Oral-B",
+    "price": "R$19,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-100-oralb-500ml-123070.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-100-500ml-oral-b.html"
+  },
+  {
+    "sku": "748277",
+    "name": "Antisséptico Bucal - BlueM",
+    "price": "R$111,90",
+    "description": "Frasco com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-enxaguante-bucal-500ml-bluem-748277.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-bluem-748277.html"
+  },
+  {
+    "sku": "125901",
+    "name": "Escova Dental Compact Kids - Kess",
+    "price": "R$8,69",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-compact-kids-kess-125901-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-compact-kids-kess-125901.html"
+  },
+  {
+    "sku": "151683",
+    "name": "Creme Dental Adulto Bio - Gum",
+    "price": "R$20,90",
+    "description": "Embalagem com 99,2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-adulto-bio-gum-151683.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-adulto-bio-gum-151683.html"
+  },
+  {
+    "sku": "149394",
+    "name": "Kit Promocional Escova Elétrica Infantil Pro Kids 3+ Spiderman Bivolt - Oral-B",
+    "price": "R$439,90",
+    "description": "Kit com 02 unidades da Escova Elétrica Pro Kids Spiderman Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-escova-eletrica-vitality-kids-spiderman-bivolt-oral-b-149394-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-escova-eletrica-kids-spiderman-bivolt-oral-b-149394.html"
+  },
+  {
+    "sku": "DC29111",
+    "name": "Refil para Escova Elétrica Infantil - Oral-B",
+    "price": "R$45,90",
+    "description": "Embalagem com 2 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-escova-battery-kids-carros-oral-b-dc29111-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eletrica-kids-refil-oral-b-dc29111.html"
+  },
+  {
+    "sku": "141101",
+    "name": "Refil Irrigador Aqua Flosser - Oral-B",
+    "price": "R$80,90",
+    "description": "Embalagem com 4 refis para escovas do Modelo iO.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-irrigador-aqua-flosser-oral-b-dental-cremer-141101.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-irrigador-aqua-flosser-oral-b-141101.html"
+  },
+  {
+    "sku": "714449",
+    "name": "Creme Dental Máxima Proteção Anticáries - Colgate",
+    "price": "R$3,99",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-mpa-50g-colgate-dc-714449-02.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-maxima-protec-o-anticaries-colgate-714449.html"
+  },
+  {
+    "sku": "149396",
+    "name": "Kit Promocional Escova Dental Elétrica Pro Séries 2 Bivolt - Oral-B",
+    "price": "R$491,90",
+    "description": "Kit com 02 unidades do Escova Dental Elétrica Pro Séries 2 Bivolt",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-escova-dental-eletrica-pro-series-2-bivolt-oral-b-k-141097.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-escova-dental-eletrica-pro-series-2-bivolt-oral-b-149396.html"
+  },
+  {
+    "sku": "125259",
+    "name": "Escova Dental Elétrica SonicPro Kids Bivolt - Colgate",
+    "price": "R$257,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-sonic-care-kids-philips-bivolt-azul-colgate-125259-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-sonic-care-kids-bivolt-azul-125259.html"
+  },
+  {
+    "sku": "107420",
+    "name": "Creme Dental 3D White Mineral Clean - Oral-B",
+    "price": "R$17,90",
+    "description": "Embalagem com 102g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-creme-dental-fluor-3d-white-mineral-clean-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-3d-white-mineral-clean-oral-b-107420.html"
+  },
+  {
+    "sku": "146788",
+    "name": "Gel Dental - Inphloral",
+    "price": "R$50,90",
+    "description": "Embalagem com 1 unidade 60 ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gel-dental-infantil-inphloral-146788-a.jpg",
+    "url": "https://www.dentalcremer.com.br/gel-dental-inphloral-146788.html"
+  },
+  {
+    "sku": "109934",
+    "name": "Escova Dental Infantil Trolls Light - Sunstar",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-inf-trolls-light-dental-cremer-109934-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-trolls-light-sunstar-109934.html"
+  },
+  {
+    "sku": "149391",
+    "name": "Kit Promocional Escova Eletrica Vitality 110V - Oral-B",
+    "price": "R$339,80",
+    "description": "Kit com 02 unidades de Escova Eletrica Vitality 110V.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-escova-eletrica-vitality-110v-oral-b-k-195545.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-escova-eletrica-vitality-110v-oral-b-149391.html"
+  },
+  {
+    "sku": "149392",
+    "name": "Kit Promocional Escova Eletrica Vitality 220V - Oral-B",
+    "price": "R$339,80",
+    "description": "Kit com 02 unidades de Escova Eletrica Vitality 220V",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-escova-eletrica-vitality-220v-oral-b-k-195552.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-escova-eletrica-vitality-220v-oral-b-149392.html"
+  }
+]

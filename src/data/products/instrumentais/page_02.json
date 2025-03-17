@@ -1,0 +1,768 @@
+[
+  {
+    "sku": "772791",
+    "name": "Descolador Molt 2-4 - Fava",
+    "price": "R$71,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/772791_636095359624744143.jpg",
+    "url": "https://www.dentalcremer.com.br/descolador-molt-2-4-fava-772791.html"
+  },
+  {
+    "sku": "557718",
+    "name": "Alicate Ortodôntico Torque Individual 222 - Zatty",
+    "price": "R$313,90",
+    "description": "Embalagem com 2 unidades (Macho e fêmea)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-p-torque-individual-n-222-zatty-dc-557718-06_1.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-individual-222-zatty-557718.html"
+  },
+  {
+    "sku": "558791",
+    "name": "Alicate Ortodôntico Barra Palatina 410 - Quinelato",
+    "price": "R$199,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-p-barra-palatina-quinelato-dc-558791-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-barra-palatina-410-quinelato-558791.html"
+  },
+  {
+    "sku": "143905",
+    "name": "Kit Manequim Multidisciplinar Periodontia E Dentística - Orais",
+    "price": "R$564,90",
+    "description": "Kit com 1 manequim de Dentistica + 1 Jogo de Dentes de Periodontia + 1 par de Gengivas Transparentes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-manequim-multidisciplinar-periodontia-e-dentistica-cod--1031n-143905.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-manequim-multidisciplinar-periodontia-e-dentistica-cod-1031n-orais-143905.html"
+  },
+  {
+    "sku": "767414",
+    "name": "Alicate Ortodôntico 347 Saca Banda - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-347-saca-banda-ice-767414-1.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-347-saca-banda-ice.html"
+  },
+  {
+    "sku": "126135",
+    "name": "Espátula Flexível Metálica - Odous de Deus",
+    "price": "R$96,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-flexivel-metalica-odous-de-deus-126135.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-flexivel-metalica-odous-de-deus-126135.html"
+  },
+  {
+    "sku": "100469",
+    "name": "Pinça Anatômica Dente de Rato - Ice",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. 16cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100469.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-anatomica-dente-de-rato-ice-100469.html"
+  },
+  {
+    "sku": "558784",
+    "name": "Alicate Ortodôntico Angles 139 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-angles-n-139-quinelato-dc-558784-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-angles-139-quinelato.html"
+  },
+  {
+    "sku": "506983",
+    "name": "Alicate Ortodôntico Tridente 200 - Golgran",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-21.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-tridente-200-golgran-dc-506983-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-tridente-200-golgran-506983.html"
+  },
+  {
+    "sku": "767469",
+    "name": "Alicate Ortodôntico Corte Distal - Ice",
+    "price": "R$411,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-distal-ice-767469-1.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-ice.html"
+  },
+  {
+    "sku": "507867",
+    "name": "Espátula ALM Millennium - Golgran",
+    "price": "R$107,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-alm-millennium-golgran-507867.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-alm-millennium-golgran-507867.html"
+  },
+  {
+    "sku": "557756",
+    "name": "Alicate Ortodôntico Para Dobra em V 168 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-alicate-ortodontico-dobra-em-v-bend-n-168-zatty-dc-557756.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-dobra-em-v-168-zatty-557756.html"
+  },
+  {
+    "sku": "508345",
+    "name": "Pinça Dietrich - Golgran",
+    "price": "R$102,90",
+    "description": "Embalagem com 1 unidade de 14cm. Ref: 173-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pinca-dietrich-14cm-dental-cremer-508345-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-dietrich-golgran-508345.html"
+  },
+  {
+    "sku": "558975",
+    "name": "Alicate Ortodôntico Weingart 120 Com Widia - Quinelato",
+    "price": "R$249,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558975_635460190162519531.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-weingart-120-com-widia-quinelato-558975.html"
+  },
+  {
+    "sku": "399134",
+    "name": "Alicate Ortodôntico Corte de Fio de Amarrilho - Fava",
+    "price": "R$383,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-corte-de-amarrilho-c-widea-dental-cremer-399134-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-de-fio-de-amarrilho-fava.html"
+  },
+  {
+    "sku": "DC24329",
+    "name": "Sonda Exploradora - Fava",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771978_636095441518073889.jpg",
+    "url": "https://www.dentalcremer.com.br/sonda-exploradora-fava-dc24329.html"
+  },
+  {
+    "sku": "922424",
+    "name": "Alicate Ortodôntico Para Gancho Bola 59 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-alicate-para-gancho-bola-n-58-zatty-dc-922424.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-gancho-bola-59-zatty-922424.html"
+  },
+  {
+    "sku": "561074",
+    "name": "Alicate Ortodôntico Tweed 350 Millennium Orto - Golgran",
+    "price": "R$258,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-48.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-tweed-350-golgran-dc-561074-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-tweed-350-millennium-orto-golgran.html"
+  },
+  {
+    "sku": "138980",
+    "name": "Alicate Removedor de Bráquetes Angular - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-removedor-de-braquetes-angular-orthometric-138980-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-removedor-de-braquetes-angular-orthometric-138980.html"
+  },
+  {
+    "sku": "DC30358",
+    "name": "Espátula para Resina de Titânio Millennium - Golgran",
+    "price": "R$101,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-de-titanio-millennium-golgran-dc30358-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-de-titanio-millennium-golgran-dc30358.html"
+  },
+  {
+    "sku": "605242",
+    "name": "Kit de Espátulas para Resina - Jon",
+    "price": "R$25,90",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-espatulas-para-resina-jon-605242.jpg",
+    "url": "https://www.dentalcremer.com.br/espatulas-para-resina-kit-jon-605242.html"
+  },
+  {
+    "sku": "DC38936",
+    "name": "Espátula para Resina Flexível - Indusbello",
+    "price": "R$155,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-flexivel-n5-1unid--indusbello-DC38936-2.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-flexivel-indusbello-dc38936.html"
+  },
+  {
+    "sku": "240320",
+    "name": "Bandeja de Inox Milleniun - Fava",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/240320.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-de-inox-milleniun-fava-240320.html"
+  },
+  {
+    "sku": "745788",
+    "name": "Espátula para Cerâmica Almore L Millennium - Golgran",
+    "price": "R$107,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-ceramica-almore-l-millennium-golgran-745788.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-ceramica-almore-l-millennium-golgran-745788.html"
+  },
+  {
+    "sku": "841855",
+    "name": "Alicate Ortodôntico Torque Individual com Widia - Ice",
+    "price": "R$341,90",
+    "description": "Embalagem com 1 unidade + 2 chaves.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-torque-individual-com-widia-ice-841855-dc-5.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-individual-com-widia-ice.html"
+  },
+  {
+    "sku": "557640",
+    "name": "Alicate Ortodôntico De La Rosa 109 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-de-la-rosa-n-109-dental-cremer-557640.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-de-la-rosa-109-zatty-557640.html"
+  },
+  {
+    "sku": "772630",
+    "name": "Alicate Ortodôntico De La Rosa 109 - Fava",
+    "price": "R$148,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/772630_636123845981717448.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-de-la-rosa-109-fava.html"
+  },
+  {
+    "sku": "399141",
+    "name": "Alicate Ortodôntico Fio Pesado N° 267 - Fava",
+    "price": "R$261,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/399141.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-fio-pesado-fava.html"
+  },
+  {
+    "sku": "557749",
+    "name": "Alicate Ortodôntico Tweed Ômega Loop 350 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-alicate-tweed-omega-loop-n-350-dental-cremer-557749.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-tweed-omega-loop-350-zatty-557749.html"
+  },
+  {
+    "sku": "767346",
+    "name": "Alicate Ortodôntico 120 Weingart - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-weingart-n-120-ice-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-120-weingart-ice.html"
+  },
+  {
+    "sku": "507003",
+    "name": "Alicate Ortodôntico Formador de Matriz 141 - Golgran",
+    "price": "R$143,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-16.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-p-rebitar-matriz-141-dental-cremer-507003-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-formador-de-matriz-141-golgran-507003.html"
+  },
+  {
+    "sku": "771602",
+    "name": "Esculpidor Lecron - Fava",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esculpidor-lecron-dental-cremer-771602-01.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-lecron-fava-771602.html"
+  },
+  {
+    "sku": "558821",
+    "name": "Alicate Ortodôntico De La Rosa 109 - Quinelato",
+    "price": "R$199,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558821_635460191609116804.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-de-la-rosa-109-quinelato-558821.html"
+  },
+  {
+    "sku": "557657",
+    "name": "Alicate Ortodôntico Formador de Amarrilho 158 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/557657_2.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-formador-de-amarrilho-158-zatty-557657.html"
+  },
+  {
+    "sku": "399400",
+    "name": "Espátula de Inserção de Fio Retrator Redondo - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-de-insercao-de-fio-retrator-redondo-fava-dc-399400-02.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-inserc-o-de-fio-retrator-redondo-fava-399400.html"
+  },
+  {
+    "sku": "558876",
+    "name": "Alicate Ortodôntico Ômega Loop 350 - Quinelato",
+    "price": "R$249,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558876_635460191135965771.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-omega-loop-350-quinelato-558876.html"
+  },
+  {
+    "sku": "767322",
+    "name": "Alicate Ortodôntico 074 Young - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-074-young-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-074-young-ice.html"
+  },
+  {
+    "sku": "102338",
+    "name": "Alicate Perfurador Ainsworth - Ice",
+    "price": "R$131,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-perfurador-ainsworth-ice-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-perfurador-ainsworth-ice-102338.html"
+  },
+  {
+    "sku": "DC25203",
+    "name": "Alicate Ortodôntico Alinhador - Zatty",
+    "price": "R$401,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-alinhador-zatty-120953-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-alinhador-zatty-dc25203.html"
+  },
+  {
+    "sku": "507010",
+    "name": "Pinça Porta Grampo Palmer Serrilhada - Golgran",
+    "price": "R$112,90",
+    "description": "Embalagem com 1 unidade. Ref: 153-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/507010.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-porta-grampo-palmer-serrilhada-golgran-507010.html"
+  },
+  {
+    "sku": "767339",
+    "name": "Alicate Ortodôntico 109 De la Rosa - Ice",
+    "price": "R$134,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-de-la-rosa-n-109-ice-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-109-de-la-rosa-ice.html"
+  },
+  {
+    "sku": "767452",
+    "name": "Alicate Ortodôntico Corte Amarrilho Premium - Ice",
+    "price": "R$411,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-amarrilho-premium-ice-767452-dc-4.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-amarrilho-premium-ice.html"
+  },
+  {
+    "sku": "103991",
+    "name": "Alicate Ortodôntico Torque Longo 442L - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-torque-longo-dental-cremer-103991-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-longo-442l-ice.html"
+  },
+  {
+    "sku": "506990",
+    "name": "Alicate Ortodôntico Meia Cana 53 - Golgran",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-meia-cana-53-dental-cremer-506990-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-meia-cana-53-golgran-506990.html"
+  },
+  {
+    "sku": "767377",
+    "name": "Alicate Ortodôntico 158 Formador de Amarrilho - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-formador-de-amarrilho-n-158-ice-dc-767377-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-158-formador-de-amarrilho-ice.html"
+  },
+  {
+    "sku": "558920",
+    "name": "Alicate Ortodôntico Torque Curto 442 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558920_635460190752515313.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-curto-442-quinelato.html"
+  },
+  {
+    "sku": "137785",
+    "name": "Alicate Ortodôntico Corte de Fio de Amarrilho - Fava",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-corte-de-amarrilho-c-widea-dental-cremer-399134-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-de-fio-de-amarrilho-fava-137785.html"
+  },
+  {
+    "sku": "106435",
+    "name": "Alicate Ortodôntico Fisher 156 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/106435.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-fisher-156-zatty-106435.html"
+  },
+  {
+    "sku": "557633",
+    "name": "Alicate Ortodôntico Curto Para Fios 139 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aberto-alicate-ortodontico-curto-para-fios-139-zatty-dc-557633.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-curto-para-fios-139-zatty-557633.html"
+  },
+  {
+    "sku": "399318",
+    "name": "Alicate Ortodôntico Tweed 350 - Fava",
+    "price": "R$148,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/399318.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-tweed-350-fava.html"
+  },
+  {
+    "sku": "399257",
+    "name": "Alicate Ortodôntico Bird Beak 139 - Fava",
+    "price": "R$148,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-bird-beak-curto-n-139-dental-cremer-399257-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-bird-beak-139-fava.html"
+  },
+  {
+    "sku": "730166",
+    "name": "Espátula para Resina SF N° 6 Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-p-resina-sf-6-millennium-dental-cremer-730166-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-n-6-millennium-golgran-730166.html"
+  },
+  {
+    "sku": "138982",
+    "name": "Alicate para Torque Longo Nº 442 - Orthometric",
+    "price": "R$171,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-para-torque-longo-n442-othometric-138982-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-para-torque-longo-n-442-orthometric-138982.html"
+  },
+  {
+    "sku": "134149",
+    "name": "Alicate para Dobra em Z Universal Nº 299 - Zatty",
+    "price": "R$281,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-para-dobra-em-z-universal-n-299-134149-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-para-dobra-em-z-universal-n-299-zatty.html"
+  },
+  {
+    "sku": "151495",
+    "name": "Alicate Ortodôntico Curto para Fios Modificado Nº139R - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-curto-para-fios-modificado-n139r-zatty-151495.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-curto-para-fios-modificado-n-139r-zatty-151495.html"
+  },
+  {
+    "sku": "103977",
+    "name": "Alicate Ortodôntico Torque Curto 442C - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/103977_2.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-curto-442c-ice.html"
+  },
+  {
+    "sku": "476804",
+    "name": "Alicate Perfurador Ainsworth - Quinelato",
+    "price": "R$349,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/476804.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-perfurador-ainsworth-quinelato-476804.html"
+  },
+  {
+    "sku": "561012",
+    "name": "Alicate Ortodôntico Formador de Ligadura 158 Millennium Orto - Golgran",
+    "price": "R$258,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-59.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-formador-amarrilho-158-golgran-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-formador-de-ligadura-158-millennium-orto-golgran.html"
+  },
+  {
+    "sku": "802580",
+    "name": "Ponta Para Alicate Saca Banda QP00042 - Quinelato",
+    "price": "R$74,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/802580.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-para-alicate-saca-banda-qp00042-quinelato-802580.html"
+  },
+  {
+    "sku": "399158",
+    "name": "Alicate Ortodôntico Nance 001 - Fava",
+    "price": "R$148,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/399158.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-nance-001-fava.html"
+  },
+  {
+    "sku": "557589",
+    "name": "Alicate Ortodôntico Young 074 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/557589_a.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-young-074-zatty-557589.html"
+  },
+  {
+    "sku": "DC30143",
+    "name": "Espátula Dupla Elegance - Ice",
+    "price": "R$74,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-elegance-3081-ice-126873-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-dupla-elegance-ice-dc30143.html"
+  },
+  {
+    "sku": "767407",
+    "name": "Alicate Ortodôntico 346C Removedor de Bráquete - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-removedor-de-braquetes-curvo-n-346c-dental-cremer-767407-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-346c-removedor-de-braquete-ice.html"
+  },
+  {
+    "sku": "126890",
+    "name": "Espátula Elegance ALM L - Ice",
+    "price": "R$74,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-elegance-alm-m-ice-126890-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-elegance-alm-l-ice-126890.html"
+  },
+  {
+    "sku": "138783",
+    "name": "Kit Alicates para OFM Dhacar - Zatty",
+    "description": "Kit com 6 Alicates ortodônticos, nas numerações 139U, 763, 200, 107, 290, 128C e 053 (sendo 1 de cada) + 1 Porta alicate com tampa para 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-alicates-para-ofm-dhacar-7unidzatty-dc-134147.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-alicates-para-ofm-dhacar-zatty-138783.html"
+  },
+  {
+    "sku": "558869",
+    "name": "Alicate Ortodôntico Nance 001 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558869_635460191338299068.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-nance-001-quinelato.html"
+  },
+  {
+    "sku": "557695",
+    "name": "Alicate Ortodôntico Saca Banda 347 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-saca-bandas-n-347-dental-cremer-557695-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-saca-banda-347-zatty-557695.html"
+  },
+  {
+    "sku": "772654",
+    "name": "Alicate Ortodôntico Removedor de Bráquete Curvo N°346 - Fava",
+    "price": "R$148,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-orto-346c-removedor-braquete-curvo-fava-dc-772654-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-de-braquete-curvo-n-346-fava-772654.html"
+  },
+  {
+    "sku": "772159",
+    "name": "Alicate Perfurador Ainsworth - Fava",
+    "price": "R$204,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ainsworth-perfurador-dental-cremer-772159-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-perfurador-ainsworth-fava-772159.html"
+  },
+  {
+    "sku": "558777",
+    "name": "Alicate Ortodôntico Corte Amarrilho Mini 152 Com Widia - Quinelato",
+    "price": "R$519,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-152-corte-amarrilho-com-widia-quinelato-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-amarrilho-mini-152-com-widia-quinelato-558777.html"
+  },
+  {
+    "sku": "558968",
+    "name": "Alicate Ortodôntico Trident 200 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558968_635460190347848719.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-trident-200-quinelato-558968.html"
+  },
+  {
+    "sku": "111193",
+    "name": "Alicate Pré-Curvador de Lima G - Odous de Deus",
+    "price": "R$229,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111193.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-pre-curvador-de-lima-g-odous-de-deus-111193.html"
+  },
+  {
+    "sku": "771718",
+    "name": "Espátula Silicato N° 1 - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-silicato-n-1-fava-77171-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-silicato-n-1-fava-771718.html"
+  },
+  {
+    "sku": "764512",
+    "name": "Ponta Para Alicate Saca Banda 347R - Zatty",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/reposicao-de-alicate-saca-banda-zatty-dc-764512-02.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-para-alicate-saca-banda-347r-zatty-764512.html"
+  },
+  {
+    "sku": "922400",
+    "name": "Alicate Ortodôntico Dobra Distal 1002 - Zatty",
+    "price": "R$422,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/922400.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-dobra-distal-1002-zatty-922400.html"
+  },
+  {
+    "sku": "558883",
+    "name": "Alicate Ortodôntico Fixador de Gancho 058 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558883_635460191041117163.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-fixador-de-gancho-058-quinelato.html"
+  },
+  {
+    "sku": "767384",
+    "name": "Alicate Ortodôntico 200 Tridente - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-200-tridente.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-200-tridente-ice.html"
+  },
+  {
+    "sku": "557763",
+    "name": "Alicate Ortodôntico Weingart 120E - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-alicate-ortodontico-weingart-n-120e-dental-cremer-557763.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-weingart-120e-zatty-557763.html"
+  },
+  {
+    "sku": "509908",
+    "name": "Alicate Ortodôntico Formador de Amarrilho 158 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/509908_635457598182710736.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-formador-de-amarrilho-158-quinelato.html"
+  },
+  {
+    "sku": "767315",
+    "name": "Alicate Ortodôntico 053 Meia Cana - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-053-meia-cana-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-053-meia-cana-ice.html"
+  },
+  {
+    "sku": "558937",
+    "name": "Alicate Ortodôntico Torque Longo 442L - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558937_635460190600570339.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-longo-442l-quinelato.html"
+  },
+  {
+    "sku": "DC38716",
+    "name": "Alicate Corte em Alinhador - Ice",
+    "price": "R$364,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-corte-em-alinhador-n810-707-ice-145936.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-corte-em-alinhador-ice-dc38716.html"
+  },
+  {
+    "sku": "970821",
+    "name": "Alicate Ortodôntico Corte Distal Especial Millennium - Golgran",
+    "price": "R$637,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-33.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-orto-corte-distal-especial-golgran-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-especial-millennium-golgran.html"
+  },
+  {
+    "sku": "148847",
+    "name": "Alicate Ortodôntico Corte Distal com Wídia - Ice",
+    "price": "R$489,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-distal-com-widia-ice-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-com-widia-ice-148847.html"
+  },
+  {
+    "sku": "557626",
+    "name": "Alicate Ortodôntico Corte Distal 154 - Zatty",
+    "price": "R$538,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-alicate-ortodontico-corte-distal-154-zatty-557626.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-154-zatty-557626.html"
+  },
+  {
+    "sku": "558951",
+    "name": "Alicate Ortodôntico Torque Individual Fêmea 222F - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-torque-individual-femea-222f-quinelato-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-individual-femea-222f-quinelato.html"
+  },
+  {
+    "sku": "130543",
+    "name": "Alicate para Torque Individual com Chave 222 - Fava",
+    "price": "R$177,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-para-torque-individual-com-chave-222-fava-130543-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-para-torque-individual-com-chave-222-fava-130543.html"
+  },
+  {
+    "sku": "772647",
+    "name": "Alicate Ortodôntico Weingart 120 - Fava",
+    "price": "R$148,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-orto-120-weingart-fava-dc-772647-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-weingart-120-fava.html"
+  },
+  {
+    "sku": "138981",
+    "name": "Alicate para Torque Curto Nº 442 - Orthometric",
+    "price": "R$171,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-para-torque-curto-n442-othometric-138981-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-para-torque-curto-n-442-orthometric-138981.html"
+  },
+  {
+    "sku": "558814",
+    "name": "Alicate Ortodôntico Corte Fio Grosso 770 - Quinelato",
+    "price": "R$519,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558814_635460191669021188.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-fio-grosso-770-quinelato-558814.html"
+  },
+  {
+    "sku": "557565",
+    "name": "Alicate Ortodôntico Fixador de Gancho 058 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/557565_a.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-fixador-de-gancho-058-zatty-557565.html"
+  },
+  {
+    "sku": "561005",
+    "name": "Alicate Ortodôntico Bico Chato 121 Millennium Orto - Golgran",
+    "price": "R$258,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-29.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-121-bico-chato-golgran-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-bico-chato-121-millennium-orto-golgran-561005.html"
+  },
+  {
+    "sku": "805215",
+    "name": "Alicate Ortodôntico Weingart Delicado com Widia - Quinelato",
+    "price": "R$249,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/805215.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-weingart-delicado-com-widia-quinelato.html"
+  },
+  {
+    "sku": "557671",
+    "name": "Alicate Ortodôntico Removedor de Bráquete Priscila 346P - Zatty",
+    "price": "R$178,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-alicate-removedor-braquete-metalico-346p-zatty-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-de-braquete-priscila-346p-zatty-557671.html"
+  },
+  {
+    "sku": "399301",
+    "name": "Alicate Ortodôntico Saca Banda 347 - Fava",
+    "price": "R$148,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-saca-banda-posterior-n-347-fava-dc-399301-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-saca-banda-347-fava.html"
+  },
+  {
+    "sku": "558944",
+    "name": "Alicate Ortodôntico Torque Individual Macho 222M - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-orto-torque-individual-macho-222f-quinelato-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-torque-individual-macho-222m-quinelato-558944.html"
+  }
+]

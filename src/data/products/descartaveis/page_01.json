@@ -1,0 +1,764 @@
+[
+  {
+    "sku": "DC24283",
+    "name": "Luva de Procedimento de Látex com Pó - Descarpack",
+    "price": "R$26,99",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-luva-de-procedimento-dpk-dc24283.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-dpk-dc24283.html"
+  },
+  {
+    "sku": "DC12922",
+    "name": "Rolo Dental - Cremer",
+    "price": "R$9,90",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/algodao-rolete-n-1-cremer-dc-514056-01.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-dental-cremer-dc12922.html"
+  },
+  {
+    "sku": "DC29025",
+    "name": "Luva para Procedimento Látex Sem Pó - Safemax by Supermax",
+    "price": "R$28,99",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-latex-sem-po-safemax-by-supermax-dc29025.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-latex-sem-po-safemax-by-supermax.html"
+  },
+  {
+    "sku": "127720",
+    "name": "Sugador Descartável  Transparente - AllPrime",
+    "price": "R$8,90",
+    "description": "Embalagem com 40 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-descartavel-transparente-allprime-127720-01-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-descartavel-transparente-allprime-127720.html"
+  },
+  {
+    "sku": "DC11158",
+    "name": "Luva de Procedimento de Látex com Pó - Supermax",
+    "price": "R$35,99",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-procedimento-supermax-dc11158-dental-cremer-13.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-supermax-dc11158.html"
+  },
+  {
+    "sku": "DC25627",
+    "name": "Luva Cirúrgica Estéril de Látex com Pó Pouch Plástico - Descarpack",
+    "price": "R$3,79",
+    "description": "Embalagem com 1 par. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-cirurgica-esteril-pouch-plast-descarpack-dc25627.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-cirurgica-esteril-pouch-plast-descarpack-dc25627.html"
+  },
+  {
+    "sku": "DC25705",
+    "name": "Sugador Odontológico Descartável Colorido - AllPrime",
+    "price": "R$8,90",
+    "description": "Embalagem com 40 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-descartavel-colorido-allprime-dc25705.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-descartavel-allprime-dc25705.html"
+  },
+  {
+    "sku": "141132",
+    "name": "Kit Cirúrgico Estéril Pério 30gr Branco (Oral Menor) - Sp Health",
+    "price": "R$17,90",
+    "description": "Kit com 2 aventais de manga longa de 1,20x1,40cm + 1 campo de mesa 0,70x0,90cm + 1 campo de mesa impermeável 0,70x0,90cm + 1 campo fenestrado 1,20x0,70cm + 2 capas de mangueira 1,00x0,08cm + 2 capas de refletor de 0,25x0,10cm + 2 toalhas absorventes 0,35x0,40cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-30gr-branco-sp-health-141132.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-30gr-branco-sp-health-141132.html"
+  },
+  {
+    "sku": "125231",
+    "name": "Máscara Descartável Tripla com Clipe Nasal Branca - SP Protection",
+    "price": "R$15,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-clipe-nasal-branca-sp-protection-125231-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-descartavel-tripla-com-clipe-nasal-branca-125231.html"
+  },
+  {
+    "sku": "388701",
+    "name": "Rolo Dental - SSPlus",
+    "price": "R$2,99",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-rolete-algodao-ssplus-388701.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-dental-ssplus-388701.html"
+  },
+  {
+    "sku": "133596",
+    "name": "Kit Cirúrgico Estéril Pério 30GR - SP Protection",
+    "price": "R$25,90",
+    "description": "Kit com 2 aventais mangas longas + 2 toalhas de mão + 1 máscara tripla com elástico + 1 campo de mesa impermeável (70 x 90cm) + 1 campo de mesa (70 x 90cm) + 2 protetores de sugador + 1 campo fenestrado (90cm x 1,40m) e 1 protetor de refletor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-30gr-sp-protection-133596-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-30gr-sp-protection-133596.html"
+  },
+  {
+    "sku": "DC30562",
+    "name": "Microaplicador Descartável - Microdont",
+    "price": "R$11,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microaplicador-descartavel-regular-azul-microdont-132766-2.jpg",
+    "url": "https://www.dentalcremer.com.br/microaplicador-descartavel-microdont-dc30562.html"
+  },
+  {
+    "sku": "372021",
+    "name": "Babador Impermeável Branco - SSPlus",
+    "price": "R$19,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/foto-produto-babador-impermeavel-ssplus-148577.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-ssplus-372021.html"
+  },
+  {
+    "sku": "DC27152",
+    "name": "Aplicador - AllPrime",
+    "price": "R$16,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aplicador-allprime-dc27152-dental-cremer-02.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-allprime-dc27152.html"
+  },
+  {
+    "sku": "DC11164",
+    "name": "Máscara Cirúrgica Descartável Tripla Com Elástico - Fava",
+    "price": "R$28,90",
+    "description": "Embalagem com 50 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-cirurgica-descartavel-50unidades-fava-dc11164.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-cirurgica-descartavel-com-elastico-fava-dc11164.html"
+  },
+  {
+    "sku": "DC39106",
+    "name": "Luva para Procedimento Latex sem Pó - Medix",
+    "price": "R$29,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-latex-sem-po-g-medix-150207.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-latex-sem-po-medix-dc39106.html"
+  },
+  {
+    "sku": "100545",
+    "name": "Compressa de Gaze 9 Fios Não Estéril - Ultracotton",
+    "price": "R$25,90",
+    "description": "Embalagem com 500 unidades de 7,5 x 7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-gaze-9-fios-500-unid-ultracotton-melhormed-100545.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-ultracotton-9-fios-n-o-esteril-ultracotton-100545.html"
+  },
+  {
+    "sku": "DC38188",
+    "name": "Luva de Procedimento de Látex com Pó - Descarpack",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-procedimento-latex-com-po-descarpack-m-774283.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-de-latex-com-po-descarpack-dc38188.html"
+  },
+  {
+    "sku": "143464",
+    "name": "Kit Cirúrgico Estéril Pério Branco 20Gr - Desc Shop",
+    "price": "R$21,90",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos de mesa simples (70x70cm), 1 campo fenestrado (1,40x0,70m), 2 toalhas absorvente, 2 protetores de sugador (Canote), 1 protetor de refletor e 2 toucas sanfonada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-branco-20gr-desc-shop-143464.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-branco-20gr-desc-shop-143464.html"
+  },
+  {
+    "sku": "DC11154",
+    "name": "Luva Cirúrgica Estéril de Látex com Pó - Supermax",
+    "price": "R$3,90",
+    "description": "Embalagem com 1 par. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-cirurgica-esteril-supermax-dc11154-2.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-cirurgica-esteril-supermax-dc11154.html"
+  },
+  {
+    "sku": "DC38958",
+    "name": "Luva Nitrílica para Procedimento Sem Pó Azul - SafeMax by Supermax",
+    "price": "R$30,99",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-nitrilica-para-procedimento-sem-po-azul-supermax-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-nitrilica-para-procedimento-sem-po-azul-supermax-dc38958.html"
+  },
+  {
+    "sku": "106922",
+    "name": "Kit Cirúrgico Estéril Nº 2 30GR - ProtDesc",
+    "price": "R$10,90",
+    "description": "Embalagem com 4 itens, sendo: 02 toalhas de mão, 01 campo fenestrado 1,20m x 0,70cm branco 30gm² e 01 campo de mesa 0,70cm x0,70cm branco 30gm².",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/106922.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n-2-protdesc.html"
+  },
+  {
+    "sku": "163278",
+    "name": "Babador Impermeável - AllPrime",
+    "price": "R$19,90",
+    "description": "Embalagem com 100 unidades. Sortido. Tamanho 30cmx40cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/babador-impermeavel-allprime-dental-cremer-163278_1.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-allprime-163278.html"
+  },
+  {
+    "sku": "DC11130",
+    "name": "Babador Impermeável - Biodinâmica",
+    "price": "R$25,90",
+    "description": "Embalagem com 100 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/376593.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-biodinamica-dc11130.html"
+  },
+  {
+    "sku": "130059",
+    "name": "Kit Cirúrgico Estéril para Implante 30GR - SP Protection",
+    "price": "R$27,90",
+    "description": "Kit com 2 toalhas absorventes, 2 aventais cirúrgicos 30G, 1 campo para paciente fenestrado 30G, 1 campo de mesa impermeável, 1 campo de mesa, 2 máscaras triplas antiviral, 2 toucas, 4 propés, 2 protetores de sugador 30G e 2 protetores de refletor 30G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-30gr-sp-protection-130059-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-30gr-sp-protection.html"
+  },
+  {
+    "sku": "141133",
+    "name": "Kit Cirúrgico Implante 30gr Branco (Oral Maior) - Sp Health",
+    "price": "R$24,90",
+    "description": "Kit com 2 aventais de manga longa 1,20x1,40cm + 01 campo de mesa 0,70x0,90cm + 01 campo de mesa impermeável 0,70x0,90cm + 01 campo fenestrado 2,00x1,20cm + 02 capas de mangueira 1,00x0,08cm + 02 capas de refletor 0,25x0,10cm + 02 toalhas absorventes 0,35x0,40cm + 02 toucas descartáveis + 02 máscaras descartáveis.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-30gr-branco-sp-health-dental-cremer-141132.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-implante-30gr-branco-sp-health-141133.html"
+  },
+  {
+    "sku": "120058",
+    "name": "Máscara Descartável Tripla com Elástico Color - Protdesc",
+    "price": "R$27,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-elastico-colors-120058.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-descartavel-tripla-com-elastico-color-protdesc-120058.html"
+  },
+  {
+    "sku": "102907",
+    "name": "Rolo Dental - Soft Plus",
+    "price": "R$3,49",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102907.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-dental-soft-plus-102907.html"
+  },
+  {
+    "sku": "145167",
+    "name": "Kit Cirúrgico Estéril Implante 40Gr Azul - SP Protection",
+    "price": "R$29,90",
+    "description": "Kit com 2 aventais manga longa 40GR no tamanho G, cor azul, 2 toalhas de mão, 2 máscaras tripla com elástico azul, 1 campo de mesa impermeável (70x90cm), 1 campo de mesa azul 40GR (70x90cm), 2 protetores de sugador, 1 campo fenestrado Azul 40GR (90cmx1,40m), 2 protetores de refletor, 2 toucas azuis e 2 pares de propé.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-40gr-azul-sp-protection-145167.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-40gr-azul-sp-protection-145167.html"
+  },
+  {
+    "sku": "DC28011",
+    "name": "Aplicador - AllPrime",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114509.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-allprime-dc28011.html"
+  },
+  {
+    "sku": "357646",
+    "name": "Touca Descartável Branca - Descarpack",
+    "price": "R$9,90",
+    "description": "Embalagem com 100 unidades. 10G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-branca-dental-cremer-357646-01.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-branca-descarpack-357646.html"
+  },
+  {
+    "sku": "DC39020",
+    "name": "Luva para Procedimento Nitrilo Sem Pó Rosa – Medix",
+    "price": "R$32,90",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/produto-luva-para-procedimento-nitrilo-sem-po-rosa-medix-dc39020.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-nitrilo-sem-po-rosa-medix-dc39020.html"
+  },
+  {
+    "sku": "143469",
+    "name": "Kit Cirúrgico Estéril Nº 1 30Gr - Desc Shop",
+    "price": "R$14,90",
+    "description": "Embalagem com 2 aventais manga longa, 1 campo de mesa simples (70x70cm), 1 campo fenestrado (1,20x0,70m), 2 toalhas absorvente e 2 toucas sanfonada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-n-1-30gr-desc-shop-143469.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n-1-30gr-desc-shop-143469.html"
+  },
+  {
+    "sku": "595109",
+    "name": "Sugador Endodôntico Descartável - SSPlus",
+    "price": "R$19,90",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-endodontico-descartavel-ssplus-595109.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-endodontico-descartavel-ssplus.html"
+  },
+  {
+    "sku": "143466",
+    "name": "Kit Cirúrgico Estéril Pério Branco 40Gr - Desc Shop",
+    "price": "R$24,90",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos de mesa simples (70x70cm), 1 campo fenestrado (1,40x0,70m), 2 toalhas absorvente, 2 protetores de sugador (Canote), 1 protetor de refletor e 2 toucas sanfonada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-branco-40gr-desc-shop-143466.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-branco-40gr-desc-shop-143466.html"
+  },
+  {
+    "sku": "143462",
+    "name": "Kit Cirúrgico Estéril Implante Branco 40Gr - Desc Shop",
+    "price": "R$34,90",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos simples de mesa (70x70cm), 1 campo simples de bancada (1,50x0,50m), 1 campo fenestrado (1,40x0,70m), 1 capa de cadeira, 2 toalhas absorvente, 2 protetores de sugador (Canote), 1 protetor de refletor, 2 toucas sanfonada, 2 pares de propé e 2 máscaras tripla com elástico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-branco-40gr-desc-shop-143462.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-branco-40gr-desc-shop-143462.html"
+  },
+  {
+    "sku": "DC25860",
+    "name": "Kit Cirúrgico Especial - Protdesc",
+    "price": "R$50,90",
+    "description": "Embalagem com 02 Toalhas de mão + 02 Aventais + 01 Protetor de Refletor + 02 Protetores de Mangueira + 01 Máscara Tripla com elástico + 02 Campos 70cm x 70m e 01 Campo 70cm x 1,20m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-especial-verde-40g-106918.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-especial-protdesc-dc25860.html"
+  },
+  {
+    "sku": "143459",
+    "name": "Kit Cirúrgico Estéril Implante Branco 20Gr - Desc Shop",
+    "price": "R$31,90",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos simples de mesa(70x70cm), 1 campo simples de bancada(1,5x0,5m),1 campo fenestrado(1,4x0,7m), 1 capa de cadeira, 2 toalhas absorvente, 2 protetores de sugador, 1 protetor de refletor, 2 toucas sanfonadas, 2 pares de propé e 2 máscaras tripla com elástico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-branco-20gr-desc-shop-143459.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-branco-20gr-desc-shop-143459.html"
+  },
+  {
+    "sku": "148140",
+    "name": "Kit Cirúrgico Implante Masterdent Branco 40gr - Masterdent",
+    "price": "R$31,90",
+    "description": "Kit com 2 aventais, 1 campo cirúrgico de mesa, 1 campo cirúrgico de mesa impermeável, 1 campo fenestrado, 2 capas para mangueira, 2 capas para refletor, 2 máscaras cirúrgica, 2 toalhas absorvente e 2 toucas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-cirurgico-masterdent.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-implante-masterdent-branco-40gr-masterdent-148140.html"
+  },
+  {
+    "sku": "239195",
+    "name": "Seringa Descartável Luer Lock 5ml Sem Agulha – BD",
+    "price": "R$0,79",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/239195_635757456422398288.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-bd-239195.html"
+  },
+  {
+    "sku": "119895",
+    "name": "Kit Cirúrgico Implante Alto Padrão Branco 30g - Medis",
+    "price": "R$49,90",
+    "description": "Kit com 2 toalhas de mão + 2 aventais cirúrgico manga longa com amarras na cintura e no pescoço e punho com elástico 30g + 1 campo fenestrado 1,80 x 90 30g + 2 campos para mesa impermeável 1,00 x 70 50g + 1 campo para motor 45 x 60 30g + 1 protetor para cadeira 2,00 x 70 20g, 2 toucas sanfonada 20g + 2 máscaras tripla + 3 protetores de mangueira 20g + 1 protetor para refletor 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-implante-alto-padrao-30gr-medis-119895-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-implante-alto-padr-o-branco-30g-medis-119895.html"
+  },
+  {
+    "sku": "143470",
+    "name": "Kit Cirúrgico Estéril Nº 2 30Gr - Desc Shop",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 campo de mesa simples (70x70cm), 1 campo fenestrado (70x70cm) e 2 toalhas absorvente.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-n-2-30gr-desc-shop-143470.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n-2-30gr-desc-shop-143470.html"
+  },
+  {
+    "sku": "113786",
+    "name": "Avental Descartável Especial Manga Longa 16G - Descarpack",
+    "price": "R$24,90",
+    "description": "Embalagem com 10 unidades. Branco.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-especial-manga-longa-branco-descarpack-113786.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-especial-manga-longa-branco-descarpack-113786.html"
+  },
+  {
+    "sku": "119898",
+    "name": "Kit Cirúrgico Estéril Nº 4 Branco 30g - Medis",
+    "price": "R$14,90",
+    "description": "Kit com 1 toalha de mão + 1 campo para mesa 70 x 70 30g + 1 campo fenestrado 70 x 70 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-n-4-30gr-medis-119898-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n-4-branco-30g-medis-119898.html"
+  },
+  {
+    "sku": "119894",
+    "name": "Kit Cirúrgico Estéril Perio Premium Padrão Branco 30g - Medis",
+    "price": "R$32,90",
+    "description": "Embalagem com kit composto por 2 toalhas de mão, 2 aventais cirúrgicos manga longa com amarras na cintura e no pescoço e punho com elástico 30g, 1 campo para mesa 70x70 30g, 1 campo fenestrado 1,20x70 30g, 2 protetores de mangueira 20g, 1 protetor para refletor 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-periodontia-padrao-branco-30g-medis.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-periodontia-padr-o-branco-30g-medis-119894.html"
+  },
+  {
+    "sku": "DC39108",
+    "name": "Luva para Procedimento Vinil Saude sem Pó - Medix",
+    "price": "R$25,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-vinil-saude-sem-po-p-medix-150214.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-vinil-saude-sem-po-medix-dc39108.html"
+  },
+  {
+    "sku": "DC24786",
+    "name": "Luva de Procedimento de Nitrilo Preta Sem Pó - Supermax",
+    "price": "R$39,90",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-luva-procedimento-black-nitrilo-powder-free-supermax-dc24786.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-nitrilica-colorida-preta-supermax-dc24786.html"
+  },
+  {
+    "sku": "106921",
+    "name": "Kit Cirúrgico Estéril N°1 - Protdesc",
+    "price": "R$22,90",
+    "description": "Embalagem com 01 Avental Manga Longa Branco 30gm² + 02 Toalhas de Mão + 01 Campo Fenestrado 1,20m x 0,70m Branco 30gm² + 01 Campo de Mesa 45cm x 60cm Branco 30gm².",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-numero-1-protdesc-106921.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n-1-protdesc.html"
+  },
+  {
+    "sku": "119892",
+    "name": "Kit Cirúrgico Estéril Implante Padrão Branco 30g - Medis",
+    "price": "R$42,90",
+    "description": "Informações sobre o Kit nos detalhes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-padrao-branco-30g-medis-119892-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-padr-o-branco-30g-medis-119892.html"
+  },
+  {
+    "sku": "119899",
+    "name": "Kit Cirúrgico Estéril Nº 5 Branco 30gr - Medis",
+    "price": "R$21,90",
+    "description": "Kit com 2 toalhas de mão + 1 campo para mesa 70 x 70 30g + 1 campo fenestrado 1,20 x 70 30g + 2 odonto protetor 20g + 1 protetor para refletor 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-n-5-30gr-medis-119899-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n-5-branco-30gr-medis-119899.html"
+  },
+  {
+    "sku": "DC25859",
+    "name": "Kit Cirúrgico Especial - Protdesc",
+    "price": "R$52,90",
+    "description": "Embalagem com 02 Toalhas de mão + 02 Aventais + 01 Protetor de Refletor + 02 Protetores de Mangueira + 01 Máscara Tripla com elástico + 02 Campos 70cm x 70m e 01 Campo 70cm x 1,20m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-especial-azul-marinho-40g-106913.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-especial-protdesc-dc25859.html"
+  },
+  {
+    "sku": "148137",
+    "name": "Kit Cirúrgico Pério Masterdent Branco 30gr - Masterdent",
+    "price": "R$21,90",
+    "description": "Kit com 2 aventais, 1 campo fenestrado, 1 campo cirúrgico de mesa, 1 campo cirúrgico de mesa impermeável, 2 capas de mangueira, 2 capas para refletor e 2 toalhas de mão absorvente.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-cirurgico-masterdent.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-perio-masterdent-branco-30gr-masterdent-148137.html"
+  },
+  {
+    "sku": "120120",
+    "name": "Kit Cirúrgico Estéril Para Periodontia - SKY",
+    "description": "Kit com 10 peças, sendo 2 aventais de manga longa + 1 campo fenestrado de 1,2x0,7 + 2 campos 0,7x0,7 + 1 protetor de refletor + 2 protetores de cabos + 2 toalhas absorventes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-para-periodontia-sky-120120-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-periodontia-sky-120120.html"
+  },
+  {
+    "sku": "106920",
+    "name": "Kit Cirúrgico Estéril Implante - Protdesc",
+    "price": "R$44,90",
+    "description": "Embalagem com 02 Aventais Manga Longa Branco 20gm², 02 Toalhas de Mão, 02 Máscaras Tripla Branca, 02 Toucas Sanfonada, 04 Sapatilhas Propé 20gm², 02 Protetores de Mangueira, 01 Protetor de Refletor, 01 Protetor de Cadeira 1,90m x 0,85cm 20gm², 01 Campo para Bancada 1,20m x 0,50cm 20gm², 01 Campo Fenestrado 1,20m x 0,70cm Branco 20gm e 02 Campos de Mesa 0,70cm x 0,70cm Branco 20gm².",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-protdesc-106920-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-protdesc-106920.html"
+  },
+  {
+    "sku": "DC29435",
+    "name": "Kit Cirúrgico Estéril Implante Padrão 40g - Medis",
+    "price": "R$67,90",
+    "description": "Kit com 2 aventais manga longa e punho elástico tamanho G 40g + 1 campo cirúrgico fenestrado 90 x 1,40 40g + 2 campos cirúrgico 70 x 90 40g + 2 máscaras tripla com elástico + 2 toucas sanfonadas 20g + 2 protetores de mangueira 20g + 1 protetor de refletor circular com elástico 20g + 2 toalhas de mão.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-paramentacao-implante-padrao-40gr-azul-marinho-119901-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kir-cirugico-esteril-implante-padr-o-gr-40-medis-dc29435.html"
+  },
+  {
+    "sku": "DC38903",
+    "name": "Kit Cirúrgico Periodontia Padrão - Medis",
+    "price": "R$32,90",
+    "description": "Kit com 2 aventais manga longa punho elástico tamanho G 30GR, 1 campo cirúrgico fenestrado 90x1,40 30GR, 2 campos cirúrgico 70x70 30GR, 2 protetores de mangueira 20GR, 2 protetores de refletor com elástico 20GR e 2 toalhas de mão.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-periodontia-padrao-azul-marinho-30gr-medis.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-periodontia-padrao-medis-dc38903.html"
+  },
+  {
+    "sku": "243451",
+    "name": "Sugador Odontológico Descartável - SSPlus",
+    "price": "R$10,90",
+    "description": "Embalagem com 40 unidades. Colorido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-odontologico-descartavel-ssplus-243451-dental-cremer-lab.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-descartavel-ssplus-243451.html"
+  },
+  {
+    "sku": "106924",
+    "name": "Kit Cirúrgico Estéril Periodontal GR40 - Protdesc",
+    "price": "R$54,90",
+    "description": "Embalagem com 02 Aventais + 02 Toalhas de mão + 02 Campos de mesa (70cm x 70cm) + 02 Protetores de sugadores + 01 Campo fenestrado (1,20m x 70cm) e 01 Protetor refletor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-periodontal-gr40-protdesc-106924-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-periodontal-gr40-protdesc.html"
+  },
+  {
+    "sku": "148141",
+    "name": "Kit Cirúrgico Implante Masterdent Branco 30gr - Masterdent",
+    "price": "R$26,90",
+    "description": "Kit com 2 aventais cirúrgico, 1 campo cirúrgico de mesa, 1 campo cirúrgico de mesa impermeável, 1 campo fenestrado, 2 capas para mangueira, 2 capas para refletor, 2 máscaras descartável, 2 toalhas absorvente e 2 toucas descartável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-cirurgico-masterdent.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-implante-masterdent-branco-30gr-masterdent-148141.html"
+  },
+  {
+    "sku": "126272",
+    "name": "Kit Cirúrgico Procedimento 30GR - Medis",
+    "price": "R$40,90",
+    "description": "Kit c/ 2 Aventais manga longa punho elástico tam G 30g, 1 Campo cirúrgico fenestrado 1,40x90 30g, 2 Campos cirúrgico 45x70 30g, 2 Máscaras tripla com elástico, 3 Toucas sanfonada 20g, 2 Protetores de mangueira 20g, 2 Protetores de refletor circular com elástico 20g, 4 Toalhas de mão.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-procedimento-30gr-medis-dental-cremer-126272.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-procedimento-30gr-medis-126272.html"
+  },
+  {
+    "sku": "384567",
+    "name": "Kit Cirúrgico Estéril Para Periodontia - SKY",
+    "price": "R$25,90",
+    "description": "Kit com 10 peças, sendo 2 aventais de manga longa + 1 campo fenestrado de 1,2x0,7 + 2 campos 0,7x0,7 + 1 protetor de refletor + 2 protetores de cabos + 2 toalhas absorventes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-esteril-cirurgica-periodontal-sky-384567.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-periodontia-sky-384567.html"
+  },
+  {
+    "sku": "137480",
+    "name": "Kit Cirúrgico Implante Alto Padrão 40GR - Medis",
+    "price": "R$67,90",
+    "description": "Kit c/ 2 Toalhas de mão, 2 Aventais cirúrgicos manga longa com amarras na cintura e no pescoço e punho com elástico 40g, 1 Campo fenestrado 1,80x0,90 40g, 1 Campo para mesa 1,00x0,70 40g, 1 Campo para mesa 0,45x0,60 40g, 1 Campo para mesa impermeável 1,00x0,70 40g, 2 Toucas sanfonada 20g, 3 Protetores de mangueira 20g, 1 Protetor para refletor 20g, 2 Máscaras tripla, 1 Protetor para cadeira toda com elástico 2,00x0,90 20g, 4 Propés 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-implante-alto-padr-o-40gr-medis-137480.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-implante-alto-padr-o-40gr-medis-137480.html"
+  },
+  {
+    "sku": "106919",
+    "name": "Kit Cirúrgico Estéril Periodontal - Protdesc",
+    "price": "R$38,90",
+    "description": "Embalagem com 02 Aventais + 02 Toalhas de mão + 02 Campos de mesa (70cm x 70cm) + 02 Protetores de Mangueira + 01 Campo fenestrado (1,20m x 70cm) e 01 Protetor refletor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/106919.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-periodontal-protdesc.html"
+  },
+  {
+    "sku": "143465",
+    "name": "Kit Cirúrgico Estéril Pério Branco 30Gr - Desc Shop",
+    "price": "R$24,90",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos de mesa simples (70x70cm), 1 campo fenestrado (1,40x0,70m), 2 toalhas absorvente, 2 protetores de sugador (Canote), 1 protetor de refletor e 2 toucas sanfonada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-branco-30gr-desc-shop-143465.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-branco-30gr-desc-shop-143465.html"
+  },
+  {
+    "sku": "DC38902",
+    "name": "Kit Cirúrgico Paramentação Implante Padrão 30g - Medis",
+    "price": "R$42,90",
+    "description": "Informações sobre o Kit nos detalhes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-paramentacao-implante-padrao-azul-claro-30gr-medis.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-paramentacao-implante-padrao-medis-dc38902.html"
+  },
+  {
+    "sku": "147990",
+    "name": "Kit Cirúrgico Paramentação Periodontia Padrão Azul Claro 30GR - Medis",
+    "price": "R$32,90",
+    "description": "Mais informações sobre o kit em Detalhes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/Kit-Cirurgico-Perio-Padrao-30gr-azul-claro.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-paramentacao-periodontia-padrao-azul-claro-30gr-medis-147990.html"
+  },
+  {
+    "sku": "119897",
+    "name": "Kit Cirúrgico Estéril Nº 3 Branco 30g - Medis",
+    "price": "R$28,90",
+    "description": "Kit com 1 toalha de mão + 1 avental cirúrgico manga longa com amarras na cintura e no pescoço e punho com elástico 20g + 1 campo para mesa 70 x 70 30g + 1 campo fenestrado 1,20 x 70 30g + 2 protetores de mangueira 20g + 1protetor para refletor 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-n-3-30gr-medis-119897-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n-3-branco-30g-medis-119897.html"
+  },
+  {
+    "sku": "126244",
+    "name": "Kit Cirúrgico Implante Alto Padrão 20g - Medis",
+    "price": "R$41,90",
+    "description": "Kit c/ 2 Toalhas de mão, 2 Aventais cirúrgicos manga longa c/ amarras na cintura e no pescoço e punho c/ elástico 20g, 1 Campo Fenestrado 1,40x90 20g, 2 Campos para mesa 70x90 20g, 1 Campo para motor 45x60 20g, 2 toucas sanfonadas 20g, 2 Máscaras Tripla, 2 Protetores, de mangueira 20g, 1 Protetor p/ refletor 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-implante-alto-padrao-medis-126244.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-implante-alto-padrao-20g-medis-126244.html"
+  },
+  {
+    "sku": "384574",
+    "name": "Kit Cirúrgico Estéril Para Periodontia - SKY",
+    "price": "R$45,90",
+    "description": "Kit com 10 peças: 2 aventais manga longa, 1 campo fenestrado 1,2x0,7m, 2 campos 0,7x0,7m, 1 protetor de refletor, 2 protetores de cabos e 2 toalhas absorventes. 40g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-para-periodontia-sky-384574.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-periodontia-sky-384574.html"
+  },
+  {
+    "sku": "143460",
+    "name": "Kit Cirúrgico Estéril Implante Branco 30Gr - Desc Shop",
+    "price": "R$28,90",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos simples de mesa (70x70cm), 1 campo simples de bancada (1,50x0,50m), 1 campo fenestrado (1,40x0,70m), 1 capa de cadeira, 2 toalhas absorvente, 2 protetores de sugador, 1 protetor de refletor, 2 toucas sanfonada, 2 pares de propé e 2 máscaras tripla com elástico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-branco-30gr-desc-shop-143460.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-branco-30gr-desc-shop-143460.html"
+  },
+  {
+    "sku": "122355",
+    "name": "Kit Cirúrgico Estéril Para Periodontia - SKY",
+    "description": "Kit com 10 peças: 2 aventais manga longa, 1 campo fenestrado 1,2x0,7m, 2 campos 0,7x0,7m, 1 protetor de refletor, 2 protetores de cabos e 2 toalhas absorventes. 40g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-para-periodontia-sky-1-122355-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-periodontia-sky-122355.html"
+  },
+  {
+    "sku": "148142",
+    "name": "Kit Cirúrgico Implante Masterdent Branco 20gr - Masterdent",
+    "price": "R$25,90",
+    "description": "Kit com 2 aventais cirúrgico, 1 campo cirúrgico de mesa, 1 campo cirúrgico de mesa impermeável, 1 campo fenestrado, 2 capas para mangueira, 2 capas para refletor, 2 máscaras descartável, 2 toalhas absorvente e 2 toucas descartável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-cirurgico-masterdent.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-implante-masterdent-branco-20gr-masterdent-148142.html"
+  },
+  {
+    "sku": "384581",
+    "name": "Kit Cirúrgico Estéril Para Implante - SKY",
+    "price": "R$43,90",
+    "description": "Kit com 18 peças. 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-gr-20-cirurgiaimplante-sky-dental-cremer-384581-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-implante-sky-384581.html"
+  },
+  {
+    "sku": "390315",
+    "name": "Kit Cirúrgico Estéril Para Periodontia - SKY",
+    "price": "R$34,90",
+    "description": "Kit com 9 peças. 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/390315_636074791192145047.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-periodontia-sky.html"
+  },
+  {
+    "sku": "390308",
+    "name": "Kit Cirúrgico Estéril Para Implante - SKY",
+    "price": "R$47,90",
+    "description": "Kit com 18 peças. 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/390308.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-implante-sky.html"
+  },
+  {
+    "sku": "119896",
+    "name": "Kit Cirúrgico Estéril Pério Branco 20g - Medis",
+    "price": "R$31,90",
+    "description": "Kit com 2 toalhas de mão + 2 aventais cirúrgico manga longa com amarras na cintura e no pescoço e punho com elástico 20g + 1 campo para mesa 70 x 70 20g + 1 campo fenestrado 1,20 x 70 20g + 2 protetores de mangueira 20g + 1 protetor de refletor 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-perio-eco-20gr-medis-119896-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-eco-branco-20g-medis-119896.html"
+  },
+  {
+    "sku": "137676",
+    "name": "Kit Cirúrgico Estéril Implante Padrão Branco 30g - Medis",
+    "description": "Kit com 2 aventais manga longa punho elástico tamanho G 30g + 1 campo cirúrgico fenestrado 90 x 1,40 30g + 2 campos cirúrgico 70 x 90 30g + 2 máscaras tripla com elástico + 2 toucas sanfonada 20g + 2 gorros de laço 30g + 3 protetores de mangueira 20g + 1 protetor de refletor circular com elástico 20g + 2 toalhas de mão.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-padrao-branco-30g-medis-119892-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-padr-o-branco-30g-medis-137676.html"
+  },
+  {
+    "sku": "138445",
+    "name": "Kit Cirúrgico Estéril Pério - HNDESC",
+    "description": "Kit com 2 toalhas absorventes + 2 aventais de manga Longa + 02 campo de mesa 0,70x0,70cm + 1 campo fenestrado 1,40x0,90 cm + 2 protetores de sugador + 1 protetor de refletor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-hndesc-dc-925388-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-hndesc-138445.html"
+  },
+  {
+    "sku": "925388",
+    "name": "Kit Cirúrgico Estéril Pério - HNDESC",
+    "price": "R$31,90",
+    "description": "Kit com 10 peças. 30g. Branco.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-hndesc-dc-925388-001.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-hndesc.html"
+  },
+  {
+    "sku": "377712",
+    "name": "Sugador Cirúrgico Descartável Estéril - Indusbello",
+    "price": "R$34,90",
+    "description": "Embalagem com 20 unidades + 40 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-descartavel-esterilizado-c-20-un-indusbello-dc-377712-01.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-cirurgico-descartavel-esteril-indusbello-377712.html"
+  },
+  {
+    "sku": "DC25653",
+    "name": "Máscara Cirúrgica Descartável Tripla - Protdesc",
+    "price": "R$24,90",
+    "description": "Embalagem com 50 unidades. Com elástico. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-elastico-verde-50unid-105426.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-cirurgica-descartavel-tripla-protdesc-dc25653.html"
+  },
+  {
+    "sku": "483222",
+    "name": "Seringa Hipodérmica Sem Agulha - BD",
+    "price": "R$1,29",
+    "description": "10ml LL. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-lock-10-ml-s-agulha-bd-dc-483222-01.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-bd-483222.html"
+  },
+  {
+    "sku": "793314",
+    "name": "Sobre Luva de Polietileno - Volk",
+    "price": "R$2,49",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sobre-luva-polietileno-volk-dental-cremer-793314.jpg",
+    "url": "https://www.dentalcremer.com.br/sobre-luva-volk-793314.html"
+  },
+  {
+    "sku": "107068",
+    "name": "Seringa Hipodérmica com Agulha - Descarpack",
+    "price": "R$1,19",
+    "description": "20ml. Embalagem com 1 unidade. 0,70X25. 22G1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-hipodermica-com-agulha-descarpack-107068-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-com-agulha-descarpack-107068.html"
+  },
+  {
+    "sku": "142903",
+    "name": "Seringa Descartável Plastipak Luer Lock 5ml com Agulha - BD",
+    "price": "R$0,89",
+    "description": "Embalagem com 1 unidade. 5ml - 0,80x40",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-plastipak-luer-lock-5ml-com-agulha-bd-dental-cremer-142903.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-plastipak-luer-lock-5ml-com-agulha-bd-142903.html"
+  },
+  {
+    "sku": "142893",
+    "name": "Campo Cirúrgico Sem Fenestra 70x90Cm - Sp Health",
+    "price": "R$9,90",
+    "description": "Embalagem com 10 unidades. 30g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/campo-cirurgico-sem-fenestra-70x90cm-dental-cremer-142893.jpg",
+    "url": "https://www.dentalcremer.com.br/campo-cirurgico-sem-fenestra-70x90cm-sp-health-142893.html"
+  },
+  {
+    "sku": "DC25486",
+    "name": "Babador Descartável Dental Bibs Impermeavel 33x47 cm - HospFlex",
+    "price": "R$26,90",
+    "description": "Embalagem com 100 unidades. Escolha a cor. Tamanho 33cmx47cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100252.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-descartavel-hospflex-dc25486.html"
+  },
+  {
+    "sku": "803976",
+    "name": "Seringa Ultra Fine Com Agulha - BD",
+    "price": "R$42,90",
+    "description": "1ml. Embalagem com 10 unidades. Agulha 6x0,25mm. 31G. 100UI (Unidade de Insulina).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/803976_636110986816275246.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-ultra-fine-com-agulha-bd-803976.html"
+  },
+  {
+    "sku": "DC38348",
+    "name": "Luva para Procedimento Nitrílica Sem Pó White - Supermax",
+    "price": "R$35,99",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-nitrilica-sem-po-white-supermax-dental-cremer-dc38348.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-nitrilica-sem-po-white-supermax-dc38348.html"
+  },
+  {
+    "sku": "DC14049",
+    "name": "Máscara Cirúrgica Descartável Com Tiras - Fava",
+    "price": "R$32,90",
+    "description": "Embalagem com 50 unidades. Branca ou Azul. Com tiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/236316.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-cirurgica-descartavel-com-tiras-fava-dc14049.html"
+  },
+  {
+    "sku": "DC38643",
+    "name": "Avental TNT Manga Longa 40GR - SP Protection",
+    "price": "R$53,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-tnt-manga-longa-40gr-azul-10unid--sp-protection-145164.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-tnt-manga-longa-40gr-sp-protection-dc38643.html"
+  },
+  {
+    "sku": "141135",
+    "name": "Avental Descartável Manga Longa com Punho Látex Branco 20g - Desc Shop",
+    "price": "R$32,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-com-punho-latex-branco-20g-desc-shop-dental-cremer-141135.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-com-punho-latex-branco-20g-desc-shop-141135.html"
+  },
+  {
+    "sku": "124419",
+    "name": "Seringa Descartável Luer Lock 20ml com Agulha 25x7 22g - Injex",
+    "price": "R$1,29",
+    "description": "20ml. Embalagem com 1 seringa de 20ml e 1 agulha bico lock 25x0,70 22g 1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-lock-20ml-com-agulha-25x7-22g-injex-124419-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-luer-lock-20ml-com-agulha-25x7-22g-injex.html"
+  },
+  {
+    "sku": "384833",
+    "name": "Sugador Cirúrgico Descartável Estéril - Maquira",
+    "price": "R$46,90",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-cirurgico-descartavel-esteril-maquira-384833-01.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-cirurgico-descartavel-esteril-maquira-384833.html"
+  },
+  {
+    "sku": "DC39019",
+    "name": "Luva para Procedimento Nitrílo Sem Pó Preta - Medix",
+    "price": "R$32,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-nitrilo-sem-po-preta-dc39019.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-nitrilo-sem-po-preta-medix-dc39019.html"
+  },
+  {
+    "sku": "163261",
+    "name": "Babador Impermeável - AllPrime",
+    "price": "R$19,90",
+    "description": "Embalagem com 100 unidades. Branco. Tamanho 30cmx40cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/amostra-babador-impearmeavel-allprime-163261.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-allprime-163261.html"
+  }
+]

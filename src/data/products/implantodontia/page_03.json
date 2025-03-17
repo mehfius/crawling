@@ -1,0 +1,763 @@
+[
+  {
+    "sku": "618747",
+    "name": "Membrana Biológica Bovina Lumina-Coat Double Time - Critéria",
+    "price": "R$281,90",
+    "description": "Embalagem com 1 unidade. 2x20x30mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-lumina-coat-double-time-criteria-618747.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-lumina-coat-double-time-criteria-618747.html"
+  },
+  {
+    "sku": "951769",
+    "name": "Membrana Allumina Standard - BiomacMed",
+    "price": "R$218,90",
+    "description": "Embalagem com 1 unidade. 30x25x0,7mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/951769.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-allumina-standard-biomacmed-951769.html"
+  },
+  {
+    "sku": "132902",
+    "name": "Esponja Óssea Bovina Geistlich Bio-Oss Collagen 50MG - Geistlich",
+    "price": "R$394,90",
+    "description": "Embalagem com 50mg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-geistlich-bio-oss-collagen-50mg-geistlich-132902-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-ossea-bovino-geistlich-bio-oss-collagen-50mg-geistlich-132902.html"
+  },
+  {
+    "sku": "108586",
+    "name": "Membrana Biológica Bovina Techgraft – Baumer",
+    "price": "R$316,90",
+    "description": "Embalagem com 1 unidade. 20x20mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-membrana-biologica-bovina-techgraft-baumer-108586.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-techgraf-20x20mm-baumer-108586.html"
+  },
+  {
+    "sku": "602951",
+    "name": "Enxerto Ósseo Bovino GenOx Inorg - Baumer",
+    "price": "R$183,90",
+    "description": "Embalagem com 1,0cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-genox-inorg-10cc-bovino-desprotein-dental-cremer-602951-02.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-genox-inorg-baumer-602951.html"
+  },
+  {
+    "sku": "DC26800",
+    "name": "Implante GoDirect CM - Singular",
+    "price": "R$119,90",
+    "description": "Embalagem com blister contendo 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-godirect-cm-singular-dc38207-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-godirect-cm-singular-dc26800.html"
+  },
+  {
+    "sku": "543902",
+    "name": "Enxerto Ósseo Sintético GenPhos HA TCP - Baumer",
+    "price": "R$154,90",
+    "description": "Embalagem com 0,5cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-sintetico-genphos-ha-tcp-baumer-543902-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-sintetico-genphos-ha-tcp-baumer-543902.html"
+  },
+  {
+    "sku": "132903",
+    "name": "Esponja Óssea Bovina Geistlich Bio-Oss Collagen 100MG - Geistlich",
+    "price": "R$607,90",
+    "description": "Embalagem com 100mg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-geistlich-bio-oss-collagen-100mg-geistlich-132903-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-ossea-bovino-geistlich-bio-oss-collagen-100mg-geistlich-132903.html"
+  },
+  {
+    "sku": "DC26313",
+    "name": "Chave Digital Hexagonal - Singular",
+    "price": "R$100,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101281.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-digital-hexagonal-singular-dc26313.html"
+  },
+  {
+    "sku": "DC29678",
+    "name": "Enxerto Ósseo Osseoplus Duríssima Mech - JHS",
+    "price": "R$152,90",
+    "description": "Embalagem com 0,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-osseoplus-durissima-20-mech-medio-jhs-122734-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-osseoplus-durissima-mech-jhs.html"
+  },
+  {
+    "sku": "845051",
+    "name": "Enxerto Ósseo Osteogen - Intra-Lock",
+    "price": "R$779,90",
+    "description": "Embalagem com 1g/2,5cc. 300 a 400 microns.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-osteogen-intra-lock.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-osteogen-intra-lock-845051.html"
+  },
+  {
+    "sku": "DC23144",
+    "name": "Implante Cilíndrico HE - Singular",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 implante + cover. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-cilindrico-he-singular-dc28010-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-cilindrico-he-singular-dc23144.html"
+  },
+  {
+    "sku": "DC25541",
+    "name": "Chave Torque Quadrada - Singular",
+    "price": "R$100,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101129.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-torque-quadrada-singular-dc25541.html"
+  },
+  {
+    "sku": "124417",
+    "name": "Enxerto Ósseo Nanosynt 1000 a 2000um - FGM",
+    "price": "R$423,49",
+    "description": "Embalagem com 2 ampolas de 0,53cc.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-sintetico-nanosynt-fgm-05g-dc25928.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-nanosynt-1000-a-2000um-fgm-124417.html"
+  },
+  {
+    "sku": "543858",
+    "name": "Enxerto Ósseo Bovino GenMix – Baumer",
+    "price": "R$325,90",
+    "description": "Embalagem com 1g ou 1,5cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-gen-mix-baumer-543858-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-gen-mix-baumer-543858.html"
+  },
+  {
+    "sku": "143243",
+    "name": "Enxerto Ósseo Bovino Lumina-Bone Porous Large 0,5g - Criteria",
+    "price": "R$274,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-lumina-bone-porous-large-0-5g-criteria-143243.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-lumina-bone-porous-large-0-5g-criteria-143243.html"
+  },
+  {
+    "sku": "602191",
+    "name": "Membrana Biológica Bovina Genderm Flex - Baumer",
+    "price": "R$292,90",
+    "description": "Embalagem com 1 unidade. 20x20mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-genderm-flex-baumer-602191-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-genderm-flex-baumer-602191.html"
+  },
+  {
+    "sku": "124191",
+    "name": "Chave Digital Torque Curta - Singular",
+    "price": "R$133,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-digital-torque-curta-singular-124191.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-digital-torque-curta-singular-124191.html"
+  },
+  {
+    "sku": "618730",
+    "name": "Enxerto Ósseo Bovino Lumina Bone Porous - Criteria",
+    "price": "R$418,90",
+    "description": "Embalagem com 2 unidades. 0,5g. Fino/Small.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-lumina-bone-porous-criteria-618730.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-lumina-bone-porous-criteria-618730.html"
+  },
+  {
+    "sku": "602944",
+    "name": "Enxerto Ósseo Bovino GenOx Org - Baumer",
+    "price": "R$258,90",
+    "description": "Embalagem com 1,0cc.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-genox-org-baumer-602944-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-genox-org-baumer-602944.html"
+  },
+  {
+    "sku": "132904",
+    "name": "Enxerto Ósseo Bovino Geistlich Bio-Oss Pen 0.25G (0,25-1MM) - Geistlich",
+    "price": "R$447,90",
+    "description": "Embalagem com 1 seringa de 0,25g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-geistlich-bio-oss-pen-025g-0-25-1mm-geistlich-132904-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-geistlich-bio-oss-pen-0-25g-0-25-1mm-geistlich-132904.html"
+  },
+  {
+    "sku": "132900",
+    "name": "Membrana de Colágeno Geistlich Bio-Gide 25x25mm - Geistlich",
+    "price": "R$934,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-colageno-geistlich-bio-gide-1g-25x25mm-geistlich-132900-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-colageno-geistlich-bio-gide-1g-25-x-25mm-geistlich-132900.html"
+  },
+  {
+    "sku": "132901",
+    "name": "Membrana de Colágeno Geistlich Bio-Gide Compressed 20x30mm - Geistlich",
+    "price": "R$934,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-colageno-geistlich-bio-gide-compressed-20x30mm-geistlich-132901-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-colageno-geistlich-bio-gide-compressed-20x30mm-geistlich-132901.html"
+  },
+  {
+    "sku": "143238",
+    "name": "Enxerto Ósseo Bovino Lumina-Bone Porous Small 0,5g - Criteria",
+    "price": "R$259,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-lumina-bone-porous-small-0-5g-criteria-143238.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-lumina-bone-porous-small-0-5g-criteria-143238.html"
+  },
+  {
+    "sku": "123343",
+    "name": "Chave Hexagonal Curta 1.2mm - AllPrime Select",
+    "price": "R$177,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-hexagonal-curta-1-2mm-allprime-select-dental-cremer-123343_1.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-hexagonal-curta-1-2mm-allprime-select-123343.html"
+  },
+  {
+    "sku": "101131",
+    "name": "Chave Adaptação Protética - Singular",
+    "price": "R$111,90",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101131.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-adaptac-o-protetica-singular-101131.html"
+  },
+  {
+    "sku": "686463",
+    "name": "Enxerto Ósseo Bonefill Bloco - Bionnovation",
+    "price": "R$399,90",
+    "description": "Embalagem com 1 unidade. 5x20x20mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/686463.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bonefill-bloco-bionnovation-686463.html"
+  },
+  {
+    "sku": "686487",
+    "name": "Membrana Sintética de Titânio Surgitime - Bionnovation",
+    "price": "R$314,90",
+    "description": "Embalagem com 1 unidade. 25x0,04mm. Furo de 0,15mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/686487.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-sintetica-de-titanio-surgitime-bionnovation-686487.html"
+  },
+  {
+    "sku": "546316",
+    "name": "Enxerto Ósseo Bovino OrthoGen Bloco - Baumer",
+    "price": "R$305,90",
+    "description": "Embalagem com 1 unidade. 05x15x15mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-orthogen-bloco-baumer-546316-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-orthogen-bloco-baumer-546316.html"
+  },
+  {
+    "sku": "150540",
+    "name": "Enxerto Ósseo Bovino Bonefill Mix Médio 0,50g - Bonefill Mix",
+    "price": "R$209,90",
+    "description": "Embalagem com 0,50g (0,88cc).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-bonefill-mix-medio-0-50g-150540.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-bonefill-mix-medio-0-50g-bonefill-mix-150540.html"
+  },
+  {
+    "sku": "845044",
+    "name": "Enxerto Ósseo Osteogen - Intra-Lock",
+    "price": "R$333,90",
+    "description": "Embalagem com 0,4g/1cc. 300 a 400 microns.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-osteogen-intra-lock.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-osteogen-intra-lock-845044.html"
+  },
+  {
+    "sku": "101135",
+    "name": "Chave Torque Fenda - Singular",
+    "price": "R$100,90",
+    "description": "Unidade. Ref: 117306.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101135.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-torque-fenda-singular-101135.html"
+  },
+  {
+    "sku": "135223",
+    "name": "Membrana Biológica Bovina Techgraf 20x30mm - Baumer",
+    "description": "Embalagem com 1 unidade. 20x30mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-techgraf-20x30mm-baumer-108587-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-techgraf-20x30mm-baumer-135223.html"
+  },
+  {
+    "sku": "108587",
+    "name": "Membrana Biológica Bovina Techgraf 20x30mm - Baumer",
+    "price": "R$426,90",
+    "description": "Embalagem com 1 unidade. 20x30mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-techgraf-20x30mm-baumer-108587-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-techgraf-20x30mm-baumer-108587.html"
+  },
+  {
+    "sku": "135221",
+    "name": "Membrana Biológica Sintética Absorvível Pratix 15x25mm - Baumer",
+    "description": "Embalagem com 1 unidade. 15x25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-sintetica-absorvivel-pratix-15x25mm-baumer-108584-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-sintetica-absorvivel-pratix-15x25mm-baumer-135221.html"
+  },
+  {
+    "sku": "132787",
+    "name": "Membrana Biológica Suína Ossix Volumax Scaffold - Dentsply Sirona",
+    "price": "R$549,90",
+    "description": "Embalagem com 1 membrana. 10x12,5mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-suina-ossix-volumax-scaffold-dentsply-sirona-132787-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-suina-ossix-volumax-scaffold-dentsply-sirona-132787.html"
+  },
+  {
+    "sku": "906714",
+    "name": "Enxerto Ósseo Bovino Bonefill Porous - Bionnovation",
+    "price": "R$359,90",
+    "description": "Embalagem com 1g. Fino 0,10-0,60mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/906714.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-bonefill-porous-bionnovation-906714.html"
+  },
+  {
+    "sku": "108585",
+    "name": "Membrana Biológica Sintética Absorvível Pratix 30x40mm - Baumer",
+    "price": "R$670,90",
+    "description": "Embalagem com 1 unidade. 30x40mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-sintetica-absorvivel-pratix-30x40mm-baumer-108585-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-sintetica-absorvivel-pratix-30x40mm-baumer-108585.html"
+  },
+  {
+    "sku": "132783",
+    "name": "Membrana Biológica Suína Ossix Plus - Dentsply Sirona",
+    "price": "R$648,90",
+    "description": "Embalagem com 1 membrana. 15x25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-suina-ossix-plus-dentsply-sirona-132783-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-suina-ossix-plus-dentsply-sirona-132783.html"
+  },
+  {
+    "sku": "108584",
+    "name": "Membrana Biológica Sintética Absorvível Pratix 15x25mm - Baumer",
+    "price": "R$304,90",
+    "description": "Embalagem com 1 unidade. 15x25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-sintetica-absorvivel-pratix-15x25mm-baumer-108584-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-sintetica-absorvivel-pratix-15x25mm-baumer-108584.html"
+  },
+  {
+    "sku": "148475",
+    "name": "Membrana Regenerativa de Prolipropileno - Poliprop",
+    "price": "R$119,90",
+    "description": "Embalagem com 1 unidade. 20x30mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-regenerativa-odontologica-prolipropileno-poliprop-148475.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-regenerativa-de-prolipropileno-poliprop-148475.html"
+  },
+  {
+    "sku": "137839",
+    "name": "Enxerto Ósseo Bovino GenMix - Baumer",
+    "description": "Embalagem com 0,5g ou 0,75cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-genmix-baumer-543841-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-genmix-baumer-137839.html"
+  },
+  {
+    "sku": "114128",
+    "name": "Broca Lanca 2,0 - 150022 - Singular",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114128.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-lanca-2-0-150022-singular-114128.html"
+  },
+  {
+    "sku": "DC39187",
+    "name": "Implante Hybridus Hydro H2 CM - Singular Implants",
+    "price": "R$139,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-hybridus-hydro-h2-cm-singular-implants-dc39187.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-hybridus-hydro-h2-cm-singular-implants-dc39187.html"
+  },
+  {
+    "sku": "845037",
+    "name": "Enxerto Ósseo Osteogen - Intra-Lock",
+    "price": "R$295,90",
+    "description": "Embalagem com 0,3g/0,75cc. 300 a 400 microns.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-osteogen-intra-lock.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-osteogen-intra-lock-845037.html"
+  },
+  {
+    "sku": "143240",
+    "name": "Membrana Biológica Lumina-Dermal 10x20mm - Criteria",
+    "price": "R$182,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-lumina-dermal-10x20mm-criteria-143240.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-lumina-dermal-10x20mm-criteria-143240.html"
+  },
+  {
+    "sku": "132785",
+    "name": "Membrana Biológica Suína Ossix Plus - Dentsply Sirona",
+    "price": "R$1.160,90",
+    "description": "Embalagem com 1 membrana. 30x40mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-suina-ossix-plus-dentsply-sirona-132785-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-suina-ossix-plus-dentsply-sirona-132785.html"
+  },
+  {
+    "sku": "DC26312",
+    "name": "Broca Cônica - Singular",
+    "price": "R$122,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101277.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-conica-singular-dc26312.html"
+  },
+  {
+    "sku": "142293",
+    "name": "Enxerto Ósseo Plenum OSShp 500-1000um - Plenum",
+    "price": "R$565,90",
+    "description": "Embalagem com 1 unidade. 1g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-plenum-osshp-plenum-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-plenum-osshp-500-1000um-plenum-142293.html"
+  },
+  {
+    "sku": "143236",
+    "name": "Barreira Regenerativa Lumina PTFE Titanium 20x30mm - Criteria",
+    "price": "R$1.399,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-regenerativa-lumina-ptfe-titanium-20x30mm-criteria-143236.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-regenerativa-lumina-ptfe-titanium-20x30mm-criteria-143236.html"
+  },
+  {
+    "sku": "686456",
+    "name": "Enxerto Ósseo Bovino Bonefill Bloco - Bionnovation",
+    "price": "R$314,90",
+    "description": "Embalagem com 1 unidade. 5x10x10mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/686456.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-bonefill-bloco-bionnovation-686456.html"
+  },
+  {
+    "sku": "132790",
+    "name": "Membrana Biológica Suína Ossix Volumax Scaffold - Dentsply Sirona",
+    "price": "R$1.457,90",
+    "description": "Embalagem com 1 membrana. 25x30mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-suina-ossix-volumax-scaffold-dentpsly-sirona-132790-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-suina-ossix-volumax-scaffold-dentpsly-sirona-132790.html"
+  },
+  {
+    "sku": "132794",
+    "name": "Enxerto Ósseo Suíno Ossix Bone - Dentsply Sirona",
+    "price": "R$1.355,90",
+    "description": "Embalagem com 1 enxerto. 5x10x10mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-suino-ossix-bone-dentsply-sirona-132794-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-suino-ossix-bone-dentsply-sirona-132794.html"
+  },
+  {
+    "sku": "828016",
+    "name": "Membrana Sintética Titânio Lumina-Grid - Criteria",
+    "price": "R$348,90",
+    "description": "Embalagem com 1 unidade. 0,08x20x30mm. Furo de 1,5mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/828016.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-sintetica-titanio-lumina-grid-criteria-828016.html"
+  },
+  {
+    "sku": "132792",
+    "name": "Enxerto Ósseo Suíno Ossix Bone - Dentsply Sirona",
+    "price": "R$922,90",
+    "description": "Embalagem com 1 enxerto. 5x5x10mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-suino-ossix-bone-dentsply-sirona-132792.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-suino-ossix-bone-dentsply-sirona-132792.html"
+  },
+  {
+    "sku": "132784",
+    "name": "Membrana Biológica Suína Ossix Plus - Dentsply Sirona",
+    "price": "R$736,90",
+    "description": "Embalagem com 1 membrana. 25x30mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-suina-ossix-plus-dentsply-sirona-132784-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-suina-ossix-plus-dentsply-sirona-132784.html"
+  },
+  {
+    "sku": "132791",
+    "name": "Enxerto Ósseo Suíno Ossix Bone - Dentsply Sirona",
+    "price": "R$498,90",
+    "description": "Embalagem com 1 enxerto. 5x5x5mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-suino-ossix-bone-dentsply-sirona-132791-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-suino-ossix-bone-dentsply-sirona-132791.html"
+  },
+  {
+    "sku": "124190",
+    "name": "Chave Torque Curta para Torquímetro - Singular",
+    "price": "R$133,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-torque-curta-para-torquimetro-singular-124190.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-torque-curta-para-torquimetro-singular-124190.html"
+  },
+  {
+    "sku": "DC29764",
+    "name": "Chave Hexagonal Contra Ângulo Média - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-hexagonal-contra-angulo-media-allprime-select-dental-cremer-dc29764_1.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-hexagonal-contra-angulo-media-allprime-select-dc29764.html"
+  },
+  {
+    "sku": "142294",
+    "name": "Enxerto Ósseo Plenum OSShp 500-1000um - Plenum",
+    "price": "R$1.036,90",
+    "description": "Embalagem com 1 unidade. 2g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-plenum-osshp-plenum-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-plenum-osshp-500-1000um-plenum-142294.html"
+  },
+  {
+    "sku": "143235",
+    "name": "Barreira Regenerativa Lumina PTFE Titanium 10x25mm - Criteria",
+    "price": "R$784,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-regenerativa-lumina-ptfe-titanium-10x25mm-criteria-143235.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-regenerativa-lumina-ptfe-titanium-10x25mm-criteria-143235.html"
+  },
+  {
+    "sku": "DC29786",
+    "name": "Chave de Instalação Quadrada O'ring 2.0mm - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/intermediario-quadrada-allprime-select-dental-cremer-dc29786_1.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-de-instalacao-quadrada-o-ring-2mm-allprime-select-dc29786.html"
+  },
+  {
+    "sku": "132788",
+    "name": "Membrana Biológica Suína Ossix Volumax Scaffold - Dentsply Sirona",
+    "price": "R$999,90",
+    "description": "Embalagem com 1 membrana. 10x40mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-suina-ossix-volumax-scaffold-dentsply-sirona-132788-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-suina-ossix-volumax-scaffold-dentsply-sirona-132788.html"
+  },
+  {
+    "sku": "132789",
+    "name": "Membrana Biológica Suína Ossix Volumax Scaffold - Dentsply Sirona",
+    "price": "R$954,90",
+    "description": "Embalagem com 1 membrana. 15x25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-suina-ossix-volumax-scaffold-dentsply-sirona-132789-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-suina-ossix-volumax-scaffold-dentsply-sirona-132789.html"
+  },
+  {
+    "sku": "DC29831",
+    "name": "Stop Easy Drill - AllPrime Select",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/easy-drill-select-dental-cremer-dc29831_1.jpg",
+    "url": "https://www.dentalcremer.com.br/stop-easy-drill-allprime-select-dc29831.html"
+  },
+  {
+    "sku": "DC30332",
+    "name": "Chave de Instalação HE 2,1mm - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-de-instalacao-he-allprime-select-dc30332-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/intermediario-hexagonal-he-allprime-select-dc30332.html"
+  },
+  {
+    "sku": "DC29763",
+    "name": "Chave de Instalação Mini Pilar 2.0mm - AllPrime Select",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-hexagonal-canhao-contra-angulo-media-allprime-select-dental-cremer-dc29763_1.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-hexagonal-canh-o-contra-angulo-media-allprime-select-dc29763.html"
+  },
+  {
+    "sku": "DC29828",
+    "name": "Ponta do Compactador de Osso - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-do-compactador-de-osso-allprime-select-dental-cremer-dc29828_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-do-compactador-de-osso-allprime-select-dc29828.html"
+  },
+  {
+    "sku": "DC28010",
+    "name": "Implante Cilíndrico HE - Singular",
+    "description": "Embalagem com 1 implante + cover. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-cilindrico-he-singular-dc28010-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-cilindrico-he-singular-dc28010.html"
+  },
+  {
+    "sku": "DC26311",
+    "name": "Broca Helicoidal - Singular",
+    "price": "R$122,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101271.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-helicoidal-singular-dc26311.html"
+  },
+  {
+    "sku": "DC29775",
+    "name": "Expansor de Osso com Rosca - AllPrime Select",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/expansor-de-osso-com-rosca-allprime-select-123409.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-de-osso-com-rosca-allprime-select-dc29775.html"
+  },
+  {
+    "sku": "101275",
+    "name": "Broca Lança - Singular",
+    "price": "R$122,90",
+    "description": "Embalagem com 1 unidade. N° 2.0. Ref. 150022.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101275.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-lanca-singular-101275.html"
+  },
+  {
+    "sku": "101283",
+    "name": "Chave Torque Cônica Curta - Singular",
+    "price": "R$100,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101283_2.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-torque-conica-curta-singular-101283.html"
+  },
+  {
+    "sku": "DC29759",
+    "name": "Chave de Instalação Estreita Guide Curta - AllPrime Select",
+    "price": "R$61,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-de-instalacao-estreita-guide-curta-allprime-select-dental-cremer-dc29759_1.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-de-instalac-o-estreita-guide-curta-allprime-select-dc29759.html"
+  },
+  {
+    "sku": "DC29754",
+    "name": "Broca Diamond - AllPrime Select",
+    "price": "R$164,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-diamond-allprime-select-dental-cremer-dc29754_1.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-diamond-allprime-select-dc29754.html"
+  },
+  {
+    "sku": "114121",
+    "name": "Broca Cônica 5,0 - Singular",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114121.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-conica-5-0-singular-114121.html"
+  },
+  {
+    "sku": "123339",
+    "name": "Chave Hexagonal Canhão Contra Ângulo Média 2.5mm - AllPrime Select",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-hexagonal-canhao-contra-angulo-media-2-5mm-allprime-select-dental-cremer-123339_1.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-hexagonal-canh-o-contra-angulo-media-2-5mm-allprime-select-123339.html"
+  },
+  {
+    "sku": "DC29003",
+    "name": "Expansor Auto Roscante - Bionnovation",
+    "price": "R$106,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc29003.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-auto-roscante-bionnovation-dc29003.html"
+  },
+  {
+    "sku": "DC29755",
+    "name": "Broca Longa Guide - AllPrime Select",
+    "price": "R$177,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-longa-guide-allprime-select-dental-cremer-dc29755_1.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-longa-guide-allprime-select-dc29755.html"
+  },
+  {
+    "sku": "DC29760",
+    "name": "Chave de Instalação Estreita Guide Longa - AllPrime Select",
+    "price": "R$61,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-de-instalacao-estreita-guide-longa-allprime-select-dental-cremer-dc29760_1.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-de-instalac-o-estreita-guide-longa-allprime-select-dc29760.html"
+  },
+  {
+    "sku": "DC29782",
+    "name": "Implante Hexágono Externo - AllPrime Select",
+    "price": "R$70,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-hexagonal-externo-allprime-select-dental-cremer-dc29782_1.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-hexagonal-externo-allprime-select-dc29782.html"
+  },
+  {
+    "sku": "DC29787",
+    "name": "Macho de Rosca - AllPrime Select",
+    "price": "R$88,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/macho-de-rosca-allprime-select-dental-cremer-dc29787_1.jpg",
+    "url": "https://www.dentalcremer.com.br/macho-de-rosca-allprime-select-dc29787.html"
+  },
+  {
+    "sku": "101276",
+    "name": "Broca Piloto 2.3 - Singular",
+    "price": "R$122,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101276.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-piloto-singular-101276.html"
+  },
+  {
+    "sku": "114129",
+    "name": "Broca Piloto 2.3 - Singular",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114129.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-piloto-singular-114129.html"
+  },
+  {
+    "sku": "123282",
+    "name": "Anilha Estreita Guide 3,7 - AllPrime Select",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/anilha-estreita-guide-3-7-allprime-select-dental-cremer-123282_1.jpg",
+    "url": "https://www.dentalcremer.com.br/anilha-estreita-guide-3-7-allprime-select-123282.html"
+  },
+  {
+    "sku": "201840",
+    "name": "Antisséptico para Implante Proheal - BiomacMed",
+    "price": "R$138,90",
+    "description": "Embalagem com 1g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-para-implante-proheal-1g-dental-cremer-201840-01.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-para-implante-proheal-biomacmed-201840.html"
+  },
+  {
+    "sku": "123281",
+    "name": "Anilha do Pino de Fixação Guide - AllPrime Select",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/anilha-do-pino-de-fixacao-guide-allprime-select-dental-cremer-123281_1.jpg",
+    "url": "https://www.dentalcremer.com.br/anilha-do-pino-de-fixac-o-guide-allprime-select-123281.html"
+  },
+  {
+    "sku": "142301",
+    "name": "Resina Acrílica Fotopolimerizável Hemospon Pattern Photo Gel - Hemospon",
+    "price": "R$78,90",
+    "description": "Embalagem com 1 Seringa com 3g e 3 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-para-ferulizacao-hemospon-pattern-photo-gel-maquira.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-para-ferulizac-o-hemospon-pattern-photo-gel-vermelho-maquira-142301.html"
+  },
+  {
+    "sku": "139096",
+    "name": "Kit Chaves para Implantes - Defama",
+    "price": "R$445,90",
+    "description": "Kit com 2 chaves hexagonais 0,9mm e 1,2mm, 1 chave estrela, 1 chave quadrada 1,3mm e 1 porta chaves.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-chaves-para-implantes-defama-139096-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-chaves-para-implantes-defama.html"
+  },
+  {
+    "sku": "130504",
+    "name": "Kit Cirúrgico para Implantes - Singular",
+    "price": "R$3.348,90",
+    "description": "Kit com 28 unidades + 1 estojo. Confira os detalhes em informações adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-para-implantes-singular-130504-dental-cremer-aberto-2.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-para-implantes-singular-130504.html"
+  },
+  {
+    "sku": "DC38403",
+    "name": "Resina Acrílica Fotopolimerizável Hemospon Pattern Photo Gel - Hemospon",
+    "price": "R$78,90",
+    "description": "Embalagem com 1 Seringa com 3g e 3 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-para-ferulizacao-hemospon-pattern-photo-gel-maquira.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-para-ferulizac-o-hemospon-pattern-photo-gel-maquira-dc38403.html"
+  },
+  {
+    "sku": "DC29781",
+    "name": "Implante Cone Morse - AllPrime Select",
+    "price": "R$88,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-cone-morse-allprime-select-dental-cremer-dc29781_1.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-cone-morse-allprime-select-dc29781.html"
+  },
+  {
+    "sku": "DC23140",
+    "name": "Implante Cilíndrico CM - Singular",
+    "price": "R$98,90",
+    "description": "Embalagem com 1 Implante + Cover.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808896.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-cilindrico-cm-singular-dc23140.html"
+  },
+  {
+    "sku": "123505",
+    "name": "Kit Easy Drill - AllPrime Select",
+    "price": "R$1.604,90",
+    "description": "Embalagem com 1 kit. Confira os detalhes do kit em informações adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-stop-drill-allprime-select-dental-cremer-123505_1.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-easy-drill-allprime-select-123505.html"
+  },
+  {
+    "sku": "100847",
+    "name": "Kit Guia Para Implantes SGL Guide - Singular",
+    "price": "R$66,90",
+    "description": "Kit com 9 unidades. Confira os itens do Kit em Informação Adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100847.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-guia-para-implantes-sgl-guide-singular-100847.html"
+  },
+  {
+    "sku": "123419",
+    "name": "Estojo do Kit Guide - AllPrime Select",
+    "price": "R$423,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-do-kit-guide-allprime-select-123419.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-do-kit-guide-allprime-select-123419.html"
+  }
+]

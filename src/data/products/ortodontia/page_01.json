@@ -1,0 +1,767 @@
+[
+  {
+    "sku": "DC11745",
+    "name": "Arco Flexy NiTi Superelástico Redondo - Orthometric",
+    "price": "R$11,39",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-flexy-niti-superelastico-redondo-orthometric-dc11745.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-flexy-niti-superelastico-redondo-orthometric-dc11745.html"
+  },
+  {
+    "sku": "DC12118",
+    "name": "Elástico Bengalinha Colorido - Morelli",
+    "price": "R$7,90",
+    "description": "Embalagem com 10 bengalinhas com 100 anéis elásticos cada, totalizando 1000 anéis. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/elastico-bengalinha-preto-morelli-dc-419672.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-bengalinha-morelli-dc12118.html"
+  },
+  {
+    "sku": "DC12404",
+    "name": "Tubo Simples Cola Roth 022 - Morelli",
+    "price": "R$29,90",
+    "description": "Embalagem com 10 unidades. Com gancho. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tubo-simples-cola-roth-022-morelli-DC12404.jpg",
+    "url": "https://www.dentalcremer.com.br/tubo-simples-cola-roth-022-morelli-dc12404.html"
+  },
+  {
+    "sku": "DC11719",
+    "name": "Arco de Aço CrNi Redondo - Morelli",
+    "price": "R$8,10",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11719_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-aco-crni-redondo-morelli-dc11719.html"
+  },
+  {
+    "sku": "DC14134",
+    "name": "Elástico Intraoral Látex 3/16 - Morelli",
+    "price": "R$10,00",
+    "description": "Embalagem com 1000 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-elastico-intraoral-latex-3-16-morelli-dc14134.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-intraoral-latex-3-16-morelli-dc14134.html"
+  },
+  {
+    "sku": "DC12136",
+    "name": "Elástico Corrente Médio - Morelli",
+    "price": "R$12,00",
+    "description": "Embalagem com 1,5m. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/419993.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-corrente-medio-morelli-dc12136.html"
+  },
+  {
+    "sku": "DC11778",
+    "name": "Arco NiTi Superelástico Redondo - Morelli",
+    "price": "R$11,90",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11778_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-niti-superelastico-redondo-morelli-dc11778.html"
+  },
+  {
+    "sku": "DC11720",
+    "name": "Arco de Aço CrNi Retangular - Morelli",
+    "price": "R$9,40",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11720_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-aco-crni-retangular-morelli-dc11720.html"
+  },
+  {
+    "sku": "DC15160",
+    "name": "Bráquete de Aço Roth Max 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/424119.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-022-morelli-dc15160.html"
+  },
+  {
+    "sku": "DC11746",
+    "name": "Arco Flexy NiTi Superelástico Retangular - Orthometric",
+    "price": "R$21,90",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-flexy-niti-superelastico-retangular-orthometric-dc11746.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-flexy-niti-superelastico-retangular-orthometric-dc11746.html"
+  },
+  {
+    "sku": "DC11727",
+    "name": "Arco de Aço CrNi Redondo – Orthometric",
+    "price": "R$8,59",
+    "description": "Embalagem com 10 unidades. Formato Truearch. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-de-aco-ss-stainless-redondo-orthometric-dc11727.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-aco-ss-stainless-redondo-orthometric-dc11727.html"
+  },
+  {
+    "sku": "299946",
+    "name": "Caixa Para Aparelho Ortodôntico - SSPlus",
+    "price": "R$17,90",
+    "description": "Embalagem com 10 unidades. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caixa-para-aparelho-movel-ssplus-colorida-299946.jpg",
+    "url": "https://www.dentalcremer.com.br/caixa-para-aparelho-ortodontico-ssplus-299946.html"
+  },
+  {
+    "sku": "DC11815",
+    "name": "Botão Lingual Cola - Morelli",
+    "price": "R$10,50",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/417067.jpg",
+    "url": "https://www.dentalcremer.com.br/bot-o-lingual-cola-morelli-dc11815.html"
+  },
+  {
+    "sku": "128219",
+    "name": "Bráquete Cerâmico Iceram Roth 022 - Orthometric",
+    "price": "R$201,90",
+    "description": "Embalagem com 20 unidades sendo 1 caso (5x5) com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-braquete-ceramico-iceram-roth-022-orthometric-128219-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-iceram-roth-022-orthometric-128219.html"
+  },
+  {
+    "sku": "DC12138",
+    "name": "Elástico Intraoral Látex 1/8 - Morelli",
+    "price": "R$9,00",
+    "description": "Embalagem com 1000 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/419511.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-intraoral-latex-1-8-morelli-dc12138.html"
+  },
+  {
+    "sku": "409659",
+    "name": "Kit Bráquete de Aço SLI Autoligado Roth 0,022” 1 caso - Morelli",
+    "price": "R$158,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 caso (5x5).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-de-aco-ortodontico-autoligado-sli-roth-022-morelli-409659.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-sli-roth-022-kit-morelli.html"
+  },
+  {
+    "sku": "802177",
+    "name": "Bráquete de Aço Autoligado SLP Roth 022 Kit - Morelli",
+    "price": "R$156,90",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 caso (5x5). Ref. 1013900.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-autoligado-slp-roth-022-kit-morelli-003.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-slp-roth-022-kit-morelli.html"
+  },
+  {
+    "sku": "DC24645",
+    "name": "Elástico Bengalinha - Orthometric",
+    "price": "R$7,79",
+    "description": "Embalagem com 1000 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/elastico-bengalinha-orthometric-dc24645-dental-cremer-sortida.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-bengalinha-orthometric-dc24645.html"
+  },
+  {
+    "sku": "102983",
+    "name": "Kit Bráquete Cerâmico Autoligado Ceramic SLI Roth .022” - Morelli",
+    "price": "R$656,90",
+    "description": "Embalagem com 20 unidades. 1 caso(5x5). Com gancho nos caninos e pré molares. Ref: 1012900.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-autoligado-ceramic-sli-roth-022-kit-morelli-102983.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-autoligado-ceramic-sli-roth-022-kit-morelli-2.html"
+  },
+  {
+    "sku": "DC11909",
+    "name": "Bráquete de Aço Autoligado SLI Roth 022 - Morelli",
+    "price": "R$39,50",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/409819.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-sli-roth-022-morelli-dc11909.html"
+  },
+  {
+    "sku": "DC24647",
+    "name": "Elástico Corrente Médio - Orthometric",
+    "price": "R$10,90",
+    "description": "Embalagem com 1,5m. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/elastico-corrente-medio-orthometric-dc24647-01.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-corrente-medio-orthometric-dc24647.html"
+  },
+  {
+    "sku": "DC12052",
+    "name": "Bráquete de Aço Roth Max 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Sem gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/424072.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-022-morelli-dc12052.html"
+  },
+  {
+    "sku": "142718",
+    "name": "Caixa para Aparelho Ortodôntico Color com Aroma L - Nova OGP",
+    "price": "R$19,90",
+    "description": "Embalagem com 10 unidades (2 azul + 2 rosa + 2 verde + 2 laranja + 2 amarelo).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caixa-aparelho-ortodontico-l-com-aroma-142718.jpg",
+    "url": "https://www.dentalcremer.com.br/caixa-para-aparelho-ortodontico-color-com-aroma-l-nova-ogp-142718.html"
+  },
+  {
+    "sku": "DC11792",
+    "name": "Arco NiTi Termoativado Thermoplus Redondo - Morelli",
+    "price": "R$11,90",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11792_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-niti-termoativado-thermoplus-redondo-morelli-dc11792.html"
+  },
+  {
+    "sku": "DC11748",
+    "name": "Arco Termoativado Flexy NiTi Thermal 35° Retangular - Orthometric",
+    "price": "R$21,90",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-termoativado-flexy-niti-thermal-35-retangular-orthometric-dc11748.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-termoativado-flexy-niti-thermal-35-retangular-orthometric-dc11748.html"
+  },
+  {
+    "sku": "DC11729",
+    "name": "Arco de Aço CrNi Retangular – Orthometric",
+    "price": "R$9,90",
+    "description": "Embalagem com 10 unidades. Formato Truearch. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-de-aco-ss-stainless-retangular-orthometric-dc11729.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-aco-ss-stainless-retangular-orthometric-dc11729.html"
+  },
+  {
+    "sku": "DC11781",
+    "name": "Arco NiTi Superelástico Retangular - Morelli",
+    "price": "R$19,90",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11781_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-niti-superelastico-retangular-morelli-dc11781.html"
+  },
+  {
+    "sku": "DC12230",
+    "name": "Miniparafuso Ortodôntico Para Ancoragem Absoluta - Morelli",
+    "price": "R$58,90",
+    "description": "Embalagem com 2 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/miniparafuso-ortodontico-para-ancoragem-absoluta-morelli-dc12230.jpg",
+    "url": "https://www.dentalcremer.com.br/miniparafuso-ortodontico-para-ancoragem-absoluta-morelli-dc12230.html"
+  },
+  {
+    "sku": "DC15059",
+    "name": "Bráquete de Aço Advanced Series Roth 022 - Orthometric",
+    "price": "R$15,90",
+    "description": "Embalagem com 10 unidades. Com gancho nos caninos e pré-molares. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-advanced-series-roth-022-10unidades-ortometric-dc15059.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-roth-022-ortometric.html"
+  },
+  {
+    "sku": "506853",
+    "name": "Kit Bráquete Cerâmico Ceramic Roth .022” - Morelli",
+    "price": "R$148,90",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 caso (5x5). Ref: 1011900.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-ceramic-roth-022-kit-morelli.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-ceramic-roth-022-kit-morelli.html"
+  },
+  {
+    "sku": "DC12042",
+    "name": "Bráquete de Aço Roth Light 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Sem gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/414417.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-light-022-morelli-dc12042.html"
+  },
+  {
+    "sku": "181395",
+    "name": "Kit Bráquete Cerâmico PolySafira Roth 022” - Morelli",
+    "price": "R$342,90",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares. Ref: 1024900.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-polysafira-roth-022-kit-morelli-181395.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-polysafira-roth-022-kit-morelli.html"
+  },
+  {
+    "sku": "116744",
+    "name": "Kit Bráquete de Aço Autoligado U-Clip Roth 022 - Orthometric",
+    "price": "R$146,90",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-braquete-de-aco-autoligado-u-clip-roth-022-kit-orthometric-116744.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-u-clip-roth-022-kit-orthometric-116744.html"
+  },
+  {
+    "sku": "DC26786",
+    "name": "Arco Flexy NiTi Superelástico Redondo - Orthometric",
+    "description": "Embalagem com 10 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-flexy-niti-superelastico-redondo-orthometric-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-flexy-niti-superelastico-redondo-orthometric-dc26786.html"
+  },
+  {
+    "sku": "DC11996",
+    "name": "Bráquete de Aço Edgewise/Ricketts 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Sem gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/415896.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-edgewise-ricketts-022-morelli-dc11996.html"
+  },
+  {
+    "sku": "344202",
+    "name": "Alicate Ortodôntico Angle Bending 139 - Golgran",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-15.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/344202.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-angle-bending-139-golgran-344202.html"
+  },
+  {
+    "sku": "DC12013",
+    "name": "Bráquete de Aço Edgewise Standard 022 - Morelli",
+    "price": "R$15,90",
+    "description": "Embalagem com 10 unidades Sem gancho",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/415940.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-edgewise-standard-022-morelli-dc12013.html"
+  },
+  {
+    "sku": "424232",
+    "name": "Bráquete de Aço Roth Max 9º 022 Kit – Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares. Ref. 1015903.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-roth-max-9-022-kit-morelli-424232-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-9-022-kit-morelli-2.html"
+  },
+  {
+    "sku": "DC12028",
+    "name": "Bráquete de Aço Ricketts Actual 018 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/415636.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-ricketts-actual-018-morelli-dc12028.html"
+  },
+  {
+    "sku": "622997",
+    "name": "Bráquete de Aço Biomax Roth 022 Kit - Aditek",
+    "price": "R$252,90",
+    "description": "Kit com 200 unidades. 10 Casos (5x5). Com gancho nos caninos e pré-molares. Ref. 5040300.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/622997.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-biomax-roth-022-kit-aditek-2.html"
+  },
+  {
+    "sku": "128201",
+    "name": "Bráquete Cerâmico New Ice Clear Roth 022 - Orthometric",
+    "price": "R$99,99",
+    "description": "Embalagem com 20 unidades, sendo 1 caso (5x5) com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-new-ice-clear-roth-022-orthometric-128201-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-new-ice-clear-roth-022-orthometric-128201.html"
+  },
+  {
+    "sku": "DC15154",
+    "name": "Bráquete de Aço Roth Light 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/414547.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-light-022-morelli-dc15154.html"
+  },
+  {
+    "sku": "506716",
+    "name": "Kit Bráquete de Aço Roth Max 022 9º Ângulo Canino - Morelli",
+    "price": "R$285,90",
+    "description": "Kit com 200 unidades (10 casos - 5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-aco-roth-max-022-angulo-canino-morelli-506716.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-9-022-kit-morelli.html"
+  },
+  {
+    "sku": "DC11822",
+    "name": "Bráquete Cerâmico Ceramic Roth 022 - Morelli",
+    "price": "R$36,90",
+    "description": "Embalagem com 5 unidades. Com gancho nos caninos e pré-molares. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-ceramic-roth-022-morelli-dc11822.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-ceramic-roth-022-morelli-dc11822.html"
+  },
+  {
+    "sku": "DC11747",
+    "name": "Arco Termoativado Flexy NiTi Thermal 35° Redondo - Orthometric",
+    "price": "R$12,90",
+    "description": "Embalagem com 10 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-termoativado-flexy-niti-thermal-35-redondo-orthometric-dc11747.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-termoativado-flexy-niti-thermal-35-redondo-orthometric-dc11747.html"
+  },
+  {
+    "sku": "DC11863",
+    "name": "Bráquete de Aço Advanced Series Roth 022 - Orthometric",
+    "price": "R$15,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11863.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-roth-022-orthometric-dc11863.html"
+  },
+  {
+    "sku": "128255",
+    "name": "Kit Bráquete Metálico Autoligado U-Clip Roth 022 + Sequência de Arco + Tubo 4unid. - Orthometric",
+    "price": "R$207,90",
+    "description": "Embalagem com 20 unidades Roth 22 (1 caso 5x5), com gancho nos caninos e pré-molares + 1 par de sequência de arco + 4 unidades de tubos para colagem simples Roth 022.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-kit-braquete-metalico-autoligado-u-clip-roth-022-sequencia-de-arco-1-par-tubo-4unid.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-braquete-metalico-autoligado-u-clip-roth-022-sequencia-de-arco-tubo-orthometric-128255.html"
+  },
+  {
+    "sku": "DC12392",
+    "name": "Tubo Simples Cola Edgewise/Ricketts 022 - Morelli",
+    "price": "R$20,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/416947.jpg",
+    "url": "https://www.dentalcremer.com.br/tubo-simples-cola-edgewise-ricketts-022-morelli-dc12392.html"
+  },
+  {
+    "sku": "116743",
+    "name": "Kit Promocional Bráquete Metálico Advanced Roth 022 100 Casos + 120 Tubos - Orthometric",
+    "price": "R$2.783,90",
+    "description": "Kit com 2000 unidades. 100 casos (5x5). Com gancho nos caninos e pré-molares + 120 Tubos de cola Simples Roth 022.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-braquete-de-aco-advanced-roth-022-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-roth-022-orthometric-116743.html"
+  },
+  {
+    "sku": "DC30229",
+    "name": "Reposição Bráquete Cerâmico New Ice Clear Roth 022 - Orthometric",
+    "price": "R$8,39",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-new-ice-clear-roth-022-orthometric-dc30229-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-new-ice-clear-roth-022-orthometric-dc30229.html"
+  },
+  {
+    "sku": "375046",
+    "name": "Kit Bráquete Cerâmico Iceram Safira Roth 022 - Orthometric",
+    "price": "R$798,90",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-braquete-ceramico-iceram-safira-roth-022-orthometric-375046.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-iceram-safira-roth-022-kit-orthometric.html"
+  },
+  {
+    "sku": "DC27379",
+    "name": "Bráquete Cerâmico Iceram Safira MBT 022 - Orthometric",
+    "price": "R$52,90",
+    "description": "Embalagem com 1 unidade. Com gancho nos caninos e pré-molares. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-iceram-safira-mbt-022-orthometric-DC27379.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-iceram-safira-mbt-022-orthometric-dc27379.html"
+  },
+  {
+    "sku": "509014",
+    "name": "Bráquete de Aço Roth Light 13° 022 Kit - Morelli",
+    "price": "R$271,90",
+    "description": "Kit com 200 unidades. Com gancho nos caninos e pré-molares. 10 Casos (5x5). Ref. 1010996.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/509014.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-light-13-022-kit-morelli-3.html"
+  },
+  {
+    "sku": "509021",
+    "name": "Kit Bráquete de Aço Roth Light 022 - Morelli",
+    "price": "R$271,90",
+    "description": "Kit com 200 unidades. 10 casos (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-braquete-aco-roth-light-022-morelli-509021.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-light-022-kit-morelli.html"
+  },
+  {
+    "sku": "101111",
+    "name": "Kit Bráquete de Aço Advanced Series Roth 022 - Orthometric",
+    "price": "R$308,90",
+    "description": "Embalagem com 200 unidades. 10 casos (5x5). Com gancho nos caninos e pré-molares. Ref. 10.10.2910.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-advanced-series-roth-022-kit-orthometric-101111-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-roth-022-kit-orthometric-7.html"
+  },
+  {
+    "sku": "103814",
+    "name": "Bráquete de Aço Autoligado SLH Roth 022 Kit - Morelli",
+    "price": "R$156,90",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré molares. 1 caso (5x5). Ref: 1023900.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/103814.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-slh-roth-022-kit-morelli.html"
+  },
+  {
+    "sku": "509052",
+    "name": "Kit Bráquete de Aço Roth Max 13° 022 - Morelli",
+    "price": "R$285,90",
+    "description": "Kit com 200 unidades. Com gancho nos caninos e pré-molares. 10 Casos (5x5). Ref. 1015935.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-de-aco-ortodontico-roth-max-13-022-morelli-509052.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-13-022-kit-morelli-2.html"
+  },
+  {
+    "sku": "DC19033",
+    "name": "Bráquete de Aço MBT Max 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Com gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/426465.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-mbt-max-022-morelli-dc19033.html"
+  },
+  {
+    "sku": "426342",
+    "name": "Bráquete de Aço MBT Max 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e nos pré-molares. Ref. 1035905.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/426342.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-mbt-max-022-kit-morelli.html"
+  },
+  {
+    "sku": "509038",
+    "name": "Bráquete de Aço Roth Max 9° 018 Kit - Morelli",
+    "price": "R$285,90",
+    "description": "Kit com 200 unidades. Com gancho nos caninos e pré-molares. 10 Casos (5x5). Ref. 1015932.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/509038.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-9-018-kit-morelli-2.html"
+  },
+  {
+    "sku": "415148",
+    "name": "Bráquete Composite Roth 022 Kit - Morelli",
+    "price": "R$44,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 Caso (5x5). Ref. 1017901.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/415148.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-composite-roth-022-kit-morelli.html"
+  },
+  {
+    "sku": "509106",
+    "name": "Bráquete de Aço MBT Max 022 Kit - Morelli",
+    "price": "R$285,90",
+    "description": "Kit com 200 unidades. Com gancho nos caninos e pré-molares. 10 Casos (5x5). Ref. 1035935.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/509106.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-mbt-max-022-kit-morelli-2.html"
+  },
+  {
+    "sku": "DC19199",
+    "name": "Elástico Intraoral de Silicone - Morelli",
+    "price": "R$26,00",
+    "description": "Embalagem com 1000 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/580617.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-intraoral-de-silicone-morelli-dc19199.html"
+  },
+  {
+    "sku": "DC28014",
+    "name": "Arco de Aço SS CrNi Retangular - Orthometric",
+    "description": "Embalagem com 10 unidades. Formato Truearch. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-de-aco-ss-crni-retangular-orthometric-dc28014-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-aco-ss-crni-retangular-orthometric-dc28014.html"
+  },
+  {
+    "sku": "433401",
+    "name": "Bráquete de Aço Advanced Series MBT 022 Kit - Orthometric",
+    "price": "R$33,90",
+    "description": "Embalagem com 20 unidades de 1 caso (5x5).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/metalico-bracket-advanced-series-mbt-022-orthometric-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-mbt-022-kit-orthometric-4.html"
+  },
+  {
+    "sku": "DC25618",
+    "name": "Bráquete Cerâmico Autoligado Ceramic SLI Roth 022 - Morelli",
+    "price": "R$77,90",
+    "description": "Embalagem com 2 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-autoligado-ceramic-sli-roth-022-morelli-dc25618.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-autoligado-ceramic-sli-roth-022-morelli-dc25618.html"
+  },
+  {
+    "sku": "DC11793",
+    "name": "Arco NiTi Termoativado Thermoplus Retangular - Morelli",
+    "price": "R$19,90",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11793_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-niti-termoativado-thermoplus-retangular-morelli-dc11793.html"
+  },
+  {
+    "sku": "424256",
+    "name": "Bráquete de Aço Roth Max 13º 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 Caso (5x5). Ref. 1015905.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/424256.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-13-022-kit-morelli.html"
+  },
+  {
+    "sku": "747737",
+    "name": "Bráquete de Aço Monobloco Roth 022 Kit - Eurodonto",
+    "price": "R$249,90",
+    "description": "Kit com 200 unidades. 10 casos (5x5). Com gancho nos caninos e pré-molares. Ref. 1037-C-P.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-metalico-monobloco-roth-0022-c-gancho-nos-caninos-e-pre-molares-c-10-casos-eurodonto-dc-747737-02.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-monobloco-roth-022-kit-eurodonto.html"
+  },
+  {
+    "sku": "DC12405",
+    "name": "Tubo Simples Cola Roth 022 - Orthometric",
+    "price": "R$32,90",
+    "description": "Embalagem com 10 unidades. Com gancho. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tubo-simples-cola-roth-022-orthometric-dc12405.jpg",
+    "url": "https://www.dentalcremer.com.br/tubo-simples-cola-roth-022-orthometric-dc12405.html"
+  },
+  {
+    "sku": "743111",
+    "name": "Adesivo Ortodôntico Fix - Maquira",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 Seringa de Fix com 4g, 1 seringa de Ácido Gel com 2,5mL e 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-ortodontico-fix-maquira.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-ortodontico-fix-maquira-743111.html"
+  },
+  {
+    "sku": "105258",
+    "name": "Bráquete de Aço Advanced Series Roth 0,022 - Orthometric",
+    "price": "R$41,90",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares + 04 Tubos de Colagem Simples Roth 022.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-braquete-de-aco-advanced-series-roth-022-kit-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-roth-022-kit-orthometric-4.html"
+  },
+  {
+    "sku": "558838",
+    "name": "Alicate Ortodôntico Para Dobra em V Largo 168 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558838_635460191530180298.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-dobra-em-v-largo-168-quinelato.html"
+  },
+  {
+    "sku": "112978",
+    "name": "Bráquete Metálico Edgewise Advanced Series 0,022 - 100 casos - Orthometric",
+    "price": "R$1.747,90",
+    "description": "Kit com 2000 unidades. 100 casos (5x5). Sem gancho",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-aco-advanced-series-edgewise-022-orthometric-100-casos-112978-01.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-edgewise-022-orthometric-112978.html"
+  },
+  {
+    "sku": "425758",
+    "name": "Kit Bráquete de Aço Max Roth 0,022” 100 casos 9° - Morelli",
+    "price": "R$2.700,90",
+    "description": "Embalagem com 2000 unidades. 100 casos (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/425758.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-9-022-kit-morelli-1.html"
+  },
+  {
+    "sku": "133044",
+    "name": "Kit Promocional Bráquete Metálico Advanced Roth 022 1 Caso + Arcos + Tubos - Orthometric",
+    "price": "R$40,90",
+    "description": "Kit com 20 unidades. 1 caso (5x5) + 2 Arcos Niti Superelástico 0,014 Sup/Inf + 4 Tubos de Colagem Simples Roth 022. Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-kit-braquete-de-aco-advanced-roth-022-1-caso-arcos-tubos-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-braquete-de-aco-advanced-roth-022-1-caso-arcos-tubos-orthometric-133044.html"
+  },
+  {
+    "sku": "DC14133",
+    "name": "Elástico Intraoral Látex 1/4 - Morelli",
+    "price": "R$11,00",
+    "description": "Embalagem com 1000 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/421651.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-intraoral-latex-morelli-dc14133.html"
+  },
+  {
+    "sku": "DC19135",
+    "name": "Bráquete de Aço Roth Monobloc 022 - Morelli",
+    "price": "R$20,00",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/414912.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-monobloc-022-morelli-dc19135.html"
+  },
+  {
+    "sku": "623024",
+    "name": "Bráquete de Aço Autoligado EasyClip+ Damon Standard 022 Kit - Aditek",
+    "price": "R$218,90",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Sistema Passivo. Com gancho nos caninos e pré-molares. Ref. 5211290.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/623024.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-easyclip-damon-standard-022-kit-aditek.html"
+  },
+  {
+    "sku": "DC11991",
+    "name": "Bráquete de Aço Capelozza Max I II e III 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Com gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/426922.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-capelozza-max-i-ii-e-iii-022-morelli-dc11991.html"
+  },
+  {
+    "sku": "121509",
+    "name": "Bráquete de Aço Autoligado Ultra-P MBT 022 Kit - Orthometric",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5) + Sequência de Arcos. Ref. 10472800.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-autoligado-ultra-p-mbt-022-kit-orthometric-121509-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-ultra-p-mbt-022-kit-orthometric-121509.html"
+  },
+  {
+    "sku": "426779",
+    "name": "Bráquete de Aço Capelozza Max III 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 Caso (5x5). Ref. 1019906.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/426779.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-capelozza-max-iii-022-kit-morelli.html"
+  },
+  {
+    "sku": "416251",
+    "name": "Bráquete de Aço MBT Standard 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos. 1 Caso (5x5). Ref. 1035902.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/416251.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-mbt-standard-022-kit-morelli-1.html"
+  },
+  {
+    "sku": "DC29113",
+    "name": "Bráquete de Aço Autoligado U-Clip Roth 022 - Orthometric",
+    "price": "R$36,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/orthoclip-slb-u-clip-roth-022-orthometric-dc29113.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-u-clip-roth-022-orthometric-dc29113.html"
+  },
+  {
+    "sku": "414820",
+    "name": "Bráquete de Aço Roth Light 9° 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 caso (5x5). Ref. 1010981.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/414820.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-light-9-022-kit-morelli-2.html"
+  },
+  {
+    "sku": "DC19034",
+    "name": "Bráquete de Aço MBT Max 022 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Sem gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/426403.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-mbt-max-022-morelli-dc19034.html"
+  },
+  {
+    "sku": "426762",
+    "name": "Bráquete de Aço Capelozza Max Padrão II 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 Caso (5x5). Ref. 1019905.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-capelozza-max-padrao-ii-022-kit-morelli-426762-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-capelozza-max-padr-o-ii-022-kit-morelli.html"
+  },
+  {
+    "sku": "423648",
+    "name": "Bráquete de Aço MBT Light 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Sem gancho. 1 caso 5x5. Ref. 1035904.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/423648.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-mbt-light-022-kit-morelli-1.html"
+  },
+  {
+    "sku": "426755",
+    "name": "Bráquete de Aço Capelozza I Max 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 Caso (5x5). Ref. 1019904.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/426755.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-capelozza-i-max-022-kit-morelli.html"
+  },
+  {
+    "sku": "725278",
+    "name": "Bráquete Cerâmico Autoligado Iceram SLB Roth 022 Kit - Orthometric",
+    "price": "R$1.154,90",
+    "description": "Embalagem com 20 unidades de Bráquete Cerâmico Autoligado Iceram SLB Roth 022 de 1 caso (5x5) + Sequência de Arcos Estéticos + 1 Instrumental.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-braquete-estetico-iceram-slb-roth-orthometric-dental-cremer-725278.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-autoligado-iceram-slb-roth-022-kit-orthometric.html"
+  },
+  {
+    "sku": "423655",
+    "name": "Bráquete de Aço MBT Light 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades. Com gancho nos caninos e pré-molares. 1 caso (5x5). Ref. 1035903.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-mbt-light-022-kit-morelli-423655-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-mbt-light-022-kit-morelli.html"
+  },
+  {
+    "sku": "DC27366",
+    "name": "Bráquete de Aço Vector+ MBT MOD 022 - Aditek",
+    "price": "R$17,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/27366.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-vector-mbt-mod-022-aditek-dc27366.html"
+  },
+  {
+    "sku": "619935",
+    "name": "Kit Bráquete Cerâmico Safira Mini MBT 022 - Aditek",
+    "price": "R$659,90",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho. Ref: 5150890.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-safira-mini-mbt-022-kit-aditek-619935.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-safira-mini-mbt-022-kit-aditek.html"
+  },
+  {
+    "sku": "422481",
+    "name": "Bráquete de Aço Biofuncional Classe III Roth Light 022 Kit - Morelli",
+    "price": "R$32,00",
+    "description": "Embalagem com 20 unidades de 1 caso (5x5).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-aco-biofuncional-classe-iii-roth-022-morelli-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-biofuncional-classe-iii-roth-light-022-kit-morelli.html"
+  },
+  {
+    "sku": "101110",
+    "name": "Bráquete de Aço Advanced Series MBT 022 Kit - Orthometric",
+    "price": "R$287,90",
+    "description": "Embalagem com 200 unidades de 10 casos (5x5).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-advanced-series-mbt-022-kit-orthometric-embalagem-101110.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-mbt-022-kit-orthometric-3.html"
+  },
+  {
+    "sku": "951363",
+    "name": "Bráquete de Aço Autoligado Ultra-P MBT 022 Kit - Orthometric",
+    "price": "R$307,90",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5) + Sequência de Arcos. Ref. 10472800.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/951363_2.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-ultra-p-mbt-022-kit-orthometric.html"
+  }
+]

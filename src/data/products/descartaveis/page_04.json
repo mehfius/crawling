@@ -1,0 +1,690 @@
+[
+  {
+    "sku": "315707",
+    "name": "Abaixador de Língua de Madeira - Estilo",
+    "price": "R$9,69",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/315707.jpg",
+    "url": "https://www.dentalcremer.com.br/abaixador-de-lingua-de-madeira-estilo-315707.html"
+  },
+  {
+    "sku": "601152",
+    "name": "Suporte Para Coletor Perfuro Cortante - Descarpack",
+    "price": "R$33,90",
+    "description": "Unidade. Capacidade 7 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/601152.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-coletor-perfuro-cortante-descarpack-601152.html"
+  },
+  {
+    "sku": "DC38422",
+    "name": "Porta Luvas Acrílico - Archneer",
+    "price": "R$241,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-luvas-acrilico-dourado-archneer-dental-cremer-142656.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-luvas-acrilico-archneer-dc38422.html"
+  },
+  {
+    "sku": "560077",
+    "name": "Porta Luvas Inox - Biovis",
+    "price": "R$59,90",
+    "description": "Embalagem com 1 unidade. Acompanha: 2 parafusos, 2 buchas para fixação e fitas adesivas de EVA.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/560077_635458734713972891.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-luvas-inox-biovis-560077.html"
+  },
+  {
+    "sku": "394801",
+    "name": "Suporte Para Coletor Perfuro Cortante - Descarpack",
+    "price": "R$31,90",
+    "description": "Unidade. Capacidade 1,5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suporte-parede-coletor-perfuro-cortante-15-litros-dental-cremer-394801-01.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-coletor-perfuro-cortante-descarpack-394801.html"
+  },
+  {
+    "sku": "715347",
+    "name": "Filme PVC Banfilme - Bandeirante",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade 12cm x 60m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/filme-de-pvc-cabo-giratorio-12cm-x-60m-banfilme-dc-715347-01.jpg",
+    "url": "https://www.dentalcremer.com.br/filme-pvc-banfilme-bandeirante-715347.html"
+  },
+  {
+    "sku": "596298",
+    "name": "Suporte para Coletor de Perfuro Cortante - Descarbox",
+    "price": "R$33,90",
+    "description": "Unidade. Para 13 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suporte-coletor-perf-cort-13l-dental-cremer-596298-01.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-coletor-de-perfuro-cortante-descarbox-596298.html"
+  },
+  {
+    "sku": "601169",
+    "name": "Suporte Para Coletor Perfuro Cortante - Descarpack",
+    "price": "R$35,90",
+    "description": "Unidade. Capacidade 13 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/601169.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-coletor-perfuro-cortante-descarpack-601169.html"
+  },
+  {
+    "sku": "DC29178",
+    "name": "Protetor Facial ProFace com Lupa - Bio-Art",
+    "price": "R$434,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-facial-com-lupa-bioart-dc29178-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-facial-com-lupa-bio-art-dc29178.html"
+  },
+  {
+    "sku": "793611",
+    "name": "Absorvente Salivar Neodrys - Microcopy",
+    "price": "R$187,90",
+    "description": "Embalagem com 50 unidades. Grande. Azul, fundo branco.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/793611.jpg",
+    "url": "https://www.dentalcremer.com.br/absorvente-salivar-neodrys-microcopy-793611.html"
+  },
+  {
+    "sku": "793604",
+    "name": "Absorvente Salivar NeoDrys Convencional Fundo Branco P - Microcopy",
+    "price": "R$187,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/absorvente-salivar-neodrys-convencional-fundo-branco-p-microcopy-793604.jpg",
+    "url": "https://www.dentalcremer.com.br/absorvente-salivar-neodrys-convencional-fundo-branco-p-microcopy-793604.html"
+  },
+  {
+    "sku": "DC24416_A",
+    "name": "Absorvente Salivar Neodrys Reflexivo - Microcopy",
+    "price": "R$219,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/absorvente-salivar-neodrys-reflexivo-microcopy-tamanho-p-793628.jpg",
+    "url": "https://www.dentalcremer.com.br/absorvente-salivar-neodrys-reflexivo-microcopy-dc24416-a.html"
+  },
+  {
+    "sku": "118401",
+    "name": "Hastes Flexíveis Dengo - Melhormed",
+    "price": "R$3,99",
+    "description": "Embalagem com 150 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118401.jpg",
+    "url": "https://www.dentalcremer.com.br/hastes-flexiveis-dengo-melhormed-118401.html"
+  },
+  {
+    "sku": "118400",
+    "name": "Hastes Flexíveis Dengo - Melhormed",
+    "price": "R$2,99",
+    "description": "Embalagem com 75 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118400.jpg",
+    "url": "https://www.dentalcremer.com.br/hastes-flexiveis-dengo-melhormed-118400.html"
+  },
+  {
+    "sku": "126293",
+    "name": "Papel Toalha Rolo Nobre Premium - Nobre",
+    "price": "R$249,90",
+    "description": "Embalagem com 06 unidades. Tamanho 20cmx200m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-toalha-rolo-nobre-premium-126293-dental-cremer-02.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-rolo-nobre-premium-nobre.html"
+  },
+  {
+    "sku": "DC38424",
+    "name": "Porta Máscara Acrílico - Archneer",
+    "price": "R$344,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-mascara-acrilico-dourado-archneer-dental-cremer-142663.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-mascara-acrilico-archneer-dc38424.html"
+  },
+  {
+    "sku": "143468",
+    "name": "Kit Cirúrgico Estéril Pério Rosa 40g - Desc Shop",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos de mesa simples (70x70cm), 1 campo fenestrado (1,40x0,70m), 2 toalhas absorvente, 2 protetores de sugador (Canote), 1 protetor de refletor e 2 toucas sanfonada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-rosa-30gr-desc-shop-143468.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-rosa-30gr-desc-shop-143468.html"
+  },
+  {
+    "sku": "DC38670",
+    "name": "Máscara Cirúrgica Descartável Tripla - Protdesc",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-elastico-preta-50unid-103792.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-cirurgica-descartavel-tripla-protdesc-dc38670.html"
+  },
+  {
+    "sku": "148139",
+    "name": "Kit Cirúrgico Pério Masterdent Branco 20gr - Masterdent",
+    "description": "Kit com 2 aventais, 1 campo fenestrado, 1 campo cirúrgico de mesa, 1 campo cirúrgico de mesa impermeável, 2 capas para mangueira, 2 capas para refletor e 2 toalhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-cirurgico-masterdent.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-perio-masterdent-branco-20gr-masterdent-148139.html"
+  },
+  {
+    "sku": "143467",
+    "name": "Kit Cirúrgico Estéril Pério Azul Claro 40Gr - Desc Shop",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos de mesa simples (70x70cm), 1 campo fenestrado (1,40x0,70m), 2 toalhas absorvente, 2 protetores de sugador (Canote), 1 protetor de refletor e 2 toucas sanfonada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-azul-claro-40gr-desc-shop-143467.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-azul-claro-40gr-desc-shop-143467.html"
+  },
+  {
+    "sku": "148136",
+    "name": "Kit Cirúrgico Pério Masterdent Branco 40gr - Masterdent",
+    "description": "Kit com 2 aventais, 1 campo fenestrado, 1 campo cirúrgico de mesa, 1 campo cirúrgico de mesa impermeável, 2 capas para mangueira, 2 capas para refletor e 2 toalhas de mão absorvente.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-cirurgico-masterdent.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-perio-masterdent-branco-40gr-masterdent-148136.html"
+  },
+  {
+    "sku": "143463",
+    "name": "Kit Cirúrgico Estéril Implante Azul 40Gr - Desc Shop",
+    "description": "Embalagem com 2 aventais manga longa, 2 campos simples de mesa (70x70cm), 1 campo simples de bancada (1,50x0,50m), 1 campo fenestrado (1,40x070m), 1 capa de cadeira, 2 toalhas absorvente, 2 protetores de sugador (Canote), 1 protetor de refletor, 2 toucas sanfonadas, 2 pares de propé e 2 máscara tripla com elástico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-azul-40gr-desc-shop-143463.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-azul-40gr-desc-shop-143463.html"
+  },
+  {
+    "sku": "DC19129",
+    "name": "Kit Cirúrgico Estéril Pério Master - HNDESC",
+    "description": "Kit com 10 peças. Azul ou Branco. 40g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/565102_635501987356830285.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-master-hndesc-dc19129.html"
+  },
+  {
+    "sku": "106925",
+    "name": "Kit Cirúrgico Estéril Implante Master - Protdesc",
+    "description": "Embalagem com 02 Aventais + 02 Toalhas de mão + 02 Máscaras triplas com elástico + 02 Toucas + 02 Pares de sapatilha pro-pé + 01 Campo de bancada (1,20m x 50cm) + 02 Campos de mesa (70 x 70cm) + 01 Capa de cadeira (2,10 x 0,90) + 02 Protetores de sugadores + 01 Campo fenestrado (70cm x 1,20m) e 01 Protetor de refletor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-esteril-gr40-implante-master-protdesc-dc-106925-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-master-protdesc.html"
+  },
+  {
+    "sku": "565089",
+    "name": "Kit Cirúrgico Estéril Perio Master - HNDESC",
+    "description": "Kit com 10 peças.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-esteril-gr20-cirurgica-periodontal-hndesc-dc-565089-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-master-hndesc.html"
+  },
+  {
+    "sku": "107327",
+    "name": "Kit Cirúrgico Estéril Pério Master Rosa - HNDESC",
+    "description": "Kit com 10 peças. 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107327.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-master-rosa-hndesc.html"
+  },
+  {
+    "sku": "107904",
+    "name": "Kit Cirúrgico Estéril Implante Master Rosa - HNDESC",
+    "description": "Kit com 18 peças. 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-implante-master-gr30-rosa-hndesc-dc-107904-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-implante-master-rosa-hndesc.html"
+  },
+  {
+    "sku": "145166",
+    "name": "Kit Cirúrgico Estéril Pério 40Gr Azul - SP Protection",
+    "description": "Kit com 2 aventais manga longa 40GR no tamanho G, cor Azul, 2 toalhas de mão, 1 máscara tripla com elástico azul, 1 campo de mesa impermeável (70x90cm), 1 campo de mesa azul 40GR (70x90cm), 2 protetores de sugador, 1 campo fenestrado azul 40GR (90cmx1,40m) e 2 Protetores de refletor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cirurgico-esteril-perio-40gr-azul-sp-protection-145166.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-perio-40gr-azul-sp-protection-145166.html"
+  },
+  {
+    "sku": "DC19132",
+    "name": "Kit Cirúrgico Estéril Para Implante - HNDESC",
+    "description": "Kit com 18 peças. Azul ou Branco. 40g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/565126_635489692202866734.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-implante-hndesc-dc19132.html"
+  },
+  {
+    "sku": "565072",
+    "name": "Kit Cirúrgico N2 Estéril - HNDESC",
+    "description": "Kit com 4 itens 30G, sendo: 1 campo de mesa (0,70 x 0,70), 1 campo fenestrado (0,70 x 0,70) e 2 toalhas absorventes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/565072_635501987903929299.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-n2-esteril-hndesc.html"
+  },
+  {
+    "sku": "565065",
+    "name": "Kit Cirúrgico Estéril N1 - HNDESC",
+    "description": "Kit com 5 peças. 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-esteril-cirurgico-n-1-dental-cremer-565065-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-n1-hndesc.html"
+  },
+  {
+    "sku": "925395",
+    "name": "Kit Cirúrgico Estéril Para Implante - HNDESC",
+    "description": "Kit com 18 peças. 30g. Branco.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/925395.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-implante-hndesc.html"
+  },
+  {
+    "sku": "565119",
+    "name": "Kit Cirúrgico Estéril Para Implante - HNDESC",
+    "description": "Kit com 18 peças. 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-esteril-gr20-implante-master-dental-cremer-565119-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-implante-hndesc-565119.html"
+  },
+  {
+    "sku": "384598",
+    "name": "Kit Cirúrgico Estéril Para Implante - SKY",
+    "description": "Kit com 18 peças. 40g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/384598.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cirurgico-esteril-para-implante-sky-384598.html"
+  },
+  {
+    "sku": "DC10241",
+    "name": "Aplicador Aplik - Angelus",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/513042_3.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-aplik-angelus-dc10241.html"
+  },
+  {
+    "sku": "DC39107",
+    "name": "Luva para Procedimento Vinil Saude com Pó - Medix",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-vinil-saude-com-po-gg-medix-150213.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-vinil-saude-com-po-medix-dc39107.html"
+  },
+  {
+    "sku": "860764",
+    "name": "Avental Descartável Manga Longa com Punho Lastex - HNDESC",
+    "description": "Embalagem com 10 unidades. Gramatura 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/860764V2.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-com-punho-lastex-hndesc-860764.html"
+  },
+  {
+    "sku": "107667",
+    "name": "Seringa De Insulina 1ml Bico Slip Com Agulha - Injex",
+    "description": "1ml. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107667.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-de-insulina-1ml-bico-slip-com-agulha-injex-107667.html"
+  },
+  {
+    "sku": "793284",
+    "name": "Seringa Hipodérmica Sem Agulha - Procare",
+    "description": "20ml LS. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-hipodermica-sem-agulha-procare-793284-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-procare-793284.html"
+  },
+  {
+    "sku": "148019",
+    "name": "Avental Descartável Manga Longa 20G Rosa - Protdesc",
+    "description": "Embalagem com 10 unidades. 20g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-20g-rosa-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-20g-rosa-protdesc-148019.html"
+  },
+  {
+    "sku": "148012",
+    "name": "Avental Descartável Manga Longa 20G Rosa Pink - Protdesc",
+    "description": "Embalagem com 10 unidades. 20g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-20g-rosa-pink-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-20g-rosa-pink-protdesc-148012.html"
+  },
+  {
+    "sku": "DC38901",
+    "name": "Avental Descartável Cirúrgico Manga Longa - Medis",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-cirurgico-manga-longa-azul-marinho-30gr-10unid--medis.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-cirurgico-manga-longa-medis-dc38901.html"
+  },
+  {
+    "sku": "148018",
+    "name": "Avental Descartável Manga Longa 40G Verde - Protdesc",
+    "description": "Embalagem com 10 unidades. 40g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-40g-verde-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-40g-verde-protdesc-148018.html"
+  },
+  {
+    "sku": "141002",
+    "name": "Seringa Descartável Luer Lock 20Ml Bico Central Sem Agulha - Injex",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-lock-20-ml-sem-agulha-injex-dental-cremer-141002.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-luer-lock-20ml-bico-central-sem-agulha-injex-141002.html"
+  },
+  {
+    "sku": "148017",
+    "name": "Avental Descartável Manga Longa 40G Azul Marinho - Protdesc",
+    "description": "Embalagem com 10 unidades. 40g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-40g-azul-marinho-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-40g-azul-marinho-protdesc-148017.html"
+  },
+  {
+    "sku": "133016",
+    "name": "Avental Descartável SMS Manga Longa com Punho Amarelo - Protdesc",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-sms-manga-longa-com-punho-amarelo-protdesc-133016-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-sms-manga-longa-com-punho-amarelo-protdesc-133016.html"
+  },
+  {
+    "sku": "860771",
+    "name": "Avental Descartável Manga Longa com Punho Lastex - HNDESC",
+    "description": "Embalagem com 10 unidades. 30G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-com-punho-lastex-hndesc-860771.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-com-punho-lastex-hndesc-860771.html"
+  },
+  {
+    "sku": "103438",
+    "name": "Avental TNT Manga Longa Descartável 40G - HNDESC",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-odontologico-tnt-manga-longa-descartavel-hndesc-103438.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-manga-longa-descartavel-hndesc-103438.html"
+  },
+  {
+    "sku": "148010",
+    "name": "Avental Descartável Manga Longa 20G Azul - Protdesc",
+    "description": "Embalagem com 10 unidades. 20g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-manga-longa-20g-azul-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-descartavel-manga-longa-20g-azul-protdesc-148010.html"
+  },
+  {
+    "sku": "115905",
+    "name": "Avental de Procedimento Azul SMS - Neve",
+    "description": "Embalagem com 10 unidades. 40G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115905.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-de-procedimento-azul-sms-neve-115905.html"
+  },
+  {
+    "sku": "114486",
+    "name": "Avental de Procedimento Branco Manga Longa 20G - Neve",
+    "description": "Embalagem com 10 unidades. TNT.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114486.jpg",
+    "url": "https://www.dentalcremer.com.br/avental-de-procedimento-branco-20g-neve-114486.html"
+  },
+  {
+    "sku": "125014",
+    "name": "Seringa para Insulina 1ml 5mm x 0,23mm 32g - Uniqmed",
+    "description": "1ml. Embalagem com 100 unidades. 5mm x 0,23mm 32G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-para-insulina-1-ml-5mmx0-23mm32g-unq-125014-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-para-insulina-1ml-5mm-x-0-23mm-32g-uniqmed-125014.html"
+  },
+  {
+    "sku": "141001",
+    "name": "Seringa Descartável Luer Lock 10Ml Sem Agulha - Injex",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-lock-10ml-sem-agulha-injex-dental-cremer-141001.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-luer-lock-10ml-sem-agulha-injex-141001.html"
+  },
+  {
+    "sku": "125010",
+    "name": "Seringa para Insulina 31G - Uniqmed",
+    "description": "0,3ml. Embalagem com 100 unidades. 6mm x 0,25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-para-insulina-0-3ml-6mm-x-0-25mm-31g-uniqmed-125010-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-para-insulina-0-3ml-6mm-x-0-25mm-31g-uniqmed-125010.html"
+  },
+  {
+    "sku": "DC11156",
+    "name": "Luva de Procedimento de Látex Sem Pó - Supermax",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-de-procedimento-powder-free-supermax-embalagem-dc11156.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-powder-free-supermax-dc11156.html"
+  },
+  {
+    "sku": "141003",
+    "name": "Seringa Descartável Luer Lock 5Ml Sem Agulha - Injex",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-descartavel-luer-lock-5ml-sem-agulha-injex-dental-cremer-141003.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-luer-lock-5ml-sem-agulha-injex-141003.html"
+  },
+  {
+    "sku": "953220",
+    "name": "Seringa Hipodérmica Sem Agulha - Injex",
+    "description": "5ml LL. Embalagem com 800 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/953220.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-injex-953220.html"
+  },
+  {
+    "sku": "958461",
+    "name": "Seringa Hipodérmica Sem Agulha - Injex",
+    "description": "5ml LS.Embalagem com 800 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/958461.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-sem-agulha-injex-958461.html"
+  },
+  {
+    "sku": "DC25411",
+    "name": "Luva de Procedimento de Nitrilo Rosa Pink Sem Pó - Supermax",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-luva-procedimento-pink-nitrilo-powder-free-supermax-dc25411.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-nitrilica-colorida-rosa-pink-supermax-dc25411.html"
+  },
+  {
+    "sku": "DC29549",
+    "name": "Luva de Procedimento com Pó - AllPrime",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-de-procedimento-com-po-allprime-dc29549-dental-cremer-11.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-com-po-allprime-dc29549.html"
+  },
+  {
+    "sku": "DC30361",
+    "name": "Luva de Procedimento Nitrílica Sonic Azul Cobalto - Supermax",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caixa-luva-procedimento-supermax-DC26947.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-nitrilica-sonic-azul-cobalto-supermax-dc30361.html"
+  },
+  {
+    "sku": "DC30280",
+    "name": "Luva de Procedimento com Pó - AllPrime",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-procedimento-latex-po-allprime-lovers-DC30280.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-com-po-allprime-dc30280.html"
+  },
+  {
+    "sku": "DC25649",
+    "name": "Luva Nitrílica Laranja Ignite - Supermax",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/103674.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-nitrilica-ignite-orange-supermax-dc25649.html"
+  },
+  {
+    "sku": "DC38191",
+    "name": "Luva de Procedimento Nitrílica Colorida Preta - Supermax",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-luva-procedimento-black-nitrilo-powder-free-supermax-p-904987.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-nitrilica-colorida-preta-supermax-dc38191.html"
+  },
+  {
+    "sku": "DC30417",
+    "name": "Luva de Procedimento de Nitrilo Azul Sem Pó - AllPrime",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-luva-de-procedimento-de-nitrilo-azul-sem-po-allprime-g-126151.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-de-procedimento-de-nitrilo-azul-sem-po-allprime-dc30417.html"
+  },
+  {
+    "sku": "DC38430",
+    "name": "Luva para Procedimento Vinil Classic + Saúde Transparente Sem Pó - Bluesail",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/luva-para-procedimento-vinil-classic--saude-transparente-sem-po-bluesail-dental-cremer-dc38430.jpg",
+    "url": "https://www.dentalcremer.com.br/luva-para-procedimento-vinil-classic-saude-transparente-sem-po-bluesail-dc38430.html"
+  },
+  {
+    "sku": "111322",
+    "name": "Máscara Hospitalar 3 Painéis 3M™ Aura™ 9360H - Solventum",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111322.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-hospitalar-3-paineis-auratm-9360h-3m-solventum-111322.html"
+  },
+  {
+    "sku": "819106",
+    "name": "Compressa de Gaze Max 11 Fios Não Estéril - Cremer",
+    "description": "Embalagem com 40 pacotes de 5 unidades. 7,5x7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/compressa-11f-75x75cm-display-c40pc-de-5un-cremer-dental-cremer-819106-01.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-max-11-fios-n-o-esteril-cremer-819106.html"
+  },
+  {
+    "sku": "100828",
+    "name": "Compressa de Gaze Non Woven - Polarfix",
+    "description": "Embalagem com 500 unidades. 7,5 x 7,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100828.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-de-gaze-non-woven-polarfix-100828.html"
+  },
+  {
+    "sku": "100829",
+    "name": "Compressa Cirúrgica Toalha Para Mãos Non Woven - Polarfix",
+    "description": "Embalagem com 50 unidades. 40 x 40cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100829.jpg",
+    "url": "https://www.dentalcremer.com.br/compressa-cirurgica-toalha-para-m-os-non-woven-polarfix-100829.html"
+  },
+  {
+    "sku": "DC20556",
+    "name": "Babador Impermeável Adulto - Jon",
+    "description": "Unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/604917_635835420729115253.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-adulto-jon-dc20556.html"
+  },
+  {
+    "sku": "126283",
+    "name": "Babador Descartável Branco - Jon",
+    "description": "Embalagem com 1 unidade. 57,0x47,0cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/avental-descartavel-tnt-paciente-adulto-40gr-jon-126283-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-descartavel-branco-jon-126283.html"
+  },
+  {
+    "sku": "148433",
+    "name": "Sugador Descartável - Angelus",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suctor-saliva-angelus-148433.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-descartavel-angelus-148433.html"
+  },
+  {
+    "sku": "111447",
+    "name": "Protetor Facial Transparente com Elástico - Dello",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111447_3.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-facial-transparente-com-elastico-dello-111447.html"
+  },
+  {
+    "sku": "DC29362",
+    "name": "Máscara Descartável Tripla com Elástico - Safemask",
+    "description": "Embalagem com 50 unidades. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-elastico-safemask-dc29362-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-descartavel-tripla-com-elastico-safemask-dc29362.html"
+  },
+  {
+    "sku": "125386",
+    "name": "Máscara Descartável Tripla com Elástico Preta - Safemask",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-elastico-preta-safemask-dental-cremer-125386.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-descartavel-tripla-com-elastico-preta-safemask-125386.html"
+  },
+  {
+    "sku": "133017",
+    "name": "Máscara Descartável Tripla com Elástico Amarela - Protdesc",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mascara-descartavel-tripla-com-elastico-amarela-protdesc-133017-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mascara-descartavel-tripla-com-elastico-amarela-protdesc-133017.html"
+  },
+  {
+    "sku": "DC26520",
+    "name": "Babador Impermeável Infantil - FunWork",
+    "description": "Material Plástico Impermeável de Alta Flexibilidade;Alta durabilidade;Não deforma;Atóxico;Pode ser lavado;Fechamento no pescoço com velcro costurado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108702.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-infantil-funwork-dc26520.html"
+  },
+  {
+    "sku": "951394",
+    "name": "Touca Descartável Sanfonada Branca - HNDESC",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-sanfonada-hndesc-dc-951394-03.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-sanfonada-branca-hndesc-951394.html"
+  },
+  {
+    "sku": "124159",
+    "name": "Babador Impermeável Adulto Eu Amo Ver Você Sorrindo - FunWork",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/babador-impermeavel-adulto-eu-amo-ver-voce-sorrindo-funwork-124158-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-adulto-eu-amo-ver-voce-sorrindo-funwork-124159.html"
+  },
+  {
+    "sku": "124222",
+    "name": "Kit Inicial - Dryshield",
+    "description": "Kit com 1 Sistema de Isolamento + 1 Kit Operatório Portátil + 1 Conector Y + 1 Escova de Limpeza + 4 Boquilhas Autoclaváveis Pedo + 12 Bocais Autoclaváveis (pequeno, médio e grande, 4 unidades de cada).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-inicial-dryshield-124222.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-inicial-dryshield-124222.html"
+  },
+  {
+    "sku": "DC26521",
+    "name": "Babador Impermeável Adulto - FunWork",
+    "description": "Material Plástico Impermeável de Alta Flexibilidade;Alta durabilidade;Não deforma;Atóxico;Pode ser lavado;Fechamento no pescoço com velcro costurado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/babador-impermeavel-adulto-funwork-dc26521-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-adulto-funwork-dc26521.html"
+  },
+  {
+    "sku": "128671",
+    "name": "Touca Descartável Sanfonada Branca - HNDESC",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/manequim-touca-descartavel-sanfonada-branca-hndesc-128671.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-sanfonada-branca-hndesc-128671.html"
+  },
+  {
+    "sku": "133018",
+    "name": "Touca Descartável Sanfonada Amarela - Protdesc",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/touca-descartavel-sanfonada-amarela-protdesc-133018-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/touca-descartavel-sanfonada-amarela-protdesc-133018.html"
+  },
+  {
+    "sku": "124158",
+    "name": "Babador Impermeável Infantil Planetas - FunWork",
+    "description": "Material Plástico Impermeável de Alta Flexibilidade;Alta durabilidade;Não deforma;Atóxico;Pode ser lavado;Fechamento no pescoço com velcro costurado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/babador-impermeavel-infantil-planetas-funwork-124158-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-infantil-planetas-funwork-124158.html"
+  },
+  {
+    "sku": "604948",
+    "name": "Babador Impermeável Adulto Cristal - Jon",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/604948.jpg",
+    "url": "https://www.dentalcremer.com.br/babador-impermeavel-adulto-cristal-jon-604948.html"
+  },
+  {
+    "sku": "818659",
+    "name": "Agulha Hipodérmica - Injex",
+    "description": "Embalagem com 100 unidades. 25x0,70 22G 1 (canhão preto).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-hipodermica-injex-818659-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-hipodermica-injex-818659.html"
+  },
+  {
+    "sku": "DC11127",
+    "name": "Agulha Hipodérmica - Injex",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-de-irrigac-o-injex-dc11127-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-de-irrigac-o-injex-dc11127.html"
+  },
+  {
+    "sku": "DC11126",
+    "name": "Agulha de Irrigação Estéril - Injex",
+    "description": "Caixa com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/399622.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-de-irrigac-o-esteril-injex-dc11126.html"
+  },
+  {
+    "sku": "107608",
+    "name": "Campo para Mesa Auxiliar 40GR - Medis",
+    "description": "Embalagem com 10 unidades. 45x60cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107608.jpg",
+    "url": "https://www.dentalcremer.com.br/campo-para-mesa-auxiliar-40gr-medis-107608.html"
+  },
+  {
+    "sku": "818697",
+    "name": "Agulha Hipodérmica - Injex",
+    "description": "Embalagem com 100 unidades. 0,45x13 26G 1/2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/264678.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-hipodermica-injex-818697.html"
+  },
+  {
+    "sku": "133019",
+    "name": "Propé Amarelo 30GR - Protdesc",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prope-amarelo-30gr-protdesc-133019-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/prope-amarelo-30gr-protdesc-133019.html"
+  },
+  {
+    "sku": "707496",
+    "name": "Porta Luvas Acrílico - Ortoguaru",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-luvas-de-acrilico-ortoguaru-707496.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-luvas-acrilico-ortoguaru-707496.html"
+  },
+  {
+    "sku": "113115",
+    "name": "Porta Máscaras - Biovis",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-mascaras-biovis-113115-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-mascaras-biovis-113115.html"
+  },
+  {
+    "sku": "596274",
+    "name": "Suporte para Coletor de Perfuro Cortante - Descarbox",
+    "description": "Unidade. Para 1,5 e 3 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suporte-de-parede-coletor-perfurocortantes-3-litros-dental-cremer-596274-01.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-coletor-de-perfuro-cortante-descarbox-596274.html"
+  },
+  {
+    "sku": "DC26629",
+    "name": "Catéter Intravenoso em Teflon com Agulha - Lamedid",
+    "description": "Embalagem com 50 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109718_2.jpg",
+    "url": "https://www.dentalcremer.com.br/cateter-intravenoso-em-teflon-agulha-24g-lamedid-dc26629.html"
+  }
+]

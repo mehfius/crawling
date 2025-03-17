@@ -1,0 +1,736 @@
+[
+  {
+    "sku": "559101",
+    "name": "Caixa Para Aparelho Ortodôntico - Prisma",
+    "price": "R$35,90",
+    "description": "Embalagem com 10 unidades. Cores Sortidas. 58x77,4x21mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559101_635506129624617976.jpg",
+    "url": "https://www.dentalcremer.com.br/caixa-para-aparelho-ortodontico-prisma.html"
+  },
+  {
+    "sku": "114015",
+    "name": "Botão Lingual Cola Ceramic - Morelli",
+    "price": "R$15,00",
+    "description": "Embalagem com 2 unidades. Com 3,8mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/botao-lingual-cola-ceramic-morelli-114015.jpg",
+    "url": "https://www.dentalcremer.com.br/bot-o-lingual-cola-ceramic-morelli-114015.html"
+  },
+  {
+    "sku": "DC12248",
+    "name": "Mola Fechada NiTi Para Tração - Morelli",
+    "price": "R$28,00",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/417173.jpg",
+    "url": "https://www.dentalcremer.com.br/mola-fechada-niti-para-trac-o-morelli-dc12248.html"
+  },
+  {
+    "sku": "DC19708",
+    "name": "Corretor de Classe II 3M™ Forsus™ EZ2 Module - Solventum",
+    "price": "R$881,90",
+    "description": "Embalagem com 1 kit que acompanha 2 molas e 2 stops, lado direito e esquerdo. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/corretor-de-classe-ii-forsustm-ez2-module-3m-dc19708.jpg",
+    "url": "https://www.dentalcremer.com.br/corretor-de-classe-ii-forsustm-ez2-module-3m-solventum-dc19708.html"
+  },
+  {
+    "sku": "119831",
+    "name": "Estojo Acrílico Porta Bengalinha com Tampa - Ortoguaru",
+    "price": "R$95,19",
+    "description": "Unidade. Para 16 Unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/119831.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-acrilico-porta-bengalinha-com-tampa-ortoguaru-119831.html"
+  },
+  {
+    "sku": "DC27242",
+    "name": "Mola NiTi Aberta - Aditek",
+    "price": "R$28,90",
+    "description": "Embalagem com 3 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/622843.jpg",
+    "url": "https://www.dentalcremer.com.br/mola-niti-aberta-aditek-dc27242.html"
+  },
+  {
+    "sku": "100759",
+    "name": "Banda Molar Universal Superior Kit - Orthometric",
+    "price": "R$207,90",
+    "description": "Kit com 190 unidades. Ref: 40.02.9000.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100759_2.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-molar-universal-superior-kit-orthometric-100759.html"
+  },
+  {
+    "sku": "767193",
+    "name": "Plástico C+ Essix Clear Aligner - Dentsply Sirona",
+    "price": "R$362,90",
+    "description": "Embalagem com 25 unidades. Leitosa.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/plastico-c-essix-clear-aligner-dentsply-sirona-767193.jpg",
+    "url": "https://www.dentalcremer.com.br/plastico-c-essix-clear-aligner-dentsply-sirona-767193.html"
+  },
+  {
+    "sku": "100793",
+    "name": "Banda Molar Universal Inferior Kit - Orthometric",
+    "price": "R$207,90",
+    "description": "Embalagem com 190 unidades. Ref: 40.01.9000.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100793_2.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-molar-universal-inferior-kit-orthometric-100793.html"
+  },
+  {
+    "sku": "DC19004",
+    "name": "Banda Anatômica Com Tubo Simples Roth 022 - Morelli",
+    "price": "R$13,00",
+    "description": "Embalagem com 2 unidades. Direita e Esquerda.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc19004.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-anatomica-com-tubo-simples-roth-022-morelli-dc19004.html"
+  },
+  {
+    "sku": "DC25512",
+    "name": "Banda Molar Universal Inferior - Orthometric",
+    "price": "R$11,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100776.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-molar-universal-inferior-orthometric-dc25512.html"
+  },
+  {
+    "sku": "DC19000",
+    "name": "Banda Anatômica Com Tubo Duplo Roth 022 - Morelli",
+    "price": "R$14,00",
+    "description": "Embalagem com 2 unidades. (Direita e Esquerda).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/796032.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-anatomica-com-tubo-duplo-roth-022-morelli-dc19000.html"
+  },
+  {
+    "sku": "DC11734",
+    "name": "Arco Extraoral 045\" - Morelli",
+    "price": "R$21,00",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC11734_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-extraoral-045-morelli-dc11734.html"
+  },
+  {
+    "sku": "142582",
+    "name": "Mordedor para Alinhadores OrhtoChewie - Orthometric",
+    "price": "R$207,90",
+    "description": "Embalagem com 20 unidades contendo 3 mordedores para alinhadores em cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mordedor-para-alinhadores-orhtochewie-orthometric-142582-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mordedor-para-alinhadores-orhtochewie-orthometric-142582.html"
+  },
+  {
+    "sku": "DC19001",
+    "name": "Banda Anatômica Com Tubo Triplo Roth 022 - Morelli",
+    "price": "R$14,00",
+    "description": "Embalagem com 2 unidades. (Direita e Esquerda). Diâmetro Cervical .045.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/555387.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-anatomica-com-tubo-triplo-roth-022-morelli-dc19001.html"
+  },
+  {
+    "sku": "DC27239",
+    "name": "Banda Anatômica Molar - Aditek",
+    "price": "R$11,90",
+    "description": "Embalagem com 10 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/banda-anatomica-molar-aditek-dc27239.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-anatomica-molar-aditek-dc27239.html"
+  },
+  {
+    "sku": "DC12250",
+    "name": "Mola de NiTi Fechada Para Miniparafuso - Morelli",
+    "price": "R$31,50",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/425796.jpg",
+    "url": "https://www.dentalcremer.com.br/mola-de-niti-fechada-para-miniparafuso-morelli-dc12250.html"
+  },
+  {
+    "sku": "DC12168",
+    "name": "Expansor Ortodôntico Mini - Morelli",
+    "price": "R$133,00",
+    "description": "Embalagem com 10 unidades. 6,5 ou 9mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/420197.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-ortodontico-mini-morelli-dc12168.html"
+  },
+  {
+    "sku": "DC24093_A",
+    "name": "Banda Anatômica Com Tubo Duplo MBT 022 - Morelli",
+    "price": "R$14,00",
+    "description": "Embalagem com 2 unidades. (Direita e Esquerda). Diâmetro Cervical .045.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc24093_a.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-anatomica-com-tubo-duplo-mbt-022-morelli-dc24093-a.html"
+  },
+  {
+    "sku": "DC26801",
+    "name": "Compósito para Levante de Mordida Bite - Maquira",
+    "price": "R$81,90",
+    "description": "Embalagem com 1 seringa com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-ortodontica-bite-azul-maquira-135117-01.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-ortodontica-flow-bite-maquira-dc26801.html"
+  },
+  {
+    "sku": "DC24093",
+    "name": "Banda Anatômica Com Tubo Duplo MBT 022 - Morelli",
+    "price": "R$8,99",
+    "description": "Embalagem com 2 unidades. (Direita e Esquerda).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/744019.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-anatomica-com-tubo-duplo-mbt-022-morelli-dc24093.html"
+  },
+  {
+    "sku": "767162",
+    "name": "Plástico ACE 035 Essix Clear Aligner - Dentsply Sirona",
+    "price": "R$446,90",
+    "description": "Embalagem com 25 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-plastico-ace-035-essix-clear-aligner-dentsply-sirona-767162.jpg",
+    "url": "https://www.dentalcremer.com.br/plastico-ace-035-essix-clear-aligner-dentsply-sirona-767162.html"
+  },
+  {
+    "sku": "DC29737",
+    "name": "Mola Fechada Flexy NiTi Para Miniparafuso - Orthometric",
+    "price": "R$31,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mola-fechada-flexy-niti-orthometric-dc29737-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mola-fechada-flexy-niti-para-miniparafuso-orthometric-dc29737.html"
+  },
+  {
+    "sku": "DC27268",
+    "name": "Mola NiTi Fechada para Retração - Aditek",
+    "price": "R$23,90",
+    "description": "Embalagem com 4 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/27268.jpg",
+    "url": "https://www.dentalcremer.com.br/mola-niti-fechada-para-retrac-o-aditek-dc27268.html"
+  },
+  {
+    "sku": "DC12244",
+    "name": "Mola de NiTi Flexy Para Tração - Orthometric",
+    "price": "R$27,90",
+    "description": "Embalagem com 4 unidades. Escolha a medida.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mola-de-niti-flexy-para-trac-o-orthometric-dc12244-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mola-de-niti-flexy-para-trac-o-orthometric-dc12244.html"
+  },
+  {
+    "sku": "141176",
+    "name": "Placa Termoplástica para Alinhadores Proaligner X - Orthometric",
+    "price": "R$231,90",
+    "description": "Embalagem com 25 unidades. 125x125 x 0,76mm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-termoplastica-para-alinhadores-proaligner-x-125x125x0-76mm-orthometric-dental-cremer-141176.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-termoplastica-para-alinhadores-proaligner-x-orthometric-141176.html"
+  },
+  {
+    "sku": "DC12170",
+    "name": "Expansor Ortodôntico Standard - Morelli",
+    "price": "R$133,00",
+    "description": "Embalagem com 10 unidades. 7mm ou 11mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/420159.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-ortodontico-standard-morelli-dc12170.html"
+  },
+  {
+    "sku": "425734",
+    "name": "Mola Ortodôntica de NiTi Para Compressão - Morelli",
+    "price": "R$35,00",
+    "description": "Embalagem com 3 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/425734.jpg",
+    "url": "https://www.dentalcremer.com.br/mola-ortodontica-de-niti-para-compress-o-morelli-425734.html"
+  },
+  {
+    "sku": "417289",
+    "name": "Expansor Mini - Morelli",
+    "price": "R$15,50",
+    "description": "Embalagem com 1 unidade. 9mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/417289.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-mini-morelli-417289.html"
+  },
+  {
+    "sku": "423594",
+    "name": "Expansor Ortodôntico Leque Rápido Borboleta - Morelli",
+    "price": "R$49,00",
+    "description": "Embalagem com 1 unidade. 10mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/423594.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-ortodontico-leque-rapido-borboleta-morelli-423594.html"
+  },
+  {
+    "sku": "425277",
+    "name": "Tala Cervical Para Tracionador Baixa Tração - Morelli",
+    "price": "R$15,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/425277.jpg",
+    "url": "https://www.dentalcremer.com.br/tala-cervical-para-tracionador-baixa-trac-o-morelli-425277.html"
+  },
+  {
+    "sku": "422795",
+    "name": "Expansor Mini Unilateral - Morelli",
+    "price": "R$26,00",
+    "description": "Unidade. 5mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/422795.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-mini-unilateral-morelli-422795.html"
+  },
+  {
+    "sku": "118975",
+    "name": "Placa Termoplástica Para Alinhadores Proaligner X - Orthometric",
+    "price": "R$284,90",
+    "description": "Embalagem com 25 unidades. Redonda. 125 X 0,76 mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-thermoplastica-proalgin-para-alinhamento-orthometric-118975-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-thermoplastica-proalgin-para-alinhamento-orthometric-118975.html"
+  },
+  {
+    "sku": "DC16596",
+    "name": "Casquete para Tracionador - Morelli",
+    "price": "R$29,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/420289.jpg",
+    "url": "https://www.dentalcremer.com.br/casquete-para-tracionador-morelli-dc16596.html"
+  },
+  {
+    "sku": "138397",
+    "name": "Adesivo Ortodôntico 3M™ Transbond™ XT - Solventum",
+    "description": "Embalagem com 1 seringa de 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-refil-transbond-xt-3m-dc-398168-01.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-ortodontico-transbondtm-xt-3m-solventum-138397.html.html"
+  },
+  {
+    "sku": "767179",
+    "name": "Plástico ACE 035 Essix Clear Aligner - Dentsply Sirona",
+    "price": "R$781,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/767179_2.jpg",
+    "url": "https://www.dentalcremer.com.br/plastico-ace-035-essix-clear-aligner-dentsply-sirona-767179.html"
+  },
+  {
+    "sku": "842630",
+    "name": "Cera Ortodôntica Protetora - Morelli",
+    "price": "R$6,00",
+    "description": "Embalagem com 1 cartela com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/842630.jpg",
+    "url": "https://www.dentalcremer.com.br/cera-ortodontica-protetora-morelli-842630.html"
+  },
+  {
+    "sku": "138562",
+    "name": "Espuma White Align para Limpeza de Alinhadores Ortodônticos Menta - Hu-Friedy",
+    "price": "R$119,90",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espuma-white-align-p-limpeza-de-alinhadores-ortodonticos-menta-whitealign-138562-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espuma-white-align-para-limpeza-de-alinhadores-ortodonticos-menta-hu-friedy.html"
+  },
+  {
+    "sku": "420210",
+    "name": "Expansor Ortodôntico Unilateral Mini - Morelli",
+    "price": "R$26,00",
+    "description": "Embalagem com 1 unidade. 6,5mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/420210.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-ortodontico-unilateral-mini-morelli-420210.html"
+  },
+  {
+    "sku": "420227",
+    "name": "Expansor Ortodôntico Em Leque - Morelli",
+    "price": "R$34,00",
+    "description": "Embalagem com 1 unidade. 8mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/420227.jpg",
+    "url": "https://www.dentalcremer.com.br/expansor-ortodontico-em-leque-morelli-420227.html"
+  },
+  {
+    "sku": "140508",
+    "name": "Kit Corretor de Classe II Iceram Clear Distalizer 23/25/27mm - Orthometric",
+    "price": "R$498,90",
+    "description": "Embalagem com 6 unidades, sendo 2 de cada tamanho 23, 25 e 27 mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-corretor-de-classe-II-iceram-clear-distalizer-23-25-27mm-orthometric-140508-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-corretor-de-classe-ii-iceram-clear-distalizer-23-25-27mm-orthometric-140508.html"
+  },
+  {
+    "sku": "141178",
+    "name": "Placa Termoplástica para Alinhadores Proaligner X - Orthometric",
+    "price": "R$103,90",
+    "description": "Embalagem com 10 unidades. 125x125 x 1mm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-termoplastica-para-alinhadores-proaligner-x-125x125x1mm-orthometric-dental-cremer-141178.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-termoplastica-para-alinhadores-proaligner-x-orthometric-141178.html"
+  },
+  {
+    "sku": "DC25812",
+    "name": "Corretor de Classe II Carriere - Ortho Organizers",
+    "price": "R$312,90",
+    "description": "Embalagem com 1 unidade. (1°Molar Esquerdo/Direito).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105630_3.jpg",
+    "url": "https://www.dentalcremer.com.br/corretor-de-classe-ii-carriere-ortho-organizers-dc25812.html"
+  },
+  {
+    "sku": "418347",
+    "name": "Arco Extraoral Médio Duro 051 - Morelli",
+    "price": "R$21,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/418347_2.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-extraoral-medio-duro-051-morelli-418347.html"
+  },
+  {
+    "sku": "DC16614",
+    "name": "Tracionador Com Mola - Morelli",
+    "price": "R$15,00",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/420388.jpg",
+    "url": "https://www.dentalcremer.com.br/tracionador-com-mola-morelli-dc16614.html"
+  },
+  {
+    "sku": "557596",
+    "name": "Alicate Ortodôntico de Bico Chato Nº 121 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-bico-chato-121-zatty-557596.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-de-bico-chato-n-121-zatty-557596.html"
+  },
+  {
+    "sku": "138484",
+    "name": "Kit Alicates Alinhadores - Zatty",
+    "description": "Kit com 5 unidades. (700, 704, 707, 708 E 711)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-alicates-alinhadores-5unidzatty-dental-cremer-134146-001.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-alicates-alinhadores-zatty-138484.html"
+  },
+  {
+    "sku": "412918",
+    "name": "Cera Ortodôntica Protetora - Morelli",
+    "price": "R$35,00",
+    "description": "Embalagem com 10 cartelas com 20 aplicações cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cera-ortodontica-protetora-morelli-412918..jpg",
+    "url": "https://www.dentalcremer.com.br/cera-ortodontica-protetora-morelli-412918.html"
+  },
+  {
+    "sku": "126850",
+    "name": "Alicate Ortodôntico para Dobrar Fio na Distral - Ice",
+    "price": "R$368,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-para-dobrar-fio-na-distral-ice-126850-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-dobrar-fio-na-distral-ice-126850.html"
+  },
+  {
+    "sku": "127229",
+    "name": "Alicate Ortodôntico Tridente Longo Nº 201 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-tridente-longo-n-201-zatty-127229-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-tridente-longo-n-201-zatty-127229.html"
+  },
+  {
+    "sku": "DC38151",
+    "name": "Corretor de Classe II Iceram Clear Distalizer - Orthometric",
+    "price": "R$267,90",
+    "description": "Embalagem com 2 unidades. Universal.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/corretor-de-classe-II-iceram-clear-distalizer-orthometric-dc38151-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/corretor-de-classe-ii-iceram-clear-distalizer-orthometric-dc38151.html"
+  },
+  {
+    "sku": "126837",
+    "name": "Alicate Ortodôntico Removedor de Bráquete Cerâmico - Ice",
+    "price": "R$139,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-removedor-de-braquete-ceramico-ice-3.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-de-braquete-ceramico-ice-126837.html"
+  },
+  {
+    "sku": "DC19148",
+    "name": "Resina Acrílica Autopolimerizável Orto - TDV",
+    "price": "R$67,90",
+    "description": "Embalagem com 80g. Pó. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/568189_635768050941066461.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-orto-tdv-dc19148.html"
+  },
+  {
+    "sku": "420319",
+    "name": "Casquete Regulável IHG - Morelli",
+    "price": "R$34,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/420319.jpg",
+    "url": "https://www.dentalcremer.com.br/casquete-regulavel-ihg-morelli-420319.html"
+  },
+  {
+    "sku": "DC38150",
+    "name": "Corretor de Classe II Iceram Clear Distalizer - Orthometric",
+    "price": "R$160,90",
+    "description": "Embalagem com 1 unidade. Universal",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/corretor-de-classe-II-iceram-clear-distalizer-orthometric-dc38150-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/corretor-de-classe-ii-iceram-clear-distalizer-orthometric-dc38150.html"
+  },
+  {
+    "sku": "116804",
+    "name": "Gancho Ortodôntico Ponta Bola Reto - Orthometric",
+    "price": "R$14,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/116804.jpg",
+    "url": "https://www.dentalcremer.com.br/gancho-ortodontico-ponta-bola-reto-orthometric-116804.html"
+  },
+  {
+    "sku": "DC15156",
+    "name": "Bráquete de Aço Roth Max 018 - Morelli",
+    "price": "R$16,00",
+    "description": "Embalagem com 10 unidades. Com Gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/423976.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-max-018-morelli-dc15156.html"
+  },
+  {
+    "sku": "DC25284",
+    "name": "Resina Acrílica Autopolimerizável Orto - TDV",
+    "price": "R$89,90",
+    "description": "Embalagem com 225g. Pó. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/121926.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-orto-tdv-dc25284.html"
+  },
+  {
+    "sku": "DC38257",
+    "name": "Bráquete Cerâmico Autoligado Iceram Total Glass Roth 0,022 - Orthometric",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-autoligado-iceram-total-glass-roth-022-orthometric-dc38257-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-autoligado-iceram-total-glass-roth-0-022-orthometric-dc38257.html"
+  },
+  {
+    "sku": "116803",
+    "name": "Stop Ortodôntico Fechado Para Arcos Redondos - Orthometric",
+    "price": "R$14,90",
+    "description": "Embalagem com 25 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/stop-ortodontico-fechado-para-arcos-redondos-orthometric-116803.jpg",
+    "url": "https://www.dentalcremer.com.br/stop-ortodontico-fechado-para-arcos-redondos-orthometric-116803.html"
+  },
+  {
+    "sku": "DC14089",
+    "name": "Barra Palatina Ortodôntica Com Loop Mesial - Morelli",
+    "price": "R$33,00",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/417340.jpg",
+    "url": "https://www.dentalcremer.com.br/barra-palatina-ortodontica-com-loop-mesial-morelli-dc14089.html"
+  },
+  {
+    "sku": "DC38258",
+    "name": "Bráquete Autoligado de Aço Ultra-P Roth 0,022 - Orthometric",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-autoligado-de-aco-ultra-p-roth-022-orthometric-dc38258-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-autoligado-de-aco-ultra-p-roth-0-022-orthometric-dc38258.html"
+  },
+  {
+    "sku": "116802",
+    "name": "Stop Ortodôntico Aberto Para Arcos Retangulares - Orthometric",
+    "price": "R$15,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/stop-ortodontico-aberto-para-arcos-retangulares-orthometric-116802-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/stop-ortodontico-aberto-para-arcos-retangulares-orthometric-116802.html"
+  },
+  {
+    "sku": "DC29683",
+    "name": "Resina Acrílica Autopolimerizável Orto - TDV",
+    "description": "Embalagem com 80g. Pó. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-orto-tdv-dc29683-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-orto-tdv-dc29683.html"
+  },
+  {
+    "sku": "DC12207",
+    "name": "Fita Ortodôntica Para Bandar - Morelli",
+    "price": "R$17,00",
+    "description": "Embalagem em rolo com 8m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/418262.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-ortodontica-para-bandar-morelli-dc12207.html"
+  },
+  {
+    "sku": "124739",
+    "name": "Kit Promocional Bráquete Metálico Advanced MBT 022 100 Casos + 120 Tubos - Orthometric",
+    "description": "Kit com 2000 unidades. 100 casos (5x5). Com gancho nos caninos e pré-molares + 120 Tubos de cola Simples MBT 022.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-kit-braquete-de-aco-advance-mbt-0-022-100-casos-120-tubos-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-braquete-de-aco-advance-mbt-0-022-100-casos-120-tubos-orthometric-124739.html"
+  },
+  {
+    "sku": "561487",
+    "name": "Kit Bráquete de Aço Advanced Series MBT 022 - Orthometric",
+    "description": "Kit com 1000 unidades. 50 casos (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-advanced-series-mbt-022-kit-orthometric-651487-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-mbt-022-kit-orthometric.html"
+  },
+  {
+    "sku": "586909",
+    "name": "Bráquete Cerâmico Maia Light Roth 022 Kit - Eurodonto",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-maia-light-roth-022-kit-eurodonto-586909-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-maia-light-roth-022-kit-eurodonto.html"
+  },
+  {
+    "sku": "102880",
+    "name": "Kit Promocional Bráquete Metálico Advanced Roth 022 10 Casos + Arcos + Elásticos - Orthometric",
+    "description": "Kit com 200 unidades. 10 casos (5x5). Com gancho nos caninos e pré-molares + 10 Arcos Super Elastic Superior 014 + 10 Arcos Super Elastic Inferior 014 e 1 Pacote de Elástico Bengalinha Sortido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-braquete-de-aco-advanced-roth-022-kit-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-roth-022-kit-orthometric-102880.html"
+  },
+  {
+    "sku": "116855",
+    "name": "Bráquete Cerâmico Clarity™ Ultra SL com Tecnologia APC® Flash Free MBT 022 - 3M",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com ganchos em caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-autoligado-clarity-ultra-mbt022-3m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-claritytm-ultra-sl-mbt-022-3m-solventum-116855.html"
+  },
+  {
+    "sku": "190687",
+    "name": "Bráquete de Aço Vector+ Jorge Rodrigues Bidimensional 018 e 022 Kit - Aditek",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/190687.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-vector-jorge-rodrigues-bidimensional-018-e-022-kit-aditek.html"
+  },
+  {
+    "sku": "105259",
+    "name": "Kit Bráquete Metálico Advanced Roth 022 50 Casos + 200 Tubos - Orthometric",
+    "description": "Kit com 1000 unidades, sendo 50 casos (5x5). Com gancho nos caninos e pré-molares + 200 Tubos de cola Simples Roth 022.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-advanced-series-roth-022-kit-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-roth-022-kit-orthometric-5.html"
+  },
+  {
+    "sku": "868180",
+    "name": "Bráquete de Aço Autoligado EasyClip+ Roth Bidimensional Kit - Aditek",
+    "description": "Embalagem com 20 unidades de 1 caso (5x5).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-metalico-autoligado-bidimensional-roth-aditek-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-easyclip-roth-bidimensional-kit-aditek.html"
+  },
+  {
+    "sku": "121495",
+    "name": "Kit Bráquete de Aço Advanced Series + Tubos Roth 022 - Orthometric",
+    "description": "Kit com 1000 unidades, sendo 50 casos (5x5). Com gancho nos caninos e pré-molares + 200 Tubos de cola Simples Roth 022.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-aco-advanced-series-50-casos-e-tubos-roth-022-orthometric-121495.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-series-roth-022-kit-orthometric-121495.html"
+  },
+  {
+    "sku": "748093",
+    "name": "Kit Bráquete de Aço Autoligado Tellus EX Standart 022 - Eurodonto",
+    "description": "Embalagem com 20 unidades de Bráquete de Aço Autoligado Tellus EX Standart 022 de 1 caso (7x7) + 8 tubos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-braquete-metalico-tellus-ex-standart-022-eurodonto-748093-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-tellus-ex-standard-022-kit-eurodonto.html"
+  },
+  {
+    "sku": "775990",
+    "name": "Bráquete de Aço Autoligado EasyClip+ Jorge Rodrigues Bidimensional 018 e 022 Kit - Aditek",
+    "description": "Embalagem com 20 unidades de Bráquete de Aço Autoligado EasyClip+ Jorge Rodrigues 018 e 022 de 1 caso (5x5).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-braquete-aco-autoligado-bidiomensional-018-022-aditek-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-easyclip-jorge-rodrigues-bidimensional-018-e-022-kit-aditek.html"
+  },
+  {
+    "sku": "128674",
+    "name": "Kit Bráquete de Aço Advanced Roth 022 - Orthometric",
+    "description": "Kit com 200 unidades. 10 casos (5x5). Com gancho nos caninos e pré-molares + 10 Arcos Super Elastic Superior 014 + 10 Arcos Super Elastic Inferior 014 e 1 Pacote de Elástico Bengalinha Sortido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-braquete-de-aco-advanced-roth-022-kit-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promo-braquete-de-aco-adavanced-roth-022-10-casos-arcos-elasticos-orthometric-128674.html"
+  },
+  {
+    "sku": "102881",
+    "name": "Kit Promocional Bráquete Metálico Advanced MBT 022 10 Casos + Arcos + Elásticos - Orthometric",
+    "description": "Kit com 200 unidades. 10 casos (5x5). Com gancho nos caninos e pré-molares + 10 Arcos Super Elastic Superior 014 + 10 Arcos Super Elastic Inferior 014 e 1 Pacote de Elástico Bengalinha Sortido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-braquete-de-aco-advanced-mbt-022-kit-abor-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-advanced-mbt-022-kit-abor-orthometric-102881.html"
+  },
+  {
+    "sku": "187625",
+    "name": "Kit Bráquete de Aço Biomax MBT 022 - Aditek",
+    "description": "Kit com 2000 unidades. 100 casos (5x5). Com gancho nos caninos e pré-molares. Ref: 05040802.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-de-aco-biomax-mbt-022-kit-aditek-187625.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-biomax-mbt-022-kit-aditek.html"
+  },
+  {
+    "sku": "865448",
+    "name": "Bráquete Cerâmico Safira Mini MBT 018 Kit - Aditek",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares. Ref. 5160890.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/865448.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-safira-mini-mbt-018-kit-aditek.html"
+  },
+  {
+    "sku": "375039",
+    "name": "Kit Bráquete Cerâmico Iceram MBT 022 - Orthometric",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-braquete-ceramico-iceram-mbt-022-orthometric-375039.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-iceram-mbt-022-kit-orthometric.html"
+  },
+  {
+    "sku": "457087",
+    "name": "Kit Bráquete de Aço Autoligado Tellus EX MBT 022 - Eurodonto",
+    "description": "Embalagem com 20 unidades de Bráquete de Aço Autoligado Tellus EX MBT 022 de 1 caso (7x7) + 8 tubos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-kit-bracket-tellus-ex-mbt-022-eurodonto-457087-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-tellus-ex-mbt-022-kit-eurodonto.html"
+  },
+  {
+    "sku": "587074",
+    "name": "Bráquete Cerâmico Maia Light MBT 022 Kit - Eurodonto",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-maia-light-mbt-022-kit-eurodonto-587074-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-maia-light-mbt-022-kit-eurodonto.html"
+  },
+  {
+    "sku": "133043",
+    "name": "Kit Promocional Bráquete Metálico Advanced MBT 022 1 Caso + Arcos + Tubos - Orthometric",
+    "description": "Kit com 20 unidades. 1 caso (5x5) + 2 Arcos Niti Superelástico 0,014 Sup/Inf + 4 Tubos de Colagem Simples MBT 022. Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-kit-braquete-de-aco-advanced-mbt-022-1-caso-arcos-tubos-orthometric.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-braquete-de-aco-advanced-mbt-022-1-caso-arcos-tubos-orthometric-133043.html"
+  },
+  {
+    "sku": "965070",
+    "name": "Kit Bráquete de Aço Autoligado EasyClip+ Jorge Rodrigues 022 - Aditek",
+    "description": "Embalagem com 80 unidades de Bráquete de Aço Autoligado EasyClip+ Jorge Rodrigues 022 de 4 casos (5x5) + Sequência de Arcos + 1 Gancho bola + 1 Stop + 1 Pinça + 1 Explorador.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-autoligado-jorge-rodrigues-022-aditek-965070.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-autoligado-easyclip-jorge-rodrigues-022-kit-aditek.html"
+  },
+  {
+    "sku": "191820",
+    "name": "Bráquete de Aço Vector+ MBT 022 Kit - Aditek",
+    "description": "Embalagem com 2000 unidades. 100 casos (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/191820.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-vector-mbt-022-kit-aditek.html"
+  },
+  {
+    "sku": "862539",
+    "name": "Bráquete de Aço Vector Andrews 022 Kit - Aditek",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares. Ref. 5100290.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/862539.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-vector-andrews-022-kit-aditek.html"
+  },
+  {
+    "sku": "619942",
+    "name": "Kit Bráquete Cerâmico Translux MBT 022” x .028” - Aditek",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/619942_635709343533072426.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-translux-mbt-022-kit-aditek.html"
+  },
+  {
+    "sku": "190670",
+    "name": "Bráquete de Aço Vector+ Jorge Rodrigues Bidimensional 018 e 022 Kit - Aditek",
+    "description": "Embalagem com 1000 unidades. 50 casos (5x5). Com gancho nos caninos e pré-molares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/190670.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-vector-jorge-rodrigues-bidimensional-018-e-022-kit-aditek-2.html"
+  },
+  {
+    "sku": "743524",
+    "name": "Bráquete de Aço Edgewise Slim Max 018 Kit - Morelli",
+    "description": "Kit com 200 unidades. 10 casos (5x5). Sem gancho. Ref. 1065934.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/743524.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-edgewise-slim-max-018-kit-morelli-1.html"
+  },
+  {
+    "sku": "861723",
+    "name": "Bráquete de Aço Vector Roth 018 Vertical Kit - Aditek",
+    "description": "Embalagem com 20 unidades. 1 caso (5x5). Com gancho nos caninos e pré-molares. Ref. 5090490.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/861723.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-vector-roth-018-vertical-kit-aditek.html"
+  },
+  {
+    "sku": "DC11828",
+    "name": "Bráquete Cerâmico Iceram MBT 022 - Orthometric",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/braquete-ceramico-iceram-mbt-022-orthometric-dc11828.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-iceram-mbt-022-orthometric-dc11828.html"
+  },
+  {
+    "sku": "DC30775",
+    "name": "Bráquete Cerâmico Iceram Roth Slot Metálico 022 - Orthometric",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC19713.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-iceram-roth-slot-metalico-022-orthometric-dc30775.html"
+  },
+  {
+    "sku": "DC12056",
+    "name": "Bráquete de Aço Roth 022 - Eurodonto",
+    "description": "Embalagem com 10 unidades. Sem gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/458114.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-roth-022-eurodonto-dc12056.html"
+  },
+  {
+    "sku": "DC24303",
+    "name": "Bráquete Cerâmico Safira Mini Roth 022 - Aditek",
+    "description": "Embalagem com 1 unidade. Com gancho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/790405_636082465207187342.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-ceramico-safira-mini-roth-022-aditek-dc24303.html"
+  },
+  {
+    "sku": "DC12064",
+    "name": "Bráquete de Aço RX Roth 022 - Eurodonto",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc12064.jpg",
+    "url": "https://www.dentalcremer.com.br/braquete-de-aco-rx-roth-022-eurodonto-dc12064.html"
+  }
+]

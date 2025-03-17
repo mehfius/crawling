@@ -1,0 +1,769 @@
+[
+  {
+    "sku": "DC38722",
+    "name": "Calcador Elegance - Ice",
+    "price": "R$74,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/calcador-elegance-n3051-ice-145974.jpg",
+    "url": "https://www.dentalcremer.com.br/calcador-elegance-ice-dc38722.html"
+  },
+  {
+    "sku": "148907",
+    "name": "Lima para Osso Schuluger Nº9/10 - Ice",
+    "price": "R$84,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-para-osso-schuluger-n9-10-ice-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-para-osso-schuluger-n-9-10-ice-148907.html"
+  },
+  {
+    "sku": "477504",
+    "name": "Sindesmótomo - Quinelato",
+    "price": "R$50,00",
+    "description": "Embalagem com 1 unidade. Nº 1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sindesmotomo-numero-1-quinelato-477504.jpg",
+    "url": "https://www.dentalcremer.com.br/sindesmotomo-quinelato-477504.html"
+  },
+  {
+    "sku": "506952",
+    "name": "Abridor de Boca Molt Infantil - Golgran",
+    "price": "R$314,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/506952.jpg",
+    "url": "https://www.dentalcremer.com.br/abridor-de-boca-molt-infantil-golgran-506952.html"
+  },
+  {
+    "sku": "746105",
+    "name": "Forceps Universal N° 101 Millennium - Golgran",
+    "price": "R$134,90",
+    "description": "Embalagem com 1 unidade. Ref: 10-13.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-odontologico-n-101-universal-millennium-millennium-dc-746105-04.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-universal-n-101-millennium-golgran-746105.html"
+  },
+  {
+    "sku": "540536",
+    "name": "Seringa Carpule com Aspiração Carga Lateral - Golgran",
+    "price": "R$103,90",
+    "description": "Embalagem com 1 unidade. Ref: 146-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/540536.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-carpule-lateral-com-aspirac-o-com-argola-golgran-540536.html"
+  },
+  {
+    "sku": "DC15024",
+    "name": "Cinzel Ochsenbein - Hu-Friedy",
+    "price": "R$498,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/543100.jpg",
+    "url": "https://www.dentalcremer.com.br/cinzel-ochsenbein-hu-friedy-dc15024.html"
+  },
+  {
+    "sku": "DC25606",
+    "name": "Grampo Invisível Para Isolamento - Indusbello",
+    "price": "R$44,90",
+    "description": "Embalagem com 5 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/grampo-invisivel-para-isolamento-indusbello-dc25606-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-invisivel-para-isolamento-indusbello-dc25606.html"
+  },
+  {
+    "sku": "771282",
+    "name": "Cortante de Black Duplo Machado 14-15 - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cortante-de-black-duplo-machado-14-15-fava-771282-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-machado-14-15-fava-771282.html"
+  },
+  {
+    "sku": "745559",
+    "name": "Descolador Rugina Millennium - Golgran",
+    "price": "R$88,90",
+    "description": "Embalagem com 1 unidade. Ref: 35-12.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/745559.jpg",
+    "url": "https://www.dentalcremer.com.br/descolador-rugina-millennium-golgran-745559.html"
+  },
+  {
+    "sku": "119209",
+    "name": "Cabo para Bisturi Redondo nº 3L - Quinelato",
+    "price": "R$69,90",
+    "description": "Embalagem com 1 unidade. 13cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-para-bisturi-redondo-3-quinelato-dental-cremer-119209.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-bisturi-redondo-quinelato-119209.html"
+  },
+  {
+    "sku": "476668",
+    "name": "Afastador Minnesota - Quinelato",
+    "price": "R$54,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/476668.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-minnesota-quinelato-476668.html"
+  },
+  {
+    "sku": "477214",
+    "name": "Foice Raspador Ponta Morse 0-00 - Quinelato",
+    "price": "R$80,00",
+    "description": "Embalagem com 1 unidade modelo 0/00.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/foice-raspador-ponta-morse-0-00-dental-cremer-477214-01.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-raspador-ponta-morse-0-00-quinelato-477214.html"
+  },
+  {
+    "sku": "746273",
+    "name": "Lima para Osso Dunlop N° 2-5 F Millennium - Golgran",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade. Ref: 113-6.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746273.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-para-osso-dunlop-n-2-5-f-millennium-golgran-746273.html"
+  },
+  {
+    "sku": "841541",
+    "name": "Afastador Minessota - Ice",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-minessota-ic-e-841541-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-minessota-ice-841541.html"
+  },
+  {
+    "sku": "477238",
+    "name": "Gengivótomo Orban - Quinelato",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gengivotomo-orban-dental-cremer-477238-01.jpg",
+    "url": "https://www.dentalcremer.com.br/gengivotomo-orban-quinelato-477238.html"
+  },
+  {
+    "sku": "772104",
+    "name": "Foice Goldman Fox 1 - Fava",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/772104_636150581164992346.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-goldman-fox-1-fava-772104.html"
+  },
+  {
+    "sku": "DC25839",
+    "name": "Grampo Para Isolamento Titânio Preto - SS White",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc25839.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-titanio-preto-ss-white-dc25839.html"
+  },
+  {
+    "sku": "126840",
+    "name": "Fórceps Adulto Nº 68 - Ice",
+    "price": "R$99,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-adulto-n-68-ice-126840-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-adulto-n-68-ice-126840.html"
+  },
+  {
+    "sku": "142900",
+    "name": "Fórceps Adulto Nº 44 - Millennium",
+    "price": "R$134,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-adulto-n-44-millennium-dental-cremer-142900.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-adulto-n-44-millennium-142900.html"
+  },
+  {
+    "sku": "344677",
+    "name": "Aplicador Dycal Reto Oitavado - Golgran",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Ref: 57-7.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aplicador-dycal-reto-oitavado-dental-cremer-344677-01.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-dycal-reto-oitavado-golgran-344677.html"
+  },
+  {
+    "sku": "746631",
+    "name": "Porta Algodão Limpo com Mola - Golgran",
+    "price": "R$81,90",
+    "description": "Embalagem com 1 unidade. Ref: 93-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746631.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-algod-o-limpo-com-mola-golgran.html"
+  },
+  {
+    "sku": "386059",
+    "name": "Escavador de Dentina Duflex - SS White",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escavador-n-11-e-12-dental-cremer-386059-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escavador-de-dentina-duflex-ss-white-386059.html"
+  },
+  {
+    "sku": "615128",
+    "name": "Pedra para Afiar Arkansas - Hu-Friedy",
+    "price": "R$383,90",
+    "description": "Embalagem com 1 unidade. 10 x 2,5 x 6 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/615128_635749732571492088.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-para-afiar-arkansas-hu-friedy-615128.html"
+  },
+  {
+    "sku": "DC25846",
+    "name": "Grampo Para Isolamento Titânio Ouro - SS White",
+    "price": "R$73,90",
+    "description": "Embalagem com 1 unidade. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc25846.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-titanio-ouro-ss-white-dc25846.html"
+  },
+  {
+    "sku": "323887",
+    "name": "Brunidor nº29 Oitavado Simples Condensador - Golgran",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Ref: 60-8.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/323887.jpg",
+    "url": "https://www.dentalcremer.com.br/brunidor-n-29-oitavado-simples-condensador-golgran-323887.html"
+  },
+  {
+    "sku": "228540",
+    "name": "Seringa Carpule com Refluxo Articulada Duflex - SS White",
+    "price": "R$67,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-carpule-com-refluxo-duflex-ss-white-228540.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-carpule-com-refluxo-duflex-ss-white-228540.html"
+  },
+  {
+    "sku": "148938",
+    "name": "Fórceps Superior Adulto - Ice",
+    "price": "R$348,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-superior-adulto-ice-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-superior-adulto-ice-148938.html"
+  },
+  {
+    "sku": "149117",
+    "name": "Forceps Adulto Nº18 - Fava",
+    "price": "R$120,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-adulto-n18-fava-dsdc.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-adulto-n-18-fava-149117.html"
+  },
+  {
+    "sku": "148905",
+    "name": "Fórceps Inferior Adulto Nº1 - Ice",
+    "price": "R$348,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-inferior-adulto-n1-ice-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-inferior-adulto-n-1-ice-148905.html"
+  },
+  {
+    "sku": "DC38992",
+    "name": "Fórceps Inferior Adulto - Ice",
+    "price": "R$348,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-infeior-adulto-1unid--ice-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-inferior-adulto-ice-dc38992.html"
+  },
+  {
+    "sku": "126856",
+    "name": "Grampo para Isolamento Nº 207 - Ice",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/grampo-para-isolamento-n-207-ice-126856-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-n-207-ice-126856.html"
+  },
+  {
+    "sku": "126888",
+    "name": "Lima para Osso Schuluger Elegance Nº 9/10 - Ice",
+    "price": "R$81,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-para-osso-schuluger-elegance-n-9-10-ice-126888-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-para-osso-schuluger-elegance-n-9-10-ice-126888.html"
+  },
+  {
+    "sku": "506891",
+    "name": "Afastador Farabeuf Modificado Adulto - Golgran",
+    "price": "R$56,90",
+    "description": "Embalagem com 1 par.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/506891.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-farabeuf-modificado-adulto-golgran-506891.html"
+  },
+  {
+    "sku": "746730",
+    "name": "Seringa Carpule com Refluxo Preta Millennium - Golgran",
+    "price": "R$106,90",
+    "description": "Embalagem com 1 unidade. Ref: 146-11.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-carpule-crefluxo-black-preta-millen-golgran-dental-cremer-746730-01.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-carpule-com-refluxo-preta-millennium-golgran-746730.html"
+  },
+  {
+    "sku": "DC26961",
+    "name": "Escavador 8mm - SS White",
+    "price": "R$71,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/113719.jpg",
+    "url": "https://www.dentalcremer.com.br/escavador-8mm-ss-white-dc26961.html"
+  },
+  {
+    "sku": "DC24132",
+    "name": "Cortante de Black Duplo Enxada Millennium - Golgran",
+    "price": "R$60,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc24132.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-enxada-millennium-golgran-dc24132.html"
+  },
+  {
+    "sku": "772739",
+    "name": "Afastador Minnesota - Fava",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-minnesota-fava-dc-772739-01.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-minnesota-fava-772739.html"
+  },
+  {
+    "sku": "324464",
+    "name": "Aplicador Dycal Angulado - Golgran",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Ref: 57-6.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aplicador-dycal-angulado-oitavado-golgran-dc-324464-01.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-dycal-angulado-golgran-324464.html"
+  },
+  {
+    "sku": "744811",
+    "name": "Afastador Minessota com Sugador - Golgran",
+    "price": "R$161,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-minessota-com-sugador-dental-cremer-744811-01.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-minessota-com-sugador-golgran-744811.html"
+  },
+  {
+    "sku": "773224",
+    "name": "Seringa Endodôntica Para Calen - Fava",
+    "price": "R$115,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/773224_636095367993315431.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-endodontica-para-calen-fava-773224.html"
+  },
+  {
+    "sku": "DC26806",
+    "name": "Grampo Para Isolamento Black Diamond - Ice",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc26806.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-blacl-diamond-ice-dc26806.html"
+  },
+  {
+    "sku": "DC30075",
+    "name": "Condensador Duplo - Odous de Deus",
+    "price": "R$96,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/instrumento-lucas-numero-1-odous-de-deus-126114.jpg",
+    "url": "https://www.dentalcremer.com.br/condensador-duplo-odous-de-deus-dc30075.html"
+  },
+  {
+    "sku": "104097",
+    "name": "Aplicador de Hidróxido de Cálcio Dycal Colors - Ice",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade. (Cor Rosa).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104097_2.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-de-hidroxido-de-calcio-dycal-colors-ice-104097.html"
+  },
+  {
+    "sku": "105155",
+    "name": "Periótomo Duplo Colors Cinza - Ice",
+    "price": "R$69,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105155.jpg",
+    "url": "https://www.dentalcremer.com.br/periotomo-duplo-colors-cinza-ice-105155.html"
+  },
+  {
+    "sku": "DC38604",
+    "name": "Grampo para Isolamento com Asa Fiesta - Coltene",
+    "price": "R$106,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/grampo-para-isolamento-com-asa-fiesta-coltene-dc38604.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-com-asa-fiesta-coltene-dc38604.html"
+  },
+  {
+    "sku": "DC24328",
+    "name": "Lima Para Osso - Fava",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771954_636095442040056581.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-para-osso-fava-dc24328.html"
+  },
+  {
+    "sku": "DC25414",
+    "name": "Prendedor de Babador Jacaré Slim Infantil - Indusbello",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/202656.jpg",
+    "url": "https://www.dentalcremer.com.br/prendedor-de-babador-jacare-slim-indusbello-dc25414.html"
+  },
+  {
+    "sku": "508802",
+    "name": "Cortante de Black Duplo Machado Millennium - Golgran",
+    "price": "R$60,90",
+    "description": "Embalagem com 1 unidade. 14-15 CG. Ref: 67-42.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cortante-de-black-duplo-14-15-dental-cremer-508802-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-machado-millennium-golgran-508802.html"
+  },
+  {
+    "sku": "131898",
+    "name": "Dobrador de Amarrilho Metálico Sputnik - Zatty",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dobrador-de-amarrilho-metalico-sputnik-zatty-131898-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dobrador-de-amarrilho-metalico-sputnik-zatty-131898.html"
+  },
+  {
+    "sku": "119829",
+    "name": "Cuba em Inox Rim Econox - Fami",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cuba-em-inox-rim-econox-fami-119829-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cuba-em-inox-rim-econox-fami-119829.html"
+  },
+  {
+    "sku": "549195",
+    "name": "Lima Tipo Faca Millennium - Golgran",
+    "price": "R$106,90",
+    "description": "Embalagem com 1 unidade. Ref: 124-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/549195.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-tipo-faca-millennium-golgran-549195.html"
+  },
+  {
+    "sku": "559248",
+    "name": "Placa de Vidro Polida - Prisma",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade de 5mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559248_635463942459790529.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-vidro-polida-prisma-559248.html"
+  },
+  {
+    "sku": "746747",
+    "name": "Seringa Carpule Sem Refluxo - Golgran",
+    "price": "R$76,90",
+    "description": "Embalagem com 1 unidade. Ref: 146-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/746747.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-carpule-sem-refluxo-golgran-746747.html"
+  },
+  {
+    "sku": "612448",
+    "name": "Lima para Osso N° 9-10 Schluger - Hu-Friedy",
+    "price": "R$464,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-schluger-hu-friedy-dc-612448-01.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-para-osso-n-9-10-schluger-hu-friedy-612448.html"
+  },
+  {
+    "sku": "DC15032",
+    "name": "Escavador - Hu-Friedy",
+    "price": "R$305,90",
+    "description": "Embalagem com 1 unidade",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escavador-colher-dentina-17-exc17-hu-friedy-543230.jpg",
+    "url": "https://www.dentalcremer.com.br/escavador-hu-friedy-dc15032.html"
+  },
+  {
+    "sku": "693188",
+    "name": "Estojo Acrílico Porta Alicate Deitado Com Maleta - Ortoguaru",
+    "price": "R$153,80",
+    "description": "Unidade. Para 15 alicates.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-acrilico-porta-15-alicates-com-maleta-693188.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-acrilico-porta-alicate-deitado-com-maleta-ortoguaru-693188.html"
+  },
+  {
+    "sku": "559255",
+    "name": "Placa de Vidro Polida - Prisma",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade de 10mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559255_635463942033740874.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-vidro-polida-prisma-559255.html"
+  },
+  {
+    "sku": "532524",
+    "name": "Marcador de Instrumento Sextavado - Maquira",
+    "price": "R$30,90",
+    "description": "Embalagem com 120 unidades. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/532524.jpg",
+    "url": "https://www.dentalcremer.com.br/marcador-de-instrumento-sextavado-maquira-532524.html"
+  },
+  {
+    "sku": "963342",
+    "name": "Espelho Toucador com Cabo Kids Boca - Agir",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/963342.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-toucador-com-cabo-kids-boca-agir.html"
+  },
+  {
+    "sku": "131896",
+    "name": "Colocador Metálico para Elástico Simples - Zatty",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/colocador-metalico-para-elastico-simples-zatty-131896-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/colocador-metalico-para-elastico-simples-zatty-131896.html"
+  },
+  {
+    "sku": "131992",
+    "name": "Brunidor Calcador Bola 1,5-2,5mm - LM",
+    "price": "R$199,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/brunidor-calcador-bola-lm-131992.jpg",
+    "url": "https://www.dentalcremer.com.br/brunidor-calcador-bola-1-5-2-5mm-lm-131992.html"
+  },
+  {
+    "sku": "770018",
+    "name": "Cuba Inox Redonda Milleniun - Fava",
+    "price": "R$53,90",
+    "description": "Unidade. Capacidade 530ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770018_636090254175360997.jpg",
+    "url": "https://www.dentalcremer.com.br/cuba-inox-redonda-milleniun-fava-770018.html"
+  },
+  {
+    "sku": "802641",
+    "name": "Periótomo Reto Flexível - Quinelato",
+    "price": "R$199,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/periotomo-reto-flexivel-dental-cremer-802641-01.jpg",
+    "url": "https://www.dentalcremer.com.br/periotomo-reto-flexivel-quinelato-802641.html"
+  },
+  {
+    "sku": "111252",
+    "name": "Periótomo Duplo Black Diamond - Ice",
+    "price": "R$69,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111252.jpg",
+    "url": "https://www.dentalcremer.com.br/periotomo-duplo-black-diamond-ice-111252.html"
+  },
+  {
+    "sku": "105087",
+    "name": "Cureta Ponta Morse 0-00 Colors Cinza - Ice",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105087.jpg",
+    "url": "https://www.dentalcremer.com.br/cureta-ponta-morse-0-00-colors-cinza-ice105087.html"
+  },
+  {
+    "sku": "DC11479",
+    "name": "Cortante de Black Duplo Recortador de Margem Gengival - Quinelato",
+    "price": "R$40,00",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/477900.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-recortador-de-margem-gengival-quinelato-dc11479.html"
+  },
+  {
+    "sku": "386189",
+    "name": "Cortante de Black Duplo Enxada 8-9 Duflex - SS White",
+    "price": "R$82,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/386189_636014319325423444.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-enxada-8-9-duflex-ss-white-386189.html"
+  },
+  {
+    "sku": "477726",
+    "name": "Periótomo Simples - Quinelato",
+    "price": "R$80,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/periotomo-reto-dental-cremer-477726-01.jpg",
+    "url": "https://www.dentalcremer.com.br/periotomo-simples-quinelato-477726.html"
+  },
+  {
+    "sku": "773231",
+    "name": "Seringa Carpule Com Aspiração Carga Lateral - Fava",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-carpule-caspiracao-ccarga-lateral-fava-dc-773231-01.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-carpule-com-aspirac-o-carga-lateral-fava-773231.html"
+  },
+  {
+    "sku": "115538",
+    "name": "Gotejador P.K.T. n°5 - Kota",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115538.jpg",
+    "url": "https://www.dentalcremer.com.br/gotejador-p-k-t-n-5-kota-115538.html"
+  },
+  {
+    "sku": "DC25107",
+    "name": "Brunidor Simples - Fava",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771022_636153414080105874.jpg",
+    "url": "https://www.dentalcremer.com.br/brunidor-simples-fava-dc25107.html"
+  },
+  {
+    "sku": "766882",
+    "name": "Condensador Condensa LM Arte - Quinelato",
+    "price": "R$329,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condensador-condensa-lm-arte-quinelato-766882-dentalcremer.jpg",
+    "url": "https://www.dentalcremer.com.br/condensador-condensa-lm-arte-quinelato-766882.html"
+  },
+  {
+    "sku": "477221",
+    "name": "Gengivótomo Kirkland 15/16 - Quinelato",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gengivotomo-kirkland-1516-dental-cremer-477221-01.jpg",
+    "url": "https://www.dentalcremer.com.br/gengivotomo-kirkland-15-16-quinelato-477221.html"
+  },
+  {
+    "sku": "118044",
+    "name": "Faca para Gesso Cabo de Plástico - Golgran",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/faca-para-gesso-cabo-de-plastico-golgran-dc-118044-01.jpg",
+    "url": "https://www.dentalcremer.com.br/faca-para-gesso-cabo-de-plastico-golgran-118044.html"
+  },
+  {
+    "sku": "506907",
+    "name": "Afastador Mead - Golgran",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-mead-golgran-506907.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-mead-golgran-506907.html"
+  },
+  {
+    "sku": "DC29299",
+    "name": "Espelho de Mão Dente - Agir",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-de-mao-dente-agir-118999-azul.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-de-m-o-dente-agir-dc29299.html"
+  },
+  {
+    "sku": "841688",
+    "name": "Periótomo Reto Quality Line - Ice",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/periotomo-reto-quality-line-ice-dental-cremer-841688-01.jpg",
+    "url": "https://www.dentalcremer.com.br/periotomo-reto-quality-line-ice-841688.html"
+  },
+  {
+    "sku": "541694",
+    "name": "Aplicador Riva - SDI",
+    "price": "R$400,90",
+    "description": "Embalagem com 1 unidade. Nº 1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/541694.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-riva-sdi-541694.html"
+  },
+  {
+    "sku": "629712",
+    "name": "Pedra para Afiar - Norton",
+    "price": "R$312,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629712_635961620434096810.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-para-afiar-norton-629712.html"
+  },
+  {
+    "sku": "148995",
+    "name": "Concha para Cera Inox - Lysanda",
+    "price": "R$94,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/concha-para-cera-inox-lysanda-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/concha-para-cera-inox-lysanda-148995.html"
+  },
+  {
+    "sku": "131904",
+    "name": "Colocador de Elástico Simples Azul - Zatty",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/colocador-de-elastico-simples-azul-zatty-131904-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/colocador-de-elastico-simples-azul-zatty-131904.html"
+  },
+  {
+    "sku": "771053",
+    "name": "Brunidor Z Duplo - Fava",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. (N° 3)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771053_636090141712384347.jpg",
+    "url": "https://www.dentalcremer.com.br/n-3-cod-771053-771053.html"
+  },
+  {
+    "sku": "744798",
+    "name": "Afastador Columbia - Golgran",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-columbia-dental-cremer-744798-01.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-columbia-golgran-744798.html"
+  },
+  {
+    "sku": "DC30076",
+    "name": "Condensador - Odous de Deus",
+    "price": "R$96,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condensador-1-020-odous-de-deus-126122.jpg",
+    "url": "https://www.dentalcremer.com.br/condensador-odous-de-deus-dc30076.html"
+  },
+  {
+    "sku": "563269",
+    "name": "Afastador Minnesota - Indusbello",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/563269_635482073724248416.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-minnesota-indusbello-563269.html"
+  },
+  {
+    "sku": "694598",
+    "name": "Foice Raspador Ponta Morse 0-00 - Fava",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. N° 0-00.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/694598.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-raspador-ponta-morse-0-00-fava-694598.html"
+  },
+  {
+    "sku": "395266",
+    "name": "Prendedor de Babador Jacaré Corrente - Maquira",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-prendedor-de-babador-jacare-corrente-maquira-395266.jpg",
+    "url": "https://www.dentalcremer.com.br/prendedor-de-babador-jacare-corrente-maquira-395266.html"
+  },
+  {
+    "sku": "DC24136",
+    "name": "Cortante de Black Duplo Machado Duflex - SS White",
+    "price": "R$82,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/386066_636014321756433776.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-machado-duflex-ss-white-dc24136.html"
+  },
+  {
+    "sku": "344097",
+    "name": "Gengivótomo Orban 1-2 Millennium - Golgran",
+    "price": "R$73,90",
+    "description": "Embalagem com 1 unidade. Ref: 90-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gengivotomo-orban-1-2-dental-cremer-344097-01.jpg",
+    "url": "https://www.dentalcremer.com.br/gengivotomo-orban-1-2-millennium-golgran-344097.html"
+  },
+  {
+    "sku": "143367",
+    "name": "Pedra de Afiar Pério Stone Goiva Pro Laranja - Iodontosul",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pedra-de-afiar-perio-stone-goiva-pro-laranja-iodontosul-dental-cremer-143367.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-de-afiar-perio-stone-goiva-pro-laranja-iodontosul-143367.html"
+  },
+  {
+    "sku": "143290",
+    "name": "Placa de Vidro 6mm Polida - Iodontosul",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-de-vidro-6mm-polida-143290.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-vidro-6mm-polida-iodontosul-143290.html"
+  },
+  {
+    "sku": "549324",
+    "name": "Afastador Hohmann - Golgran",
+    "price": "R$95,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/549324.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-hohmann-golgran-549324.html"
+  },
+  {
+    "sku": "149387",
+    "name": "Afastador de Tecido Gengival - Ice",
+    "price": "R$230,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-de-tecido-gengival-ice-149387.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-de-tecido-gengival-ice-149387.html"
+  },
+  {
+    "sku": "771275",
+    "name": "Cortante de Black Duplo 12-13 - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771275_636095470701836035.jpg",
+    "url": "https://www.dentalcremer.com.br/cortante-de-black-duplo-12-13-fava-771275.html"
+  },
+  {
+    "sku": "559262",
+    "name": "Placa de Vidro Polida - Prisma",
+    "price": "R$61,90",
+    "description": "Embalagem com 1 unidade de 15mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559262_635463941769312399.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-vidro-polida-prisma-559262.html"
+  }
+]

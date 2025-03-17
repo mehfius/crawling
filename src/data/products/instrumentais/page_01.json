@@ -1,0 +1,770 @@
+[
+  {
+    "sku": "DC11542",
+    "name": "Grampo Para Isolamento Duflex - SS White",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/386004.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-duflex-ss-white-dc11542.html"
+  },
+  {
+    "sku": "DC11543",
+    "name": "Grampo Para Isolamento - Golgran",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/324204.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-golgran-dc11543.html"
+  },
+  {
+    "sku": "DC11618",
+    "name": "Sonda Exploradora Oitavada - Golgran",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/324402_2.jpg",
+    "url": "https://www.dentalcremer.com.br/sonda-exploradora-oitavada-golgran-dc11618.html"
+  },
+  {
+    "sku": "DC25103",
+    "name": "Espátula para Resina N° 1 Colors - Ice",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-n-1-colors-ice-104943-02.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-n-1-colors-ice-dc25103.html"
+  },
+  {
+    "sku": "324518",
+    "name": "Kit Clínico 4 Peças - Golgran",
+    "price": "R$68,90",
+    "description": "Embalagem com 1 pinça clínica, 1 sonda exploradora nº 5 oitavada, 1 escavador nº 17 e 1 cabo com espelho nº 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clinico-golgran-324518.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clinico-golgran-324518.html"
+  },
+  {
+    "sku": "DC11628",
+    "name": "Tesoura Íris - Golgran",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade de 11,5cm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/324457.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-iris-golgran-dc11628.html"
+  },
+  {
+    "sku": "341409",
+    "name": "Bandeja de Inox Média Duflex - SS White",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/341409.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-de-inox-media-duflex-ss-white-341409.html"
+  },
+  {
+    "sku": "DC25253",
+    "name": "Espelho Bucal com cabo Plano N º 5 - Golgran",
+    "price": "R$14,90",
+    "description": "Unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-bucal-com-cabo-plano-5-golgran-dc25253.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-bucal-com-cabo-plano-5-golgran-dc25253.html"
+  },
+  {
+    "sku": "DC24320",
+    "name": "Escavador de Dentina Duplo - Fava",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771503_636095453912900795.jpg",
+    "url": "https://www.dentalcremer.com.br/escavador-de-dentina-duplo-fava-dc24320.html"
+  },
+  {
+    "sku": "771831",
+    "name": "Espátula para Cera N° 7 - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-cera-n-7-fava-771831-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-cera-n-7-fava-771831.html"
+  },
+  {
+    "sku": "DC24109",
+    "name": "Espátula de Inserção de Fio Retrator Oitavado - Golgran",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-de-insercao-de-fio-retrator-oitavado-golgran-dc24109.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-inserc-o-de-fio-retrator-oitavado-golgran-dc24109.html"
+  },
+  {
+    "sku": "DC11490",
+    "name": "Cureta Perio Mc Call Millennium - Golgran",
+    "price": "R$72,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/323962.jpg",
+    "url": "https://www.dentalcremer.com.br/cureta-perio-mc-call-millennium-golgran-dc11490.html"
+  },
+  {
+    "sku": "323894",
+    "name": "Cabo Para Bisturi - Golgran",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade. N° 3. Ref: 41-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-pbisturi-3-golgran-323894-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-bisturi-golgran-323894.html"
+  },
+  {
+    "sku": "DC13171",
+    "name": "Espátula Tipo Suprafil Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-odontologica-tipo-suprafil-millennium-golgran-dc13171.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-tipo-suprafil-millennium-golgran-dc13171.html"
+  },
+  {
+    "sku": "DC24324",
+    "name": "Espátula Simples Para Cimento - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-simples-para-cimento-fava-dc24324.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-simples-para-cimento-fava-dc24324.html"
+  },
+  {
+    "sku": "100507",
+    "name": "Espátula Para Silicato N° 1 - Ice",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-silicato-numero-1-ice-dental-cremer-100507.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-silicato-n-1-ice-100507.html"
+  },
+  {
+    "sku": "DC25497",
+    "name": "Sonda Exploradora - Ice",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100515.jpg",
+    "url": "https://www.dentalcremer.com.br/sonda-exploradora-ice-dc25497.html"
+  },
+  {
+    "sku": "508499",
+    "name": "Sonda Milimetrada OMS + Carolina do Norte Millennium - Golgran",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Ref: 143-15.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sonda-oms-north-carolina-milimetrada-millennium-millennium-dc-508499-01.jpg",
+    "url": "https://www.dentalcremer.com.br/sonda-milimetrada-oms-carolina-do-norte-millennium-golgran-508499.html"
+  },
+  {
+    "sku": "107750",
+    "name": "Pinça Clínica Para Algodão - Fava",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pinca-clinica-para-algodao-fava-107750-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-clinica-para-algod-o-fava-107750.html"
+  },
+  {
+    "sku": "DC13446",
+    "name": "Escavador de Dentina Duplo Oitavado - Golgran",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/colher-dentina-golgran-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escavador-de-dentina-duplo-oitavado-golgran-dc13446.html"
+  },
+  {
+    "sku": "DC11506",
+    "name": "Esculpidor Hollemback Oitavado - Golgran",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/344639.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-hollemback-oitavado-golgran-dc11506.html"
+  },
+  {
+    "sku": "DC17172",
+    "name": "Espátula de Resina Titânio - Indusbello",
+    "price": "R$103,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-de-resina-titanio-indusbello-563665-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-resina-titanio-indusbello-dc17172.html"
+  },
+  {
+    "sku": "324051",
+    "name": "Espátula Simples Nº 24 - Golgran",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade. Ref: 95-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-simples-n-24-golgran-324051-1.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-simples-n-24-golgran-324051.html"
+  },
+  {
+    "sku": "DC30685",
+    "name": "Espátula Plástica para Gesso e Alginato - Maquira",
+    "price": "R$6,19",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-plastica-para-manipulac-o-maquira-384871-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-plastica-para-gesso-e-alginato-maquira-dc30685.html"
+  },
+  {
+    "sku": "DC24111",
+    "name": "Espátula Dupla Para Cera - Golgran",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-para-cera-golgran-dc24111.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-dupla-para-cera-golgran-dc24111.html"
+  },
+  {
+    "sku": "DC25416",
+    "name": "Bandeja Autoclavável - Fava",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-autoclavavel-fava-dc25416-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-autoclavavel-fava-dc25416.html"
+  },
+  {
+    "sku": "DC38935",
+    "name": "Espátula para Resina - Indusbello",
+    "price": "R$143,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-indusbello-dc38935.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-indusbello-dc38935.html"
+  },
+  {
+    "sku": "DC38243",
+    "name": "Espátula Plástica Cigana para Alginato - Nova Ogp",
+    "price": "R$1,79",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-plastica-cigana-para-alginato-nova-ogp-dental-cremer-dc38243.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-plastica-cigana-para-alginato-nova-ogp-dc38243.html"
+  },
+  {
+    "sku": "DC21959",
+    "name": "Espátula Almore - Kota",
+    "price": "R$84,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-almore-kota-dc21959.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-almore-kota-dc21959.html"
+  },
+  {
+    "sku": "DC16416",
+    "name": "Cureta Perio Gracey Millennium - Golgran",
+    "price": "R$72,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/507508.jpg",
+    "url": "https://www.dentalcremer.com.br/cureta-perio-gracey-millennium-golgran-dc16416.html"
+  },
+  {
+    "sku": "324037",
+    "name": "Espátula Silicato Nº 1 - Golgran",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade. Ref: 96-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-silicato-6335-n1-dental-cremer-324037-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-silicato-n-1-golgran-324037.html"
+  },
+  {
+    "sku": "344202",
+    "name": "Alicate Ortodôntico Angle Bending 139 - Golgran",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-15.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/344202.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-angle-bending-139-golgran-344202.html"
+  },
+  {
+    "sku": "771824",
+    "name": "Espátula Para Resina com Calcador N° 2 - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-com-calcador-n-2-fava-771824-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-com-calcador-n-2-fava-771824.html"
+  },
+  {
+    "sku": "DC13161",
+    "name": "Kit Alavanca Seldin Millennium – Golgran",
+    "price": "R$125,90",
+    "description": "Kit com 3 unidades, sendo: 1 alavanca curva esquerda, 1 alavanca curva direita e 1 alavanca reta. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-alavanca-seldin-millennium-3-unid-golgran-dc13161.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-alavanca-seldin-millennium-infantil-3-unid-golgran-dc13161.html"
+  },
+  {
+    "sku": "395181",
+    "name": "Pinça Porta Grampo Palmer - Golgran",
+    "price": "R$99,90",
+    "description": "Embalagem com 1 unidade. Ref: 153-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pinca-porta-grampo-palmer-golgran-395181.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-porta-grampo-palmer-golgran-395181.html"
+  },
+  {
+    "sku": "344301",
+    "name": "Alicate Perfurador Ainsworth - Golgran",
+    "price": "R$131,90",
+    "description": "Embalagem com 1 unidade. Ref: 54-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-perfurador-ainsworth-golgran-344301.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-perfurador-ainsworth-golgran-344301.html"
+  },
+  {
+    "sku": "DC29121",
+    "name": "Espátula Dupla Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-millennium-golgran-dc29121.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-dupla-millennium-golgran-dc29121.html"
+  },
+  {
+    "sku": "DC13479",
+    "name": "Pinça Adson - Golgran",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade de 12 cm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/508246.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-adson-golgran-dc13479.html"
+  },
+  {
+    "sku": "DC13444",
+    "name": "Espátula Dupla Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-millennium-golgran-dc13444.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-dupla-millennium-golgran-dc13444.html"
+  },
+  {
+    "sku": "DC17173",
+    "name": "Espátula de Resina Flexível - Indusbello",
+    "price": "R$111,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-de-resina-flexivel-indusbello-563757-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-resina-flexivel-indusbello-dc17173.html"
+  },
+  {
+    "sku": "324389",
+    "name": "Porta Agulha Mayo Hegar - Golgran",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade. 14cm. Ref: 135-15.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-agulha-mayo-hegar-14-cm-golgran-324389.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-mayo-hegar-golgran-324389.html"
+  },
+  {
+    "sku": "344486",
+    "name": "Pinça Allis 15cm - Golgran",
+    "price": "R$51,90",
+    "description": "Embalagem com 1 unidade. Ref: 156-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/344486.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-allis-15cm-golgran-344486.html"
+  },
+  {
+    "sku": "DC11536",
+    "name": "Fórceps Infantil - Golgran",
+    "price": "R$109,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/758306.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-infantil-golgran-dc11536.html"
+  },
+  {
+    "sku": "507928",
+    "name": "Espátula de Inserção de Fio Retrator Dupla N° 3079 Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade. Ref: 96-38.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-3079-fio-retrator-millennium-millennium-dc-507928-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-inserc-o-de-fio-retrator-dupla-n-3079-millennium-golgran-507928.html"
+  },
+  {
+    "sku": "512182",
+    "name": "Espátula de Resina N° 2 Com Calcador Bolinha Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-de-resina-2-com-bolinha-millennium-golgran-512182.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-resina-2-com-bolinha-millennium-golgran-512182.html"
+  },
+  {
+    "sku": "DC15234",
+    "name": "Fórceps Odontológico Adulto - Golgran",
+    "price": "R$99,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forceps-adulto-odontologico-golgran-dc15234.jpg",
+    "url": "https://www.dentalcremer.com.br/forceps-adulto-golgran-dc15234.html"
+  },
+  {
+    "sku": "558838",
+    "name": "Alicate Ortodôntico Para Dobra em V Largo 168 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558838_635460191530180298.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-dobra-em-v-largo-168-quinelato.html"
+  },
+  {
+    "sku": "557688",
+    "name": "Alicate Ortodôntico Removedor de Bráquete Reto 346R - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-ponta-alicate-ortodontico-remocao-braquete-346r-zatty-557688.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-de-braquete-reto-346r-zatty-557688.html"
+  },
+  {
+    "sku": "DC21985",
+    "name": "Espátula para Resina Millennium SD - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-millennium-sd-golgran-dc21985.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-millennium-sd-golgran-dc21985.html"
+  },
+  {
+    "sku": "324396",
+    "name": "Seringa Carpule com Refluxo - Golgran",
+    "price": "R$76,90",
+    "description": "Embalagem com 1 unidade. Ref: 146-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-carpule-com-refluxo-golgran-324396.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-carpule-com-refluxo-golgran-324396.html"
+  },
+  {
+    "sku": "DC13445",
+    "name": "Espátula Dupla Oitavada - Golgran",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-oitavada-golgran-dc13445.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-dupla-oitavada-golgran-dc13445.html"
+  },
+  {
+    "sku": "324068",
+    "name": "Espelho Bucal Nº 5 - Golgran",
+    "price": "R$5,90",
+    "description": "Embalagem com 1 unidade. Ref: 85-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-bucal-n-5-golgran-324068.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-bucal-n-5-golgran-324068.html"
+  },
+  {
+    "sku": "733778",
+    "name": "Espátula Para Gesso Inox Cabo Plástico - Nova OGP",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-gesso-cabo-plastico-nova-ogp-733778-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-gesso-cabo-plastico-nova-ogp-733778.html"
+  },
+  {
+    "sku": "DC24317",
+    "name": "Cureta Lucas - Fava",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/771374_636095467201463159.jpg",
+    "url": "https://www.dentalcremer.com.br/cureta-lucas-fava-dc24317.html"
+  },
+  {
+    "sku": "324334",
+    "name": "Pinça Backaus - Golgran",
+    "price": "R$50,90",
+    "description": "Embalagem com 1 unidade. 13cm. Ref: 157-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pinca-backaus-13-cm-dental-cremer-324334-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-backaus-golgran-324334.html"
+  },
+  {
+    "sku": "507607",
+    "name": "Cureta Perio Foice Ponta Morse N° 0-00 Millennium – Golgran",
+    "price": "R$72,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cureta-perio-ponta-morse-0-00-millennium-millennium-dc-507607-01.jpg",
+    "url": "https://www.dentalcremer.com.br/foice-raspador-ponta-morse-0-00-millennium-golgran-507607.html"
+  },
+  {
+    "sku": "DC24781",
+    "name": "Cureta Perio Mc Call Quality Line - Ice",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/767728.jpg",
+    "url": "https://www.dentalcremer.com.br/cureta-perio-mc-call-quality-line-ice-dc24781.html"
+  },
+  {
+    "sku": "DC30144",
+    "name": "Espátula Para Resina - Ice",
+    "price": "R$74,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-elegance-sf-1-2-ice-126878-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-ice-dc30144.html"
+  },
+  {
+    "sku": "DC11590",
+    "name": "Pinça Mosquito - Golgran",
+    "price": "R$37,90",
+    "description": "Embalagem com 1 unidade. 12cm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/324358.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-mosquito-golgran-dc11590.html"
+  },
+  {
+    "sku": "730128",
+    "name": "Espátula para Resina Dupla N° 1 Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-dupla-n-1-millennium-golgran-730128.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-dupla-n-1-millennium-golgran-730128.html"
+  },
+  {
+    "sku": "DC13429",
+    "name": "Calcador de Paiva Duplo - Golgran",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/507188.jpg",
+    "url": "https://www.dentalcremer.com.br/calcador-de-paiva-duplo-golgran-dc13429.html"
+  },
+  {
+    "sku": "558807",
+    "name": "Alicate Ortodôntico Corte Distal 700 Com Widia - Quinelato",
+    "price": "R$498,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-distal-700-com-widia-quinelato-558807-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-700-com-widia-quinelato.html"
+  },
+  {
+    "sku": "343915",
+    "name": "Espátula Simples N° 36 Oitavado - Golgran",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-simples-36-cabo-oitavado-golgran-dc-343915-03.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-simples-n-36-oitavado-golgran-343915.html"
+  },
+  {
+    "sku": "324341",
+    "name": "Pinça Clínica Para Algodão Nº 317 - Golgran",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pinca-clinica-para-algodao-golgran-324341.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-clinica-para-algod-o-golgran-324341.html"
+  },
+  {
+    "sku": "324525",
+    "name": "Kit Perio Millennium - Golgran",
+    "price": "R$305,90",
+    "description": "Kit com 5 instrumentos: 1 cureta Gracey 5-6, 1 cureta Gracey 7-8, 1 cureta Gracey 11-12, 1 cureta Gracey 13-14 e 1 sonda exploradora nº 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/324525.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-perio-millennium-golgran-324525.html"
+  },
+  {
+    "sku": "DC24085",
+    "name": "Espátula para Resina de Titânio Tipo Suprafill Millennium - Golgran",
+    "price": "R$101,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-de-titanio-tipo-suprafill-millennium-golgran-dc24085.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-de-titanio-tipo-suprafill-millennium-golgran-dc24085.html"
+  },
+  {
+    "sku": "DC13444_A",
+    "name": "Espátula Dupla Millennium - Golgran",
+    "price": "R$131,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-millennium-golgran-n-3056-107753.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-dupla-millennium-golgran-dc13444-a.html"
+  },
+  {
+    "sku": "508512",
+    "name": "Sonda Nabers 2N Milimetrada Colors Millennium - Golgran",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sonda-milimetrada-nabers-2n-dental-cremer-508512-01.jpg",
+    "url": "https://www.dentalcremer.com.br/sonda-nabers-2n-milimetrada-colors-millennium-golgran-508512.html"
+  },
+  {
+    "sku": "767353",
+    "name": "Alicate Ortodôntico 139 Angle - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-angle-belding-n-139-ice-dc-767353-1.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-139-angle-ice.html"
+  },
+  {
+    "sku": "771008",
+    "name": "Aplicador de Hidróxido de Cálcio Dycal Duplo Angulado - Fava",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ilustracao-aplicador-hidroxido-de-calcio-dycal-duplo-angulado-fava-771008.jpg",
+    "url": "https://www.dentalcremer.com.br/aplicador-de-hidroxido-de-calcio-dycal-duplo-angulado-fava-771008.html"
+  },
+  {
+    "sku": "694727",
+    "name": "Sonda Milimetrada Willians - Fava",
+    "price": "R$37,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sonda-willians-milimetrada-color-fava-dc-694727-01.jpg",
+    "url": "https://www.dentalcremer.com.br/sonda-milimetrada-willians-fava-694727.html"
+  },
+  {
+    "sku": "DC38244",
+    "name": "Espátula Plástica para Ionômero - Nova Ogp",
+    "price": "R$1,79",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-plastica-para-ionomero-cristal-nova-ogp-nova-ogp-dental-cremer-138916.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-plastica-para-ionomero-nova-ogp-dc38244.html"
+  },
+  {
+    "sku": "698237",
+    "name": "Espátula de Inserção de Fio Retrator Dupla N° 3059 Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-dupla-3059-fio-retrator-serrilhado-millennium-dc-698237-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-inserc-o-de-fio-retrator-dupla-n-3059-millennium-golgran-698237.html"
+  },
+  {
+    "sku": "DC24875",
+    "name": "Espátula para Resina Tipo Suprafil Flexível Millennium - Golgran",
+    "price": "R$131,90",
+    "description": "Embalagem com 1 unidade. Modelo 1. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-tipo-flexivel-millennium-golgran-dc24875-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-tipo-flexivel-millennium-golgran-dc24875.html"
+  },
+  {
+    "sku": "841718",
+    "name": "Sugador Cirúrgico Metálico - Ice",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-cirurgico-metalico-ice-841718-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/sugador-cirurgico-metalico-ice-841718.html"
+  },
+  {
+    "sku": "149389",
+    "name": "Grampo para Isolamento NºB4 - Ice",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/grampo-para-isolamento-nb4-ice-149389.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-para-isolamento-n-b4-ice-149389.html"
+  },
+  {
+    "sku": "DC24526",
+    "name": "Bandeja Autoclavável - Ice",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cores-bandeja-autoclavavel-pequena-ice-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-autoclavavel-ice-dc24526.html"
+  },
+  {
+    "sku": "772227",
+    "name": "Pinça Auxiliar Para Sutura - Fava",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pinca-auxiliar-p-sutura-dental-cremer-772227-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-auxiliar-para-sutura-fava-772227.html"
+  },
+  {
+    "sku": "558760",
+    "name": "Alicate Ortodôntico Corte Amarrilho 151 com Widia - Quinelato",
+    "price": "R$498,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-amarrilho-151-com-widea-quinelato-558760.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-amarrilho-151-quinelato.html"
+  },
+  {
+    "sku": "105315",
+    "name": "Sonda Milimetrada Willians 23 Colors Cinza - Ice",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sonda-milim-willians-colors-cinza-dental-cremer-105315-01.jpg",
+    "url": "https://www.dentalcremer.com.br/sonda-milimetrada-willians-colors-cinza-ice-105315.html"
+  },
+  {
+    "sku": "124187",
+    "name": "Espelho Bucal Primeiro Plano n°5 - Mk Life",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-bucal-primeiro-plano-n-5-front-surface-mk-life-124187.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-bucal-primeiro-plano-n-5-front-surface-mk-life-124187.html"
+  },
+  {
+    "sku": "165678",
+    "name": "Espelho Bucal Plano N° 5 Air Collection - AllPrime",
+    "price": "R$12,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/165678.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-bucal-plano-n-5-air-collection-allprime-165678.html"
+  },
+  {
+    "sku": "745917",
+    "name": "Espátula Simples para Cimento N° 24 Intrafil Millennium - Golgran",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade. Ref: 95-5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-simples-24-cabo-oitavado-golgran-dc-745917-6.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-simples-para-cimento-n-24-intrafil-millennium-golgran-745917.html"
+  },
+  {
+    "sku": "323900",
+    "name": "Cabo para Espelho Bucal em Alumínio - Golgran",
+    "price": "R$8,29",
+    "description": "Embalagem com 1 unidade. Ref: 42-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-pespelho-bucal-aluminio-golgran-dental-cremer-323900-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-espelho-bucal-em-aluminio-golgran-323900.html"
+  },
+  {
+    "sku": "DC13409",
+    "name": "Pinça Hemostática Kelly - Golgran",
+    "price": "R$48,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/508321.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-hemostatica-kelly-golgran-dc13409.html"
+  },
+  {
+    "sku": "DC13167",
+    "name": "Cureta Perio Mini Five Millennium - Golgran",
+    "price": "R$72,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/507706.jpg",
+    "url": "https://www.dentalcremer.com.br/cureta-perio-mini-five-millennium-golgran-dc13167.html"
+  },
+  {
+    "sku": "771756",
+    "name": "Espátula Dupla Para Cera N° 31 - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-n-31-fava-dc-771756-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-dupla-para-cera-n-31-fava-771756.html"
+  },
+  {
+    "sku": "802535",
+    "name": "Espátula Para Resina Mini LM - Quinelato",
+    "price": "R$220,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-espatula-p-resina-lm-dental-cremer-802535-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-mini-lm-quinelato-802535.html"
+  },
+  {
+    "sku": "730135",
+    "name": "Espátula para Resina com Calcador Ward N° 3 Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade. Ref: 96-29.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-com-calcador-ward-n-3-millennium-golgran-730135.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-com-calcador-ward-n-3-millennium-golgran-730135.html"
+  },
+  {
+    "sku": "344271",
+    "name": "Alicate Ortodôntico Bico Chato 121 - Golgran",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade. 13cm. Ref: 52-11.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-bico-chato-121-dental-cremer-344271-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-bico-chato-121-golgran-344271.html"
+  },
+  {
+    "sku": "399417",
+    "name": "Espátula de Inserção de Fio Retrator Reto - Fava",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-de-insercao-de-fio-retrator-reto-fava-dc-399417-01.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-de-inserc-o-de-fio-retrator-reto-fava-399417.html"
+  },
+  {
+    "sku": "841824",
+    "name": "Alicate Ortodôntico Removedor de Bráquete 346R - Ice",
+    "price": "R$125,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-removedor-de-braquete-346r-ice-841824.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-de-braquete-346r-ice.html"
+  },
+  {
+    "sku": "558890",
+    "name": "Alicate Ortodôntico Removedor de Bráquete 346R - Quinelato",
+    "price": "R$199,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-removedor-de-braquete-346r-quinelato-558890.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-de-braquete-346r-quinelato.html"
+  },
+  {
+    "sku": "344523",
+    "name": "Alicate Ortodôntico Johnson 114 - Golgran",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-9.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-johnson-n-114-dental-cremer-344523-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-johnson-114-golgran-344523.html"
+  },
+  {
+    "sku": "745795",
+    "name": "Espátula para Resina N° 2 Millennium - Golgran",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-para-resina-n-2-millennium-golgran-745795.jpg",
+    "url": "https://www.dentalcremer.com.br/espatula-para-resina-n-2-millennium-golgran-745795.html"
+  },
+  {
+    "sku": "558906",
+    "name": "Alicate Ortodôntico Saca Bandas 347 - Quinelato",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-saca-bandas-quinelato-dc-558906-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-saca-bandas-347-quinelato.html"
+  }
+]

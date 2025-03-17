@@ -1,0 +1,768 @@
+[
+  {
+    "sku": "DC21745",
+    "name": "Opacificador Auto-Polimerizável Opalac - Defama",
+    "price": "R$113,90",
+    "description": "Embalagem com 15ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/655230.jpg",
+    "url": "https://www.dentalcremer.com.br/opacificador-auto-polimerizavel-opalac-defama-dc21745.html"
+  },
+  {
+    "sku": "699906",
+    "name": "Escova de Polimento Flanela - OdontoMega",
+    "price": "R$74,90",
+    "description": "Embalagem com 3 unidades. 22mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/699906_635889713762654310.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-flanela-odontomega-699906.html"
+  },
+  {
+    "sku": "DC19582",
+    "name": "Resina SR Nexco Opaquer - Ivoclar Vivadent",
+    "price": "R$199,90",
+    "description": "Embalagem com 2ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/678666_635827450726428392.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-sr-nexco-opaquer-ivoclar-vivadent-dc19582.html"
+  },
+  {
+    "sku": "642674",
+    "name": "Liga Metálica Wironia Light  - Bego",
+    "price": "R$2.492,90",
+    "description": "Embalagem com 1kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/642674.1_635936286825533986.jpg",
+    "url": "https://www.dentalcremer.com.br/liga-metalica-wironia-light-bego-wilcos-642674.html"
+  },
+  {
+    "sku": "150776",
+    "name": "Polidor de Cerâmica All Ceramis Diamont CA - Kenda",
+    "price": "R$439,90",
+    "description": "Kit com 6 polidores diamantados de granulometria fina CA para todos os tipos de cerâmica.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-de-ceramica-all-ceramis-diamont-ca-kenda-150776.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-ceramica-all-ceramis-diamont-ca-kenda-150776.html"
+  },
+  {
+    "sku": "731590",
+    "name": "Disco de Carborundum 43 - Schelble",
+    "price": "R$134,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/731590_636008234326958283.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-carborundum-43-schelble-731590.html"
+  },
+  {
+    "sku": "107366",
+    "name": "Polidor de Metal Ultra-Metal Roda PM - American Burrs",
+    "price": "R$40,90",
+    "description": "Embalagem com 3 unidades. RF0092.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-ultra-metal-roda-pm-american-burrs-dental-cremer-107366.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-metal-ultra-metal-roda-pm-american-burrs-107366.html"
+  },
+  {
+    "sku": "117789",
+    "name": "Disco Diamantado Dupla Face Corte Fino - OdontoMega",
+    "price": "R$173,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117789.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-dupla-face-corte-fino-odontomega-117789.html"
+  },
+  {
+    "sku": "DC30410",
+    "name": "Resina Laboratorial Lite Art Stain Fotopolimerizável - Shofu",
+    "price": "R$272,90",
+    "description": "Embalagem com 1ml. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-laboratorial-lite-art-stain-fotopolimerizavel-shofu-dc30410-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-laboratorial-lite-art-stain-fotopolimerizavel-shofu-dc30410.html"
+  },
+  {
+    "sku": "109658",
+    "name": "Escova de Pano para Polimento PM - American Burrs",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-pano-para-polimento-pm-american-burrs-dental-cremer-109658.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-pano-para-polimento-pm-american-burrs-109658.html"
+  },
+  {
+    "sku": "103369",
+    "name": "Revestimento Crom-O-Cast - Polidental",
+    "price": "R$58,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-crom-o-cast-500ml-polidental-dental-cremer-103369-01.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-crom-o-cast-polidental-103369.html"
+  },
+  {
+    "sku": "642780",
+    "name": "Revestimento Begosol HE - Bego",
+    "price": "R$57,90",
+    "description": "Embalagem com 225ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-begosol-he-bego-wilcos-642780-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-begosol-he-bego-642780.html"
+  },
+  {
+    "sku": "103367",
+    "name": "Revestimento Termocast - Polidental",
+    "price": "R$62,90",
+    "description": "Embalagem com 1kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-termocast-1kg-polidental-103367-01-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-termocast-polidental-103367.html"
+  },
+  {
+    "sku": "109870",
+    "name": "Curva de Spee Inferior de Alumínio - Mac Dental",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109870.jpg",
+    "url": "https://www.dentalcremer.com.br/curva-de-spee-inferior-de-aluminio-mac-dental-109870.html"
+  },
+  {
+    "sku": "126767",
+    "name": "Revestimento Líquido - Yeti",
+    "price": "R$197,90",
+    "description": "Embalagem com 1L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-liquido-1l-yeti-126767.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-liquido-yeti-126767.html"
+  },
+  {
+    "sku": "904185",
+    "name": "Escova de Polimento Acrílico Clemara N° 15 - Kota Knebel",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/904185.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-acrilico-clemara-n-15-kota-knebel-904185.html"
+  },
+  {
+    "sku": "510904",
+    "name": "Broca de Tungstênio Minicut PM - Edenta",
+    "price": "R$345,90",
+    "description": "Unidade. Peça de Mão.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/510904.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-de-tungstenio-minicut-pm-edenta-510904.html"
+  },
+  {
+    "sku": "648324",
+    "name": "Revestimento Duravest Pó - Polidental",
+    "price": "R$65,90",
+    "description": "Embalagem com 250g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/648324.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-duravest-po-polidental-648324.html"
+  },
+  {
+    "sku": "121269",
+    "name": "Kit Revestimento Cerâmico Calibra Express + Expansor - Protechno",
+    "price": "R$208,90",
+    "description": "Embalagem com 11 sachês de 90g cada + 250ml de expansor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-revestimento-ceramico-calibra-express-expansor-protechno-dc-121269.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-revestimento-ceramico-calibra-express-expansor-protechno-121269.html"
+  },
+  {
+    "sku": "121272",
+    "name": "Líquido Expansor para Calibra Express - Protechno",
+    "price": "R$161,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-expansor-para-calibra-express-protechno-121272.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-expansor-para-calibra-express-protechno-121272.html"
+  },
+  {
+    "sku": "121270",
+    "name": "Kit Revestimento Cerâmico Calibra Express + Expansor - Protechno",
+    "price": "R$681,90",
+    "description": "Embalagem com 40 sachês de 90g cada + 1 litro de expansor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-revestimento-ceramico-calibra-express-expansor-protechno-121270.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-revestimento-ceramico-calibra-express-expansor-protechno-121270.html"
+  },
+  {
+    "sku": "DC25987",
+    "name": "Initial Lustre IQ Gum Shade - GC",
+    "price": "R$574,90",
+    "description": "Embalagem com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108376.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-initial-lustre-iq-gum-shade-gc-dc25987.html"
+  },
+  {
+    "sku": "648317",
+    "name": "Revestimento Duravest Líquido - Polidental",
+    "price": "R$33,90",
+    "description": "Embalagem com 60ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/648317_635889596998399336.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-duravest-liquido-polidental-648317.html"
+  },
+  {
+    "sku": "648546",
+    "name": "Revestimento Hi Fusion - Polidental",
+    "price": "R$34,90",
+    "description": "Embalagem com 1kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-hi-fusion-polidental-648546-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-hi-fusion-polidental-648546.html"
+  },
+  {
+    "sku": "589498",
+    "name": "Escova de Aço para Polimento PM - American Burrs",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-aco-para-polimento-pm-american-burrs-dental-cremer-589498.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-aco-para-limpeza-de-brocas-pm-american-burrs-589498.html"
+  },
+  {
+    "sku": "648591",
+    "name": "Revestimento Termocast - Polidental",
+    "price": "R$40,90",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/648591_635889592773424253.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-termocast-polidental-648591.html"
+  },
+  {
+    "sku": "121271",
+    "name": "Revestimento Cerâmico Calibra Express - Protechno",
+    "price": "R$1.617,90",
+    "description": "Embalagem com 120 sachês de 90g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-ceramico-calibra-express-protechno-121271.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-ceramico-calibra-express-protechno-121271.html"
+  },
+  {
+    "sku": "DC25984",
+    "name": "Initial Lustre IQ Paste - GC",
+    "price": "R$360,90",
+    "description": "Embalagem com 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108358.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-initial-lustre-iq-paste-body-gc-dc25984.html"
+  },
+  {
+    "sku": "DC25985",
+    "name": "Initial Lustre IQ Paste Enamel Effect - GC",
+    "price": "R$360,90",
+    "description": "Embalagem com 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108363.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-initial-lustre-iq-paste-enamel-gc.html"
+  },
+  {
+    "sku": "DC21990",
+    "name": "Ponta Pedra Montada - Schelble",
+    "price": "R$45,90",
+    "description": "Embalagem com 10 unidades. Bastão Médio.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/731606.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-montada-schelble-dc21990.html"
+  },
+  {
+    "sku": "DC25986",
+    "name": "Initial Lustre IQ Paste Gum Shade - GC",
+    "price": "R$360,90",
+    "description": "Embalagem com 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108370.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-initial-lustre-iq-paste-gum-shade-gc-dc25986.html"
+  },
+  {
+    "sku": "102597",
+    "name": "Escova de Algodão - Nova OGP",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. 4\"x12mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102597.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-algod-o-nova-ogp-102597.html"
+  },
+  {
+    "sku": "143838",
+    "name": "Pavio para Lamparina 150mm - AF do Brasil",
+    "price": "R$5,79",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pavio-para-lamparina-150mm-143838.jpg",
+    "url": "https://www.dentalcremer.com.br/pavio-para-lamparina-150mm-af-do-brasil-143838.html"
+  },
+  {
+    "sku": "667806",
+    "name": "Tela de Nylon - Mac Dental",
+    "price": "R$32,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/667806_635854296306158090.jpg",
+    "url": "https://www.dentalcremer.com.br/tela-de-nylon-mac-dental-667806.html"
+  },
+  {
+    "sku": "DC24139",
+    "name": "Pote Dappen de Plástico - Maquira",
+    "price": "R$9,29",
+    "description": "Embalagem com 1 unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pote-dappen-plastico-azul-maquira-DC24139.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-plastico-maquira-dc24139.html"
+  },
+  {
+    "sku": "758115",
+    "name": "Disco Diamantado Ventilado Diadisc - OdontoMega",
+    "price": "R$199,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-ventilado-diadisc-odontomega-dental-cremer-758115-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-ventilado-diadisc-odontomega-758115.html"
+  },
+  {
+    "sku": "DC12947_C",
+    "name": "Ponta de Polimento Dura White PM - Shofu",
+    "price": "R$28,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/654851.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-polimento-dura-white-pm-shofu-dc12947-c.html"
+  },
+  {
+    "sku": "601008",
+    "name": "Escova de Polimento Acrílico Clemara N° 30 - Kota Knebel",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/601008_635732374234402404.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-acrilico-clemara-n-30-kota-knebel-601008.html"
+  },
+  {
+    "sku": "193077",
+    "name": "Êmbolo I Press - EDG",
+    "price": "R$147,90",
+    "description": "Embalagem com 1 unidade. Reto. 13mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embolo-i-press-edg-193077.png",
+    "url": "https://www.dentalcremer.com.br/mbolo-i-press-edg-193077.html"
+  },
+  {
+    "sku": "103220",
+    "name": "Broqueiro Laboratorial 55 furos PM - American Burrs",
+    "price": "R$254,90",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broqueiro-laboratorial-c-55-furos-american-burrs-dc-103220-01.jpg",
+    "url": "https://www.dentalcremer.com.br/broqueiro-laboratorial-55-furos-pm-american-burrs-103220.html"
+  },
+  {
+    "sku": "144737",
+    "name": "Escala de Cor HeraCeram Cores Clareadas - Kulzer",
+    "price": "R$319,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-hera-ceran-geral.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-heraceram-cores-clareadas-kulzer-144737.html"
+  },
+  {
+    "sku": "134317",
+    "name": "Pote Dappen de Vidro Azul - Iodontosul",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pote-dappen-de-vidro-azul-iodontosul-dental-cremer-134317.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-vidro-azul-iodontosul-134317.html"
+  },
+  {
+    "sku": "DC19586",
+    "name": "Resina Composta SR Nexco Intensive Gingiva - Ivoclar Vivadent",
+    "price": "R$199,90",
+    "description": "Embalagem com 2,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-sr-nexco-intensive-gingiva-dental-cremer-dc19586.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-composta-sr-nexco-intensive-gingiva-ivoclar-vivadent-dc19586.html"
+  },
+  {
+    "sku": "144755",
+    "name": "Escala de Cor HeraCeram Zircônia 750 Gengiva - Kulzer",
+    "price": "R$319,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-heraceram-zirconia-750-gengiva-kulzer-144755.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-heraceram-zirconia-750-gengiva-kulzer-144755.html"
+  },
+  {
+    "sku": "758252",
+    "name": "Bandeja Refratária - OdontoMega",
+    "price": "R$76,90",
+    "description": "Embalagem com 1 Bandeja Redonda + Pinos Cerâmicos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-refrataria-odontomega-758252.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-refrataria-odontomega-758252.html"
+  },
+  {
+    "sku": "667790",
+    "name": "Tela de Metal - Mac Dental",
+    "price": "R$65,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/667790_635854296410990762.jpg",
+    "url": "https://www.dentalcremer.com.br/tela-de-metal-mac-dental-667790.html"
+  },
+  {
+    "sku": "DC39250",
+    "name": "Cadinho de Quartzo N3 - OdontoMega",
+    "price": "R$74,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cadinho-fechado-de-quartzo-n3-odontomega-dental-cremer-758221.jpg",
+    "url": "https://www.dentalcremer.com.br/cadinho-de-quartzo-n3-odontomega.html"
+  },
+  {
+    "sku": "480702",
+    "name": "Pote Dappen de Silicone Pequeno - Angelus",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade. Cor sortida.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/480702.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-silicone-angelus-480702.html"
+  },
+  {
+    "sku": "144738",
+    "name": "Escala de Cor HeraCeram Dentina Incisal - Kulzer",
+    "price": "R$319,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-hera-ceran-geral.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-heraceram-dentina-incisal-kulzer-144738.html"
+  },
+  {
+    "sku": "132023",
+    "name": "Liga Metálica de Cobalto G500 - Goldner",
+    "price": "R$1.249,90",
+    "description": "Embalagem com 1 Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liga-metalica-de-cbalto-g500-goldner-132023-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/liga-metalica-de-cobalto-g500-goldner-132023.html"
+  },
+  {
+    "sku": "110577",
+    "name": "Porta Prótese - Kota",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade de 5x5x2cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/110577.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-protese-kota-110577.html"
+  },
+  {
+    "sku": "849820",
+    "name": "Polidor de Resina Opak Roda CA - Jota",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade. (9362RA100 - Roda Branco)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/849820.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-opak-roda-ca-jota-849820.html"
+  },
+  {
+    "sku": "118172",
+    "name": "Disco Diamantado Megadisc - OdontoMega",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118172.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-megadisc-odontomega-118172.html"
+  },
+  {
+    "sku": "605570",
+    "name": "Tela de Nylon - Jon",
+    "price": "R$1,79",
+    "description": "Embalagem com 1 unidade. Na cor branca.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/605570.jpg",
+    "url": "https://www.dentalcremer.com.br/tela-de-nylon-jon-605570.html"
+  },
+  {
+    "sku": "699814",
+    "name": "Disco Diamantado Megadisc - OdontoMega",
+    "price": "R$374,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-megadisc-odontomega-699814.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-megadisc-odontomega-699814.html"
+  },
+  {
+    "sku": "718386",
+    "name": "Liga Metálica Kera N - OdontoMega",
+    "price": "R$1.608,90",
+    "description": "Embalagem com 1Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/718386_635936563460171618.jpg",
+    "url": "https://www.dentalcremer.com.br/liga-metalica-kera-n-odontomega-718386.html"
+  },
+  {
+    "sku": "511208",
+    "name": "Ponta Cerapol Super - Edenta",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 unidade. 0374 PM (Cód. 511208)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/511208.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-cerapol-super-edenta-511208.html"
+  },
+  {
+    "sku": "117791",
+    "name": "Bandeja Refratária Redonda - OdontoMega",
+    "price": "R$76,90",
+    "description": "Embalagem com 1 unidade de 80mm + 15 pinos metálicos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117791.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-refrataria-redonda-odontomega-117791.html"
+  },
+  {
+    "sku": "724226",
+    "name": "Liga Metálica Fit Cast -2 Nióbio - Talmax",
+    "price": "R$633,90",
+    "description": "Embalagem com 250g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-liga-metalica-fit-cast-2-niobio-talmax-724226.jpg",
+    "url": "https://www.dentalcremer.com.br/liga-metalica-fit-cast-2-niobio-talmax-724226.html"
+  },
+  {
+    "sku": "118396",
+    "name": "Serra G 127mm - Mac Dental",
+    "price": "R$150,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118396.jpg",
+    "url": "https://www.dentalcremer.com.br/serra-g-127mm-mac-dental-118396.html"
+  },
+  {
+    "sku": "100649",
+    "name": "Óxido de Alumínio - Polidental",
+    "price": "R$128,90",
+    "description": "Embalagem com 2kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100649.jpg",
+    "url": "https://www.dentalcremer.com.br/oxido-de-aluminio-polidental-100649.html"
+  },
+  {
+    "sku": "DC27183",
+    "name": "Pote Dappen de Silicone Médio - Preven",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/185164.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-silicone-preven-dc27183.html"
+  },
+  {
+    "sku": "DC25605",
+    "name": "Anel de Silicone Para Fundição - Nova OGP",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade + Base. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102591.jpg",
+    "url": "https://www.dentalcremer.com.br/anel-de-silicone-para-fundic-o-nova-ogp-dc25605.html"
+  },
+  {
+    "sku": "147701",
+    "name": "Escala de Cor Trilux BL2/BL3 - Vipi",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-dente-trilux-bl2-bl3-vipi-147701.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-trilux-bl2-bl3-vipi-147701.html"
+  },
+  {
+    "sku": "102600",
+    "name": "Escova de Polimento Flanela - Nova OGP",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade. 4\"x12mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-polimento-flanela-nova-ogp-102600-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-flanela-nova-ogp-102600.html"
+  },
+  {
+    "sku": "DC30742",
+    "name": "Pote Dappen de Vidro - Iodontosul",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pote-dappen-de-vidro-ambar-iodontosul-dental-cremer-134316.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-vidro-iodontosul-dc30742.html"
+  },
+  {
+    "sku": "144742",
+    "name": "Escala de Cor HeraCeram Gengiva - Kulzer",
+    "price": "R$319,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-heraceram-gengiva-kulzer-144742.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-heraceram-gengiva-kulzer-144742.html"
+  },
+  {
+    "sku": "DC19580",
+    "name": "Resina SR Nexco Dentin - Ivoclar Vivadent",
+    "price": "R$199,90",
+    "description": "Embalagem com 2,5g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-sr-nexco-dentina-ivoclar-vivadent-DC19580.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-sr-nexco-dentin-ivoclar-vivadent-dc19580.html"
+  },
+  {
+    "sku": "118174",
+    "name": "Glaze Paste Insync - OdontoMega",
+    "description": "Pasta de 4g3",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lovers-glaze-insync-paste-4g-odontomega-118174.jpg",
+    "url": "https://www.dentalcremer.com.br/glaze-paste-insync-odontomega-118174.html"
+  },
+  {
+    "sku": "134234",
+    "name": "Líquido para Refrigerar - Imes-Icore",
+    "price": "R$369,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-para-refrigerar-coritec-avulso-coritec-134234.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-para-refrigerar-coritec-avulso-coritec-134234.html"
+  },
+  {
+    "sku": "522044",
+    "name": "Escova de Crina de Cavalo para Polimento PM - American Burrs",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-crina-de-cavalo-para-polimento-pm-roda-american-burrs-522044-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-crina-de-cavalo-para-polimento-pm-american-burrs-522044.html"
+  },
+  {
+    "sku": "127024",
+    "name": "Fluxo para Solda Vera Flux Ni-Cr Premium - Aalbadent",
+    "price": "R$229,90",
+    "description": "Frasco com 42,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluxo-solda-vera-flux-ni-cr-premium-aalbadent-127024.jpg",
+    "url": "https://www.dentalcremer.com.br/fluxo-para-solda-vera-flux-ni-cr-premium-aalbadent-127024.html"
+  },
+  {
+    "sku": "133433",
+    "name": "Disco Diamantado Serrilhado Dupla Face 19 x 0,20mm Nº 7011M - American Burrs",
+    "price": "R$77,90",
+    "description": "Embalagem com 01 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-serrilhado-dupla-face-19-020mm-n-7011m-american-burrs-133433-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-serrilhado-dupla-face-19-x-0-20mm-n-7011m-american-burrs-133433.html"
+  },
+  {
+    "sku": "117770",
+    "name": "Polidor Diamantado DL/Zircônia EVE Diacon DI-R22M - Odontomega",
+    "price": "R$292,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117770.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-dl-zirconia-eve-diacon-di-r22m-odontomega-117770.html"
+  },
+  {
+    "sku": "712452",
+    "name": "Reforço de Palato de Aço Inox - Mac Dental",
+    "price": "R$91,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/712452_635966815418541412.jpg",
+    "url": "https://www.dentalcremer.com.br/reforco-de-palato-de-aco-inox-mac-dental-712452.html"
+  },
+  {
+    "sku": "117766",
+    "name": "Polidor Diamantado DL/Zircônia EVE Diacon DI-13M - Odontomega",
+    "price": "R$88,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117766.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-dl-zirconia-eve-diacon-di-13m-odontomega-117766.html"
+  },
+  {
+    "sku": "128821",
+    "name": "Escova de Aço para Polimento PM 22mm - American Burrs",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-aco-polimento-limpeza-pm-MSHD78C-american-burrs-128821.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-aco-para-polimento-limpeza-pm-american-burrs.html"
+  },
+  {
+    "sku": "760163",
+    "name": "Placa de Montagem Tipo Trilho - Dentflex",
+    "price": "R$38,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/760163.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-montagem-triplo-dentflex-760163.html"
+  },
+  {
+    "sku": "758245",
+    "name": "Kit de Bandeja Refratária - OdontoMega",
+    "price": "R$129,90",
+    "description": "Kit com 1 Bandeja Redonda + 1 Bandeja Quadrada + Pinos Cerâmicos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-refrataria-odontomega-758245.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-refrataria-odontomega-758245.html"
+  },
+  {
+    "sku": "904222",
+    "name": "Escova de Polimento Acrílico Brim - Kota Knebel",
+    "price": "R$24,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-polimento-acrilico-brim-clemara-105x15cm-dental-cremer-904222.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-acrilico-brim-kota-knebel-904222.html"
+  },
+  {
+    "sku": "790078",
+    "name": "Bandeja Refratária 15 pinos - Talmax",
+    "price": "R$105,90",
+    "description": "Embalagem com 1 bandeja refratária + 15 pinos metálicos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/790078.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-refrataria-15-pinos-talmax-790078.html"
+  },
+  {
+    "sku": "701715",
+    "name": "Anel de Silicone - Baot",
+    "price": "R$175,90",
+    "description": "Unidade. 200g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/701715.jpg",
+    "url": "https://www.dentalcremer.com.br/anel-de-silicone-baot-701715.html"
+  },
+  {
+    "sku": "133533",
+    "name": "Raquete Limpa Fácil - Defama",
+    "price": "R$36,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suporte-para-limpeza-de-dentes-defama-133533-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/raquete-limpa-facil-defama-133533.html"
+  },
+  {
+    "sku": "DC26204",
+    "name": "Resina Lab Ceramage Modificador Incisal Transparente - Shofu",
+    "price": "R$193,90",
+    "description": "Embalagem com 4,6g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/964462.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-lab-ceramage-modificador-incisal-transparente-shofu-dc26204.html"
+  },
+  {
+    "sku": "145160",
+    "name": "Placa para Mistura Godê Stain/Cerâmica Malen A - Odontomega",
+    "price": "R$569,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-para-mistura-gode-stain-ceramica-malen-a-odontomega-145160.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-mistura-gode-stain-ceramica-malen-a-odontomega-145160.html"
+  },
+  {
+    "sku": "147330",
+    "name": "Liga Metálica Níquel Cromo com Nióbio Kotalloy - Kota",
+    "price": "R$375,90",
+    "description": "Embalagem com 250g",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liga-metalica-niquel-cromo-com-niobio-kotalloy-kota-147330.jpg",
+    "url": "https://www.dentalcremer.com.br/liga-metalica-niquel-cromo-com-niobio-kotalloy-kota-147330.html"
+  },
+  {
+    "sku": "DC25073",
+    "name": "Ponta Pedra Koolies - Dedeco",
+    "price": "R$21,90",
+    "description": "Embalagem com 2 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/753004.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-koolies-dedeco-dc25073.html"
+  },
+  {
+    "sku": "139120",
+    "name": "Concha para Cera Tri-Flex - Mac Dental",
+    "price": "R$254,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/concha-para-cera-tri-flex-mac-dental-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/concha-para-cera-tri-flex-mac-dental-139120.html"
+  },
+  {
+    "sku": "DC23074",
+    "name": "Polidor Diamantado para Cerâmica Durapol CA - American Burrs",
+    "price": "R$111,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-diamantado-para-ceramica-durapol-ca-formato-chama-american-burrs-dc23074.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-para-ceramica-durapol-ca-american-burrs-dc23074.html"
+  },
+  {
+    "sku": "DC39249",
+    "name": "Disco Diamantado Ventilado - OdontoMega",
+    "price": "R$173,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-ventilado-odontomega-718478.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-ventilado-odontomega.html"
+  },
+  {
+    "sku": "DC26200",
+    "name": "Resina Lab Ceramage Dentina Opaco - Shofu",
+    "price": "R$193,90",
+    "description": "Embalagem com 4,6g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/964172.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-lab-ceramage-dentina-opaco-shofu-dc26200.html"
+  },
+  {
+    "sku": "148432",
+    "name": "Medidor de Espaço Protético - Angelus",
+    "price": "R$193,90",
+    "description": "Embalagem com 6 unidades (0,25. 0,5. 0,75. 1,0. 1,25 e 1,5mm, sendo 1 de cada).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/medidor-espaco-protetico-angelus-148432.jpg",
+    "url": "https://www.dentalcremer.com.br/medidor-de-espaco-protetico-angelus-148432.html"
+  },
+  {
+    "sku": "608847",
+    "name": "Pote Dappen de Silicone Grande - Angelus",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade. Cor sortida.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pote-dappen-silicone-pequeno-angelus-dc-608847-04.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-silicone-angelus-608847.html"
+  },
+  {
+    "sku": "144750",
+    "name": "Escala de Cor HeraCeram Saphir Gengiva - Kulzer",
+    "price": "R$399,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cor-heraceram-saphir-gengiva-kulzer-144750.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cor-heraceram-saphir-gengiva-kulzer-144750.html"
+  },
+  {
+    "sku": "564532",
+    "name": "Pote Dappen Dedal - Indusbello",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade. Em aço inox.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/564532_635496751648832952.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-dedal-indusbello-564532.html"
+  },
+  {
+    "sku": "734621",
+    "name": "Escova de Polimento Acrílico Clemara N° 25 - Kota Knebel",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/734621_635965973173659543.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-acrilico-clemara-n-23-kota-knebel-904208.html"
+  }
+]

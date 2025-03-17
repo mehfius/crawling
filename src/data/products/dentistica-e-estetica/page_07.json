@@ -1,0 +1,759 @@
+[
+  {
+    "sku": "DC13314",
+    "name": "Afastador Labial Flex - Maquira",
+    "price": "R$36,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-labial-flex-maquira-DC13314.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-flex-maquira-dc13314.html"
+  },
+  {
+    "sku": "DC38864",
+    "name": "Ponteira Ultratip - American Burrs",
+    "price": "R$24,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponteira-ultratip-pequena-1unid-american-burrs-147460-01.jpg",
+    "url": "https://www.dentalcremer.com.br/ponteira-ultratip-american-burrs-dc38864.html"
+  },
+  {
+    "sku": "122878",
+    "name": "Fita Banda Matriz de Poliéster - TDV",
+    "description": "Embalagem com 1 rolo. 10mmx0,05mmx15m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fita-banda-matriz-de-poliester-tdv-122878-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-banda-matriz-de-poliester-tdv-122878.html"
+  },
+  {
+    "sku": "DC30684",
+    "name": "Matriz Seccional Pré-Contornada Palodent 360 - Dentsply",
+    "price": "R$1.036,90",
+    "description": "Embalagem com 48 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-seccional-pre-contornada-palodent-360-4-5mm-dentsply-133784-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccional-pre-contornada-palodent-360-dentsply-dc30684.html"
+  },
+  {
+    "sku": "122895",
+    "name": "Matriz Cervical - TDV",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-cervical-tdv-122895-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-cervical-tdv-122895.html"
+  },
+  {
+    "sku": "142565",
+    "name": "Tira de Lixa de Aço Diamantada Perfurada 4mm Média - Microdont",
+    "price": "R$44,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-diamantada-perfurada-4mm-media-microdont-dental-cremer-142565.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-diamantada-perfurada-4mm-media-microdont-142565.html"
+  },
+  {
+    "sku": "713749",
+    "name": "Ionômero de Vidro Restaurador Uniglass R - DFL",
+    "price": "R$51,90",
+    "description": "Embalagem com 10g de Pó + 8ml Líquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/713749.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-restaurador-uniglass-r-dfl-713749.html"
+  },
+  {
+    "sku": "215373",
+    "name": "Fita Preformada de Poliéster - TDV",
+    "price": "R$82,90",
+    "description": "Embalagem com 20 unidades. Molar.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/215373.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-preformada-de-poliester-tdv-215373.html"
+  },
+  {
+    "sku": "DC30107",
+    "name": "Matriz BT Bioclear Grande 3M™ - Solventum",
+    "price": "R$831,90",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-bt-bioclear-grande-3m-dental-cremer-dc30107.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-bt-bioclear-grande-3m-solventum-dc30107.html"
+  },
+  {
+    "sku": "DC30106",
+    "name": "Matriz BT Bioclear Pequena 3M™ - Solventum",
+    "price": "R$831,90",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-bt-bioclear-pequena-3m-dental-cremer-dc30106.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-bt-bioclear-pequena-3m-solventum-dc30106.html"
+  },
+  {
+    "sku": "131688",
+    "name": "Matriz Seccional Pré-Molar Quickmat All-round - Polydentia",
+    "price": "R$260,00",
+    "description": "Embalagem com 15 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-seccional-pre-molar-quickmat-all-round-polydentia-131688-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccional-pre-molar-quickmat-all-round-polydentia-131688.html"
+  },
+  {
+    "sku": "755671",
+    "name": "Polidor de Amálgama Ultra Alloy Kit CA - American Burrs",
+    "price": "R$54,90",
+    "description": "Kit com 3 unidades. Chama. Fino, Médio ou Grosso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/755671.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-amalgama-ultra-alloy-kit-ca-american-burrs-755671.html"
+  },
+  {
+    "sku": "131686",
+    "name": "Matriz Anteriores Unica Minideep - Polydentia",
+    "price": "R$700,00",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-anteriores-unica-minideep-polydentia-131686-denta-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-anteriores-unica-minideep-polydentia-131686.html"
+  },
+  {
+    "sku": "122972",
+    "name": "Tira de Lixa de Poliéster Para Acabamento Proximal - TDV",
+    "description": "Embalagem com 150 unidades. 2,5mmx17cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-poliester-para-acabamento-proximal-tdv-122972-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-para-acabamento-proximal-tdv-122972.html"
+  },
+  {
+    "sku": "483840",
+    "name": "Disco de Feltro Mini - Kota",
+    "price": "R$14,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/483840.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-feltro-mini-kota-483840.html"
+  },
+  {
+    "sku": "131679",
+    "name": "Matriz Seccional LumiContrast Pré-Molar 0.04mm 5mm 35unid - Polydentia",
+    "price": "R$164,90",
+    "description": "Embalagem com 35 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-seccional-lumicontrast-pre-molar-0-04mm-5mm-35unid-polydentia-131679-01.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccional-lumicontrast-pre-molar-0-04mm-5mm-35unid-polydentia-131679.html"
+  },
+  {
+    "sku": "147474",
+    "name": "Matriz Seccionais Ultramatrix Anterior 0,03mm - American Burrs",
+    "price": "R$135,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-ultramatrix-anterior-0-03mm-american-burrs-147474.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccionais-ultramatrix-anterior-0-03mm-american-burrs-147474.html"
+  },
+  {
+    "sku": "381528",
+    "name": "Ponta Jiffy Polisher Sortido - Ultradent",
+    "price": "R$546,90",
+    "description": "Embalagem 20 unidades sortidas, sendo 5 Taças (2 abrasivas, 2 médias, 1 fina) + 5 Discos (2 abrasivas, 2 médios, 1 fino) + 10 Pontas (4 abrasivas, 4 médias, 2 finas).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-jiffy-polisher-sortido-ultradent-381528-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-jiffy-polisher-sortido-ultradent-381528.html"
+  },
+  {
+    "sku": "111176",
+    "name": "Matriz Seccional Quickmat com Extensão - Polydentia",
+    "price": "R$300,00",
+    "description": "Embalagem com 50 unidades.0,04mm 6,4mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-seccional-quickmat-com-extens-o-quinelato-111176-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccional-quickmat-com-extens-o-quinelato-111176.html"
+  },
+  {
+    "sku": "147475",
+    "name": "Matriz Seccionais Ultramatrix Anterior 0,03mm - American Burrs",
+    "price": "R$387,90",
+    "description": "Embalagem com 30 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-ultramatrix-anterior-0-03mm-american-burrs-147475.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccionais-ultramatrix-anterior-0-03mm-american-burrs-147475.html"
+  },
+  {
+    "sku": "552560",
+    "name": "Papel Carbono para Articulação Arti-Fol 12 Micras - Bausch",
+    "price": "R$298,90",
+    "description": "Rolo com 20 metros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-articulacao-arti-fol-12-micras-bausch-552560.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-filme-12-micras-kit-bausch-552560.html"
+  },
+  {
+    "sku": "475166",
+    "name": "Tira de Lixa de Poliéster 4mm - Microdont",
+    "price": "R$22,90",
+    "description": "Embalagem com 150 unidades. Granulações fina e média.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-poliester-microdont-475166-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-microdont-475166.html"
+  },
+  {
+    "sku": "131681",
+    "name": "Matriz Seccional LumiContrast Molar 0.04mm 6.4mm 35unid - Polydentia",
+    "price": "R$164,90",
+    "description": "Embalagem com 35 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-seccional-lumicontrast-molar-0-04mm-6-4mm-35unid-polydentia-131681-001.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccional-lumicontrast-molar-0-04mm-6-4mm-35unid-polydentia-131681.html"
+  },
+  {
+    "sku": "203318",
+    "name": "Cimento Compósito de Ionômero de Vidro Forrador Ionofast - Biodinâmica",
+    "price": "R$108,90",
+    "description": "Embalagem com 1 seringa de 2,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ionomero-de-vidro-ionofast-dental-cremer-203318-02.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-composito-de-ionomero-de-vidro-forrador-ionofast-biodinamica-203318.html"
+  },
+  {
+    "sku": "147463",
+    "name": "Pegador Ultratip Grande - American Burrs",
+    "price": "R$24,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pegador-ultratip-grande-american-burrs-147463-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pegador-ultratip-grande-american-burrs-147463.html"
+  },
+  {
+    "sku": "DC13196",
+    "name": "Ionômero de Vidro Restaurador Riva Light Cure - SDI",
+    "price": "R$543,90",
+    "description": "Embalagem com 50 cápsulas. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-ionomero-de-vidro-restaurador-riva-light-cure-sdi-dc13196.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-restaurador-riva-light-cure-sdi-dc13196.html"
+  },
+  {
+    "sku": "122903",
+    "name": "Mini Kit Matriz Unimatrix R – TDV",
+    "description": "Mini Kit com 25 matrizes sortidas, 1 grampo azul (hard - maior pressão) e 4 protetores de silicone triangulares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-unimatrix-r-mini-kit-tdv-embalagem-178821.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-unimatrix-r-mini-kit-tdv-122903.html"
+  },
+  {
+    "sku": "147385",
+    "name": "Disco de Lixa Optidisc - Kerr",
+    "price": "R$299,90",
+    "description": "Kit com 60 discos e 1 mandril. Confira o kit completo em Informações Adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-lixa-optidisc-60-unid-kerr-KER35167A.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-optidisc-kerr-147385.html"
+  },
+  {
+    "sku": "144401",
+    "name": "Ionômero de Vidro Ionglass Photo Blue - Maquira",
+    "price": "R$85,90",
+    "description": "Embalagem com 1 Seringa com 2,5g e 5 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ionomero-de-vidro-photo-blue-maquira-144401.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-photo-blue-maquira-144401.html"
+  },
+  {
+    "sku": "213744",
+    "name": "Tira de Lixa de Aço 2mm - Fava",
+    "price": "R$25,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-fava-213744.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava-213744.html"
+  },
+  {
+    "sku": "216981",
+    "name": "Escova de Polimento Brush Taça - Jota",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-polimento-brush-taca-jota-216981-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-brush-taca-jota-216981.html"
+  },
+  {
+    "sku": "756395",
+    "name": "Escova de Alumina para Polimento Ultra Brush CA - American Burrs",
+    "price": "R$48,90",
+    "description": "Embalagem com 1 unidade. Taça.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/756395.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-alumina-para-polimento-ultra-brush-ca-american-burrs-756395.html"
+  },
+  {
+    "sku": "356588",
+    "name": "Adesivo Ambar - FGM",
+    "price": "R$106,99",
+    "description": "Embalagem com 6ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-ambar-6ml-fgm-dental-cremer-356588.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-ambar-fgm-356588.html"
+  },
+  {
+    "sku": "DC24456",
+    "name": "Ponta OneGloss PS - Shofu",
+    "price": "R$100,90",
+    "description": "Embalagem com 10 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/794991.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-onegloss-ps-shofu-dc24456.html"
+  },
+  {
+    "sku": "142562",
+    "name": "Tira de Lixa de Aço Diamond Serrilhada Azul 2,5mm Média - Microdont",
+    "price": "R$34,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-diamond-serrilhada-azul-2-5mm-media-microdont-142562--01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-diamond-serrilhada-azul-2-5mm-media-microdont-142562.html"
+  },
+  {
+    "sku": "130471",
+    "name": "Tira de Lixa em Aço Adaco 4mm - Coltene",
+    "price": "R$71,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-em-aco-adaco-4mm-coltene-130471-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-em-aco-adaco-4mm-coltene-130471.html"
+  },
+  {
+    "sku": "DC18832",
+    "name": "Escova Jiffy Brush - Ultradent",
+    "price": "R$231,90",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/381535_635911399503762219.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-jiffy-brush-ultradent-dc18832.html"
+  },
+  {
+    "sku": "513202",
+    "name": "Tira de Lixa de Poliéster 4mm - Microdont",
+    "price": "R$14,90",
+    "description": "Embalagem com 50 unidades. Granulação fina e média.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-poliester-microdont-513202-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-microdont-513202.html"
+  },
+  {
+    "sku": "141109",
+    "name": "Kit Optibond FL Primer + Adesivo - Kerr",
+    "price": "R$520,90",
+    "description": "Kit com 1 unidade de Optibond FL Prime + 1 unidade de Adesivo Optibond FL Refil.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-optibond-fl-primer-adesivo-kerr-141109.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-optibond-fl-primer-adesivo-kerr-141109.html"
+  },
+  {
+    "sku": "122967",
+    "name": "Tira de Lixa Diamantada Microcut - TDV",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-diamantada-microcut-tdv-122967-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-diamantada-microcut-tdv-122967.html"
+  },
+  {
+    "sku": "142567",
+    "name": "Tira de Lixa de Aço com Óxido de Alumínio Serrilhada 2,5mm - Microdont",
+    "price": "R$32,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-com-oxido-de-aluminio-serrilhada-2-5mm-microdont-142567-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-com-oxido-de-aluminio-serrilhada-2-5mm-microdont-142567.html"
+  },
+  {
+    "sku": "138062",
+    "name": "Kit Ortho-Gloss Pro Max para Remoção de Bráquetes Estéticos e Slice - American Burrs",
+    "price": "R$338,90",
+    "description": "Kit com 5 polidores (OT3132, OT3202, OT3212, OT3322, OT33240) + 3 POntas Diamanatadas Invicta FG (2200, 2200F,02200FF) + 1 Broca Carbide (9904), 2 Pedras Arkansas (CG1513, CW1514) + 1 Broqueiro 75 Furos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-ortho-gloss-pro-max-para-remocao-de-braquetes-esteticos-e-slice-american-burrs-dc-138062.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-ortho-gloss-pro-max-para-remoc-o-de-braquetes-esteticos-e-slice-american-burrs-138062.html"
+  },
+  {
+    "sku": "757897",
+    "name": "Polidores para Resina EVE Ecocomp Kit - OdontoMega",
+    "price": "R$147,90",
+    "description": "Embalagem com 8 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/757897_636028022152814774.jpg",
+    "url": "https://www.dentalcremer.com.br/polidores-para-resina-eve-ecocomp-kit-odontomega-757897.html"
+  },
+  {
+    "sku": "DC38927",
+    "name": "Tira de Lixa Epigloss Rolo - American Burrs",
+    "price": "R$99,90",
+    "description": "Embalagem com 1 unidade. 4mmX6m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-epigloss-rolo-grosso-roxo-4mmx6m-1unid--american-burrs.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-epigloss-rolo-american-burrs-dc38927.html"
+  },
+  {
+    "sku": "DC28023",
+    "name": "Cimento Resinoso Dual Set PP - SDI",
+    "description": "Embalagem com 7g (seringa dupla) + 14 pontas misturadoras. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-set-pp-lovers-dental-cremer-lab-DC28023.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-set-pp-sdi-dc28023.html"
+  },
+  {
+    "sku": "DC25067",
+    "name": "Ponta Polidora de Cerâmica Roda 22x3 1mm - Dedeco",
+    "price": "R$19,90",
+    "description": "Embalagem com 3 unidades. Escolha a numeração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-de-ceramica-roda-cinza-br-22x3-1mm-n-7504--dental-cremer-752663.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-polidora-de-ceramica-roda-dedeco-dc25067.html"
+  },
+  {
+    "sku": "142551",
+    "name": "Tira de Lixa de Aço Diamantada Colméia 4mm - Microdont",
+    "price": "R$44,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-diamantada-colmeia-4mm-microdont-dental-cremer-142551.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-diamantada-colmeia-4mm-microdont-142551.html"
+  },
+  {
+    "sku": "114253",
+    "name": "Tira de Lixa de Aço 4mm - AllPrime",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-allprime-114253.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-114253.html"
+  },
+  {
+    "sku": "DC29900",
+    "name": "Tira de Lixa de Aço Diamantada Diamond Strip - TDV",
+    "description": "Embalagem com 12 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-aco-diamond-strip-tdv-dc29900-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-aco-diamond-strip-tdv-dc29900.html"
+  },
+  {
+    "sku": "148173",
+    "name": "Fita para Isolamento Ultratape - American Burrs",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade. 0,1x13mmx5m",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fita-para-isolamento-ultratape-american-burrs.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-para-isolamento-ultratape-american-burrs-148173.html"
+  },
+  {
+    "sku": "126210",
+    "name": "Kit MIR 2.0 Arco de Lixa - Microdont",
+    "price": "R$111,90",
+    "description": "Kit com 2 serras e 8 lixas MIR 2.0. Granulações: Extra-fino, fino, médio e grosso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-mir-2-arco-lixa-microdont-126210.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-mir-2-0-arco-de-lixa-microdont-126210.html"
+  },
+  {
+    "sku": "142566",
+    "name": "Tira de Lixa de Aço com Óxido de Alumínio Perfurada 4mm - Microdont",
+    "price": "R$32,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-diamond-serrilhada-verde-2-5mm-grossa-microdont-dental-cremer-142564-a.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-com-oxido-de-aluminio-perfurada-4mm-microdont-142566.html"
+  },
+  {
+    "sku": "544947",
+    "name": "Tira de Lixa Diamantada Microcut 6mm - TDV",
+    "price": "R$99,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lixa-diamantada-kit-microcut-tdv-544947.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-diamantada-microcut-tdv-544947.html"
+  },
+  {
+    "sku": "148182",
+    "name": "Tira de Lixa Pré-Cortadas Epigloss Light Sortido - American Burrs",
+    "price": "R$75,90",
+    "description": "Embalagem com 60 unidades (sortido).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cores-tira-de-lixa-pre-cortadas-epigloss-light-sortido-american-burrs.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-pre-cortadas-epigloss-light-sortido-american-burrs-148182.html"
+  },
+  {
+    "sku": "113015",
+    "name": "Kit Acabamento e Polimento Descomplicado Dicas para Dentistas - American Burrs",
+    "price": "R$568,90",
+    "description": "Kit com 3 Polidores de Resina CA Ultra-Gloss + 2 Escovas de Robinson Color-Brush + 2 Escovas de Polimento Ultra-Brush + 3 Brocas Carbide Invicta® Multilaminada + Broqueiro Autoclavavel com 34 furos (28 FG e 6 CA).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-signature-acabamento-e-polimento-descomplicado-american-burrs-113015.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-signature-acabamento-e-polimento-descomplicado-american-burrs-113015.html"
+  },
+  {
+    "sku": "DC38703",
+    "name": "Polidor de Cerâmica CA - Jota",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-de-ceramica-chama-cinza-9133g-ca-jota-145738.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-ceramica-ca-jota-dc38703.html"
+  },
+  {
+    "sku": "142564",
+    "name": "Tira de Lixa de Aço Diamond Serrilhada Verde 2,5mm Grossa - Microdont",
+    "price": "R$34,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-diamond-serrilhada-verde-2-5mm-grossa-microdont-142564-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-diamond-serrilhada-verde-2-5mm-grossa-microdont-142564.html"
+  },
+  {
+    "sku": "129389",
+    "name": "Kit Strip Estética - Coraldent",
+    "price": "R$452,90",
+    "description": "Kit com 6 pontas de lixas diamantadas (2 médias, 2 finas e 2 extra-finas) e 1 cabo. Confira mais detalhes em Informações Adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-strip-estetica-coraldent-129389-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-strip-estetica-coraldent-129389.html"
+  },
+  {
+    "sku": "108793",
+    "name": "Kit Invicta para Acabamento de Resina Anterior e Posterior Dr. Thiago Ottoboni – American Burrs",
+    "price": "R$380,90",
+    "description": "Kit com 10 peças + Broqueiro autoclavável de 34 furos (Confira o kit completo em Informações Adicionais).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-invicta-acabamento-de-resina-anterior-e-posterior-dr-thiago-ottoboni-dc-108793.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-dr-thiago-ottoboni-para-acabamento-de-resina-anterior-e-posterior-american-burrs-108793.html"
+  },
+  {
+    "sku": "DC11607",
+    "name": "Porta Matriz Tofflemire - Golgran",
+    "price": "R$30,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/344127.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-matriz-tofflemire-golgran-dc11607.html"
+  },
+  {
+    "sku": "757910",
+    "name": "Polidor EVE Ecoceram Plus Kit - OdontoMega",
+    "price": "R$154,90",
+    "description": "Embalagem com 7 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/757910_636028022083238328.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-eve-ecoceram-plus-kit-odontomega-757910.html"
+  },
+  {
+    "sku": "113016",
+    "name": "Kit Signature para Preparos Descomplicados Dicas para Dentistas - American Burrs",
+    "price": "R$511,90",
+    "description": "Kit com 15 peças + Broqueiro autoclavável de 34 furos (Confira o kit completo em Informações Adicionais).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-pontas-diamantadas-para-preparos-descomplicados-american-burrs-dental-cremer-113016.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-signature-para-preparos-descomplicados-dicas-para-dentistas-american-burrs-113016.html"
+  },
+  {
+    "sku": "DC24563",
+    "name": "Cimento Resinoso Foto Allcem Veneer APS - FGM",
+    "price": "R$328,99",
+    "description": "Embalagem com 2,5g + ponteiras. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-foto-allcem-veneer-aps-fgm-dc24563-03.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-foto-allcem-veneer-aps-fgm-dc24563.html"
+  },
+  {
+    "sku": "384796",
+    "name": "Papel Carbono Super Carbon Basic - Maquira",
+    "price": "R$9,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-super-carbon-basic-maquira-384796.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-super-carbon-basic-maquira-384796.html"
+  },
+  {
+    "sku": "708103",
+    "name": "Polidor de Resina Opti 1 Step Polisher - Kerr",
+    "price": "R$199,90",
+    "description": "Embalagem com 6 unidades. Sortidos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/7081031_635914066094613591.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-opti-1-step-polisher-kerr-708103.html"
+  },
+  {
+    "sku": "131618",
+    "name": "Kit Dr. Thiago Ottoboni para acabamento de Resina Anterior e Posterior - American Burrs",
+    "description": "Kit com 10 peças + Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-invicta-acabamento-de-resina-anterior-e-posterior-dr-thiago-ottoboni-dc-108793.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-dr-thiago-ottoboni-para-acabamento-de-resina-anterior-e-posterior-american-burrs-131618.html"
+  },
+  {
+    "sku": "115234",
+    "name": "Tira de Lixa de Aço 6mm - Preven",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115234.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-preven-115234.html"
+  },
+  {
+    "sku": "540208",
+    "name": "Tira de Lixa de Aço Airon 6mm - Maquira",
+    "price": "R$15,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-aco-airon-6mm-maquira-dc-540208-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-airon-maquira-540208.html"
+  },
+  {
+    "sku": "115300",
+    "name": "Polidor de Metal Ultra-Metal Bastão PM - American Burrs",
+    "price": "R$495,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115300.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-metal-ultra-metal-bast-o-pm-american-burrs-115300.html"
+  },
+  {
+    "sku": "629187",
+    "name": "Tira de Lixa de Aço 6mm - Preven",
+    "price": "R$12,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629187.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-preven-629187.html"
+  },
+  {
+    "sku": "DC23112",
+    "name": "Cimento Resinoso 3M™ Dual RelyX™ ARC - Solventum",
+    "price": "R$318,90",
+    "description": "Clicker com 4,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-relyxtm-arc-3m-dc23112.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-relyxtm-arc-3m-solventum-dc23112.html"
+  },
+  {
+    "sku": "145765",
+    "name": "Kit Preparo de Restaurações Cerâmicas by Dr. Oswaldo Scopin - Jota",
+    "price": "R$469,90",
+    "description": "Kit com 21 unidades + broqueiro. Modelo 2052",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-preparo-de-restauracoes-ceramicas-by-dr--oswaldo-scopin-jota-145765.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-preparo-de-restauracoes-ceramicas-by-dr-oswaldo-scopin-jota-145765.html"
+  },
+  {
+    "sku": "121185",
+    "name": "Tira de Lixa Diamantada Colméia Durastripe Médio 4mm  - American Burrs",
+    "price": "R$80,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-diamantada-colmeia-durastripe-medio-4mm-american-burss-121185-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-diamantada-colmeia-durastripe-medio-4mm-american-burrs-121185.html"
+  },
+  {
+    "sku": "409123",
+    "name": "Tira de Lixa de Aço 6mm - Microdont",
+    "price": "R$23,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-microdont-409123-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-microdont-409123.html"
+  },
+  {
+    "sku": "510966",
+    "name": "Disco de Carborundum Cinza - Dentorium",
+    "price": "R$18,90",
+    "description": "Embalagem com 10 unidades. Tamanho 22,2x0.6mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/510966.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-carborundum-cinza-dentorium-510966.html"
+  },
+  {
+    "sku": "658934",
+    "name": "Tiras Abrasivas de Poliéster - AF do Brasil",
+    "price": "R$14,90",
+    "description": "Embalagem com 150 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-poliester-4mm-orthomaster-af-do-brasil-658934.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-poliester-4mm-orthomaster-af-do-brasil-658934.html"
+  },
+  {
+    "sku": "143835",
+    "name": "Tira de Lixa Aço 6mm - AF do Brasil",
+    "price": "R$11,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-aco-6mm-aaf-143835.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-aco-6mm-af-do-brasil-143835.html"
+  },
+  {
+    "sku": "114479",
+    "name": "Tira de Lixa de Aço 4mm - Fava",
+    "description": "Embalagem com 12 unidades de 4mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-odontologica-fava-114479.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava-114479.html"
+  },
+  {
+    "sku": "147415",
+    "name": "Kit Acabamento e Polimento Clínico Polimento de Preparos Dr. Tchelo Giordani - American Burrs",
+    "price": "R$435,90",
+    "description": "Kit com 6 polidores (Ortho-Gloss) e 1 broqueiro. Confira o kit completo em Informações Adicionais.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-acabamento-e-polimento-clinico-polimento-de-preparos-dr--tchelo-giordani-american-burrs-147415.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-acabamento-e-polimento-clinico-polimento-de-preparos-dr-tchelo-giordani-american-burrs-147415.html"
+  },
+  {
+    "sku": "434941",
+    "name": "Adesivo Optibond FL Prime - Kerr",
+    "price": "R$367,90",
+    "description": "Embalagem com 1 frasco de primer de 8ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-optibond-fl-primer-kerr-434941-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-optibond-fl-kerr-434941.html"
+  },
+  {
+    "sku": "757866",
+    "name": "Polidor Diamantado EVE Diapol Kit - OdontoMega",
+    "price": "R$546,90",
+    "description": "Embalagem com 9 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/757866_636028043170450999.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-eve-diapol-kit-odontomega-757866.html"
+  },
+  {
+    "sku": "DC29151",
+    "name": "Polidor Diamantado EVE Diacomp Plus Occuflex DCO - OdontoMega",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/DC29151.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-eve-diacomp-plus-occuflex-dco-odontomega-dc29151.html"
+  },
+  {
+    "sku": "137500",
+    "name": "Pasta de Polimento Diamond Clin - Densell",
+    "price": "R$11,90",
+    "description": "Embalagem com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamond-clin-densell-137500.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamond-clin-densell-137500.html"
+  },
+  {
+    "sku": "119087",
+    "name": "Kit Laboratorial Paulo Kano 3D Magic MakeUp - American Burrs",
+    "price": "R$1.687,90",
+    "description": "Kit com 16 peças + 1 broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-laboratorial-paulo-kano-3d-magic-makeup-american-burrs-119087-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-laboratorial-paulo-kano-3d-magic-makeup-american-burrs-119087.html"
+  },
+  {
+    "sku": "DC30694",
+    "name": "Ponta Diamantada Cônica Topo Chama FG - KG Sorensen",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-diamantada-conica-extremidade-chama-fg-kg-sorensen-502367-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-diamantada-conica-topo-chama-fg-kg-sorensen-dc30694.html"
+  },
+  {
+    "sku": "567250",
+    "name": "Ionômero de Vidro Para Cimentação Riva Luting - SDI",
+    "price": "R$163,90",
+    "description": "Kit com 15g de Pó + 10,7ml de Líquido + Acessórios.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ionomero-de-vidro-para-cimentac-o-riva-luting-sdi-567250-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-para-cimentac-o-riva-luting-sdi-567250.html"
+  },
+  {
+    "sku": "111169",
+    "name": "Escova Nylon PM - American Burrs",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade. 22mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111169.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-nylon-pm-american-burrs-111169.html"
+  },
+  {
+    "sku": "DC24188",
+    "name": "Escova EVE Brush - OdontoMega",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-eve-brush-odontomega-dental-cremer-dc24188.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eve-brush-odontomega-dc24188.html"
+  },
+  {
+    "sku": "596151",
+    "name": "Escova Optishine - Kerr",
+    "price": "R$146,90",
+    "description": "Embalagem com 3 unidades. Formato concavo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/596151_635877619223850248.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-optishine-kerr-596151.html"
+  },
+  {
+    "sku": "143354",
+    "name": "Abridor de Boca Infantil - Iodontosul",
+    "price": "R$6,89",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/abridor-de-boca-infantil-iodontosul-dental-cremer-143354.jpg",
+    "url": "https://www.dentalcremer.com.br/abridor-de-boca-infantil-iodontosul-143354.html"
+  },
+  {
+    "sku": "143273",
+    "name": "Tira de Lixa de Poliéster - Iodontosul",
+    "price": "R$16,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-poliester-iodontosul-143273.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-iodontosul-143273.html"
+  },
+  {
+    "sku": "DC17426",
+    "name": "Cimento Resinoso Foto NX3 Light-Cure - Kerr",
+    "price": "R$275,90",
+    "description": "Embalagem com 1,8g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-foto-nx3-light-cure-kerr-dc17426-1.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-foto-nx3-light-cure-kerr-dc17426.html"
+  },
+  {
+    "sku": "757835",
+    "name": "Escova EVE Brush - OdontoMega",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade. CA (Baixa Rotação). (Taça WT1)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/757835.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eve-brush-odontomega-757835.html"
+  },
+  {
+    "sku": "143356",
+    "name": "Papel Carbono 12 Tiras Azul - Iodontosul",
+    "price": "R$3,39",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-12-tiras-azul-iodontosul-dental-cremer-143356.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-12-tiras-azul-iodontosul-143356.html"
+  },
+  {
+    "sku": "145725",
+    "name": "Kit Refinamento de Zircônia Pré-Sinterizada 1936 - Jota",
+    "price": "R$544,90",
+    "description": "Componentes do Kit em Detalhes do produto.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-refinamento-de-zirconia-pre-sinterizada-1936-jota-145725.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-refinamento-de-zirconia-pre-sinterizada-1936-jota-145725.html"
+  },
+  {
+    "sku": "DC26056",
+    "name": "Polidor de Cromo Cobalto Verde - Dedeco",
+    "price": "R$384,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/776867.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-cromo-cobalto-verde-dedeco-dc26056.html"
+  }
+]

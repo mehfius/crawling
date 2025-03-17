@@ -1,0 +1,766 @@
+[
+  {
+    "sku": "483956",
+    "name": "Pincel Pelo Marta Kolinsky - Kota",
+    "price": "R$265,90",
+    "description": "Embalagem com 1 unidade. N° 7.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/483956.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-kota-483956.html"
+  },
+  {
+    "sku": "137810",
+    "name": "Resina Acrílica Auto Pattern Bright Pó - Kota",
+    "description": "Embalagem com 25g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-auto-pattern-bright-pota-kota-25g-485110-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-auto-pattern-bright-po-kota-137810.html"
+  },
+  {
+    "sku": "660142",
+    "name": "Liga Metálica Fit Flex - Talmax",
+    "price": "R$535,90",
+    "description": "Embalagem com 500g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-embalagem-liga-metalica-fit-flex-talmax-660142.jpg",
+    "url": "https://www.dentalcremer.com.br/liga-metalica-fit-flex-talmax-660142.html"
+  },
+  {
+    "sku": "525274",
+    "name": "Resina Acrílica Termopolimerizável Cril Plus Líquido - Vipi",
+    "price": "R$178,90",
+    "description": "Embalagem com 1L. Com crosslink.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-vipi-cril-plus-liquido-dental-cremer-525274.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-vipi-cril-plus-liquido-vipi-525274.html"
+  },
+  {
+    "sku": "DC13398",
+    "name": "Polidor de Cerâmica Ultra-Cerapol Chama PM - American Burrs",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-de-ceramica-ultra-cerapol-chama-pm-american-burrs-dental-cremer-dc13398.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-ceramica-ultra-cerapol-chama-pm-american-burrs-dc13398.html"
+  },
+  {
+    "sku": "700176",
+    "name": "Pincel Pelo Marta Kolinsky Skyline N° 8 - OdontoMega",
+    "price": "R$440,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700176_635851630513365187.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-skyline-n-8-odontomega-700176.html"
+  },
+  {
+    "sku": "700206",
+    "name": "Pincel Pelo Sintético Allblack N°6 - Mega",
+    "price": "R$99,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-sintetico-allblack-n-6-mega-700206-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-sintetico-allblack-n-6-mega-700206.html"
+  },
+  {
+    "sku": "DC16278",
+    "name": "Resina Acrílica Termopolimerizável Cril Plus Pó - Vipi",
+    "price": "R$63,90",
+    "description": "Embalagem com 225g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/525076.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-vipi-cril-plus-po-vipi-dc16278.html"
+  },
+  {
+    "sku": "130342",
+    "name": "Pincel Kolinsky Class N°10 - Talmax",
+    "price": "R$186,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-kolinsky-class-n-10-talmax-130342-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-kolinsky-class-n-10-talmax-130342.html"
+  },
+  {
+    "sku": "DC25629",
+    "name": "Disco Diamantado Flexível - KG",
+    "price": "R$71,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/103330.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-flexivel-kg-dc25629.html"
+  },
+  {
+    "sku": "127266",
+    "name": "Pincel Pelo Natural Genius Nº 2 - Renfert",
+    "price": "R$414,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-natural-genius-n-2-renfert-127266-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-genius-n-2-renfert-127266.html"
+  },
+  {
+    "sku": "655186",
+    "name": "Esponja para Limpeza de Pincéis - Defama",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/655186.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-para-limpeza-de-pinceis-defama-655186.html"
+  },
+  {
+    "sku": "597219",
+    "name": "Pincel Pelo Marta Kolinsky - Renfert",
+    "price": "R$553,90",
+    "description": "Embalagem com 2 unidades. N° 4.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/597219_635930427853841348.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-renfert-597219.html"
+  },
+  {
+    "sku": "597424",
+    "name": "Pincel Pelo Natural Lay Art Slim N° 8 - Renfert",
+    "price": "R$1.695,90",
+    "description": "Embalagem com 1 unidade. N° 8.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-natural-lay-art-slim-renfert-597424-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-lay-art-slim-renfert-597424.html"
+  },
+  {
+    "sku": "700374",
+    "name": "Pincel Pelo Misto Keramik New N°8 - Mega",
+    "price": "R$142,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-misto-keramik-new-n8-700374-mega-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-misto-keramik-new-n-8-mega-700374.html"
+  },
+  {
+    "sku": "700244",
+    "name": "Pincel Pelo Kolinsky Blueline N° 4 - OdontoMega",
+    "price": "R$100,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700244_635877570030090895.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-kolinsky-blueline-n-4-odontomega-700244.html"
+  },
+  {
+    "sku": "145152",
+    "name": "Kit Pincel Pelo Biônico Lay Art Evo Detail Up - Renfert",
+    "price": "R$856,90",
+    "description": "Kit com 1 cabo fino e 3 pontas de pincel (Color, Opaco e Nº2).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-pincel-pelo-bionico-lay-art-evo-detail-up-145152.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-pincel-pelo-bionico-lay-art-evo-detail-up-renfert-145152.html"
+  },
+  {
+    "sku": "184563",
+    "name": "Kit Mini de Polimento de Resina - AllPrime",
+    "price": "R$53,90",
+    "description": "Kit com 6 unidades + Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-pontas-polimento-de-resina-allprime-dc-184563-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-mini-de-polimento-de-resina-allprime-184563.html"
+  },
+  {
+    "sku": "DC38638",
+    "name": "Pincel Pelo Biônico Lay Art Evo Nº 8 - Renfert",
+    "price": "R$594,90",
+    "description": "Embalagem com 1 cabo e 1 ponta de pincel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-bionico-lay-art-evo-flame-n-8-renfert-145136.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-bionico-lay-art-evo-n-8-renfert-dc38638.html"
+  },
+  {
+    "sku": "127272",
+    "name": "Refil de Ponta de Pincel Pelo Natural Genius Nº 4 - Renfert",
+    "price": "R$548,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-natural-genius-n-4-renfert-127272.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-natural-genius-n-4-renfert-127272.html"
+  },
+  {
+    "sku": "144771",
+    "name": "Pincel Modelar Toray - Kulzer",
+    "price": "R$140,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-modelar-toray-kulzer-144771-a.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-modelar-toray-kulzer-144771.html"
+  },
+  {
+    "sku": "700183",
+    "name": "Pincel Pelo Sintético Allblack N°2 - Mega",
+    "price": "R$75,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-sintetico-allblack-n-2-mega-700183-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-sintetico-allblack-n-2-mega-700183.html"
+  },
+  {
+    "sku": "DC38636",
+    "name": "Pincel Pelo Biônico Lay Art Evo Nº 4 - Renfert",
+    "price": "R$465,90",
+    "description": "Embalagem com 1 cabo e 1 ponta de pincel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-bionico-lay-art-evo-flame-n-4-renfert-145131.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-bionico-lay-art-evo-n-4-renfert-dc38636.html"
+  },
+  {
+    "sku": "109964",
+    "name": "Pincel Kolinsky Maestro Nº6 - OdontoMega",
+    "price": "R$304,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109964.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-kolinsky-maestro-n-6-odontomega-109964.html"
+  },
+  {
+    "sku": "130341",
+    "name": "Pincel Kolinsky Class N°8 - Talmax",
+    "price": "R$147,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-kolinsky-class-n-8-talmax-130341.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-kolinsky-class-n-8-talmax-130341.html"
+  },
+  {
+    "sku": "DC38637",
+    "name": "Pincel Pelo Biônico Lay Art Evo Nº 6 - Renfert",
+    "price": "R$545,90",
+    "description": "Embalagem com 1 cabo e 1 ponta de pincel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-bionico-lay-art-evo-flame-n-6-renfert-145133.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-bionico-lay-art-evo-n-6-renfert-dc38637.html"
+  },
+  {
+    "sku": "127271",
+    "name": "Refil de Ponta de Pincel Pelo Natural Genius Nº 2 - Renfert",
+    "price": "R$380,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-natural-genius-n-2-renfert-127271.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-natural-genius-n-2-renfert-127271.html"
+  },
+  {
+    "sku": "700152",
+    "name": "Pincel Pelo Marta Kolinsky Skyline N°4 - Mega",
+    "price": "R$154,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-marta-kolinsky-skyline-n-4-mega-700152-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-skyline-n-4-mega-700152.html"
+  },
+  {
+    "sku": "127268",
+    "name": "Pincel Pelo Natural Genius Nº 6 - Renfert",
+    "price": "R$507,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-natural-genius-n-6-renfert-127268-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-genius-n-6-renfert-127268.html"
+  },
+  {
+    "sku": "700145",
+    "name": "Pincel Pelo Marta Kolinsky Skyline Nº 2 - OdontoMega",
+    "price": "R$108,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pelo-marta-kolinsky-skyline-odontomega-700145.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-skyline-n-2-odontomega-700145.html"
+  },
+  {
+    "sku": "145139",
+    "name": "Pincel Pelo Biônico Lay Art Evo Cabo Fino Color - Renfert",
+    "price": "R$437,90",
+    "description": "Embalagem com 1 cabo e 1 ponta de pincel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-bionico-lay-art-evo-cabo-fino-color-1unid--145139.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-bionico-lay-art-evo-cabo-fino-color-renfert-145139.html"
+  },
+  {
+    "sku": "145140",
+    "name": "Refil de Ponta de Pincel Pelo Biônico Lay Art Evo Color - Renfert",
+    "price": "R$374,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-color-2unid--145140.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-color-renfert-145140.html"
+  },
+  {
+    "sku": "144769",
+    "name": "Pincel Glaze - Kulzer",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-glaze-kulzer-hs.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-glaze-kulzer-144769.html"
+  },
+  {
+    "sku": "700329",
+    "name": "Pincel Pelo Sintético AllWhite N°6 - Mega",
+    "price": "R$52,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-sintetico-allwhite-n-6-mega-700329-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-sintetico-allwhite-n-6-mega-700329.html"
+  },
+  {
+    "sku": "700190",
+    "name": "Pincel Pelo Sintético Allblack N°4  - Mega",
+    "price": "R$96,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-sintetico-allblack-n-4-mega-700190-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-sintetico-allblack-n-4-mega-700190.html"
+  },
+  {
+    "sku": "109961",
+    "name": "Pincel Kolinsky Maestro Nº2 - OdontoMega",
+    "price": "R$165,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109961.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-kolinsky-maestro-n-2-odontomega-109961.html"
+  },
+  {
+    "sku": "127273",
+    "name": "Refil de Ponta de Pincel Pelo Natural Genius Nº 6 - Renfert",
+    "price": "R$853,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-natural-genius-n-6-renfert-127273-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-natural-genius-n-6-renfert-127273.html"
+  },
+  {
+    "sku": "597417",
+    "name": "Pincel Pelo Natural Lay Art Slim Nº 6 - Renfert",
+    "price": "R$1.173,90",
+    "description": "Embalagem com 1 unidade. Nº 6.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-natural-lay-art-slim-renfert-597417-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-lay-art-slim-renfert-597417.html"
+  },
+  {
+    "sku": "144770",
+    "name": "Pincel Modelar Kolinski - Kulzer",
+    "price": "R$321,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-modelar-kolinski-kulzer-144770-a.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-modelar-kolinski-kulzer-144770.html"
+  },
+  {
+    "sku": "127281",
+    "name": "Esponja para Limpeza de Pincéis - Renfert",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esponja-para-limpeza-de-pinceis-renfert-127281.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-para-limpeza-de-pinceis-renfert-127281.html"
+  },
+  {
+    "sku": "109965",
+    "name": "Pincel Kolinsky Maestro Nº8 - OdontoMega",
+    "price": "R$539,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109965.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-kolinsky-maestro-n-8-odontomega-109965.html"
+  },
+  {
+    "sku": "145130",
+    "name": "Pincel Pelo Biônico Lay Art Evo Cabo Fino Nº 2 - Renfert",
+    "price": "R$427,90",
+    "description": "Embalagem com 1 cabo e 1 ponta de pincel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-bionico-lay-art-evo-cabo-fino-n-2-1unid--145130.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-bionico-lay-art-evo-cabo-fino-n-2-renfert-145130.html"
+  },
+  {
+    "sku": "DC38639",
+    "name": "Refil de Ponta de Pincel Pelo Biônico Lay Art Evo Nº 4 - Renfert",
+    "price": "R$465,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-flame-n-4-renfert-145141.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-n-4-renfert-dc38639.html"
+  },
+  {
+    "sku": "127269",
+    "name": "Pincel Pelo Natural Genius Nº 8 - Renfert",
+    "price": "R$768,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-natural-genius-n-8-renfert-127269-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-genius-n-8-renfert-127269.html"
+  },
+  {
+    "sku": "126642",
+    "name": "Pincel Pelo Marta Kolinsky Skyline Nº 6 - OdontoMega",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lovers-pincel-pelo-marta-kolisnky-skyline-numero-6-odontomega-126642.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-skyline-n-6-odontomega-126642.html"
+  },
+  {
+    "sku": "127267",
+    "name": "Pincel Pelo Natural Genius Nº 4 - Renfert",
+    "price": "R$455,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-natural-genius-n-4-renfert-127267-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-genius-n-4-renfert-127267.html"
+  },
+  {
+    "sku": "597400",
+    "name": "Pincel Pelo Natural Lay Art Slim Nº 4 - Renfert",
+    "price": "R$502,90",
+    "description": "Embalagem com 1 unidade. Nº 4.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-natural-lay-art-slim-renfert-597400-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-lay-art-slim-renfert-597400.html"
+  },
+  {
+    "sku": "DC38635",
+    "name": "Cabo para Pincel Lay Art Evo - Renfert",
+    "price": "R$601,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-para-pincel-lay-art-evo-fino-renfert-145128.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-pincel-lay-art-evo-renfert-dc38635.html"
+  },
+  {
+    "sku": "145153",
+    "name": "Suporte para Pincel Lay Art Evo Refresher - Renfert",
+    "price": "R$585,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suporte-para-pincel-lay-art-evo-refresher-1unid--145153.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-pincel-lay-art-evo-refresher-renfert-145153.html"
+  },
+  {
+    "sku": "145135",
+    "name": "Refil de Ponta de Pincel Pelo Biônico Lay Art Evo Nº - Renfert",
+    "price": "R$427,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-n-2-2unid--145135.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-n-renfert-145135.html"
+  },
+  {
+    "sku": "144773",
+    "name": "Pincel Opaco Pasta - Kulzer",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-opaco-pasta-kulzer-144773-a.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-opaco-pasta-kulzer-144773.html"
+  },
+  {
+    "sku": "DC38641",
+    "name": "Refil de Ponta de Pincel Pelo Biônico Lay Art Evo Nº 8 - Renfert",
+    "price": "R$594,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-flame-n-8-renfert-145146.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-n-8-renfert-dc38641.html"
+  },
+  {
+    "sku": "DC38640",
+    "name": "Refil de Ponta de Pincel Pelo Biônico Lay Art Evo Nº 6 - Renfert",
+    "price": "R$545,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-flame-n-6-renfert-145143.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-n-6-renfert-dc38640.html"
+  },
+  {
+    "sku": "130349",
+    "name": "Pincel Kolinsky Funcional Class Finish - Talmax",
+    "price": "R$53,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-kolinsky-funcional-class-finish-talmax-dental-cremer-130349.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-kolinsky-funcional-class-finish-talmax-130349.html"
+  },
+  {
+    "sku": "479638",
+    "name": "Resina Acrílica Autopolimerizável Líquida - TDV",
+    "price": "R$45,90",
+    "description": "Frasco com 120ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/479638.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-liquida-tdv-479638.html"
+  },
+  {
+    "sku": "145148",
+    "name": "Pincel Pelo Biônico Lay Art Evo Cabo Fino Opaco - Renfert",
+    "price": "R$468,90",
+    "description": "Embalagem com 1 cabo e 1 ponta de pincel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-bionico-lay-art-evo-cabo-fino-opaco-1unid--145148.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-bionico-lay-art-evo-cabo-fino-opaco-renfert-145148.html"
+  },
+  {
+    "sku": "144774",
+    "name": "Pincel Stain - Kulzer",
+    "price": "R$179,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-stain-kulzer-144774-a.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-stain-kulzer-144774.html"
+  },
+  {
+    "sku": "151677",
+    "name": "Kit Combo Polimento Perfeito - Kerr",
+    "price": "R$536,90",
+    "description": "Embalagem com 1 Kit Polidor de Resina Opti 1 Step Polisher, 1 Kit Escova de Carbeto de Silício Occlubrush e 1 Kit Disco de Lixa OptiDisc Remoção de Excessos (Mais detalhes em informações adicionais).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-combo-polimento-perfeito-kerr-151677.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-combo-polimento-perfeito-kerr-151677.html"
+  },
+  {
+    "sku": "130346",
+    "name": "Pincel Kolinsky Personal Class N°8 Amarelo - Talmax",
+    "price": "R$244,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-kolinsky-personal-class-n-8-amarelo-talmax-130346-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-kolinsky-personal-class-n-8-amarelo-talmax-130346.html"
+  },
+  {
+    "sku": "145149",
+    "name": "Refil de Ponta de Pincel Pelo Biônico Lay Art Evo Opaco - Renfert",
+    "price": "R$432,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-opaco-2unid--145149.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-ponta-de-pincel-pelo-bionico-lay-art-evo-opaco-renfert-145149.html"
+  },
+  {
+    "sku": "533699",
+    "name": "Resina Acrílica Orto-Clas Ecológica Kit - Clássico",
+    "price": "R$361,90",
+    "description": "Kit com 7 frascos de 80g cada + 4 pigmentos concentrados + 1 escala de cores + 1 espátula.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/533699.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-orto-clas-ecologica-kit-classico-533699.html"
+  },
+  {
+    "sku": "DC16265",
+    "name": "Resina Acrílica Gengiva Termopolimerizável STG Pó - Vipi",
+    "price": "R$219,90",
+    "description": "Embalagem de 80g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/524543.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-gengiva-stg-po-vipi-dc16265.html"
+  },
+  {
+    "sku": "137814",
+    "name": "Resina Acrílica Autopolimerizável Jet Líquido - Clássico",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-jet-liquido-classico-500196.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-jet-liquido-classico-137814.html"
+  },
+  {
+    "sku": "741100",
+    "name": "Lamparina New Light de Alumínio - S.E. Comercial",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamparina-new-light-de-aluminio-konnen-741100-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/lamparina-new-light-de-aluminio-s-e-comercial-741100.html"
+  },
+  {
+    "sku": "605099",
+    "name": "Curva de Spee Superior de Alumínio - Jon",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/curva-de-spee-superior-de-aluminio-dental-cremer-605099-01.jpg",
+    "url": "https://www.dentalcremer.com.br/curva-de-spee-superior-de-aluminio-jon-605099.html"
+  },
+  {
+    "sku": "255881",
+    "name": "Resina Acrílica Dencôr Líquido - Clássico",
+    "price": "R$37,90",
+    "description": "Frasco com 60ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-dencor-liquido-classico-255881-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-dencor-liquido-classico-255881.html"
+  },
+  {
+    "sku": "700398",
+    "name": "Kit EVE Diapol H8 para Acabamento e Polimento de Cerâmicas - OdontoMega",
+    "price": "R$259,90",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-eve-diapol-h8-para-acabamento-e-polimento-de-ceramicas-da-odontomega-700398.jpg",
+    "url": "https://www.dentalcremer.com.br/acabamento-e-polimento-ceram-eve-diapol-h8-kit-odontomega-700398.html"
+  },
+  {
+    "sku": "680447",
+    "name": "Pasta de Polimento Universal - Ivoclar Vivadent",
+    "price": "R$72,90",
+    "description": "Embalagem com 100ml",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/680447_635828579183892224.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-universal-ivoclar-vivadent-680447.html"
+  },
+  {
+    "sku": "642612",
+    "name": "Líquido de Modelar Resimix - Wilcos",
+    "price": "R$107,90",
+    "description": "Embalagem com 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/642612_635912941778049754.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-resimix-wilcos-642612.html"
+  },
+  {
+    "sku": "DC10836",
+    "name": "Resina Acrílica Autopolimerizável Jet Pó - Clássico",
+    "price": "R$317,90",
+    "description": "Embalagem com 1Kg. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/500202.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-jet-po-classico-dc10836.html"
+  },
+  {
+    "sku": "533590",
+    "name": "Resina Acrílica Orto-Clas com Crosslink - Clássico",
+    "price": "R$47,90",
+    "description": "Embalagem com 120ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/533590.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-orto-clas-com-crosslink-classico-533590.html"
+  },
+  {
+    "sku": "594959",
+    "name": "Placa de Montagem Magnética - Bio-Art",
+    "price": "R$182,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-de-montagem-magnetica-bio-art-594959.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-montagem-magnetica-bio-art-594959.html"
+  },
+  {
+    "sku": "146169",
+    "name": "Pasta de Polimento Espelhado - Superdont",
+    "price": "R$38,90",
+    "description": "Embalagem com 1 seringa de 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-espelhado-superdont-146169.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-espelhado-superdont-146169.html"
+  },
+  {
+    "sku": "122933",
+    "name": "Resina Acrílica Autopolimerizável Líquida - TDV",
+    "description": "Frasco com 120ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-liquida-tdv-122933-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-liquida-tdv-122933.html"
+  },
+  {
+    "sku": "137345",
+    "name": "Líquido Autopolimerizável sem Crosslink Lata 1L - Triunfo",
+    "price": "R$103,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-autopolimerizavel-com-crosslink-5l-triunfo-dental-cremer-01-137360.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-autopolimerizavel-sem-crosslink-lata-1l-triunfo-137345.html"
+  },
+  {
+    "sku": "101105",
+    "name": "Pedra Arkansas Cônica Afilada FG Nº 645 - Jota",
+    "price": "R$19,90",
+    "description": "Embalagem com 1unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-pedra-arkansas-conica-afilada-645ark-jota-101105.jpg",
+    "url": "https://www.dentalcremer.com.br/pedra-arkansas-conica-fg-n-645-jota-101105.html"
+  },
+  {
+    "sku": "642766",
+    "name": "Revestimento Bellavest SH - Bego",
+    "price": "R$1.473,90",
+    "description": "Embalagem com 144 sachês de 90g cada (peso 12,96kg).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-bellavest-sh-12kg-bego-dental-cremer-642766.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-bellavest-sh-bego-wilcos-642766.html"
+  },
+  {
+    "sku": "127279",
+    "name": "Disco de Corte Dynex 0,5x40mm - Renfert",
+    "price": "R$548,90",
+    "description": "Embalagem com 20 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-corte-dynex-0-5x40mm-renfert-127279-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-corte-dynex-0-5x40mm-renfert-127279.html"
+  },
+  {
+    "sku": "652000",
+    "name": "Revestimento Gilvest HS - Bradent",
+    "price": "R$480,90",
+    "description": "Embalagem com 1 sachê de 4kg + 1 litro de liquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/revestimento-gilvest-hs-bradent-652000-lab-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/revestimento-gilvest-hs-bradent-652000.html"
+  },
+  {
+    "sku": "137343",
+    "name": "Líquido Autopolimerizável com Crosslink Lata 1L - Triunfo",
+    "price": "R$114,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-autopolimerizavel-com-crosslink-5l-triunfo-dental-cremer-137360-aa.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-autopolimerizavel-com-crosslink-lata-1l-triunfo-137343.html"
+  },
+  {
+    "sku": "DC13131",
+    "name": "Resina Acrílica Orto-Clas Ecológica - Clássico",
+    "price": "R$50,90",
+    "description": "Frasco com 80g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/533613.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-orto-clas-ecologica-classico-dc13131.html"
+  },
+  {
+    "sku": "137366",
+    "name": "Líquido Termopolimerizável sem Crosslink Lata 1L - Triunfo",
+    "price": "R$94,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-termopolimerizavel-sem-crosslink-lata-5l-triunfo-dental-cremer-137367-aa.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-termopolimerizavel-sem-crosslink-lata-1l-triunfo-137366.html"
+  },
+  {
+    "sku": "DC24138",
+    "name": "Pote Dappen de Silicone - Maquira",
+    "price": "R$6,19",
+    "description": "Embalagem com 1 unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pote-dappen-de-silicone-maquira-dc24138-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-silicone-maquira-dc24138.html"
+  },
+  {
+    "sku": "DC26063_2",
+    "name": "Disco Diamantado Montado PM - Jota",
+    "price": "R$101,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-montado-pm-jota-DC26063-2.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-montado-pm-jota-dc26063-2.html"
+  },
+  {
+    "sku": "707489",
+    "name": "Broqueiro Acrílico 102 Furos AR/FG/PM - Ortoguaru",
+    "price": "R$79,80",
+    "description": "Unidade. 30 Furos Baixa Rotação, 36 Furos Alta Rotação e 36 Furos Peça de Mão.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/707489_635908089791373847.jpg",
+    "url": "https://www.dentalcremer.com.br/broqueiro-acrilico-102-furos-ar-fg-pm-ortoguaru-707489.html"
+  },
+  {
+    "sku": "DC13396",
+    "name": "Polidor de Cerâmica Ultra Cerapol Roda - American Burrs",
+    "price": "R$43,90",
+    "description": "Embalagem com 3 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-de-ceramica-ultra-cerapol-roda-pm-american-burrs-dental-cremer-dc13396.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-ceramica-ultra-cerapol-roda-american-burrs-dc13396.html"
+  },
+  {
+    "sku": "597011",
+    "name": "Pasta de Polimento Opal L - Renfert",
+    "price": "R$150,90",
+    "description": "Embalagem com 35g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-opal-l-renfert-597011.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-opal-l-renfert-597011.html"
+  },
+  {
+    "sku": "603774",
+    "name": "Ponta Pedra Diamantada para Dissilicato de Lítio e Cerâmica Duraturbo PM - American Burrs",
+    "price": "R$388,90",
+    "description": "Embalagem com 1 unidade. Fina. Taça, Pincel, Pincel Cônico e Roda.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/603774.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-diamantada-para-dissilicato-de-litio-e-ceramica-duraturbo-pm-american-burrs-603774.html"
+  },
+  {
+    "sku": "DC18126",
+    "name": "Resina Acrílica Termopolimerizável Pó - TDV",
+    "price": "R$223,90",
+    "description": "Embalagem com 1kg. Resina Termo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/479584.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-po-tdv-dc18126.html"
+  },
+  {
+    "sku": "DC21671",
+    "name": "Resina Signum Ceramis - Kulzer",
+    "price": "R$199,90",
+    "description": "Nanohíbrida. Embalagem com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-signum-ceramis-kulzer-dc21671.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-signum-ceramis-kulzer-dc21671.html"
+  },
+  {
+    "sku": "485103",
+    "name": "Resina Acrílica Pattern Bright Líquida - Kota",
+    "price": "R$59,90",
+    "description": "Frasco com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/485103.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-pattern-bright-liquida-kota-485103.html"
+  },
+  {
+    "sku": "DC30393",
+    "name": "Opacificador Opaclean - Imodonto",
+    "price": "R$83,90",
+    "description": "Embalagem com 10ml. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/opacificador-opaclean-rosa-medio-10ml-opaclean-130466-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/opacificador-opaclean-opaclean-dc30393.html"
+  },
+  {
+    "sku": "DC38126",
+    "name": "Resina Acrílica Autopolimerizável Ortodôntica 225g - Triunfo",
+    "price": "R$63,90",
+    "description": "Embalagem com 225g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-ortodontica-225g-137241.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-ortodontica-225g-triunfo-dc38126.html"
+  },
+  {
+    "sku": "DC21989",
+    "name": "Ponta Pedra Montada - Schelble",
+    "price": "R$41,90",
+    "description": "Embalagem com 10 unidades. Bastão Médio.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/731552_636129156037842002.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-montada-schelble-dc21989.html"
+  },
+  {
+    "sku": "525441",
+    "name": "Resina Acrílica Autopolimerizável Flash Líquido - Vipi",
+    "price": "R$105,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-resina-autopolimerizavel-vipi-flash-500ml-525441.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-vipi-flash-liquido-vipi-525441.html"
+  },
+  {
+    "sku": "146167",
+    "name": "Resina Acrílica Gel Superlay - Superdont",
+    "price": "R$68,90",
+    "description": "Embalagem com 1 seringa de 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-gel-superlay-superdont-146167.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-gel-superlay-superdont-146167.html"
+  }
+]

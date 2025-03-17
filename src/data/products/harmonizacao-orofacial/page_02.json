@@ -1,0 +1,730 @@
+[
+  {
+    "sku": "122079",
+    "name": "Cluster Led Linear Azul - HTM",
+    "price": "R$908,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cluster-led-linear-azul-htm-122079-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cluster-led-linear-azul-htm-122079.html"
+  },
+  {
+    "sku": "107526",
+    "name": "Caneta Elétrica de Microagulhamento Smart Derma Pen - Smart GR",
+    "price": "R$1.348,90",
+    "description": "Unidade. Bivolt. 2,50mm. Acompanha 2 cartuchos de agulha com modelos misto + 1 adaptador DC e 2 baterias recarregáveis.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-eletrica-microagulhamento-smart-derma-pen-smart-gr-107526.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-eletrica-para-microagulhamento-derma-pen-smart-gr.html"
+  },
+  {
+    "sku": "122095",
+    "name": "Cluster Maxx Led Infravermelho 850Nm - HTM",
+    "price": "R$2.138,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cluster-maxx-led-infravermelho-850nm-htm-122095-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cluster-maxx-led-infravermelho-850nm-htm-122095.html"
+  },
+  {
+    "sku": "122085",
+    "name": "Caneta 658Nm 180Mw - HTM",
+    "price": "R$858,90",
+    "description": "Embalagem com 1 caneta 658Nm - 180Mw.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-658nm-180mw-htm-122085-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-658nm-180mw-htm-122085.html"
+  },
+  {
+    "sku": "122087",
+    "name": "Caneta 830Nm 200Mw - HTM",
+    "price": "R$858,90",
+    "description": "Embalagem com 1 caneta 830Nm - 200Mw.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-830nm-200mw-htm-122087-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-830nm-200mw-htm-122087.html"
+  },
+  {
+    "sku": "122096",
+    "name": "Cluster Maxx Led Verde 530Nm - HTM",
+    "price": "R$1.389,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cluster-maxx-led-ambar-530nm-htm-122096-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cluster-maxx-led-verde-530nm-htm-122096.html"
+  },
+  {
+    "sku": "122094",
+    "name": "Cluster Maxx Led Azul 470Nm - HTM",
+    "price": "R$1.540,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cluster-maxx-led-azul-470nm-htm-122094-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cluster-maxx-led-azul-470nm-htm-122094.html"
+  },
+  {
+    "sku": "134160",
+    "name": "Fio de Sustentação PDO Croquís Barbed Molding 18G 100X185Mm 2 30Unid. - Cróquis",
+    "price": "R$6.815,90",
+    "description": "Blister com 30 unidades (5 blisters com 6 fios).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sustentacao-pdo-croquis-barbed-molding-18g-100x185mm-2-30unid.-croquis-dental-cremer-cro31825a.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sustentac-o-pdo-croquis-barbed-molding-18g-100x185mm-2-30unid-croquis-134160.html"
+  },
+  {
+    "sku": "148518",
+    "name": "Prodeep Fios Volume Mono Canulado 30 Gauge 38mm - Alur Medical",
+    "price": "R$409,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-volume-mono-canulado-30-gauge-38mm-alur-medical-148518.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-volume-mono-canulado-30-gauge-38mm-alur-medical-148518.html"
+  },
+  {
+    "sku": "148517",
+    "name": "Prodeep Fios Volume Nose 19 Gauge - 38mm - Alur Medical",
+    "price": "R$254,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-volume-nose-19-gauge-38mm-alur-medical-148517.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-volume-nose-19-gauge-38mm-alur-medical-148517.html"
+  },
+  {
+    "sku": "134156",
+    "name": "Fio de Sustentação PDO Croquís Screw 27G 50X70Mm 5-0 60Unid. - Cróquis",
+    "price": "R$3.375,90",
+    "description": "Blister com 60 unidades (6 blisters com 10 fios).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sustentacao-pdo-croquis-screw-27g-50x70mm-5-0-60unid.-croquis-dental-cremer-cro31822a.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sustentac-o-pdo-croquis-screw-27g-50x70mm-5-0-60unid-croquis-134156.html"
+  },
+  {
+    "sku": "148526",
+    "name": "Prodeep Fios Lift - Molding Cog (Moldado) 18 Gauge 100mm - Alur Medical",
+    "price": "R$681,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-lift-molding-cog-moldado-18-gauge-100mm-alur-medical-148526.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-lift-molding-cog-moldado-18-gauge-100mm-alur-medical-148526.html"
+  },
+  {
+    "sku": "148519",
+    "name": "Prodeep Fios Volume Mono Agulhado 27 Gauge 60mm - Alur Medical",
+    "price": "R$258,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-volume-mono-agulhado-27-gauge-60mm-alur-medical-148519.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-volume-mono-agulhado-27-gauge-60mm-alur-medical-148519.html"
+  },
+  {
+    "sku": "148522",
+    "name": "Prodeep Fios Volume - Double Screw 25 Gauge 90mm - Alur Medical",
+    "price": "R$363,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-volume-double-screw-25-gauge-90mm-alur-medical-148522.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-volume-double-screw-25-gauge-90mm-alur-medical-148522.html"
+  },
+  {
+    "sku": "148525",
+    "name": "Prodeep Fios Lift - Cutting Cog 21 Gauge 60mm - Alur Medical",
+    "price": "R$376,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-lift-cutting-cog-21-gauge-60mm-alur-medical-148525.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-lift-cutting-cog-21-gauge-60mm-alur-medical-148525.html"
+  },
+  {
+    "sku": "148521",
+    "name": "Prodeep Fios Volume - Screw 26 Gauge 60mm - Alur Medical",
+    "price": "R$334,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-volume-screw-26-gauge-60mm-alur-medical-148521.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-volume-screw-26-gauge-60mm-alur-medical-148521.html"
+  },
+  {
+    "sku": "148528",
+    "name": "Prodeep Fios Lift - Molding Cog 18 Gauge 100mm (Fio 170mm) - Alur Medical",
+    "price": "R$817,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/prodeep-fios-lift-molding-cog-18-gauge-100mm-fio-170mm-alur-medical-148528.jpg",
+    "url": "https://www.dentalcremer.com.br/prodeep-fios-lift-molding-cog-18-gauge-100mm-fio-170mm-alur-medical-148528.html"
+  },
+  {
+    "sku": "DC29963",
+    "name": "Scalp para Coleta Múltipla com Dispositivo de Segurança - Uniqmed",
+    "price": "R$129,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/scalp-para-coleta-multipla-com-dispositivo-de-seguranca-dc29963-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/scalp-para-coleta-multipla-com-dispositivo-de-seguranca-uniqmed-dc29963.html"
+  },
+  {
+    "sku": "106128",
+    "name": "Toxina Botulínica Tipo A Botulim Pó Liofil 50U - Blau Farmacêutica",
+    "price": "R$1.107,87",
+    "description": "Embalagem com 1 Frasco de 50U. Toxina BotulÍnica A.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/toxina-botulinica-tipo-a-botulim-po-liofil-50u-blau-farmaceutica-106128.html"
+  },
+  {
+    "sku": "143642",
+    "name": "Bioestimulador Ácido PLLA para Face E Corpo Elleva – Rennova",
+    "price": "R$1.370,90",
+    "description": "Embalagem com 1 unidade de 210mg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bioestimulador-de-colageno-plla-para-face-e-corpo-elleva-rennova-dental-cremer-118486-01.jpg",
+    "url": "https://www.dentalcremer.com.br/bioestimulador-acido-plla-para-face-e-corpo-elleva-rennova-143642.html"
+  },
+  {
+    "sku": "DC29918",
+    "name": "Scalp para Infusão - BD",
+    "price": "R$2,99",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/scalp-para-infusao-bd-dc29918-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/scalp-para-infus-o-bd-dc29918.html"
+  },
+  {
+    "sku": "145396",
+    "name": "Microagulhas 34G X 4mm - Uniqmed",
+    "price": "R$297,90",
+    "description": "Caixa com 100 unidades – Embaladas individualmente (blister)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microagulhas-34g-x-4mm-uniqmed-145396.jpg",
+    "url": "https://www.dentalcremer.com.br/microagulhas-34g-x-4mm-uniqmed-145396.html"
+  },
+  {
+    "sku": "124436",
+    "name": "Adaptador PRN (Luer Lock) Curto 0,1ml 3/4 - BD",
+    "price": "R$3,49",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adaptador-luer-lock-prn-curto-1ml-bd-124436.jpg",
+    "url": "https://www.dentalcremer.com.br/adaptador-prn-luer-lock-curto-0-1ml-3-4-bd-124436.html"
+  },
+  {
+    "sku": "126560",
+    "name": "Caneta Elétrica de Microagulhamento Derma Pen - Alur Medical",
+    "price": "R$1.416,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-eletrica-microagulhamento-derma-pen-alur-medical-126560.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-eletrica-de-microagulhamento-derma-pen-alur-medical-126560.html"
+  },
+  {
+    "sku": "124341",
+    "name": "Garrote Elástico com Trava Adulto - Labor Import",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/garrote-elastico-com-trava-labor-import-124341.jpg",
+    "url": "https://www.dentalcremer.com.br/garrote-elastico-com-trava-adulto-labor-import-124341.html"
+  },
+  {
+    "sku": "DC29965",
+    "name": "Scalp para Infusão com Dispositivo de Segurança - Uniqmed",
+    "price": "R$89,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/scalp-para-infusao-com-dispositivo-de-seguranca-dc29965-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/scalp-para-infus-o-com-dispositivo-de-seguranca-uniqmed-dc29965.html"
+  },
+  {
+    "sku": "DC26628",
+    "name": "Scalp de Segurança para Infusão - Lamedid",
+    "price": "R$121,90",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109710.jpg",
+    "url": "https://www.dentalcremer.com.br/scalp-de-seguranca-para-infus-o-agulha-27g-lamedid-dc26628.html"
+  },
+  {
+    "sku": "124430",
+    "name": "Tubo Vacutainer Seco 2ml - BD",
+    "price": "R$235,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tubo-vacutainer-seco-2ml-bd-124430-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tubo-vacutainer-seco-2ml-bd-124430.html"
+  },
+  {
+    "sku": "124987",
+    "name": "Microagulha 4mm 32g - Uniqmed",
+    "price": "R$297,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microagulha-4mm-32g-unq-124987-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/microagulha-4mm-32g-uniqmed-124987.html"
+  },
+  {
+    "sku": "DC30108",
+    "name": "Rolo para Microagulhamento Roller Gold - Alur Medical",
+    "price": "R$107,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-microagulhamento-roller-gold-alur-medical-DC30108.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-microagulhamento-roller-gold-alur-medical-dc30108.html"
+  },
+  {
+    "sku": "DC26968",
+    "name": "Cânula Para Lipo de Papada Reutilizável - TAB",
+    "price": "R$111,90",
+    "description": "Embalagem com 1 unidade. 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/113087.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-para-lipo-de-papada-reutilizavel-tab-dc26968.html"
+  },
+  {
+    "sku": "124990",
+    "name": "Microagulha 40mm 27g - Uniqmed",
+    "price": "R$436,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microagulha-40mm-27g-uniqmed-124990-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/microagulha-40mm-27g-uniqmed-124990.html"
+  },
+  {
+    "sku": "124988",
+    "name": "Microagulha 40mm 25g - Uniqmed",
+    "price": "R$436,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microagulha-40mm-25g-unq-124988-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/microagulha-40mm-25g-uniqmed-124988.html"
+  },
+  {
+    "sku": "124991",
+    "name": "Microagulha 70mm 18g - Uniqmed",
+    "price": "R$436,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microagulha-70mm-18g-uniqmed-124991-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/microagulha-70mm-18g-uniqmed-124991.html"
+  },
+  {
+    "sku": "107527",
+    "name": "Cartucho Smart K 01 - Smart GR",
+    "price": "R$278,90",
+    "description": "Embalagem com 10 blisters de 1 agulha. 2,50mm. Cor : Preto",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cartucho-smart-k-01-smart-gr-dental-cremer-107527-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cartucho-smart-k-01-smart-gr.html"
+  },
+  {
+    "sku": "DC24812",
+    "name": "Rolo para Resfriamento da Pele Skin Cooler - Fabinject",
+    "price": "R$237,90",
+    "description": "Unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/920796.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-resfriamento-da-pele-skin-cooler-fabinject-dc24812.html"
+  },
+  {
+    "sku": "920833",
+    "name": "Rolo para Resfriamento da Pele Mini Skin Cooler - Fabinject",
+    "price": "R$185,90",
+    "description": "Unidade.  Cor Branco",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/920833.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-resfriamento-da-pele-mini-skin-cooler-branco-fabinject.html"
+  },
+  {
+    "sku": "134861",
+    "name": "Rolo para Resfriamento da Pele Mini Skin Cooler Branco - Fabinject",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/920833.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-resfriamento-da-pele-mini-skin-cooler-branco-fabinject-134861.html"
+  },
+  {
+    "sku": "DC25926",
+    "name": "Microagulhamento Infusion 1,50mm - Smart GR",
+    "price": "R$59,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107532.jpg",
+    "url": "https://www.dentalcremer.com.br/microagulhamento-infusion-1-50mm-smart-gr-dc25926.html"
+  },
+  {
+    "sku": "DC25707",
+    "name": "Dermografo Completo Pen Easy Prata com Fonte Duo - Mag Estética",
+    "price": "R$2.048,90",
+    "description": "Embalagem com 1 Dermógrafo e 1 Fonte.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105202.jpg",
+    "url": "https://www.dentalcremer.com.br/dermografo-completo-pen-easy-prata-com-fonte-duo-mag-estetica-dc25707.html"
+  },
+  {
+    "sku": "126562",
+    "name": "Injetor para Mesoterapia MultiMeso - Alur Medical",
+    "price": "R$24,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/injetor-mesoterapia-multimeso-alur-medical-126562.jpg",
+    "url": "https://www.dentalcremer.com.br/injetor-para-mesoterapia-multimeso-alur-medical-126562.html"
+  },
+  {
+    "sku": "126554",
+    "name": "Caneta Pressurizada Para Mesoterapia e Intradermoterapia Smart Press - Smart GR",
+    "price": "R$1.489,90",
+    "description": "Embalagem com 1 Caneta Pressurizada Smart Press + 2 Bocais de 0,3ml e 0,5ml (1 de cada) + 1 Adaptador de seringa + 2 Seringas de 0,3ml e 0,5 ml (1 de cada).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-pressurizada-para-intradermoterapia-smart-press-126554.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-pressurizada-para-mesoterapia-e-intradermoterapia-smart-press-smart-gr-126554.html"
+  },
+  {
+    "sku": "105212",
+    "name": "Ponteira para Dermógrafo Circular Fine - Mag Estética",
+    "price": "R$35,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105212.jpg",
+    "url": "https://www.dentalcremer.com.br/ponteira-para-dermografo-circular-fine-mag-estetica.html"
+  },
+  {
+    "sku": "105210",
+    "name": "Agulha 5 Pontas Linear Rosca - Mag Estética",
+    "price": "R$118,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105210_3.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-5-pontas-linear-rosca-mag-estetica.html"
+  },
+  {
+    "sku": "DC25709",
+    "name": "Agulha Easy Balance 1 Ponta Xlt - Mag Estética",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105215.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-easy-balance-1-ponta-xlt-mag-estetica-dc25709.html"
+  },
+  {
+    "sku": "105220",
+    "name": "Agulha 7 Pontas Easy Balance Linear - Mag Estética",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105220.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-7-pontas-easy-balance-linear-mag-estetica-105220.html"
+  },
+  {
+    "sku": "105214",
+    "name": "Agulha 1 Ponta Easy Balance - Mag Estética",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105214.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-1-ponta-easy-balance-mag-estetica-105214.html"
+  },
+  {
+    "sku": "105218",
+    "name": "Agulha 3 Pontas Easy Balance Circular - Mag Estética",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105218.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-3-pontas-easy-balance-circular-mag-estetica-105218.html"
+  },
+  {
+    "sku": "105219",
+    "name": "Agulha 5 Pontas Easy Balance Circular - Mag Estética",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105219.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-5-pontas-easy-balance-circular-mag-estetica-105219.html"
+  },
+  {
+    "sku": "128654",
+    "name": "Seringa Descartável para Caneta Pressurizada Smart Press - Smart GR",
+    "description": "0,3ml. Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-2-descartavel-para-smart-press-gr-128654.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-para-caneta-pressurizada-smart-press-smart-gr-128654.html"
+  },
+  {
+    "sku": "135216",
+    "name": "Renovador Smart Booster - Smart GR",
+    "description": "Embalagem com 5 Monodoses de 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107536.jpg",
+    "url": "https://www.dentalcremer.com.br/renovador-smart-booster-smart-gr-135216.html"
+  },
+  {
+    "sku": "107536",
+    "name": "Renovador Smart Booster - Smart GR",
+    "price": "R$299,90",
+    "description": "Embalagem com 5 Monodoses de 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107536.jpg",
+    "url": "https://www.dentalcremer.com.br/renovador-smart-booster-smart-gr.html"
+  },
+  {
+    "sku": "126555",
+    "name": "Caneta Pressurizada para Mesoterapia e Intradermoterapia Smart Press XS - Smart GR",
+    "price": "R$1.989,90",
+    "description": "Embalagem com 1 Caneta Pressurizada Smart Press XS + 1 Ampola de 0,5 ml + 1 Adaptador de Ampola + 01 Manual do Usuário.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-pressurizada-para-mesoterapia-smart-press-xs-126555.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-pressurizada-para-mesoterapia-e-intradermoterapia-smart-press-xs-smart-gr-126555.html"
+  },
+  {
+    "sku": "128653",
+    "name": "Seringa Descartável para Caneta Pressurizada Smart Press - Smart GR",
+    "price": "R$229,90",
+    "description": "Embalagem com 10 unidades. 0,5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-2-descartavel-para-smart-press-gr-128653.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-descartavel-para-caneta-pressurizada-smart-press-smart-gr-128653.html"
+  },
+  {
+    "sku": "146143",
+    "name": "Bioestimulador Hidroxiapatita de Cálcio Radiesse - Merz",
+    "price": "R$1.849,90",
+    "description": "Embalagem com 1 seringa de 3ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bioestimulador-hidroxiapatita-de-calcio-radiesse-merz-146143.jpg",
+    "url": "https://www.dentalcremer.com.br/bioestimulador-hidroxiapatita-de-calcio-radiesse-merz-146143.html"
+  },
+  {
+    "sku": "124426",
+    "name": "Adaptador de Agulha Vacutainer - BD",
+    "price": "R$97,90",
+    "description": "Embalagem com 250 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adaptador-de-agulha-vacutainer-bd-124426.jpg",
+    "url": "https://www.dentalcremer.com.br/adaptador-de-agulha-vacutainer-bd-124426.html"
+  },
+  {
+    "sku": "DC29917",
+    "name": "Agulha Vacutainer Múltipla - BD",
+    "price": "R$128,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-vacutainer-multipla-bd-dc29917-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-vacutainer-multipla-bd-dc29917.html"
+  },
+  {
+    "sku": "124423",
+    "name": "Scalp para Infusão SFT Lok 25G - BD",
+    "price": "R$6,19",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/scalp-para-infus-o-sft-lok-25g-bd-124423.jpg",
+    "url": "https://www.dentalcremer.com.br/scalp-para-infus-o-sft-lok-25g-bd-124423.html"
+  },
+  {
+    "sku": "DC38718",
+    "name": "Cânula para Lipoaspiração de Papada - Ice",
+    "price": "R$97,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/canula-para-lipo-de-papada-bico-de-pato-curva-multi-furos-2-4mm-ice-145955.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-para-lipoaspiracao-de-papada-ice-dc38718.html"
+  },
+  {
+    "sku": "104079",
+    "name": "Seringa Descartável Luer Slip 1ml com agulha 13x0,45mm - Descarpack",
+    "description": "Embalagem com 1 unidade. 1ml LS. Agulha 13 x 0,45mm. 100UI.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104079_2.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-para-aplicac-o-de-toxina-botulinica-com-agulha-descarpack.html"
+  },
+  {
+    "sku": "DC38038",
+    "name": "Microcânula Preenchedor Facial 10SC - Smart GR",
+    "description": "Embalagem com 10 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107518.jpg",
+    "url": "https://www.dentalcremer.com.br/microcanula-preenchedor-facial-10sc-smart-gr-dc38038.html"
+  },
+  {
+    "sku": "147356",
+    "name": "SkinDeep Coenzyme Q10 SDC-COQS Sérum Antioxidante - Alur Medical",
+    "description": "Embalagem com 1 unidade - Contém: 10ml",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/skindeep-coenzyme-q10-sdc-coqs-serum-antioxidante-alur-medical-147356.jpg",
+    "url": "https://www.dentalcremer.com.br/skindeep-coenzyme-q10-sdc-coqs-serum-antioxidante-alur-medical-147356.html"
+  },
+  {
+    "sku": "129324",
+    "name": "Sérum Ácido Hialurônico - Hidraderm",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/serum-acido-hialuronico-septmax-129324-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/serum-acido-hialuronico-hidraderm-129324.html"
+  },
+  {
+    "sku": "142902",
+    "name": "Agulha Precision Glide - BD",
+    "description": "Embalagem com 100 unidades. 0,50x15",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-precision-glide-bd-dental-cremer-142902.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-precision-glide-bd-142902.html"
+  },
+  {
+    "sku": "107667",
+    "name": "Seringa De Insulina 1ml Bico Slip Com Agulha - Injex",
+    "description": "1ml. Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107667.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-de-insulina-1ml-bico-slip-com-agulha-injex-107667.html"
+  },
+  {
+    "sku": "142644",
+    "name": "Kit Sérum de Ação Antioxidante Monodose Vitamina C - Alur Medical",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-serum-de-acao-antioxidante-monodose-vitamina-c-alur-medical-dental-cremer-142644-1.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-serum-de-ac-o-antioxidante-monodose-vitamina-c-alur-medical-142644.html"
+  },
+  {
+    "sku": "105418",
+    "name": "Agulha Precision Glide - BD",
+    "description": "Embalagem com 100 unidades. 0,30X13.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-precision-glide-bd-105418-1.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-precision-glide-bd.html"
+  },
+  {
+    "sku": "DC30203",
+    "name": "Batom Líquido Beaute Lip Plumper - Rennova Beauté",
+    "description": "Embalagem com 4ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/batom-liquido-beaute-lip-plumper-nude-original-4ml-rennova-beaute-127383-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/batom-liquido-beaute-lip-plumper-rennova-beaute-dc30203.html"
+  },
+  {
+    "sku": "129325",
+    "name": "Sérum Vitamina C - Hidraderm",
+    "description": "Embalagem com 30ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/serum-vitamina-c-septmax-129325-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/serum-vitamina-c-hidraderm-129325.html"
+  },
+  {
+    "sku": "131886",
+    "name": "Ácido Hialurônico Rennova Ultra Volume Lido - Rennova",
+    "description": "Embalagem com 2ml. Com lidocaína.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/acido-hialuronico-rennova-ultra-volume-lido-rennova-131886-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/acido-hialuronico-rennova-ultra-volume-lido-rennova-131886.html"
+  },
+  {
+    "sku": "146136",
+    "name": "Ácido Hialurônico Belotero Intense com Lidocaína - Merz",
+    "description": "Embalagem com 1 seringa de 1ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/acido-hialuronico-belotero-intense-com-lidocaina-merz-146136.jpg",
+    "url": "https://www.dentalcremer.com.br/acido-hialuronico-belotero-intense-com-lidocaina-merz-146136.html"
+  },
+  {
+    "sku": "147362",
+    "name": "SkinDeep AZ-OIL Controle SDC-AZOC Sérum para Oleosidade - Alur Medical",
+    "description": "Embalagem com 1 unidade - Contém: 10ml",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/skindeep-az-oil-controle-sdc-azoc-serum-para-oleosidade-alur-medical-147362.jpg",
+    "url": "https://www.dentalcremer.com.br/skindeep-az-oil-controle-sdc-azoc-serum-para-oleosidade-alur-medical-147362.html"
+  },
+  {
+    "sku": "131887",
+    "name": "Ácido Hialurônico Lips Lido – Rennova",
+    "description": "Embalagem com 1 seringa com 1,25ml. Com lidocaína.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/acido-hialuronico-rennova-lips-lido-rennova-131887.jpg",
+    "url": "https://www.dentalcremer.com.br/acido-hialuronico-rennova-lips-lido-rennova-131887.html"
+  },
+  {
+    "sku": "112944",
+    "name": "Lip Plumper Beaute - Rennova",
+    "description": "Embalagem com 4ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112944.jpg",
+    "url": "https://www.dentalcremer.com.br/lip-plumper-beaute-rennova-112944.html"
+  },
+  {
+    "sku": "142646",
+    "name": "Kit Sérum Renovador Cutâneo Monodose Nano Boost - Alur Medical",
+    "description": "Embalagem com 3 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-serum-renovador-cutaneo-monodose-nano-boost-alur-medical-dental-cremer-142646-1.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-serum-renovador-cutaneo-monodose-nano-boost-alur-medical-142646.html"
+  },
+  {
+    "sku": "107530",
+    "name": "Analisador Smart Analyzer - Smart GR",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107530.jpg",
+    "url": "https://www.dentalcremer.com.br/analisador-smart-analyzer-smart-gr.html"
+  },
+  {
+    "sku": "112947",
+    "name": "Água Micelar Beauté - Rennova",
+    "description": "Embalagem com 200ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112947.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-micelar-beaute-rennova-112947.html"
+  },
+  {
+    "sku": "127390",
+    "name": "Protetor Solar Soleil FPS 60 50ml - Rennova Beauté",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-solar-soleil-fps-60-50ml-rennova-beaute-127390-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-solar-soleil-fps-60-50ml-rennova-beaute-127390.html"
+  },
+  {
+    "sku": "DC38064",
+    "name": "Microcânula Para Preenchimento - TAB",
+    "description": "Embalagem com 10 unidades. Escolha o Tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112408.jpg",
+    "url": "https://www.dentalcremer.com.br/microcanula-para-preenchimento-tab-dc38064.html"
+  },
+  {
+    "sku": "112945",
+    "name": "Sérum+ Beaute - Rennova",
+    "description": "Embalagem com 30ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112945.jpg",
+    "url": "https://www.dentalcremer.com.br/serum-beaute-rennova-112945.html"
+  },
+  {
+    "sku": "127375",
+    "name": "Bruma Hidratante Beaute Prebiótica Clear Skin 60ml - Rennova Beauté",
+    "description": "Embalagem com 60ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bruma-hidratante-beaute-prebiotica-clear-skin-60ml-rennova-beaute-127375-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/bruma-hidratante-beaute-prebiotica-clear-skin-60ml-rennova-beaute-127375.html"
+  },
+  {
+    "sku": "129297",
+    "name": "Água Micelar - Hidraderm",
+    "description": "Embalagem com 100ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agua-micelar-septmax-129297-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-micelar-hidraderm-129297.html"
+  },
+  {
+    "sku": "141090",
+    "name": "Creme Protetor Bisnaga Rioderm Protection 92g - Rioquímica",
+    "description": "Embalagem com 1 Bisnaga de 92gr",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-protetor-bisnaga-rioderm-protection-92g-rioquimica-dental-cremer-141090.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-protetor-bisnaga-rioderm-protection-92g-rioquimica-141090.html"
+  },
+  {
+    "sku": "129299",
+    "name": "Água Micelar - Hidraderm",
+    "description": "Embalagem com 200ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agua-micelar-septmax-129299-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-micelar-hidraderm-129299.html"
+  },
+  {
+    "sku": "127376",
+    "name": "Espuma Facial Beaute Clear Skin 120ml - Rennova Beauté",
+    "description": "Embalagem com 120ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espuma-facial-beaute-clear-skin-120ml-rennova-beaute-127376-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espuma-facial-beaute-clear-skin-120ml-rennova-beaute-127376.html"
+  },
+  {
+    "sku": "112502",
+    "name": "Fita Adesiva de Silicone Leukoplast Hypafix Skin Sensitive Rolo 5cmx5m - Essity",
+    "description": "Embalagem com 1 rolo de 5cmx5m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112502.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-adesiva-de-silicone-leukoplast-hypafix-skin-sensitive-rolo-5cmx5m-essity.html"
+  },
+  {
+    "sku": "119753",
+    "name": "Microcânula para Preenchimento 21g com Agulha 21g x 70mm 24unid - Rennova",
+    "description": "Embalagem com 24 Blisters (1 microcânula 21G e 1 agulha de pertuito 21G).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/microcanula-com-agulha-rennova-119753-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/microcanula-com-agulha-rennova-119753.html"
+  },
+  {
+    "sku": "112497",
+    "name": "Filme Impermeável Estéril Leukomed T Transparente 10x12,5cm - Essity",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112497.jpg",
+    "url": "https://www.dentalcremer.com.br/filme-impermeavel-esteril-leukomed-t-transparente-10x12-5cm-essity-112497.html"
+  },
+  {
+    "sku": "142901",
+    "name": "Agulha Precision Glide - BD",
+    "description": "Embalagem com 100 unidades. 0,60x25",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-precision-glide-bd-dental-cremer-142901.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-precision-glide-bd-142901.html"
+  },
+  {
+    "sku": "129393",
+    "name": "Face Transparente para Treinamento Harmonização Orofacial - Mac Dental",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/face-transparente-para-treinamento-harmonizacao-orofacial-mac-dental-129393-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/face-transparente-para-treinamento-harmonizac-o-orofacial-mac-dental-129393.html"
+  },
+  {
+    "sku": "228625",
+    "name": "Seringa Hipodérmica Com Agulha - BD",
+    "description": "1ml. Embalagem com 1 unidade. Agulha LS 13x0,38.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-hipodermica-com-agulha-bd-228625-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/seringa-hipodermica-com-agulha-bd.html"
+  },
+  {
+    "sku": "104782",
+    "name": "Ácido Hialurônico Fill-Lido - Rennova",
+    "description": "Embalagem com 1 seringa de 1ml. Com lidocaína.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/acido-hialuronico-fill-lido-rennova-dental-cremer-104782-01.jpg",
+    "url": "https://www.dentalcremer.com.br/acido-hialuronico-fill-lido-rennova.html"
+  },
+  {
+    "sku": "142986",
+    "name": "Microcânula para Preenchimento 50mm 25G - Aesteril",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/canula-para-preenchimento-50mm-25g--aesteril-dental-cremer-142986.jpg",
+    "url": "https://www.dentalcremer.com.br/microcanula-para-preenchimento-50mm-25g-aesteril-142986.html"
+  },
+  {
+    "sku": "142988",
+    "name": "Microcânula para Preenchimento 50mm 22G - Aesteril",
+    "description": "Embalagem com 20 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/canula-para-preenchimento-50mm-22g--aesteril-dental-cremer-142988.jpg",
+    "url": "https://www.dentalcremer.com.br/microcanula-para-preenchimento-50mm-22g-aesteril-142988.html"
+  },
+  {
+    "sku": "129396",
+    "name": "Ácido Hialurônico Lift Plus Lido - Rennova",
+    "description": "Embalagem com 1 seringa de 1ml (com 0,3% de lidocaína).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/acido-hialuronico-lift-plus-lido-rennova-129396-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/acido-hialuronico-lift-plus-lido-rennova-129396.html"
+  },
+  {
+    "sku": "131885",
+    "name": "Ácido Hialurônico Deep Line Lido – Rennova",
+    "description": "Embalagem com 1ml. Com lidocaína.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/acido-hialuronico-rennova-deep-line-lido-rennova-131885-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/acido-hialuronico-rennova-deep-line-lido-rennova-131885.html"
+  }
+]

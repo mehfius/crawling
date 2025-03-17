@@ -1,0 +1,763 @@
+[
+  {
+    "sku": "DC10398",
+    "name": "Clareador Power Bleaching - Maquira",
+    "price": "R$79,90",
+    "description": "Kit com 5 seringas com 3 g, 5 ponteiras, 1 porta moldeira e 2 placas de EVA. Peróxido de Carbamida a 10%, 16% ou 22%.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-power-bleaching-bm4-dc10398.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-power-bleaching-maquira-dc10398.html"
+  },
+  {
+    "sku": "272222",
+    "name": "Dessensibilizante Desensibilize KF 2% - FGM",
+    "price": "R$38,99",
+    "description": "Embalagem com 1 seringa com 2,5g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-desensibilize-kf-2-fgm-272222.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-desensibilize-kf-2-fgm-272222.html"
+  },
+  {
+    "sku": "DC13245",
+    "name": "Clareador Pola Night - SDI",
+    "price": "R$21,90",
+    "description": "Peróxido de Carbamida. Embalagem com 3g. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-pola-night-sdi-dc30129-dental-cremer-001.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-pola-night-sdi-dc13245.html"
+  },
+  {
+    "sku": "DC10317",
+    "name": "Cimento Resinoso Dual Allcem Base - FGM",
+    "price": "R$79,49",
+    "description": "Embalagem com 2,5g de Base. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-allcem-base-fgm-dc10317.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-allcem-base-fgm-dc10317.html"
+  },
+  {
+    "sku": "DC29563",
+    "name": "Tira de Lixa Poliéster Polistripe Fino/Médio  - American Burrs",
+    "price": "R$19,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-poliester-polistripe-fino-medio--american-burrs-dc29563-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-poliester-polistripe-fino-medio-american-burrs-dc29563.html"
+  },
+  {
+    "sku": "122756",
+    "name": "Clareador Potenza Bianco PF 16% - PHS",
+    "price": "R$69,90",
+    "description": "Peróxido de Carbamida. Embalagem com 6 seringas de 3g cada + 6 Ponteiras de Aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-potenza-bianco-pf-16-phs-122756-001.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-potenza-bianco-pf-16-phs-122756.html"
+  },
+  {
+    "sku": "142569",
+    "name": "Cinta Profilática 4x120mm - Microdont",
+    "price": "R$40,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cinta-profilatica-4x120mm-microdont-142569-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cinta-profilatica-4x120mm-microdont-142569.html"
+  },
+  {
+    "sku": "122725",
+    "name": "Clareador Potenza Bianco PF 10% - PHS",
+    "price": "R$69,90",
+    "description": "Peróxido de Carbamida. Kit com 6 seringas de 3g cada + 6 Ponteiras de Aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-potenza-bianco-pf-10-phs-122725-01.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-potenza-bianco-pf-10-phs-122725.html"
+  },
+  {
+    "sku": "709315",
+    "name": "Clareador Whiteness Simple 22% - FGM",
+    "price": "R$76,99",
+    "description": "Kit com 5 unidades de 3g cada + 2 placas para moldeira + 1 Porta Moldeira e 1 Ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-whiteness-simple-22-fgm-5-seringas-709315-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-simple-22-fgm-709315.html"
+  },
+  {
+    "sku": "739992",
+    "name": "Tira de Aço Dentada 6mm - Horico",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-lixa-aco-dentada-horico-739992.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-aco-dentada-horico-739992.html"
+  },
+  {
+    "sku": "110499",
+    "name": "Ionômero de Vidro Forrador Vidrion F Plus - SS White",
+    "price": "R$33,90",
+    "description": "Embalagem com 10g pó + 8ml líquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ionomero-de-vidro-forrador-vidrion-f-plus-ss-white-110499.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-forrador-vidrion-f-plus-ss-white-110499.html"
+  },
+  {
+    "sku": "DC29320",
+    "name": "Matriz Omni-Matrix Winged – Ultradent",
+    "price": "R$46,90",
+    "description": "Embalagem com 3 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-omni-matrix-winged-ultradent-119156-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-omni-matrix-winged-ultradent-dc29320.html"
+  },
+  {
+    "sku": "DC10394",
+    "name": "Clareador Pola Night - SDI",
+    "price": "R$99,90",
+    "description": "Peróxido de Carbamida. Kit com 4 seringas com 3g cada, nas concentrações 10%, 16% ou 22%  (à sua escolha) + 2 placas para moldeira + 1 porta moldeira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/364002.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-pola-night-sdi-dc10394.html"
+  },
+  {
+    "sku": "DC29697",
+    "name": "Ponta de Polimento Abrasiva de Silicone Optimize Refil – TDV",
+    "description": "Embalagem com 8 unidades + Mandril. Escolha o formato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-de-polimento-abrasiva-de-silicone-optimize-refil-tdv-dc29697-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-polimento-abrasiva-de-silicone-optimize-refil-tdv-dc29697.html"
+  },
+  {
+    "sku": "DC18815",
+    "name": "Matriz Seccional Pré-Contornada Palodent V3 - Dentsply Sirona",
+    "price": "R$336,90",
+    "description": "Embalagem com 50 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-seccional-pre-contornada-palodent-v3-50-unidades-dentsply-sirona-dc18815.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-seccional-pre-contornada-palodent-v3-dentsply-sirona-dc18815.html"
+  },
+  {
+    "sku": "DC18497",
+    "name": "Clareador Easy White - Biodinâmica",
+    "price": "R$9,90",
+    "description": "Peróxido de Carbamida. Embalagem com 1 seringa com 3g. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-easy-white-biodinamica-dc18497.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-easy-white-biodinamica-dc18497.html"
+  },
+  {
+    "sku": "DC29477",
+    "name": "Broca Carbide Esférica FG 19mm - AllPrime",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-odontologica-carbide-esferica-fg-19mm-allprime-dc29477.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-esferica-fg-19mm-allprime-dc29477.html"
+  },
+  {
+    "sku": "114748",
+    "name": "Ionômero de Vidro Restaurador Ionglass R - Maquira",
+    "description": "Kit com 1 Frasco pó A2 + 1 Frasco líquido A2 + 1 Dosador pó + 1 Bloco de espátulação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114748.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-restaurador-ionglass-r-maquira-114748.html"
+  },
+  {
+    "sku": "278323",
+    "name": "Removedor de Manchas Whiteness RM - FGM",
+    "price": "R$123,99",
+    "description": "Embalagem com 1 seringa com 2g + 10 ponteiras para a aplicação + 1 espátula.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/removedor-de-manchas-whiteness-rm-fgm-278323.jpg",
+    "url": "https://www.dentalcremer.com.br/removedor-de-manchas-whiteness-rm-fgm-278323.html"
+  },
+  {
+    "sku": "567786",
+    "name": "Kit Matriz Unimatrix Sortido - TDV",
+    "price": "R$486,90",
+    "description": "Kit com:  10 Matriz molar aço. 10 Matriz premolar de poliéster. 10 Matriz molar de poliéster. 02 Grampo Unimatrix. 08 Protetor de silicone Unimatrix. 10 Unimatrix P. 10 Unimatrix M. 05 Unimatrix G. 10 Cunhas Elásticas 2,0mm verde. 10 Cunhas Elásticas 2,6mm amarela. 10 Cunhas Elásticas 3,2mm azul.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-matriz-unimatrix-sortido-567786.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-matriz-unimatrix-sortido-tdv-567786.html"
+  },
+  {
+    "sku": "DC16449",
+    "name": "Kit Clareador Pola Day - SDI",
+    "price": "R$115,90",
+    "description": "Peróxido de Hidrogênio. Kit com 5 unidades do Clareador Pola Day com 3g cada + 2 placas para moldeira + 1 porta moldeira + 5 pontas aplicadoras. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-pola-day-9-5-sdi-dc16449-dental-cremer-001.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-pola-day-sdi-dc16449.html"
+  },
+  {
+    "sku": "DC18001",
+    "name": "Kit Clareador Pola Night - SDI",
+    "price": "R$115,90",
+    "description": "Peróxido de Carbamida. Kit com 5 unidades do Clareador Pola Night com 3g cada + 2 placas para moldeira + 1 porta moldeira + 5 pontas aplicadoras. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-itens-kit-clareador-pola-night-sdi-dc18001.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-pola-night-sdi-dc18001.html"
+  },
+  {
+    "sku": "DC25227",
+    "name": "Clareador Potenza Bianco - PHS",
+    "price": "R$13,90",
+    "description": "Peróxido de Hidrogênio. Embalagem com 1 seringa de 3g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-potenza-bianco-122824-01.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-potenza-bianco-phs-dc25227.html"
+  },
+  {
+    "sku": "139260",
+    "name": "Kit Signature Preparo de Restaurações Cerâmicas by Amilcar Freitas - American Burrs",
+    "price": "R$437,90",
+    "description": "Kit com 2 brocas multilaminadas, 20 pontas diamantadas Invicta e 1 broqueiro autoclavável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-signature-preparo-de-restauracoes-ceramicas-by-amilcar-freitas-american-burrs-dental-cremer-139260-a.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-signature-preparo-de-restauracoes-ceramicas-by-amilcar-freitas-american-burrs-139260.html"
+  },
+  {
+    "sku": "755428",
+    "name": "Polidor de Resina Ultra-Gloss CA - American Burrs",
+    "price": "R$69,90",
+    "description": "Kit com 3 unidades. Chama, Disco ou Taça. Fino.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/755428_2.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-ultra-gloss-ca-american-burrs-755428.html"
+  },
+  {
+    "sku": "359329",
+    "name": "Clareador Mix Night - Villevie",
+    "price": "R$61,90",
+    "description": "Peróxido de Carbamida 16%. Kit com 5 seringas com 3g cada + 2 placas para moldeira + 1 porta moldeira. (Concentração 16%)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-mix-night-villevie-359329.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-mix-night-villevie-359329.html"
+  },
+  {
+    "sku": "DC39191",
+    "name": "Ionômero de Vidro Restaurador Ionglass Fill LC - Maquira",
+    "price": "R$99,90",
+    "description": "Embalagem com 1 frasco de Ionglass Fill LC pó 5g, 1 frasco de Ionglass Fill LC líquido 5mL, 1 bloco de espatulação e 1 colher dosadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ionomero-de-vidro-restaurador-ionglass-fill-lc-a1-maquira-151266.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-restaurador-ionglass-fill-lc-maquira-dc39191.html"
+  },
+  {
+    "sku": "409222",
+    "name": "Kit Polimento Amalgama - Microdont",
+    "price": "R$61,90",
+    "description": "Embalagem com 8 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-polimento-amalgama-microdont-409222-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-polimento-amalgama-microdont-409222.html"
+  },
+  {
+    "sku": "DC10655",
+    "name": "Matriz de Aço - TDV",
+    "price": "R$176,90",
+    "description": "Embalagem com 20 unidades, com anel de fixação. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-de-aco-tdv-20unidades-dc10655.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-de-aco-tdv-dc10655.html"
+  },
+  {
+    "sku": "DC10657",
+    "name": "Banda de Aço Matriz Tofflemire - TDV",
+    "price": "R$23,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/215380_b_635587239774684726.jpg",
+    "url": "https://www.dentalcremer.com.br/banda-de-aco-matriz-tofflemire-tdv-dc10657.html"
+  },
+  {
+    "sku": "483451",
+    "name": "Clareador Power Bleaching 37% Office - Maquira",
+    "price": "R$210,90",
+    "description": "Embalagem com 3 seringas com 3g e 3 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-power-bleaching-37-office-bm4-483451.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-power-bleaching-maquira-483451.html"
+  },
+  {
+    "sku": "138366",
+    "name": "Kit Clareador Potenza Bianco Pro 35% - PHS",
+    "description": "KIT - 01 frasco de peróxido de hidrogênio (15,3g) + 01 frasco de espessante (5,5g) + 01 frasco de neutralizante + 01 seringa de barreira gengival + 01 ponteira + 01 recipiente para mistura + 01 espátula",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-dental-potenza-bianco-pro-35-phs-122923-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-potenza-bianco-pro-35-phs-138366.html"
+  },
+  {
+    "sku": "138050",
+    "name": "Removedor de Manchas Tartarit 30Ml - Iodontosul",
+    "price": "R$47,90",
+    "description": "Embalagem com 30ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/removedor-de-manchas-tartarit-30ml-iodontosul-dental-cremer-138050.jpg",
+    "url": "https://www.dentalcremer.com.br/removedor-de-manchas-tartarit-30ml-iodontosul-138050.html"
+  },
+  {
+    "sku": "756487",
+    "name": "Escova Ultra-Brush de Pelo de Cabra Roda CA - American Burrs",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-ultra-brush-pelo-de-cabra-roda-ca-american-burrs-dental-cremer-756487.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-pelo-de-cabra-ca-american-burrs-756487.html"
+  },
+  {
+    "sku": "DC24942",
+    "name": "Clareador Lysmile Gel - Lysanda",
+    "price": "R$26,90",
+    "description": "Peróxido de Carbamida. Kit com 3 seringas de 2,5ml cada + 3 ponteiras aplicadoras. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/965223_2.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-lysmile-gel-lysanda-dc24942.html"
+  },
+  {
+    "sku": "DC27038",
+    "name": "Placa para Moldeira Power Plac - Maquira",
+    "price": "R$21,90",
+    "description": "Embalagem com 5 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-powerplac-para-moldeira-bm4-805604-01.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-powerplac-para-moldeira-maquira-dc27038.html"
+  },
+  {
+    "sku": "359336",
+    "name": "Clareador Mix Night - Villevie",
+    "price": "R$61,90",
+    "description": "Peróxido de Carbamida 22%. Kit com 5 seringas com 3g cada + 2 placas para moldeira + 1 porta moldeira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-mix-night-22-villevie-dc-359336-02.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-mix-night-villevie-359336.html"
+  },
+  {
+    "sku": "112809",
+    "name": "Kit Clareador Pro 38% SS + NanoProtect Multiuso + Resina Palfique LX5 Mini A2 Tokuyama - PHS",
+    "price": "R$289,90",
+    "description": "Kit composto por 1 Kit Clareador Potenza SS 38% para 6 aplicações + 1 Nano Protect Multiuso 360 de 500ml + 1 Resina Palfique Mini na cor A2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-nano-phs-112809-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-nano-phs-112809.html"
+  },
+  {
+    "sku": "DC18619",
+    "name": "Clareador Power Bleaching com Aroma - Maquira",
+    "price": "R$15,90",
+    "description": "Embalagem 1 seringa com 3 g e 1 ponteira. Peróxido de Carbamida a 10%, 16% ou 22% nos aromas Açaí ou Hortelã.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-power-bleaching-com-aroma-acai-bm4-dc18619.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-power-bleaching-com-aroma-maquira-dc18619.html"
+  },
+  {
+    "sku": "145423",
+    "name": "Kit Clareador Dental Pro 35% - AF do Brasil",
+    "price": "R$46,90",
+    "description": "Kit com 1 seringa de 1,2g (peróxido de hidrogênio), 1 seringa de 0,4g (espessante), 1 seringa de 2,0g (barreira gengival), 1 ponta aplicadora na cor preta, 1 ponta aplicadora transparente e 1 conector intermediário.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-dental-pro-35-aaf-145423.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-dental-pro-35-af-do-brasil-145423.html"
+  },
+  {
+    "sku": "151148",
+    "name": "Kit Clareador Pola Office+ 37,5% 3 Paciente Promoção Pague 1 Leve 2 - SDI",
+    "price": "R$420,90",
+    "description": "Kit com 6 seringas de Pola Office+ com 2.8ml, 6 seringas de barreira gengival com 1g e 6 afastadores de bochecha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-pola-office-37-5-3-paciente-promocao-pague-1-leve-2-sdi-151148.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-pola-office-37-5-3-paciente-promocao-pague-1-leve-2-sdi-151148.html"
+  },
+  {
+    "sku": "DC18502",
+    "name": "Placa para Moldeira Cristal 2mm - Essence Dental",
+    "price": "R$48,90",
+    "description": "Embalagem com 5 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/602265_635968327951897321.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-moldeira-cristal-essence-dental-dc18502.html"
+  },
+  {
+    "sku": "700702",
+    "name": "Clareador Pola Day 7,5% - SDI",
+    "price": "R$99,90",
+    "description": "Peróxido de Hidrogênio 7,5%. Embalagem com 4 unidades, 3g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700702_635878389154440667.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-pola-day-7-5-sdi-700702.html"
+  },
+  {
+    "sku": "184587",
+    "name": "Tira de Lixa de Aço 2,5mm - AllPrime",
+    "price": "R$12,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/184587.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184587.html"
+  },
+  {
+    "sku": "546477",
+    "name": "Ionômero de Vidro Restaurador Bioglass - Biodinâmica",
+    "price": "R$67,90",
+    "description": "Embalagem com 10g do pó + 8ml do líquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/546477.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-restaurador-bioglass-biodinamica-546477.html"
+  },
+  {
+    "sku": "134169",
+    "name": "Kit Clareador Magic White Office 35% + 2 Ponteiras de Aplicação - Vigodent",
+    "price": "R$60,90",
+    "description": "Kit com 1 seringa de 1,2g de peróxido de hidrogênio + 1 seringa com 0,4g de espessante + 1 seringa de Barreira Gengival com 2g + 1 dispositivo de conexão de seringas + 2 ponteiras de aplicação.\r\n \r\nEste produto possui venda restrita, sua venda é autorizada para profissionais que possuem CRO. Atualize por favor seu CRO.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-magic-white-office-35-2-ponteiras-de-aplicacao-vigodent-134169-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-magic-white-office-35-2-ponteiras-de-aplicac-o-vigodent.html"
+  },
+  {
+    "sku": "DC17608",
+    "name": "Broca Carbide Multilaminada 30 Lâminas FG - Kerr",
+    "price": "R$40,90",
+    "description": "Unidade. Alta Rotação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/535266.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-multilaminada-30-laminas-fg-kerr-dc17608.html"
+  },
+  {
+    "sku": "138396",
+    "name": "Clareador Mix One Supreme 35% - Villevie",
+    "description": "Kit para 3 pacientes com 1 twist pen com 1,5g de gel clareador cada, 1 barreira gengival Gingi Dam 3g, 1 dessensibilizante dental Sensis 2%, 3 protetores linguais, 3 discos de feltro para polimento e 1 manual de instruções.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-mix-one-supreme-35-villevie-389258-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-mix-one-supreme-35-villevie-138396.html"
+  },
+  {
+    "sku": "124757",
+    "name": "Tira de Poliéster 0,05x10x120mm - Indusbello",
+    "price": "R$5,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-poliester-50-unid-indusbello-124757-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-poliester-0-05x10x120mm-indusbello-124757.html"
+  },
+  {
+    "sku": "131854",
+    "name": "Kit Clareador Pola Office + Pola Night 10% - SDI",
+    "price": "R$418,90",
+    "description": "1 Kit Pola Office com 1 frasco de 3g de pó clareador, 1 frasco de 20ml de peróxido de hidrogênio líquido e 3 seringas de 1g de barreira gengival e 1 Kit Pola Night 10% com 9 seringas de 3g e 9 ponteiras de aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-pola-office-pola-night-10-sdi-131854.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-pola-office-pola-night-10-sdi-131854.html"
+  },
+  {
+    "sku": "141056",
+    "name": "Papel Carbono - Bausch",
+    "price": "R$38,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-bausch-dental-cremer-141056.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-bausch-141056.html"
+  },
+  {
+    "sku": "DC29559",
+    "name": "Tira de Lixa de Aço Galvanizado Oxistripe Médio - American Burrs",
+    "price": "R$28,90",
+    "description": "Embalagem com 10 unidades. Escolha a granulometria.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-lixa-aco-galvanizado-oxistripe-medio-american-burrs-DC29559.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-oxistripe-medio-american-dc29559.html"
+  },
+  {
+    "sku": "133446",
+    "name": "Clareador Whiteness Automixx 6% - FGM",
+    "price": "R$144,99",
+    "description": "Peróxido de hidrogênio. Embalagem com 1 clareador automixx 4g + 3 pontas de aplicação + 4 pontas de automistura azul + 4 bicos de aplicação brush + 1 manual.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-clareador-whiteness-automixx-6-fgm-133446-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-automixx-6-fgm-133446.html"
+  },
+  {
+    "sku": "147457",
+    "name": "Anel para Matriz Seccional Ultramatrix Clip 2.0 com Ponteira Ultratip - American Burrs",
+    "price": "R$213,90",
+    "description": "Embalagem com 1 anel (Ultramatrix Clip) e 1 par de ponteira (Ultratip Média).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-ultramatrix-clip-2-0-com-ponteira-ultratip-american-burrs-147457.jpg",
+    "url": "https://www.dentalcremer.com.br/anel-para-matriz-seccional-ultramatrix-clip-2-0-com-ponteira-ultratip-american-burrs-147457.html"
+  },
+  {
+    "sku": "320282",
+    "name": "Fita de Aço Cinta Profilática - TDV",
+    "price": "R$94,90",
+    "description": "Embalagem com 10 fitas de aço de 100mm cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/320282_2.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-de-aco-cinta-profilatica-tdv-320282.html"
+  },
+  {
+    "sku": "DC29502",
+    "name": "Resina 3M™ Filtek™ Bulk Fill Flowable Restorative - Solventum",
+    "price": "R$231,90",
+    "description": "Embalagem com 1 seringa de 2g e 10 pontas aplicadoras. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-filtek-bulk-fill-flow-3m-dc29502.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-filtek-bulk-fill-flow-3m-solventum-dc29502.html"
+  },
+  {
+    "sku": "212242",
+    "name": "Tira de Lixa de Poliéster Para Acabamento Proximal - TDV",
+    "price": "R$65,90",
+    "description": "Embalagem com 150 unidades de 2,5mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-acabamento-proximal-25-mm-x-170-mm-dental-cremer-212242-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-para-acabamento-proximal-tdv-212242.html"
+  },
+  {
+    "sku": "100547",
+    "name": "Adesivo 3M™ Adper™ Single Bond 2 - Solventum",
+    "price": "R$128,90",
+    "description": "Embalagem com 1 frasco de 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-adper-single-bond-2-3g-100547-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-adper-single-bond-2-3g-3m-solventum.html"
+  },
+  {
+    "sku": "150412",
+    "name": "Kit Clareador Whiteness Hp Blue 35% + Whiteness Perfect 16% - FGM",
+    "price": "R$325,99",
+    "description": "Kit com 6 conjuntos de seringas (peróxido e espessante de 1,2g por conjunto e 7,2g de gel no total), 1 frasco neutralize com 2g, 1 seringa top dam com 2g, 6 ponteiras de aplicação e 5 seringas com 3g cada (clareador).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-whiteness-hp-blue-35--whiteness-perfect-16-fgm-150412.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-whiteness-hp-blue-35-whiteness-perfect-16-fgm-150412.html"
+  },
+  {
+    "sku": "133952",
+    "name": "Clareador Cavex In Office Bite & White - Cavex",
+    "price": "R$1.164,90",
+    "description": "Embalagem com 12 canetas de 2ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-cavex-in-office-bite--white-cavex-dental-cremer-133952.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-cavex-in-office-bite-white-cavex-133952.html"
+  },
+  {
+    "sku": "109106",
+    "name": "Polidor Jiffy Polisher Cup - Ultradent",
+    "price": "R$107,90",
+    "description": "Embalagem com 3 unidades. Em formato de 1 Taça Coarse + 1 Taça Medium + 1 Taça Fine.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/109106.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-jiffy-polisher-cup-ultradent-109106.html"
+  },
+  {
+    "sku": "116476",
+    "name": "Kit Adesivo Clearfil SE Bond + Primer - Kuraray",
+    "price": "R$799,90",
+    "description": "Kit com 1 Primer de 6ml + 1 Adesivo de 5ml + 50 pontas aplicadoras tipo pincel descartáveis + 2 cabos (1 preto e 1 branco) para ponta aplicadora tipo pincel + 1 prato de mistura + 1 placa de bloqueio de luz + 1 estojo exterior para fácil dispensação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-itens-adesivo-clearfil-se-bond-kuraray-116476.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-clearfil-se-bond-kuraray-116476.html"
+  },
+  {
+    "sku": "121888",
+    "name": "Kit Clareador Claridex Office 35% + Biodam - Biodinâmica",
+    "price": "R$151,90",
+    "description": "Kit com 3 seringas de espessante com 0,42g e 3 seringas de peróxido de hidrogênio com 1,38g + 1 seringa de 2g de Biodam.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-claridex-office-35-biodam-biodinamica-121888-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-claridex-office-35-biodam-biodinamica-121888.html"
+  },
+  {
+    "sku": "701593",
+    "name": "Kit Introdutório Palodent V3 - Dentsply Sirona",
+    "price": "R$1.968,90",
+    "description": "Kit com 100 Matrizes Seccionais Pré-contornadas + 75 Cunhas Anatômicas + 30 Cunhas Protetoras Inteligentes + 1 Anel Universal + 1 Anel Pequeno + 1 Alicate V3 (fórceps) + 1 Pinça Porta Grampo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-introdutorio-palodent-v3-dental-cremer-701593-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-introdutorio-palodent-v3-dentsply-sirona-701593.html"
+  },
+  {
+    "sku": "689211",
+    "name": "Clareador Smart White 6% - Villevie",
+    "price": "R$9,79",
+    "description": "Peróxido de Hidrogênio 6%. Embalagem com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/689211_635830035234478543.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-smart-white-6-villevie-689211.html"
+  },
+  {
+    "sku": "DC38928",
+    "name": "Tira de Lixa Pré-Cortadas Epigloss Light - American Burrs",
+    "price": "R$75,90",
+    "description": "Embalagem com 50 unidades. 4x150mm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-pre-cortadas-epigloss-light-grosso-roxo-4x150mm-american-burrs.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-pre-cortadas-epigloss-light-american-burrs-dc38928.html"
+  },
+  {
+    "sku": "DC29630-1",
+    "name": "Clareador Power Bleaching com Aroma - Maquira",
+    "description": "Kit com 5 seringas com 3 g, 5 ponteiras, 1 porta moldeira e 2 placas de EVA. Peróxido de Carbamida a 10%, 16% ou 22% nos aromas Açaí ou Hortelã.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lover-clareador-power-bleaching-com-aroma-hortela-bm4-dc29630-1.jpg",
+    "url": "https://www.dentalcremer.com.br/lover-clareador-power-bleaching-com-aroma-maquira-dc29630-1.html"
+  },
+  {
+    "sku": "483444",
+    "name": "Clareador Power Bleaching 37% Office - Maquira",
+    "price": "R$85,90",
+    "description": "Embalagem com 1 seringa com 3g e 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-power-bleaching-bm4-483444.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-power-bleaching-maquira-483444.html"
+  },
+  {
+    "sku": "150982",
+    "name": "Kit Clareador White Care 15% - FGM",
+    "price": "R$72,37",
+    "description": "Embalagem com 6 seringas com 3g cada e 6 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-kit-clareador-white-care-15-fgm-2025.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-white-care-15-fgm-150982.html"
+  },
+  {
+    "sku": "126316",
+    "name": "Clareador Claridex Evolution 22% - Biodinâmica",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 seringa de 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-dental-claridex-evolution-22-biodinamica-126316.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-claridex-evolution-22-biodinamica-126316.html"
+  },
+  {
+    "sku": "114712",
+    "name": "Fita de Aço Cinta Profilática - TDV",
+    "description": "Embalagem com 10 fitas de 100mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fita-de-aco-cinta-profilatica-tdv-114712.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-de-aco-cinta-profilatica-tdv-114712.html"
+  },
+  {
+    "sku": "125040",
+    "name": "Clareador Lysmile 16% 3 Seringas 2,5ml - Lysanda",
+    "price": "R$26,90",
+    "description": "Kit com 3 seringas de 2,5ml cada e 3 pontas de aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-lysmile-16-3-seringas-2-5ml-lysanda-125040-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-lysmile-16-3-seringas-2-5ml-lysanda-125040.html"
+  },
+  {
+    "sku": "212211",
+    "name": "Tira de Lixa Abrasiva em Aço 4mm - TDV",
+    "price": "R$34,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-abrasiva-aco-4-mm-x-130-mm-tdv-dc-212211-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-abrasiva-em-aco-tdv-212211.html"
+  },
+  {
+    "sku": "DC29608",
+    "name": "Clareador Gel Lysmile - Lysanda",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 seringa de 2,5ml e 1 ponteira. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-gel-lysmile-lysanda-dc29608-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-gel-lysmile-lysanda-dc29608.html"
+  },
+  {
+    "sku": "DC29915",
+    "name": "Kit Clareador Magic White - Vigodent",
+    "price": "R$102,90",
+    "description": "Kit com 9 seringas de 3g cada. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-magic-white-10-vigodent-124413-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-magic-white-vigodent-dc29915.html"
+  },
+  {
+    "sku": "952841",
+    "name": "Matriz Universal Mini Kit - Maquira",
+    "price": "R$209,90",
+    "description": "Embalagem com 25 matrizes + 1 grampo + 4 protetores.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/952841_2.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-universal-mini-kit-maquira-952841.html"
+  },
+  {
+    "sku": "DC38702",
+    "name": "Polidor de Resina Composta CA - Jota",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-de-resina-chama-azul-9121m-ca-jota-145729.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-composta-ca-jota-dc38702.html"
+  },
+  {
+    "sku": "151372",
+    "name": "Kit Clareador 35% Automistura Plus - Allprime",
+    "price": "R$239,90",
+    "description": "Embalagem com 1 clareador corpo duplo 5g, 1 barreira gengival 2g, 5 ponteiras de auto mistura e 3 ponteiras de aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/itens-kit-clareador-allprime-35-151372.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-allprime-35-allprime-151372.html"
+  },
+  {
+    "sku": "178821",
+    "name": "Mini Kit Matriz Unimatrix R - TDV",
+    "price": "R$270,90",
+    "description": "Mini Kit com 25 matrizes sortidas, 1 grampo azul (hard - maior pressão) e 4 protetores de silicone triangulares.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-unimatrix-r-mini-kit-tdv-embalagem-178821.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-unimatrix-r-mini-kit-tdv-178821.html"
+  },
+  {
+    "sku": "196771",
+    "name": "Condicionador Ácido Fosfórico Ultra Etch IndiSpense 35% - Ultradent",
+    "price": "R$218,90",
+    "description": "Kit com 1 Condicionador Ácido Fosfórico Ultra Etch IndiSpense 35% de 30ml + 20 pontas aplicadoras Blue Micro Tip + 20 seringas de 1,2ml vazias.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fosforico-ultra-etch-indispense-35-ultradent-dc-196771-02.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fosforico-ultra-etch-indispense-35-ultradent-196771.html"
+  },
+  {
+    "sku": "DC29239",
+    "name": "Tira de Lixa Epigloss - American Burrs",
+    "price": "R$96,90",
+    "description": "Embalagem com 1 rolo de tira de lixa com 3m x 2,5mm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-lixa-epigloss-fino-azul-american-burrs-118411.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-epigloss-american-burrs-dc29239.html"
+  },
+  {
+    "sku": "213782",
+    "name": "Fita Banda Matriz Metálica - Fava",
+    "price": "R$5,59",
+    "description": "Embalagem com 1 rolo. 5x0,05x500mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/213782_2.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-banda-matriz-metalica-fava-213782.html"
+  },
+  {
+    "sku": "475173",
+    "name": "Tira de Lixa de Aço 2,5mm - Microdont",
+    "price": "R$17,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-lixa-aco-microdont-475173.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-microdont-475173.html"
+  },
+  {
+    "sku": "DC12940",
+    "name": "Polidor de Cerâmica Exa-Cerapol UM - Edenta",
+    "price": "R$75,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-de-ceramica-exa-cerapol-um-edenta-dc12940-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-ceramica-exa-cerapol-um-edenta-dc12940.html"
+  },
+  {
+    "sku": "143274",
+    "name": "Tira de Lixa de Poliéster - Iodontosul",
+    "price": "R$9,90",
+    "description": "Embalagem com 150 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-poliester-iodontosul-143274.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-iodontosul-143274.html"
+  },
+  {
+    "sku": "DC38868",
+    "name": "Matriz Aço Ultrasteel- American Burrs",
+    "price": "R$148,90",
+    "description": "Embalagem com 20 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-aco-ultrasteel-6-5x64mm-f1001-american-burrs-147484.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-aco-ultrasteel-american-burrs-dc38868.html"
+  },
+  {
+    "sku": "DC29695",
+    "name": "Matriz de Poliéster - TDV",
+    "description": "Embalagem com 20 unidades. Com sistema de fixação. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/matriz-de-poliester-tdv-dc29695-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/matriz-de-poliester-tdv-dc29695.html"
+  },
+  {
+    "sku": "795028",
+    "name": "Ponta OneGloss PS - Shofu",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade. Midi Ponta Montada 0186.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/795028_2.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-onegloss-ps-shofu-795028.html"
+  },
+  {
+    "sku": "DC13195",
+    "name": "Ionômero de Vidro Restaurador Riva Self Cure - SDI",
+    "price": "R$170,90",
+    "description": "Embalagem com 6g Líquido + 10g de pó + Acessórios.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ionomero-de-vidro-restaurador-riva-self-cure-sdi-dc13195-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-restaurador-riva-self-cure-sdi-dc13195.html"
+  },
+  {
+    "sku": "DC27131",
+    "name": "Grampo Unimatrix R - TDV",
+    "price": "R$166,90",
+    "description": "Embalagem com 1 grampo + 4 protetores de silicone triangulares. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/grampo-unimatrix-r-tdv-hard-e-soft-dc27131.jpg",
+    "url": "https://www.dentalcremer.com.br/grampo-unimatrix-r-tdv-dc27131.html"
+  },
+  {
+    "sku": "138064",
+    "name": "Kit Ultra-Aligner para Remoção de Resina Residual - American Burrs",
+    "price": "R$354,90",
+    "description": "Kit com 4 Polidores (OT3132, OT3212, OT3322, OT3324) + 2 Pedras de Arkansas (CG1113, CG1513) + 2 Pontas Diamantadas (FG2200F, FG3138F) + 1 Broca Carbide (284) + 1 Broqueiro 75 Furos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-ultra-aligner-para-remocao-de-resina-residual-american-burrs-138064-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-ultra-aligner-para-remoc-o-de-resina-residual-american-burrs-138064.html"
+  },
+  {
+    "sku": "389104",
+    "name": "Tira de Aço 4mm - Horico",
+    "price": "R$76,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/590845_635666064344583854.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-aco-horico-389104.html"
+  },
+  {
+    "sku": "755435",
+    "name": "Minikit Polidores de Resina Ultra-Gloss Chama CA - American Burrs",
+    "price": "R$69,90",
+    "description": "Embalagem com 3 unidades. Fino, Médio e Grosso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/minikit-polidor-de-resina-ultra-gloss-ca-american-burrs-755435.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-ultra-gloss-ca-american-burrs-755435.html"
+  },
+  {
+    "sku": "806533",
+    "name": "Disco Diamantado Espiral 3M™ Sof-Lex™ - Solventum",
+    "price": "R$237,90",
+    "description": "Kit com 3 Discos Sof-Lex Espiral Emborrachado para Pré-Prolimento (Bege) + 3 Discos Sof-Lex Espiral Diamantado para Polimento Final (Rosa). Não acompanha mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-polimento-sof-lex-espiral-3m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-espiral-sof-lextm-3m-solventum-806533.html"
+  },
+  {
+    "sku": "608489",
+    "name": "Kit Mini de Polimento de Resina - Microdont",
+    "price": "R$65,90",
+    "description": "Kit com 6 unidades + Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-mini-de-polimento-de-resina-microdont-608489-01.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-mini-de-polimento-de-resina-microdont-608489.html"
+  },
+  {
+    "sku": "567793",
+    "name": "Kit de Acabamento e Polimento Odontopediatria - TDV",
+    "price": "R$469,90",
+    "description": "Embalagem com 1 kit completo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-de-acabamento-e-polimento-odontopediatria-tdv-567793-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-de-acabamento-e-polimento-odontopediatria-tdv-567793.html"
+  }
+]

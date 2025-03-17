@@ -1,0 +1,766 @@
+[
+  {
+    "sku": "DC17408",
+    "name": "Guta Percha Acessória Microtipped - Tanari",
+    "price": "R$61,90",
+    "description": "Embalagem com 80 unidades de 28mm. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/MICROTIPPED_635575372680313339.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-microtipped-tanari-dc17408.html"
+  },
+  {
+    "sku": "DC17413",
+    "name": "Guta Percha Calibrada Recipro - Tanari",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/579253_635575327499459720.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-recipro-tanari-dc17413.html"
+  },
+  {
+    "sku": "DC18773",
+    "name": "Lima Hedstroem 1ª Série - Mani",
+    "price": "R$36,90",
+    "description": "Embalagem com 6 unidades. 15-40 (Sortido). Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-hedstroem-primeira-serie-mani-15-40-sortido-dc18773.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-hedstroem-1-serie-mani-dc18773.html"
+  },
+  {
+    "sku": "279412",
+    "name": "Lima Hedstroem Série Especial Maillefer - Dentsply Sirona",
+    "price": "R$93,90",
+    "description": "Embalagem com 6 unidades. Nº 10 - 25mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-hedstroem-serie-especial-numero-10-maillefer-dentsply-sirona-279412.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-hedstroem-serie-especial-maillefer-dentsply-sirona-279412.html"
+  },
+  {
+    "sku": "214512",
+    "name": "Tricresol Formalina - Biodinâmica",
+    "price": "R$19,90",
+    "description": "Frasco com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfectante-de-canal-tricresol-formalina-biodinamica-dc-214512-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tricresol-formalina-biodinamica-214512.html"
+  },
+  {
+    "sku": "546408",
+    "name": "Clorexidina Clorexoral Frasco 2% - Biodinâmica",
+    "price": "R$39,90",
+    "description": "Frasco com 200ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/546408.jpg",
+    "url": "https://www.dentalcremer.com.br/clorhexidina-clorexoral-frasco-2-biodinamica-546408.html"
+  },
+  {
+    "sku": "483413",
+    "name": "Edta-T - Fórmula & Ação",
+    "price": "R$43,90",
+    "description": "Frasco com 100ml. Edta com Tergentol.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-t-dissodico-formula-e-acao-100ml-483413.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-t-formula-e-acao-483413.html"
+  },
+  {
+    "sku": "483338",
+    "name": "Edta-T - Fórmula & Ação",
+    "price": "R$102,90",
+    "description": "Frasco com 500ml. Edta com Tergentol.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-t-dissodico-formula-e-acao-500ml-483338.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-t-formula-e-acao-483338.html"
+  },
+  {
+    "sku": "398298",
+    "name": "Paramonoclorofenol Canforado - Maquira",
+    "price": "R$15,90",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/paramonoclorofenol-canforado-maquira-398298-01.jpg",
+    "url": "https://www.dentalcremer.com.br/paramonoclorofenol-canforado-maquira-398298.html"
+  },
+  {
+    "sku": "532586",
+    "name": "Formocresol - Maquira",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 frasco com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/formocresol-maquira-532586-01.jpg",
+    "url": "https://www.dentalcremer.com.br/formocresol-maquira-532586.html"
+  },
+  {
+    "sku": "376746",
+    "name": "Pasta Endo PTC - Biodinâmica",
+    "price": "R$39,90",
+    "description": "Frasco com 25g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/endo-ptc-biodinamica-dc-376746-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-endo-ptc-biodinamica-376746.html"
+  },
+  {
+    "sku": "DC30283",
+    "name": "Lima Protaper Ultimate Hand 25mm - Dentsply Sirona",
+    "price": "R$291,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-protaper-ultimate-hand-slider-25mm-6unid-dentsply-sirona-128711-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-protaper-ultimate-hand-25mm-dentsply-sirona-dc30283.html"
+  },
+  {
+    "sku": "305128",
+    "name": "Cimento Reparador MTA - Angelus",
+    "price": "R$323,90",
+    "description": "Embalagem com 2 sachês de 0,14g cada MTA Branco e 3ml de água destilada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-mta-branco-2-doses-angelus-dc-305128-02.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-reparador-mta-angelus-305128.html"
+  },
+  {
+    "sku": "DC12810",
+    "name": "Lima Triple-Flex 2ª Série - Kerr",
+    "price": "R$58,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/518597_635434365985047211.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-triple-flex-2-serie-kerr-dc12810.html"
+  },
+  {
+    "sku": "DC11301",
+    "name": "Lima NiTi Flex 1ª Série Maillefer - Dentsply Sirona",
+    "price": "R$298,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-niti-flex-1-serie-maillefer-dentsply-sirona-dc11301.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-niti-flex-1-serie-maillefer-dentsply-sirona-dc11301.html"
+  },
+  {
+    "sku": "DC10061",
+    "name": "Lima Hedstrom 2ª Série - Kerr",
+    "price": "R$58,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-hedstrom-2-serie-sybronendo-dc10061.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-hedstrom-2-serie-kerr-dc10061.html"
+  },
+  {
+    "sku": "DC10067",
+    "name": "Lima K 2ª Série - Kerr",
+    "price": "R$58,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-k-2-serie-sybronendo-dc10067.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-k-2-serie-sybronendo-dc10067.html"
+  },
+  {
+    "sku": "483284",
+    "name": "NDP Solução Endodôntica - Fórmula & Ação",
+    "price": "R$142,90",
+    "description": "Caixa com 5 tubetes plásticos com 1,0ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/solucao-endodontica-ndp-05-tubetes-formula-acao-dc-483284-01.jpg",
+    "url": "https://www.dentalcremer.com.br/ndp-solucao-endodontica-formula-e-acao-483284.html"
+  },
+  {
+    "sku": "128721",
+    "name": "Lima Protaper Ultimate Hand Use SX 19mm - Dentsply Sirona",
+    "price": "R$291,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-protaper-ultimate-hand-use-sx-19mm-6unid-dentsply-sirona-128721-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-protaper-ultimate-hand-use-sx-19mm-6unid-dentsply-sirona-128721.html"
+  },
+  {
+    "sku": "DC25612",
+    "name": "Lima K 1° Série - EMS",
+    "price": "R$99,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-k-1-serie-airzap-dc25612.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-k-1-serie-ems-dc25612.html"
+  },
+  {
+    "sku": "DC39116",
+    "name": "Lima Manual M 31mm 2ª Série - Easy",
+    "price": "R$58,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-manual-m-31mm-2-serie-easy-dc39116.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-manual-m-31mm-2-serie-easy-dc39116.html"
+  },
+  {
+    "sku": "DC17414",
+    "name": "Guta Percha Calibrada M.T - Tanari",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/M_635584895406649104.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-m-t-tanari-dc17414.html"
+  },
+  {
+    "sku": "DC17419",
+    "name": "Guta Percha Calibrada Colorida Maillefer - Dentsply Sirona",
+    "price": "R$42,90",
+    "description": "Embalagem com 120 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/579468.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-colorida-maillefer-dentsply-sirona-dc17419.html"
+  },
+  {
+    "sku": "398229",
+    "name": "Edta Trissódico Solução - Maquira",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 frasco com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-trissodico-liquido-maquira-398229.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-liquido-maquira-398229.html"
+  },
+  {
+    "sku": "DC11259",
+    "name": "Guta Percha Calibrada Maillefer - Dentsply Sirona",
+    "price": "R$42,90",
+    "description": "Embalagem com 120 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/278835.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-maillefer-dentsply-sirona-dc11259.html"
+  },
+  {
+    "sku": "DC18571",
+    "name": "Broca Gates CA - MK Life",
+    "price": "R$49,90",
+    "description": "Embalagem com 6 unidades. Contra Ângulo. 28 ou 32mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/608144_a_635742780802468349.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-gates-ca-mk-life-dc18571.html"
+  },
+  {
+    "sku": "110576",
+    "name": "Gel EDTA - Fórmula & Ação",
+    "price": "R$23,90",
+    "description": "Seringa de 3 ml. Concentração 24% gel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/110576.jpg",
+    "url": "https://www.dentalcremer.com.br/gel-edta-formula-e-acao-110576.html"
+  },
+  {
+    "sku": "489194",
+    "name": "Lima R-Endo Manual - Injecta",
+    "price": "R$21,90",
+    "description": "Embalagem com 6 unidades .",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/489194.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-r-endo-injecta-489194.html"
+  },
+  {
+    "sku": "521429",
+    "name": "Clorhexidina 2% - Villevie",
+    "price": "R$9,09",
+    "description": "Embalagem com 1 seringa de 2,5 ml + 3 Ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clorhexidina-2-villevie-521429-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clorhexidina-2-villevie-521429.html"
+  },
+  {
+    "sku": "DC26785",
+    "name": "Lima K 1ª Série Maillefer - Dentsply Sirona",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-k-1-serie-maillefer-dentsply-sirona-dc26785-lovers.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-k-1-serie-maillefer-dentsply-sirona-dc26785.html"
+  },
+  {
+    "sku": "130533",
+    "name": "Iodofórmio Pasta Machado 2g - Fórmula & Ação",
+    "price": "R$97,90",
+    "description": "Embalagem com 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/iodoformio-pasta-machado-10g-formula-e-acao-130533-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/iodoformio-pasta-machado-10g-formula-e-ac-o-130533.html"
+  },
+  {
+    "sku": "DC18563",
+    "name": "Ponta de Papel Absorvente - MK Life",
+    "price": "R$39,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/607628_635736008742688183.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-mk-life-dc18563.html"
+  },
+  {
+    "sku": "483369",
+    "name": "Pasta Endo PTC Gel Leve - Fórmula & Ação",
+    "price": "R$54,90",
+    "description": "Embalagem com 1 seringa plástica descartável com 3ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/483369.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-endo-ptc-gel-leve-formula-e-acao-483369.html"
+  },
+  {
+    "sku": "DC29241",
+    "name": "Lima K 2ª Série - Injecta",
+    "price": "R$28,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-endodontica-k-2-serie-injecta-dc29241.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-k-2-serie-dc29241.html"
+  },
+  {
+    "sku": "110621",
+    "name": "Edta-T - Lysanda",
+    "price": "R$38,90",
+    "description": "Embalagem com 100ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agente-quelante-edta-t-100ml-lysanda-dc-110621-01.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-t-lysanda-110621.html"
+  },
+  {
+    "sku": "DC10060",
+    "name": "Lima Hedstrom 1ª Série - Kerr",
+    "price": "R$58,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-hedstrom-1-serie-sybronendo-dc10060.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-hedstrom-1-serie-kerr-dc10060.html"
+  },
+  {
+    "sku": "143299",
+    "name": "EDTA Trissódico Gel - Iodontosul",
+    "price": "R$13,90",
+    "description": "Embalagem com 2 seringas de 3g e 6 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-trissodico-gel-143299.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-gel-iodontosul-143299.html"
+  },
+  {
+    "sku": "DC13037",
+    "name": "Lima Hedstroem - Injecta",
+    "price": "R$24,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-endodontica-hedstroem-injecta-dc13037.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-hedstroem-injecta-dc13037.html"
+  },
+  {
+    "sku": "129289",
+    "name": "Água Oxigenada 10 Volumes Antisséptica - Farmax",
+    "price": "R$2,89",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agua-oxigenada-10-volumes-antisseptica-septmax-129289-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-oxigenada-10-volumes-antisseptica-hidraderm-129289.html"
+  },
+  {
+    "sku": "DC27168",
+    "name": "Broca Largo Peeso CA - AllPrime",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. CA – Contra Ângulo. 28mm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/184426.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-largo-ca-allprime-dc27168.html"
+  },
+  {
+    "sku": "110624",
+    "name": "Edta Trissódico Líquido - Lysanda",
+    "price": "R$8,99",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/110624.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-liquido-lysanda-110624.html"
+  },
+  {
+    "sku": "120468",
+    "name": "EDTA 500ml - Fórmula & Ação",
+    "price": "R$102,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-500ml-formula-acao-120468-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-500ml-formula-ac-o.html"
+  },
+  {
+    "sku": "DC17179",
+    "name": "Tamborel - Indusbello",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/564648_635482061852028210.jpg",
+    "url": "https://www.dentalcremer.com.br/tamborel-indusbello-dc17179.html"
+  },
+  {
+    "sku": "DC26784",
+    "name": "Lima K Série Especial Maillefer - Dentsply Sirona",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-lima-k-serie-especial-maillefer-dentsply-sirona-dc26784-lovers.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-k-serie-especial-maillefer-dentsply-sirona-dc26784.html"
+  },
+  {
+    "sku": "DC17411",
+    "name": "Guta Percha Pro 06 - Tanari",
+    "price": "R$64,90",
+    "description": "Embalagem com 60 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/PRO.06_635584895735499212.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-pro-06-tanari-dc17411.html"
+  },
+  {
+    "sku": "129390",
+    "name": "Cimento Endodôntico Intracanal Bio-C Temp 0,5g - Angelus",
+    "price": "R$58,90",
+    "description": "Embalagem com 1 seringa com 0,5g e 5 pontas aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-intracanal-bio-c-temp-0-5g-angelus-129390.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-intracanal-bio-c-temp-0-5g-angelus-129390.html"
+  },
+  {
+    "sku": "DC38863",
+    "name": "Gutapercha para Sistema Reciprocante - VDW",
+    "price": "R$95,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gutapercha-para-sistema-reciprocante-r25-vdw-147444.jpg",
+    "url": "https://www.dentalcremer.com.br/gutapercha-para-sistema-reciprocante-vdw-dc38863.html"
+  },
+  {
+    "sku": "126239",
+    "name": "Guta Percha Calibrada Nº 15-40 - Tanari",
+    "price": "R$52,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-calibrada-n-15-40-tanari-126239-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-n-15-40-tanari-126239.html"
+  },
+  {
+    "sku": "DC39008",
+    "name": "Lima K-File - Vigodent",
+    "price": "R$44,90",
+    "description": "Embalagem com 6 unidades (15,20,25,30,35 E 40).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lima-k-file-n80-31mm-6unid--vigodent-149244.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-k-file-vigodent-dc39008.html"
+  },
+  {
+    "sku": "105414",
+    "name": "Cimento Endodôntico Feapex - Fórmula & Ação",
+    "price": "R$279,90",
+    "description": "Embalagem com 2g + 10 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-feapex-formula-e-acao-105414-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-feapex-formula-e-acao-105414.html"
+  },
+  {
+    "sku": "DC25453",
+    "name": "Guta Percha Acessória - GAP",
+    "price": "R$44,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/9711012.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-gap-dc25453.html"
+  },
+  {
+    "sku": "542356",
+    "name": "Clorhexidina Cleanform 2% - Fórmula & Ação",
+    "price": "R$21,90",
+    "description": "Frasco com 100ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/542356.jpg",
+    "url": "https://www.dentalcremer.com.br/clorhexidina-cleanform-2-formula-e-acao-542356.html"
+  },
+  {
+    "sku": "483314",
+    "name": "Pasta Endo PTC Gel - Fórmula & Ação",
+    "price": "R$54,90",
+    "description": "Embalagem com 1 bisnaga de alumínio com 25g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/483314.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-endo-ptc-gel-formula-e-acao-483314.html"
+  },
+  {
+    "sku": "398274",
+    "name": "Iodofórmio - Maquira",
+    "price": "R$50,90",
+    "description": "Embalagem com 1 frasco com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/iodoformio-maquira-398274.jpg",
+    "url": "https://www.dentalcremer.com.br/iodoformio-maquira-398274.html"
+  },
+  {
+    "sku": "774047",
+    "name": "Paramonoclorofenol - Biodinâmica",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 frasco de 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/774047.jpg",
+    "url": "https://www.dentalcremer.com.br/paramonoclorofenol-biodinamica-774047.html"
+  },
+  {
+    "sku": "728309",
+    "name": "Cimento Reparador MTA Repair HP - Angelus",
+    "price": "R$327,90",
+    "description": "Embalagem com 2 cápsulas de pó com 0,085g cada e 2 unidades de líquido com 0,25ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-mta-repair-hp-angelus-dc-728309-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-reparador-mta-repair-hp-angelus-728309.html"
+  },
+  {
+    "sku": "774054",
+    "name": "Paramonoclorofenol com Furacin - Biodinâmica",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 frasco de 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/paramonoclorofenol-com-furacin-biodinamica-774054-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/paramonoclorofenol-com-furacin-biodinamica-774054.html"
+  },
+  {
+    "sku": "215069",
+    "name": "Tergencal - Biodinâmica",
+    "price": "R$35,90",
+    "description": "Frasco com 200ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/215069.jpg",
+    "url": "https://www.dentalcremer.com.br/tergencal-biodinamica-215069.html"
+  },
+  {
+    "sku": "606393",
+    "name": "Água Oxigenada 10 Volumes - Rioquímica",
+    "price": "R$3,29",
+    "description": "Frasco com 100ml. Solução de peróxido de hidrogênio 3%.É UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULAMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agua-oxigenada-10vl-100ml-dental-cremer-606393-01.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-oxigenada-10-volumes-rioquimica-606393.html"
+  },
+  {
+    "sku": "129292",
+    "name": "Farmaiodine Tópico Spray - Farmax",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/farmaiodine-topico-spray-septmax-129292-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/farmaiodine-topico-spray-hidraderm-129292.html"
+  },
+  {
+    "sku": "126265",
+    "name": "Arco de Young Inox Adulto - Tecnodent",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/arco-de-young-inox-adulto-tecnodent-126265-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/arco-de-young-inox-adulto-tecnodent-126265.html"
+  },
+  {
+    "sku": "908541",
+    "name": "Ponta de Irrigação sem Bisel - MK Life",
+    "price": "R$8,90",
+    "description": "Embalagem com 10 unidades. 25mm. 27G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-agulha-p-irrigacao-ponta-cega-mk-life-908541.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-irrigac-o-mk-life.html"
+  },
+  {
+    "sku": "386967",
+    "name": "EDTA Trissódico - Asfer",
+    "price": "R$11,90",
+    "description": "Frasco com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/386967.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-asfer-386967.html"
+  },
+  {
+    "sku": "241754",
+    "name": "Edta Trissódico Gel 24% - Biodinâmica",
+    "price": "R$42,90",
+    "description": "Embalagem com 2 seringas de 3g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-trissodico-gel-24-biodinamica-241754.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-gel-24-biodinamica-241754.html"
+  },
+  {
+    "sku": "143298",
+    "name": "EDTA Trissódico 20ml - Iodontosul",
+    "price": "R$6,99",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-trissodico-20ml-143298.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-20ml-iodontosul-143298.html"
+  },
+  {
+    "sku": "DC11238",
+    "name": "Condensador de Guta Mcspadden Maillefer - Dentsply Sirona",
+    "price": "R$305,90",
+    "description": "Embalagem com 4 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condensador-de-guta-mcspadden-maillefer-dentsply-sirona-dc11238.jpg",
+    "url": "https://www.dentalcremer.com.br/condensador-de-guta-mcspadden-maillefer-dentsply-sirona-dc11238.html"
+  },
+  {
+    "sku": "DC25290",
+    "name": "Guta Percha - MK Life",
+    "price": "R$57,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/119503.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-mk-life-dc25290.html"
+  },
+  {
+    "sku": "114501",
+    "name": "Água Oxigenada 10 Volumes - Rioquímica",
+    "description": "Frasco com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114501.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-oxigenada-10-volumes-rioquimica-114501.html"
+  },
+  {
+    "sku": "385069",
+    "name": "Edta Trissódico Gel 24% - Maquira",
+    "price": "R$41,90",
+    "description": "Embalagem com 2 seringas de 3g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-trissodico-gel-24-maquira-385069-att.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-gel-24-maquira-385069.html"
+  },
+  {
+    "sku": "DC11261",
+    "name": "Guta Percha Calibrada - Tanari",
+    "price": "R$55,90",
+    "description": "Embalagem com 120 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/200522.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-tanari-dc11261.html"
+  },
+  {
+    "sku": "DC30292",
+    "name": "Guta-Percha ProTaper Ultimate Conform Fit - Dentsply Sirona",
+    "price": "R$91,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-protaper-conform-fit-f1-60unid-dentsply-sirona-128755-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-protaper-conform-fit-dentsply-sirona-dc30292.html"
+  },
+  {
+    "sku": "398328",
+    "name": "Tricresol Formalina - Maquira",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 frasco com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tricresol-formalina-maquira-398328-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tricresol-formalina-maquira-398328.html"
+  },
+  {
+    "sku": "DC38966",
+    "name": "Guta Percha Easy Acessória - Easy",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-easy-acessoria-easy-dc38966.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-easy-acessoria-easy-dc38966.html"
+  },
+  {
+    "sku": "145718",
+    "name": "EDTA Trissódico Gel 24% - Vigodent",
+    "price": "R$44,90",
+    "description": "Embalagem com 2 seringas de 3g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-trissodico-gel-24-vigodent-145718.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-gel-24-vigodent-145718.html"
+  },
+  {
+    "sku": "145716",
+    "name": "EDTA Trissódico Solução 18% - Vigodent",
+    "price": "R$11,90",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/edta-trissodico-solucao-18-vigodent-145716.jpg",
+    "url": "https://www.dentalcremer.com.br/edta-trissodico-solucao-18-vigodent-145716.html"
+  },
+  {
+    "sku": "561326",
+    "name": "Tergipol - Biodinâmica",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade de 200ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/irrigador-de-canal-tergipol-biodinamica-dc-561326-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tergipol-biodinamica-561326.html"
+  },
+  {
+    "sku": "240269",
+    "name": "Cimento Forrador de Hidróxido de Cálcio Hydcal - Maquira",
+    "price": "R$42,90",
+    "description": "Embalagem com 1 tubo de pasta base com 13g, 1 tubo de pasta catalisadora com 11g e 1 bloco de espatulação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-forrador-de-hidroxido-de-calcio-hydcal-maquira-240269.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-forrador-de-hidroxido-de-calcio-hydcal-maquira-240269.html"
+  },
+  {
+    "sku": "DC39117",
+    "name": "Guta Percha Bassi Calibrada - Easy",
+    "price": "R$69,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-bassi-calibrada-easy-dc39117.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-bassi-calibrada-easy-dc39117.html"
+  },
+  {
+    "sku": "DC11322",
+    "name": "Ponta de Papel Absorvente Bulks - Tanari",
+    "price": "R$50,90",
+    "description": "Embalagem com 120 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-de-papel-absorvente-bulks-tanari-dc11322-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-bulks-tanari-dc11322.html"
+  },
+  {
+    "sku": "195309",
+    "name": "Stop de Silicone Cursor - Angelus",
+    "price": "R$47,90",
+    "description": "Embalagem com 100 unidades (cursor). 1,0mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/195309.jpg",
+    "url": "https://www.dentalcremer.com.br/stop-de-silicone-cursor-angelus-195309.html"
+  },
+  {
+    "sku": "DC38708",
+    "name": "Gutapercha Não Calibrada Vials - AllPrime",
+    "price": "R$33,90",
+    "description": "Embalagem com 120 unidades. Escolha seu Modelo",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-calibrada-vials-n15-40-allprime-145790.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-calibrada-vials-allprime-dc38708.html"
+  },
+  {
+    "sku": "DC27167",
+    "name": "Broca Gates CA 28mm – AllPrime",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Contra-ângulo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-broca-gates-ca-allprime-dc27167.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-gates-ca-allprime-dc27167.html"
+  },
+  {
+    "sku": "DC38453",
+    "name": "Guta-Percha para Sistema Rotatório VDW Rotate ISO 28mm - VDW",
+    "price": "R$75,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-para-sistema-rotatorio-vdw-rotate-iso-28mm-vdw-dental-speed-33634.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-para-sistema-rotatorio-vdw-rotate-iso-28mm-vdw-dc38453.html"
+  },
+  {
+    "sku": "DC24591_2",
+    "name": "Broca Carbide Esférica Corte Rápido C1S Longa CA - Jota",
+    "price": "R$16,90",
+    "description": "Unidade. Contra Ângulo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/849066.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-esferica-corte-rapido-c1s-longa-ca-jota-dc24591-2.html"
+  },
+  {
+    "sku": "114236",
+    "name": "Cimento Endodôntico Endofill - Dentsply Sirona",
+    "description": "Kit com 1 pó 12g + 1 liquído 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cimento-endodontico-endofill-dentsply-maillefer-dc-279214-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-endofill-dentsply-sirona-114236.html"
+  },
+  {
+    "sku": "DC30645",
+    "name": "Broca Gates CA 28mm - Microdont",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-gates-28mm-n-6-ca-microdont-dental-cremer-133470.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-gates-ca-28mm-microdont-dc30645.html"
+  },
+  {
+    "sku": "133670",
+    "name": "Guta-Percha Acessória Nº 25.04 - Easy",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/guta-percha-acessoria-n-25-04-easy-133670-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-n-25-04-easy-133670.html"
+  },
+  {
+    "sku": "DC25849",
+    "name": "Guta Percha ProT Plus - GAP",
+    "price": "R$66,90",
+    "description": "Embalagem com 60 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/106878_2.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-prot-plus-gap-dc25849.html"
+  },
+  {
+    "sku": "DC18610",
+    "name": "Guta Percha Acessória - MK Life",
+    "price": "R$48,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/607574_635735956241534863.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-acessoria-mk-life-dc18610.html"
+  },
+  {
+    "sku": "141173",
+    "name": "Cimento Biocerâmico Obturador/Reparador CIMMO HP - Cimmo",
+    "price": "R$211,90",
+    "description": "Embalagem com Blister 0,8g (4 aplicações 0,2g) + 1 frasco com líquido 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-bioceramico-reparador-cimmo-hp-cimmo-dental-cremer-141174.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-bioceramico-obturador-reparador-cimmo-hp-cimmo-141173.html"
+  },
+  {
+    "sku": "DC17412",
+    "name": "Guta Percha Pro Universal - Tanari",
+    "price": "R$77,90",
+    "description": "Embalagem com 60 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/579215.jpg",
+    "url": "https://www.dentalcremer.com.br/guta-percha-pro-universal-tanari-dc17412.html"
+  },
+  {
+    "sku": "383942",
+    "name": "Cimento Endodôntico MTA Fillapex - Angelus",
+    "price": "R$144,90",
+    "description": "Embalagem com 1 seringa de 4g + 15 pontas de automistura + 1 bloco de espatulação. Reposição.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-endodontico-mta-fillapex-angelus-383942-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-endodontico-mta-fillapex-angelus-383942.html"
+  },
+  {
+    "sku": "DC11201",
+    "name": "Broca Batt Cônica CA de Baixa Rotação Maillefer - Dentsply Sirona",
+    "price": "R$80,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/279658.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-batt-conica-ca-de-baixa-rotac-o-maillefer-dentsply-sirona-dc11201.html"
+  },
+  {
+    "sku": "DC25287",
+    "name": "Ponta de Aspiração Capillary Tips - Ultradent",
+    "price": "R$78,90",
+    "description": "Embalagem com 20 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-aspiracao-capillary-tips-verde-114881.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-aspirac-o-capillary-tips-ultradent-dc25287.html"
+  },
+  {
+    "sku": "DC11323",
+    "name": "Ponta de Papel Absorvente Cell Pack Maillefer - Dentsply Sirona",
+    "price": "R$83,90",
+    "description": "Embalagem com 180 unidades 1ª e 2ª série, sortida ou individual (estéril).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/279139.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-papel-absorvente-cell-pack-maillefer-dentsply-sirona-dc11323.html"
+  },
+  {
+    "sku": "101601",
+    "name": "Kit Endodontia Broca Carbide - Prima Dental by Angelus",
+    "price": "R$62,90",
+    "description": "Kit com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101601.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-endodontia-broca-carbide-prima-dental-by-angelus-101601.html"
+  }
+]

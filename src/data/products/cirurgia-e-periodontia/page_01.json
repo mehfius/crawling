@@ -1,0 +1,763 @@
+[
+  {
+    "sku": "DC19098",
+    "name": "Fio de Sutura de Nylon Preto - Procare",
+    "price": "R$55,90",
+    "description": "Embalagem com 24 unidades. Com agulha 3/8 CC 2,0cm. Escolha a numeração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-de-nylon-preto-procare-dc19098.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-de-nylon-preto-procare-dc19098.html"
+  },
+  {
+    "sku": "DC10126",
+    "name": "Lâmina de Bisturi de Aço Carbono Estéril - Solidor",
+    "price": "R$49,90",
+    "description": "Embalagem com 100 unidades. Escolha o formato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-bisturi-aco-carbono-esteril-solidor-DC10126.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-carbono-esteril-solidor-dc10126.html"
+  },
+  {
+    "sku": "DC25260",
+    "name": "Fio de Sutura Nylon com Agulha - Shalon",
+    "price": "R$71,90",
+    "description": "Embalagem com 24 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-nylon-agulha-shalon-25260.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-nylon-shalon-dc25260.html"
+  },
+  {
+    "sku": "DC38953",
+    "name": "Fio de Sutura Nylon - Allprime",
+    "price": "R$49,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-nylon-allprime-dc38953.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-nylon-allprime-dc38953.html"
+  },
+  {
+    "sku": "DC19099",
+    "name": "Fio de Sutura de Seda Preta - Procare",
+    "price": "R$54,99",
+    "description": "Embalagem com 24 unidades. Com agulha 1/2 CT 1,7cm. Escolha a numeração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-de-seda-preta-procare-dc19099.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-de-seda-preta-procare-dc19099.html"
+  },
+  {
+    "sku": "DC10120",
+    "name": "Fio de Sutura Seda com Agulha - Shalon",
+    "price": "R$80,90",
+    "description": "Embalagem com 24 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-seda-agulha-shalon-10120.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-seda-preta-trancada-shalon-dc10120.html"
+  },
+  {
+    "sku": "DC19711",
+    "name": "Fio de Sutura Nylon com Agulha 1/2 CT 1,5cm - Shalon",
+    "price": "R$105,90",
+    "description": "Embalagem com 24 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-nylon-agulha-shalon-19711.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-nylon-shalon-dc19711.html"
+  },
+  {
+    "sku": "DC30412",
+    "name": "Fio de Sutura Nylon Preto Ag. Triangular Reverso R - Techsuture",
+    "price": "R$138,90",
+    "description": "Embalagem com 12 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-sutura-nylon-preto-6-45cmx15mm-38-ag-triangular-reverso-r-techsuture-130883.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-nylon-preto-ag-triangular-reverso-r-techsuture-dc30412.html"
+  },
+  {
+    "sku": "DC10122",
+    "name": "Fio de Sutura Seda Preta Trançada - Ethicon",
+    "price": "R$139,90",
+    "description": "Embalagem com 24 unidades. Com agulha 1/2 CT 1,7cm. Escolha a numeração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-seda-3-0-ag-1-2-1-7cm-jej-ethicon-dc10122.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-seda-preta-trancada-ethicon-dc10122.html"
+  },
+  {
+    "sku": "DC38318",
+    "name": "Lâmina para Bisturi Descartável - Aço Carbono - Maxicor",
+    "price": "R$43,90",
+    "description": "Embalagem com 100 unidades. Escolha seu Tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-para-bisturi-descartavel-aco-carbono-n-24-maxicor-dental-cremer-139241.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-para-bisturi-descartavel-aco-carbono-maxicor-dc38318.html"
+  },
+  {
+    "sku": "DC25458",
+    "name": "Fio de Sutura Seda Preta - Best Care",
+    "price": "R$32,90",
+    "description": "Embalagem com 12 unidades. Com agulha 1/2 CT 1,7cm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/972832.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-seda-preta-best-care-dc25458.html"
+  },
+  {
+    "sku": "DC10115",
+    "name": "Fio de Sutura Nylon com Agulha 1/2 CT 1,5cm - Shalon",
+    "price": "R$93,90",
+    "description": "Embalagem com 24 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-nylon-agulha-shalon-10115.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-nylon-shalon-dc10115.html"
+  },
+  {
+    "sku": "DC25459",
+    "name": "Fio de Sutura Seda Preta - Best Care",
+    "price": "R$32,90",
+    "description": "Embalagem com 12 unidades. Com agulha 3/8 CT 1,7cm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-fio-de-sutura-seda-best-care-dc25459.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-seda-preta-best-care-dc25459.html"
+  },
+  {
+    "sku": "DC10125",
+    "name": "Fio de Sutura Absorvível Vicryl - Ethicon",
+    "price": "R$473,90",
+    "description": "Embalagem com 12 unidades. Com agulha 1/2 CT 1,6cm. Escolha a numeração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-vicryl-4-0-ag-15cm-jj-ethicon-dc-385915-01.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-absorvivel-vicryl-ethicon-dc10125.html"
+  },
+  {
+    "sku": "129042",
+    "name": "Fio de Sutura Nylon 4-0 1/2 1,7cm - 45cm - BC Suture",
+    "price": "R$76,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-nylon-4-0-ag-bioline-fios-129042-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-nylon-4-0-ag-1-2-cor-1-7cm-bc-suture-129042.html"
+  },
+  {
+    "sku": "DC10111",
+    "name": "Fio de Sutura Mononylon - Ethicon",
+    "price": "R$271,90",
+    "description": "Embalagem com 24 unidades. Com agulha 1/2 CT 1,7cm. Escolha a numeração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-mononylon-ethicon-dc10111-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-mononylon-ethicon-dc10111.html"
+  },
+  {
+    "sku": "129043",
+    "name": "Fio de Sutura Nylon 5-0 3/8 2,0cm - 45cm - BC Suture",
+    "price": "R$76,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-nylon-5-0-ag-3-8-cor-2-0cm-bioline-fios-129043-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-nylon-5-0-ag-3-8-cor-2-0cm-bc-suture-129043.html"
+  },
+  {
+    "sku": "DC19097",
+    "name": "Agulha Para Sutura - Procare",
+    "price": "R$12,90",
+    "description": "Embalagem com 12 unidades. ½ GR. 12, 13, 14, 15 ou 16.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-para-sutura-procare-dc19097-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-para-sutura-procare-dc19097.html"
+  },
+  {
+    "sku": "129047",
+    "name": "Fio Cirúrgico De Nylon Preto 0-0 Sem Agulha 1,5cm - Bioline Fios",
+    "price": "R$92,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-de-nylon-preto-0-0-sem-agulha-1-5cm-bioline-fios-129047-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-de-nylon-preto-0-0-sem-agulha-1-5cm-bioline-fios-129047.html"
+  },
+  {
+    "sku": "DC30413",
+    "name": "Fio de Sutura Nylon Azul Ag. Triangular Reverso R - Techsuture",
+    "price": "R$204,90",
+    "description": "Embalagem com 12 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-sutura-nylon-azul-5-55cmx15mm-38-ag-triangular-reverso-r-techsuture-130885.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-nylon-azul-ag-triangular-reverso-r-techsuture-dc30413.html"
+  },
+  {
+    "sku": "129073",
+    "name": "Fio Cirúrgico De Nylon Preto 5-0 Ag 3/8 1,9cm - Bioline Fios",
+    "price": "R$127,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-de-nylon-preto-5-0-ag-3-8-1-9cm-bioline-fios-129073-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-de-nylon-preto-5-0-ag-3-8-1-9cm-bioline-fios-129073.html"
+  },
+  {
+    "sku": "214796",
+    "name": "Fio de Sutura Suturim - Biodinâmica",
+    "price": "R$21,90",
+    "description": "Embalagem com 10m. Sem agulha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/214796.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-suturim-biodinamica-214796.html"
+  },
+  {
+    "sku": "129041",
+    "name": "Fio de Sutura Nylon 4-0 3/8 2,0cm - 45cm - BC Suture",
+    "price": "R$76,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-nylon-4-0-ag-3-8-cor-2-0cm-bioline-fios-129041-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-nylon-4-0-ag-3-8-cor-2-0cm-bc-suture-129041.html"
+  },
+  {
+    "sku": "129057",
+    "name": "Fio Cirúrgico De Nylon Preto 3-0 Ag 3/8 3,0cm - Bioline Fios",
+    "price": "R$127,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-de-nylon-preto-3-0-ag-3-8-3-0cm-bioline-fios-129057-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-de-nylon-preto-3-0-ag-3-8-3-0cm-bioline-fios-129057.html"
+  },
+  {
+    "sku": "129086",
+    "name": "Fio Cirúrgico Seda Preto 4-0 1/2 Cor 1,7cm - Bioline Fios",
+    "price": "R$115,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-seda-preto-4-0-1-2-cor-1-7cm-bioline-fios-129086-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-seda-preto-4-0-1-2-cor-1-7cm-bioline-fios-129086.html"
+  },
+  {
+    "sku": "126245",
+    "name": "Fio de Sutura Absorvível  Vicryl 6-0 - Ethicon",
+    "price": "R$473,90",
+    "description": "Embalagem com 12 unidades. Com agulha 1.5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-absorvivel-vicryl-6-0-ethicon-126245-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-absorvivel-vicryl-6-0-ethicon-126245.html"
+  },
+  {
+    "sku": "129079",
+    "name": "Fio Cirúrgico Seda 3-0 Ag 1/2 Cor 1,7cm - BC Suture",
+    "price": "R$89,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-seda-3-0-ag-1-2-cor-1-7cm-bioline-fios-129079-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-seda-3-0-ag-1-2-cor-1-7cm-bc-suture-129079.html"
+  },
+  {
+    "sku": "129081",
+    "name": "Fio de Sutura Seda 5-0 1/2 1,7cm - 45cm - BC Suture",
+    "price": "R$89,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-seda-5-0-ag-1-2-cor-1-7cm-bioline-fios-129081-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-seda-5-0-ag-1-2-cor-1-7cm-bc-suture-129081.html"
+  },
+  {
+    "sku": "129085",
+    "name": "Fio Cirúrgico Seda Preto 4-0 3/8 Cor 2,0cm - Bioline Fios",
+    "price": "R$133,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-seda-preto-4-0-3-8-cor-2-0cm-bioline-fios-129085-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-seda-preto-4-0-3-8-cor-2-0cm-bioline-fios-129085.html"
+  },
+  {
+    "sku": "129082",
+    "name": "Fio Cirúrgico Seda Preto 3-0 1/2 Cor 1,7cm - Bioline Fios",
+    "price": "R$115,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-seda-preto-3-0-1-2-cor-1-7cm-bioline-fios-129082-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-seda-preto-3-0-1-2-cor-1-7cm-bioline-fios-129082.html"
+  },
+  {
+    "sku": "214802",
+    "name": "Fio de Sutura Suturim - Biodinâmica",
+    "price": "R$16,90",
+    "description": "Embalagem com 5m. Sem agulha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/214802.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-suturim-biodinamica-214802.html"
+  },
+  {
+    "sku": "129056",
+    "name": "Fio Cirúrgico De Nylon Preto 3-0 Ag 3/8 2,4cm - Bioline Fios",
+    "price": "R$127,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-de-nylon-preto-3-0-ag-3-8-2-4cm-bioline-fios-129056-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-de-nylon-preto-3-0-ag-3-8-2-4cm-bioline-fios-129056.html"
+  },
+  {
+    "sku": "129054",
+    "name": "Fio Cirúrgico De Nylon Preto 3-0 Ag 3/8 1,9cm - Bioline Fios",
+    "price": "R$127,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-de-nylon-preto-3-0-ag-3-8-1-9cm-bioline-fios-129054-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-de-nylon-preto-3-0-ag-3-8-1-9cm-bioline-fios-129054.html"
+  },
+  {
+    "sku": "129050",
+    "name": "Fio Cirúrgico De Nylon Preto 2-0 Ag 3/8 3,0cm - Bioline Fios",
+    "price": "R$142,90",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-cirurgico-de-nylon-preto-2-0-ag-3-8-3-0cm-bioline-fios-129050-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-cirurgico-de-nylon-preto-2-0-ag-3-8-3-0cm-bioline-fios-129050.html"
+  },
+  {
+    "sku": "271874",
+    "name": "Esponja Hemostática Hemospon Cubo - Maquira",
+    "price": "R$69,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-esponja-hemostatica-hemospon-maquira-271874.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-hemostatica-hemospon-maquira-271874.html"
+  },
+  {
+    "sku": "114257",
+    "name": "Lâmina de Bisturi de Aço Carbono Estéril 15 - Solidor",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114257.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-carbono-esteril-15-solidor-114257.html"
+  },
+  {
+    "sku": "121319",
+    "name": "Soro Fisiológico 0,9% Sorimax - Farmax",
+    "price": "R$4,99",
+    "description": "Embalagem com 1 Frasco de 500ml. Solução de Cloreto de Sódio 0,9%.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/soro-fisiologico-gotejador-sorimax-500ml-farmax-121319-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/soro-fisiologico-0-9-sorimax-farmax-121319.html"
+  },
+  {
+    "sku": "DC26925",
+    "name": "Lâmina de Bisturi de Aço Carbono Estéril - Paramount",
+    "price": "R$82,90",
+    "description": "Embalagem 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-de-bisturi-de-aco-carbono-esteril-paramount-dc26925-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-carbono-esteril-paramount-dc26925.html"
+  },
+  {
+    "sku": "DC10127",
+    "name": "Lâmina de Bisturi de Aço Inox Estéril - Lamedid",
+    "price": "R$59,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-de-bisturi-15-de-aco-inox-esteril-lamedid-236996.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-inox-esteril-lamedid-dc10127.html"
+  },
+  {
+    "sku": "376722",
+    "name": "Curativo Alveolar Alveolex - Biodinâmica",
+    "price": "R$86,90",
+    "description": "Embalagem com 10g. Com propólis.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/curativo-c-propolis-alveolex-10g-biodinamica-dc-376722-01.jpg",
+    "url": "https://www.dentalcremer.com.br/curativo-alveolar-alveolex-biodinamica-376722.html"
+  },
+  {
+    "sku": "121317",
+    "name": "Soro Fisiológico 0,9 - Farmax",
+    "price": "R$2,89",
+    "description": "Soro Fisiológico em Frasco de 100ml.Uso adulto e pediátrico.Solução de Cloreto de Sódio 0,9%.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/produto-soro-fisiologico-0-9-100ml-farmax-121317.jpg",
+    "url": "https://www.dentalcremer.com.br/soro-fisiologico-0-9-farmax-121317.html"
+  },
+  {
+    "sku": "121318",
+    "name": "Soro Fisiológico 0,9% - Farmax",
+    "price": "R$3,69",
+    "description": "Embalagem com 1 frasco gotejador de 250ml. Solução de Cloreto de Sódio 0,9%.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/soro-fisiologico-gotejador-sorimax-250ml-farmax-121318.jpg",
+    "url": "https://www.dentalcremer.com.br/soro-fisiologico-0-9-farmax-121318.html"
+  },
+  {
+    "sku": "140438",
+    "name": "Solução Injetável de Cloreto de Sódio 20% 20ml - Samtec",
+    "price": "R$399,90",
+    "description": "Solução injetável límpida, estéril e apirogênica.\r\nEmbalagem com 20ml - 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-cloreto-de-sodio-20-20ml-samtec-140438.html"
+  },
+  {
+    "sku": "126816",
+    "name": "Solução Injetável de Cloreto de Sódio 0,9% - Beker",
+    "price": "R$590,90",
+    "description": "Embalagem com 50 bolsas de 250ml em PP.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/solucao-injetavel-cloreto-sodio-250ml-pp-beker-126816.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-cloreto-de-sodio-0-9-beker-126816.html"
+  },
+  {
+    "sku": "140442",
+    "name": "Solução Injetável de Glicose 50% 20ml - Samtec",
+    "price": "R$435,90",
+    "description": "Solução injetável límpida, estéril e apirogênica.\r\nEmbalagem com 20ml - 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-glicose-50-20ml-samtec-140442.html"
+  },
+  {
+    "sku": "DC19728",
+    "name": "Lâmina de Bisturi de Aço Carbono Estéril - Swann-Morton",
+    "price": "R$506,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-de-bisturi-de-aco-carbono-esteril-swann-morton-embalagem-dc19728.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-carbono-esteril-swann-morton-dc19728.html"
+  },
+  {
+    "sku": "140430",
+    "name": "Água para Injeção 20ml - Samtec",
+    "price": "R$255,90",
+    "description": "Solução injetável, límpida e hipotônica, estéril e apirogênica. \r\nEmbalagem com 20ml - 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-para-injec-o-20ml-samtec-140430.html"
+  },
+  {
+    "sku": "DC38331",
+    "name": "Solução Injetável de Cloreto de Sódio 10ml - Samtec",
+    "price": "R$159,90",
+    "description": "Solução injetável límpida, estéril e apirogênica.\r\nEmbalagem com 10ml - 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-cloreto-de-sodio-10ml-samtec-dc38331.html"
+  },
+  {
+    "sku": "558074",
+    "name": "Curativo Alveolar Alveogyl 10g - Septodont",
+    "price": "R$204,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/curativo-alveolar-alveogyl-10g-septodont-558074.jpg",
+    "url": "https://www.dentalcremer.com.br/curativo-alveolar-alveogyl-10g-septodont-558074.html"
+  },
+  {
+    "sku": "126818",
+    "name": "Solução Injetável de Cloreto de Sódio 0,9% - Beker",
+    "price": "R$270,90",
+    "description": "Embalagem com 14 bolsas de 1000ml em PVC.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/solucao-injetavel-cloreto-sodio-1000ml-pvc-126818.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-cloreto-de-sodio-0-9-beker-126818.html"
+  },
+  {
+    "sku": "140431",
+    "name": "Solução Injetável de Bicarbonato de Sódio 8,4% 10ml - Samtec",
+    "price": "R$239,90",
+    "description": "Solução injetável 84 mg/mL(8,4%), estéril e apirogênica.\r\nCaixas com 200 ampolas plásticas de Bicarbonato de sódio a 8,4% de 10 ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/anestesico_semg.png",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-bicarbonato-de-sodio-8-4-10ml-samtec-140431.html"
+  },
+  {
+    "sku": "111459",
+    "name": "Solução Injetável de Cloreto de Sódio 0,9% 10ml - Samtec",
+    "price": "R$139,90",
+    "description": "Caixa fechada com 200 unidades",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/cloreto-de-sodio-0-9-10ml-samtec-111459.html"
+  },
+  {
+    "sku": "DC38938",
+    "name": "Lâmina de Bisturi Descartável Aço Carbono - Indusbello",
+    "price": "R$104,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-de-bisturi-descartavel-aco-carbono-n15c-100unid--indusbello-148341.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-descartavel-aco-carbono-indusbello-dc38938.html"
+  },
+  {
+    "sku": "126814",
+    "name": "Solução Injetável de Cloreto de Sódio 0,9% - Beker",
+    "price": "R$1.325,90",
+    "description": "Embalagem com 100 bolsas de 100ml com batoque em PP.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cloreto-sodio-becker-100ml-pp-126814.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-cloreto-de-sodio-0-9-beker-126814.html"
+  },
+  {
+    "sku": "126817",
+    "name": "Solução Injetável de Cloreto de Sódio 0,9% 500ml - Beker",
+    "price": "R$344,90",
+    "description": "Embalagem com 24 bolsas de 500ml em PVC.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/solucao-injetavel-cloreto-sodio-500ml-pvc-126817.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-cloreto-de-sodio-0-9-beker-126817.html"
+  },
+  {
+    "sku": "140441",
+    "name": "Solução Injetável de Glicose 50% 10ml - Samtec",
+    "price": "R$239,90",
+    "description": "Solução injetável límpida, estéril e apirogênica.\r\nEmbalagem com 10ml - 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-glicose-50-10ml-samtec-140441.html"
+  },
+  {
+    "sku": "140440",
+    "name": "Solução Injetável de Glicose 25% 10ml - Samtec",
+    "price": "R$199,90",
+    "description": "Solução injetável límpida, estéril e apirogênica.\r\nEmbalagem com 10ml - 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-injetavel-de-glicose-25-10ml-samtec-140440.html"
+  },
+  {
+    "sku": "DC26926",
+    "name": "Lâmina de Bisturi de Aço Inox Estéril - Paramount",
+    "price": "R$122,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-de-bisturi-de-aco-inox-esteril-paramount-dc26926-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-inox-esteril-paramount-dc26926.html"
+  },
+  {
+    "sku": "DC19727",
+    "name": "Lâmina de Bisturi de Aço Inox Estéril - Swann-Morton",
+    "price": "R$448,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700688.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-inox-esteril-swann-morton-dc19727.html"
+  },
+  {
+    "sku": "DC30394",
+    "name": "Lâmina de Bisturi de Aço Carbono Estéril - Maxicor",
+    "price": "R$47,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-de-bisturi-de-aco-carbono-esteril-maxicor-dc30394-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-carbono-esteril-maxicor-dc30394.html"
+  },
+  {
+    "sku": "508932",
+    "name": "Cânula de Aspiração Frazier - Golgran",
+    "price": "R$108,90",
+    "description": "Embalagem com 1 unidade. 3mm. Ref: 65-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/canula-de-aspiracao-frazier-18cm-dental-cremer-508932-01.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-de-aspirac-o-frazier-golgran-508932.html"
+  },
+  {
+    "sku": "700695",
+    "name": "Lâmina de Bisturi de Aço Carbono Estéril - Swann-Morton",
+    "price": "R$587,90",
+    "description": "Embalagem com 100 unidades. 12D.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700695_635854308502285245.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-carbono-esteril-swann-morton-700695.html"
+  },
+  {
+    "sku": "DC24421",
+    "name": "Lâmina de Bisturi de Aço Inox Estéril Retrátil - Swann-Morton",
+    "price": "R$992,90",
+    "description": "Embalagem com 25 unidades. Cabo Plástico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/820201.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-inox-esteril-retratil-swann-morton-dc24421.html"
+  },
+  {
+    "sku": "700690",
+    "name": "Lâmina de Bisturi de Aço Inox Estéril - Swann-Morton",
+    "price": "R$632,90",
+    "description": "Embalagem com 100 unidades. 12D.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700690_635887143708068132.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-inox-esteril-swann-morton-700690.html"
+  },
+  {
+    "sku": "DC38939",
+    "name": "Lâmina de Bisturi Descartável Inox - Indusbello",
+    "price": "R$104,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamina-de-bisturi-descartavel-inox-n10-100unid--indusbello-148342.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-descartavel-inox-indusbello-dc38939.html"
+  },
+  {
+    "sku": "DC24419",
+    "name": "Lâmina de Bisturi de Aço Inox Estéril Fine SM - Swann-Morton",
+    "price": "R$772,90",
+    "description": "Embalagem com 25 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/820003.jpg",
+    "url": "https://www.dentalcremer.com.br/lamina-de-bisturi-de-aco-inox-esteril-fine-sm-swann-morton-dc24419.html"
+  },
+  {
+    "sku": "773118",
+    "name": "Cânula de Aspiração Frazier - Fava",
+    "price": "R$76,90",
+    "description": "Embalagem com 1 unidade de 18cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/canula-de-aspiracao-frazier-fava-dc-773118-01.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-de-aspirac-o-frazier-fava-773118.html"
+  },
+  {
+    "sku": "345308",
+    "name": "Cimento Cirúrgico Pericem - Maquira",
+    "price": "R$199,90",
+    "description": "Embalagem com 90g de base + 90g de catalisador.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-pericem-maquira-345308.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-pericem-maquira-345308.html"
+  },
+  {
+    "sku": "122112",
+    "name": "Esponja Hemostática Hemospon - Maquira",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esponja-hemostatica-hemospon-maquira-122112.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-hemostatica-hemospon-maquira-122112.html"
+  },
+  {
+    "sku": "582628",
+    "name": "Bolsa Térmica Quente e Fria - Maquira",
+    "price": "R$50,90",
+    "description": "Embalagem com 10 bolsas de 100g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bolsa-termica-quente-e-fria-maquira.jpg",
+    "url": "https://www.dentalcremer.com.br/bolsa-termica-quente-e-fria-maquira-582628.html"
+  },
+  {
+    "sku": "143383",
+    "name": "Cimento Cirúrgico Pó 50g + Líquido 20ml - Iodontosul",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 frasco de 50g de pó e 20ml de líquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-po-50g--liquido-20ml-iodontosul-dental-cremer-143383.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-po-50g-liquido-20ml-iodontosul-143383.html"
+  },
+  {
+    "sku": "267952",
+    "name": "Cimento Cirúrgico Líquido - Maquira",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 frasco com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-liquido-maquira-267952-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-liquido-maquira-267952.html"
+  },
+  {
+    "sku": "DC10108",
+    "name": "Esponja Hemostática Hemospon Cote/Tape - Maquira",
+    "price": "R$102,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esponja-hemostatica-hemospon-maquira-364019.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-hemostatica-hemospon-maquira-dc10108.html"
+  },
+  {
+    "sku": "267969",
+    "name": "Cimento Cirúrgico em Pó - Maquira",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 frasco com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-em-po-technew-267969-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-em-po-technew-267969.html"
+  },
+  {
+    "sku": "114408",
+    "name": "Cimento Cirurgico Pó - Lysanda",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-cimento-cirurgico-po-lysanda-114408.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-po-lysanda-114408.html"
+  },
+  {
+    "sku": "702828",
+    "name": "Cimento Cirúrgico Líquido - Lysanda",
+    "price": "R$28,90",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-liq-fr-20ml-dental-cremer-702828-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-liquido-lysanda-702828.html"
+  },
+  {
+    "sku": "113999",
+    "name": "Cimento Cirúrgico Líquido - Lysanda",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-liquido-lysanda-113999.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-liquido-lysanda-113999.html"
+  },
+  {
+    "sku": "509991",
+    "name": "Cânula de Aspiração Frazier 19cm - Quinelato",
+    "price": "R$259,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/509991.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-de-aspirac-o-frazier-19cm-quinelato-509991.html"
+  },
+  {
+    "sku": "773101",
+    "name": "Cânula de Aspiração - Fava",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade. 80mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/773101_636095369149914259.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-de-aspirac-o-fava-773101.html"
+  },
+  {
+    "sku": "143382",
+    "name": "Cimento Cirúrgico Pó 50g - Iodontosul",
+    "price": "R$23,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-po-50g-iodontosul-dental-cremer-143382.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-po-50g-iodontosul-143382.html"
+  },
+  {
+    "sku": "702835",
+    "name": "Cimento Cirúrgico Pó - Lysanda",
+    "price": "R$28,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-cimento-cirurgico-po-lysanda-702835.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-po-lysanda-702835.html"
+  },
+  {
+    "sku": "627312",
+    "name": "Curativo Alveolar Alveolex - Biodinâmica",
+    "price": "R$93,90",
+    "description": "Embalagem com 2 unidades + Bicos Aplicadores. Com propólis.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/curativo-alveolar-alveolex-biodinamica-627312-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/curativo-alveolar-alveolex-biodinamica-627312.html"
+  },
+  {
+    "sku": "143381",
+    "name": "Cimento Cirúrgico Líquido 20ml - Iodontosul",
+    "price": "R$23,90",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-cirurgico-liquido-20ml-iodontosul-dental-cremer-143381.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-cirurgico-liquido-20ml-iodontosul-143381.html"
+  },
+  {
+    "sku": "150106",
+    "name": "Cânula de Aspiração Aerossol GBT Flowcontrol® - EMS",
+    "price": "R$529,90",
+    "description": "Emabalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/canula-de-aspiracao-aerossol-gbt-flowcontrol-150106.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-de-aspiracao-aerossol-gbt-flowcontrolr-ems-150106.html"
+  },
+  {
+    "sku": "143388",
+    "name": "Curativo Alveolar Alveolipast 10g - Iodontosul",
+    "price": "R$39,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/curativo-alveolar-alveolipast-10g-iodontosul-dental-cremer-143388.jpg",
+    "url": "https://www.dentalcremer.com.br/curativo-alveolar-alveolipast-10g-iodontosul-143388.html"
+  },
+  {
+    "sku": "507034",
+    "name": "Cânula de Aspiração Curva 17cm - Golgran",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade. Ref: 144-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sugador-de-sangue-metal-curvo-golgran-dc-507034-01.jpg",
+    "url": "https://www.dentalcremer.com.br/canula-de-aspirac-o-curva-17cm-golgran-507034.html"
+  },
+  {
+    "sku": "947236",
+    "name": "Esponja Hemostática Hemospon - Maquira",
+    "price": "R$249,90",
+    "description": "Embalagem com 40 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esponja-hemostatica-hemospon-maquira-40un-947236.jpg",
+    "url": "https://www.dentalcremer.com.br/esponja-hemostatica-hemospon-maquira-947236.html"
+  },
+  {
+    "sku": "143389",
+    "name": "Curativo Alveolar Alveolipast 2 Seringas 3g - Iodontosul",
+    "price": "R$39,90",
+    "description": "Embalagem com 2 seringas de 3g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/curativo-alveolar-alveolipast-2-seringas-3g-iodontosul-dental-cremer-143389.jpg",
+    "url": "https://www.dentalcremer.com.br/curativo-alveolar-alveolipast-2-seringas-3g-iodontosul-143389.html"
+  },
+  {
+    "sku": "122730",
+    "name": "Enxerto Ósseo Col.Hap-91 - JHS",
+    "price": "R$143,90",
+    "description": "Embalagem com 1 tira (10x20x0,3mm).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-col-hap-91-jhs-122730-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-col-hap-91-jhs-122730.html"
+  },
+  {
+    "sku": "150107",
+    "name": "Saia para Cânula de Aspiração Aerossol GBT Flowcontrol® - EMS",
+    "price": "R$223,90",
+    "description": "Emabalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saia-para-canula-de-aspiracao-aerossol-gbt-flowcontrol-150107.jpg",
+    "url": "https://www.dentalcremer.com.br/saia-para-canula-de-aspiracao-aerossol-gbt-flowcontrolr-ems-150107.html"
+  },
+  {
+    "sku": "DC29678",
+    "name": "Enxerto Ósseo Osseoplus Duríssima Mech - JHS",
+    "price": "R$152,90",
+    "description": "Embalagem com 0,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-osseoplus-durissima-20-mech-medio-jhs-122734-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-osseoplus-durissima-mech-jhs.html"
+  },
+  {
+    "sku": "128617",
+    "name": "Membrana Sintética Duosynt 300UM - FGM",
+    "price": "R$218,99",
+    "description": "Embalagem com 1 unidade. 20x20mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-sintetica-duosynt-30um-fgm-128617.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-sintetica-duosynt-300um-fgm-128617.html"
+  },
+  {
+    "sku": "128618",
+    "name": "Membrana Sintética Duosynt 300UM - FGM",
+    "price": "R$615,99",
+    "description": "Embalagem com 1 unidade. 40x40mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-sintetica-duosynt-30um-fgm-128618.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-sintetica-duosynt-300um-fgm-128618.html"
+  },
+  {
+    "sku": "DC38955",
+    "name": "Fio de Sutura Seda - Allprime",
+    "description": "Embalagem com 24 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-seda-allprime-dsdc.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-seda-allprime-dc38955.html"
+  },
+  {
+    "sku": "DC38952",
+    "name": "Fio de Sutura Nylon - Allprime",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-nylon-allprime-dsdc.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-nylon-allprime-dc38952.html"
+  },
+  {
+    "sku": "DC38954",
+    "name": "Fio de Sutura Seda - Allprime",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fio-de-sutura-seda-allprime-dsdc.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-de-sutura-seda-allprime-dc38954.html"
+  }
+]

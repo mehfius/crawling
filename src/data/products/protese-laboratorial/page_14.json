@@ -1,0 +1,762 @@
+[
+  {
+    "sku": "DC13405",
+    "name": "Polidor de Metal Ultra-Metal Roda - AMERICAN BURRS",
+    "price": "R$40,90",
+    "description": "Embalagem com 3 unidades de 22mmx3mm. Sem mandril. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-ultra-metal-roda-fina-RF0094-american-burrs-521658.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-metal-ultra-metal-roda-american-burrs-dc13405.html"
+  },
+  {
+    "sku": "574838",
+    "name": "Líquido de Glaze EX-3 - Noritake",
+    "price": "R$73,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/574838_635663531746441485.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-glaze-ex-3-noritake-574838.html"
+  },
+  {
+    "sku": "DC27085",
+    "name": "Polidor Diamantado Dura Green DIA PM - Shofu",
+    "price": "R$354,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/966695.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-dura-green-dia-pm-shofu-dc27085.html"
+  },
+  {
+    "sku": "851250",
+    "name": "Broca de Tungstênio PM 251G 060 - Jota",
+    "price": "R$164,90",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-de-tungstenio-pm-251g-060-jota-851250-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-de-tungstenio-pm-251g-060-jota-851250.html"
+  },
+  {
+    "sku": "575057",
+    "name": "Cerâmica EX-3 LT Natural - Noritake",
+    "price": "R$199,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ex-3-lt-natural-noritake-575057.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ex-3-novas-cores-noritake-575057.html"
+  },
+  {
+    "sku": "DC19594",
+    "name": "Cerâmica IPS InLine Dentin - Ivoclar Vivadent",
+    "price": "R$999,90",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/679786.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-inline-dentin-ivoclar-vivadent-dc19594.html"
+  },
+  {
+    "sku": "574746",
+    "name": "Forming Liquid EX-3 - Noritake",
+    "price": "R$36,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/forming-liquid-ex-3-noritake-574746.jpg",
+    "url": "https://www.dentalcremer.com.br/forming-liquid-ex-3-noritake-574746.html"
+  },
+  {
+    "sku": "145161",
+    "name": "Placa para Mistura Godê Stain Malen C - Odontomega",
+    "price": "R$569,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-para-mistura-gode-stain-malen-c-odontomega-145161.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-mistura-gode-stain-malen-c-odontomega-145161.html"
+  },
+  {
+    "sku": "682908",
+    "name": "Cerâmica IPS E.Max Ceram Incisal BL - Ivoclar Vivadent",
+    "price": "R$379,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ips-e-max-ceram-incisal-bl-ivoclar-vivadent-682908.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-e-max-ceram-incisal-bl-ivoclar-vivadent-682908.html"
+  },
+  {
+    "sku": "558302",
+    "name": "Mufla - Essence Dental",
+    "price": "R$303,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/558302_635463865414744929.jpg",
+    "url": "https://www.dentalcremer.com.br/mufla-essence-dental-558302.html"
+  },
+  {
+    "sku": "574814",
+    "name": "Líquido para Opaco Pasta EX-3 - Noritake",
+    "price": "R$102,90",
+    "description": "Embalagem com 10ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-para-opaco-pasta-ex-3-noritake-574814.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-para-opaco-pasta-ex-3-noritake-574814.html"
+  },
+  {
+    "sku": "DC24039",
+    "name": "Cerâmica VM13 Esmalte - Vita",
+    "price": "R$1.171,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/721546_635943232302931901.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vm13-esmalte-vita-dc24039.html"
+  },
+  {
+    "sku": "653526",
+    "name": "Cadinho Cromo - VRC",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/653526.jpg",
+    "url": "https://www.dentalcremer.com.br/cadinho-cromo-vrc-653526.html"
+  },
+  {
+    "sku": "DC21699",
+    "name": "Cerâmica Vision Classic Gengiva - Bradent",
+    "price": "R$115,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-vision-classic-gengiva-bradent-dc21699-01.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-vision-classic-gengiva-bradent-dc21699.html"
+  },
+  {
+    "sku": "684650",
+    "name": "Cerâmica IPS d.SIGN Impulse Transparent - Ivoclar Vivadent",
+    "price": "R$241,90",
+    "description": "Embalagem com 20g. Azul.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/684650_635830254004522728.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-d-sign-impulse-transparent-ivoclar-vivadent-684650.html"
+  },
+  {
+    "sku": "102594",
+    "name": "Mufla - Nova OGP",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-mufla-plastica-nova-ogp-102594.jpg",
+    "url": "https://www.dentalcremer.com.br/mufla-nova-ogp-102594.html"
+  },
+  {
+    "sku": "DC21703",
+    "name": "Opaco Básico Vision Classic - Bradent",
+    "price": "R$115,90",
+    "description": "Embalagem com 10g. Escolha seu modelo",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/opaco-basico-vision-classic-bradent-dental-cremer-dc21703.jpg",
+    "url": "https://www.dentalcremer.com.br/opaco-basico-vision-classic-bradent-dc21703.html"
+  },
+  {
+    "sku": "DC19619",
+    "name": "Cerâmica IPS E.Max Ceram Impulse - Ivoclar Vivadent",
+    "price": "R$379,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ips-e-max-ceram-transpa-ivoclar-vivadent-dc-19619.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-e-max-ceram-transpa-ivoclar-vivadent-dc19619.html"
+  },
+  {
+    "sku": "655193",
+    "name": "Mufla - Defama",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/655193.jpg",
+    "url": "https://www.dentalcremer.com.br/mufla-defama-655193.html"
+  },
+  {
+    "sku": "DC26148",
+    "name": "Cerâmica IPS Style Margin Bleach - Ivoclar Vivadent",
+    "price": "R$279,90",
+    "description": "Embalagem com 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/915877.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ips-style-margin-bleach-ivoclar-vivadent-dc26148.html"
+  },
+  {
+    "sku": "DC18313",
+    "name": "Cerâmica EX-3 Transparente - Noritake",
+    "price": "R$605,90",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/18313_635912173347741234.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ex-3-transparente-noritake-dc18313.html"
+  },
+  {
+    "sku": "102561",
+    "name": "Concha Para Cera Inox - Mac Dental",
+    "price": "R$136,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102561.jpg",
+    "url": "https://www.dentalcremer.com.br/concha-para-cera-inox-mac-dental-102561.html"
+  },
+  {
+    "sku": "DC26250",
+    "name": "Líquido de Modelar Cerâmico 3 Modificador - Dentsply",
+    "price": "R$363,90",
+    "description": "Embalagem com 100ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-de-modelar-ceramco3-modelling-u-100ml--132281.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-ceramico-3-modificador-dentsply-dc26250.html"
+  },
+  {
+    "sku": "DC29960",
+    "name": "Resina Flexível - RocalFlex",
+    "price": "R$140,00",
+    "description": "Embalagem com 120g e acessórios.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-flexivel-rocalflex-dc29960-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-flexivel-rocalflex-dc29960.html"
+  },
+  {
+    "sku": "102289",
+    "name": "Esfera de Vidro Rolloblast - Renfert",
+    "price": "R$317,90",
+    "description": "Embalagem com 5kg. 50 mícrons.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102289.jpg",
+    "url": "https://www.dentalcremer.com.br/esfera-de-vidro-rolloblast-renfert-102289.html"
+  },
+  {
+    "sku": "647686",
+    "name": "Cadinho Fechado de Quartzo - Talmax",
+    "price": "R$104,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/647686_635901808852236803.jpg",
+    "url": "https://www.dentalcremer.com.br/cadinho-fechado-de-quartzo-talmax-647686.html"
+  },
+  {
+    "sku": "597035",
+    "name": "Placa para Mistura Godê Lay Art Aqua XL Cristal - Renfert",
+    "price": "R$1.501,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/5970352_635931129698217019.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-mistura-gode-lay-art-aqua-xl-cristal-renfert-597035.html"
+  },
+  {
+    "sku": "597059",
+    "name": "Placa para Mistura Godê Lay Art Tropic XL - Renfert",
+    "price": "R$1.668,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/597059_635931132567249801.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-mistura-gode-lay-art-tropic-xl-renfert-597059.html"
+  },
+  {
+    "sku": "108275",
+    "name": "Líquido de Modelar Modelling MC - GC",
+    "price": "R$170,90",
+    "description": "Embalagem com 25ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108275.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-modelling-mc-gc-108275.html"
+  },
+  {
+    "sku": "647655",
+    "name": "Disco Ninja Gold - Talmax",
+    "price": "R$239,90",
+    "description": "Embalagem com 100 unidades. 25 x 0,6",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/647655_635901831278472560.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-ninja-gold-talmax-647655.html"
+  },
+  {
+    "sku": "533705",
+    "name": "Líquido de Polimento Químico Poli-Quim - Clássico",
+    "price": "R$131,90",
+    "description": "Frasco com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/533705.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-polimento-quimico-poli-quim-classico-533705.html"
+  },
+  {
+    "sku": "600636",
+    "name": "Roda para Polimento Flanela - Asfer",
+    "price": "R$105,90",
+    "description": "Embalagem com 1 unidade de 10cm cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/600636_635996155486476516.jpg",
+    "url": "https://www.dentalcremer.com.br/roda-para-polimento-flanela-asfer-600636.html"
+  },
+  {
+    "sku": "597042",
+    "name": "Placa para Mistura Godê Lay Art Aqua S Cristal - Renfert",
+    "price": "R$1.274,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/597042_635931131854632665.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-mistura-gode-lay-art-aqua-s-cristal-renfert-597042.html"
+  },
+  {
+    "sku": "906400",
+    "name": "Micro Esfera de Vidro Média - Kota Knebel",
+    "price": "R$260,90",
+    "description": "Embalagem com 5kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/906400.jpg",
+    "url": "https://www.dentalcremer.com.br/micro-esfera-de-vidro-media-kota-knebel-906400.html"
+  },
+  {
+    "sku": "107958",
+    "name": "Placa para Mistura Godê Personal Classic G Aplic - Talmax",
+    "price": "R$747,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107958.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-mistura-gode-personal-classic-g-aplic-talmax-107958.html"
+  },
+  {
+    "sku": "107960",
+    "name": "Placa para Mistura Godê Personal Class P Aplic - Talmax",
+    "price": "R$534,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107960.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-mistura-gode-personal-class-p-aplic-talmax-107960.html"
+  },
+  {
+    "sku": "108350",
+    "name": "Líquido de Modelar Lisi Modelling - GC",
+    "price": "R$231,90",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108350.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-lisi-modelling-gc-108350.html"
+  },
+  {
+    "sku": "706710",
+    "name": "Glaze Pó EX-3 Pintura Externa - Noritake",
+    "price": "R$713,90",
+    "description": "Embalagem com 10g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porcelana-ex3-glaze-po-pintura-externa-noritake-706710-dental-cremer-lab.jpg",
+    "url": "https://www.dentalcremer.com.br/glaze-po-ex-3-pintura-externa-noritake-706710.html"
+  },
+  {
+    "sku": "925203",
+    "name": "Líquido Refrigerante para Fresadora Cooling Liquid - AmannGirrbach",
+    "price": "R$649,90",
+    "description": "Embalagem com 1000ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cooling-liquid-amanngirrbach-925203-1.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-para-coolstream-coolant-amanngirrbach-925203.html"
+  },
+  {
+    "sku": "851953",
+    "name": "Escova de Polimento Interdental PM - Jota",
+    "price": "R$54,90",
+    "description": "Embalagem com 1 unidade. Ref. 1170.HP.190.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/851953.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-polimento-interdental-pm-jota-851953.html"
+  },
+  {
+    "sku": "DC30480",
+    "name": "Ponta Diamantada Esférica - OdontoMega",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade. Escolha a numeração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-diamantada-esferica-60001148-pm-odontomega-765342.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-diamantada-esferica-odontomega-dc30480.html"
+  },
+  {
+    "sku": "108273",
+    "name": "Líquido Paste Opaque Thinner MC - GC",
+    "price": "R$180,90",
+    "description": "Embalagem com 8ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108273.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-paste-opaque-thinner-mc-gc-108273.html"
+  },
+  {
+    "sku": "108352",
+    "name": "Líquido de Modelar Lustre Pastes Refresh IQ - GC",
+    "price": "R$191,90",
+    "description": "Embalagem com 8ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108352.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-lustre-pastes-refresh-iq-gc-108352.html"
+  },
+  {
+    "sku": "126199",
+    "name": "Cadinho para Indução - Protécni",
+    "price": "R$106,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cadinho-para-inducao-protecni-126199.jpg",
+    "url": "https://www.dentalcremer.com.br/cadinho-para-induc-o-protecni-126199.html"
+  },
+  {
+    "sku": "574982",
+    "name": "Cerâmica EX-3 Modificador Opaco White Pasta - Noritake",
+    "price": "R$342,90",
+    "description": "Embalagem com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-ex-3-modificador-opaco-white-pasta-noritake-574982-1.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-ex-3-modificador-opaco-white-pasta-noritake-574982.html"
+  },
+  {
+    "sku": "108351",
+    "name": "Líquido de Modelar Lustre Pastes Diluting IQ - GC",
+    "price": "R$191,90",
+    "description": "Embalagem com 8ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-de-modelar-lustre-pastes-diluting-iq-gc-108351.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-lustre-pastes-diluting-iq-gc-108351.html"
+  },
+  {
+    "sku": "148396",
+    "name": "Opacificador CEREC Optispray - Dentsply Sirona",
+    "price": "R$419,90",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cerec-optispray-50ml-dentsply-sirona-148396.jpg",
+    "url": "https://www.dentalcremer.com.br/opacificador-cerec-optispray-dentsply-sirona-148396.html"
+  },
+  {
+    "sku": "DC29310",
+    "name": "Ponta Diamantada PM - Microdont",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-diamantada-pm-microdont-dc29310-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-diamantada-pm-microdont-dc29310.html"
+  },
+  {
+    "sku": "628821",
+    "name": "Cadinho Ouro - Kota Knebel",
+    "price": "R$33,90",
+    "description": "Unidade de 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cadinho-ouro-fech-cencaixe-3-1un-dental-cremer-628821-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cadinho-ouro-kota-knebel-628821.html"
+  },
+  {
+    "sku": "594942",
+    "name": "Mesa Incisal Ajustável - Bio-Art",
+    "price": "R$244,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mesa-incisal-ajustavel-bio-art-594942.jpg",
+    "url": "https://www.dentalcremer.com.br/mesa-incisal-ajustavel-bio-art-594942.html"
+  },
+  {
+    "sku": "658569",
+    "name": "Cadinho Cerâmico - Baot",
+    "price": "R$254,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cadinho-ceramico-da-edg-658569.jpg",
+    "url": "https://www.dentalcremer.com.br/cadinho-ceramico-658569.html"
+  },
+  {
+    "sku": "127022",
+    "name": "Solda Vera Solder Ni-Cr Premium - Aalbadent",
+    "price": "R$105,90",
+    "description": "Pacote com 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/solda-vera-solder-ni-cr-premium-aalbadent-127022.jpg",
+    "url": "https://www.dentalcremer.com.br/solda-vera-solder-ni-cr-premium-aalbadent-127022.html"
+  },
+  {
+    "sku": "DC25943",
+    "name": "Cerâmica Celtra Ceram Dentin Effect - Dentsply Sirona",
+    "price": "R$333,90",
+    "description": "Embalagem com 15g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-celtra-ceram-dentina-effect-dentsply-sirona-dc25943.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-dentina-effect-dentsply-sirona-dc25943.html"
+  },
+  {
+    "sku": "145705",
+    "name": "Binder Silicato de Etila 28% 1Kg - Durastone",
+    "price": "R$139,90",
+    "description": "Embalagem com 1Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/binder-silicato-de-etila-28-1kg-durastone-145705.jpg",
+    "url": "https://www.dentalcremer.com.br/binder-silicato-de-etila-28-1kg-durastone-145705.html"
+  },
+  {
+    "sku": "DC25941",
+    "name": "Cerâmica CC Dentina - Dentsply Sirona",
+    "price": "R$333,90",
+    "description": "Embalagem com 15g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-cc-dentina-dentsply-sirona-dc25941.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-dentina-dentsply-sirona-dc25941.html"
+  },
+  {
+    "sku": "DC24633_2",
+    "name": "Polidor Diamantado de Dissilicato de Lítio LS Gloss PM - Jota",
+    "price": "R$143,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/851779.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-de-dissilicato-de-litio-ls-gloss-pm-jota-dc24633-2.html"
+  },
+  {
+    "sku": "904093",
+    "name": "Solução Eletrolítica Lustracromo - Kota Knebel",
+    "price": "R$115,90",
+    "description": "Pote com 1l.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/solucao-eletrolitica-lustracromo-kota-knebel-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-eletrolitica-lustracromo-kota-knebel.html"
+  },
+  {
+    "sku": "DC25947",
+    "name": "Cerâmica CC Enamel Effect - Dentsply Sirona",
+    "price": "R$343,90",
+    "description": "Embalagem com 15g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-cc-enamel-effect-dentsply-sirona-dc25947.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-enamel-effect-dentsply-sirona-dc25947.html"
+  },
+  {
+    "sku": "683905",
+    "name": "Selante IPS Model Sealer - Ivoclar Vivadent",
+    "price": "R$231,90",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/selante-ips-model-sealer-ivoclar-vivadent-683905-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/selante-ips-model-sealer-ivoclar-vivadent.html"
+  },
+  {
+    "sku": "DC25949",
+    "name": "Cerâmica CC Add-On Gingiva - Dentsply Sirona",
+    "price": "R$333,90",
+    "description": "Embalagem com 15g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-cc-add-on-gingiva-dentsply-sirona-dc25949.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-add-on-gingiva-dentsply-sirona-dc25949.html"
+  },
+  {
+    "sku": "DC25944",
+    "name": "Cerâmica CC Dentina Gingiva - Dentsply Sirona",
+    "price": "R$333,90",
+    "description": "Embalagem com 15g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-cc-dentina-gingiva-dentsply-sirona-dc25944.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-dentina-gingiva-dentsply-sirona-dc25944.html"
+  },
+  {
+    "sku": "145758",
+    "name": "Polidor para Zircônia Pré-Sinterizada - Jota",
+    "price": "R$59,90",
+    "description": "Embalagem com 1 unidade. Modelo ZIR9972M.HP.100 PM",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-para-zirconia-pre-sinterizada-jota-145758.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-para-zirconia-pre-sinterizada-jota-145758.html"
+  },
+  {
+    "sku": "904482",
+    "name": "Binder Ethyl Silibinder 28% - Kota",
+    "price": "R$221,90",
+    "description": "Embalagem com 1L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/binder-ethyl-silibinder-28-kota-knebel-904482.jpg",
+    "url": "https://www.dentalcremer.com.br/binder-ethyl-silibinder-28-kota-knebel-904482.html"
+  },
+  {
+    "sku": "127023",
+    "name": "Solda Vera PD Solder Co-Cr Premium - Aalbadent",
+    "price": "R$105,90",
+    "description": "Pacote com 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/solda-vera-pd-solder-co-cr-premium-aalbadent-127023.jpg",
+    "url": "https://www.dentalcremer.com.br/solda-vera-pd-solder-co-cr-premium-aalbadent-127023.html"
+  },
+  {
+    "sku": "127025",
+    "name": "Fluxo para Solda Vera PD Flux Co-Cr Premium - Aalbadent",
+    "price": "R$229,90",
+    "description": "Frasco com 28,3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fluxo-solda-vera-pd-flux-co-cr-premium-aalbadent-127025.jpg",
+    "url": "https://www.dentalcremer.com.br/fluxo-para-solda-vera-pd-flux-co-cr-premium-aalbadent-127025.html"
+  },
+  {
+    "sku": "145706",
+    "name": "Binder Silicato de Etila 40% 1Kg - Durastone",
+    "price": "R$139,90",
+    "description": "Embalagem com 1Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/binder-silicato-de-etila-40-1kg-durastone-145706.jpg",
+    "url": "https://www.dentalcremer.com.br/binder-silicato-de-etila-40-1kg-durastone-145706.html"
+  },
+  {
+    "sku": "DC25946",
+    "name": "Cerâmica Celtra Ceram Enamel Opal - Dentsply Sirona",
+    "price": "R$333,90",
+    "description": "Embalagem com 15g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-celtra-ceram-enamel-opal-dentsply-sirona-dc25946.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramca-cc-enamel-opal-dentsply-sirona-dc25946.html"
+  },
+  {
+    "sku": "DC25942",
+    "name": "Cerâmica CC Dentina Opaceus - Dentsply Sirona",
+    "price": "R$333,90",
+    "description": "Embalagem com 15g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-cc-dentina-opaceus-dentsply-sirona-dc25942.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-dentina-opaceus-dentsply-sirona-dc25942.html"
+  },
+  {
+    "sku": "642254",
+    "name": "Líquido Vita Akzent Plus Powder - Wilcos",
+    "price": "R$374,90",
+    "description": "Embalagem com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-vita-akzent-plus-powder-fluid-wilcos-642254.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-vita-akzent-plus-powder-wilcos-642254.html"
+  },
+  {
+    "sku": "DC25945",
+    "name": "Cerâmica CC Dentina Power - Dentsply Sirona",
+    "price": "R$333,90",
+    "description": "Embalagem com 15g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-cc-dentina-power-dentsply-sirona-dc25945.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-cc-dentina-power-dentsply-sirona-dc25945.html"
+  },
+  {
+    "sku": "655124",
+    "name": "Binder Silicato de Etila 40% - Defama",
+    "price": "R$184,90",
+    "description": "Embalagem com 900ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/655124.jpg",
+    "url": "https://www.dentalcremer.com.br/binder-silicato-de-etila-40-defama-655124.html"
+  },
+  {
+    "sku": "680461",
+    "name": "Pinça Para Coroas Empress - Ivoclar Vivadent",
+    "price": "R$675,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/680461_635829400067118404.jpg",
+    "url": "https://www.dentalcremer.com.br/pinca-para-coroas-empress-ivoclar-vivadent-680461.html"
+  },
+  {
+    "sku": "904499",
+    "name": "Binder Ethyl Silibinder 40%  - Kota Knebel",
+    "price": "R$221,90",
+    "description": "Embalagem com 1L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/binder-ethyl-silibinder-40-1l-kota-knebel-904499.jpg",
+    "url": "https://www.dentalcremer.com.br/binder-ethyl-silibinder-40-kota-knebel-904499.html"
+  },
+  {
+    "sku": "DC18513",
+    "name": "Polidor de Metal Ultra-Metal - American Burrs",
+    "price": "R$40,90",
+    "description": "Embalagem com 3 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-de-metal-ultra-metal-american-burrs-dc18513-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-metal-ultra-metal-american-burrs-dc18513.html"
+  },
+  {
+    "sku": "145757",
+    "name": "Polidor Diamantado para Zircônia Pré-Sinterizada - Jota",
+    "price": "R$144,90",
+    "description": "Embalagem com 1 unidade. Modelo 9840.HP.140 PM",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-diamantado-para-zirconia-pre-sinterizada-jota-145757.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-para-zirconia-pre-sinterizada-jota-145757.html"
+  },
+  {
+    "sku": "DC21929",
+    "name": "Esfera de Vidro Megablast - OdontoMega",
+    "price": "R$366,90",
+    "description": "Embalagem com 5kg. 50 Microns.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/700084_635877570140790526.jpg",
+    "url": "https://www.dentalcremer.com.br/esfera-de-vidro-megablast-odontomega-dc21929.html"
+  },
+  {
+    "sku": "597172",
+    "name": "Esfera Rolloblast - Renfert",
+    "price": "R$344,90",
+    "description": "Embalagem de 5kg. 100 microns.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/597172_636022889354480409.jpg",
+    "url": "https://www.dentalcremer.com.br/esfera-rolloblast-renfert-597172.html"
+  },
+  {
+    "sku": "924206",
+    "name": "Placa de Calibração Kit - AmannGirrbach",
+    "price": "R$999,90",
+    "description": "Kit com 1 placa sup + 1 placa inf + 2 discos de fixação + 2 discos de retenção + 1 base colagem + 2 chaves instalação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-placa-de-calibracao-amanngirrbach-924206-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-de-calibrac-o-kit-amanngirrbach-924206.html"
+  },
+  {
+    "sku": "924138",
+    "name": "Disco de Retenção Artex - AmannGirrbach",
+    "price": "R$389,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-retencao-artex-amanngirrbach-924138.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-retenc-o-artex-amanngirrbach-924138.html"
+  },
+  {
+    "sku": "124593",
+    "name": "Agente Refratário de União Megafix - OdontoMega",
+    "description": "Embalagem com 12ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agente-refratorio-uniao-megafix-odontomega-124593-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agente-refratario-de-uni-o-megafix-odontomega-124593.html"
+  },
+  {
+    "sku": "923261",
+    "name": "Base para Mesa de Transferência Splitex Artex - AmannGirrbach",
+    "price": "R$2.335,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/base-para-mesa-de-transferencia-splitex-artex-dental-cremer-923261-01.jpg",
+    "url": "https://www.dentalcremer.com.br/base-para-mesa-de-transferencia-splitex-artex-amanngirrbach-923261.html"
+  },
+  {
+    "sku": "699852",
+    "name": "Aditivo de Cerâmica Easyform - OdontoMega",
+    "price": "R$394,90",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aditivo-de-ceramica-easyform-odontomega-699852.jpg",
+    "url": "https://www.dentalcremer.com.br/aditivo-de-ceramica-easyform-odontomega-699852.html"
+  },
+  {
+    "sku": "923568",
+    "name": "Chave de Calibração - AmannGirrbach",
+    "price": "R$1.150,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/chave-de-calibracao-amanngirrbach-923568-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/chave-de-calibrac-o-amanngirrbach-923568.html"
+  },
+  {
+    "sku": "115299",
+    "name": "Polidor de Metal Ultra-Metal Roda PM - American Burrs",
+    "price": "R$350,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-polidor-de-metal-ultra-metal-roda-pm-american-burrs-115299-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-metal-ultra-metal-roda-pm-american-burrs-115299.html"
+  },
+  {
+    "sku": "562248",
+    "name": "Líquido para Polimento Poli-Quim - Clássico",
+    "price": "R$238,90",
+    "description": "Frasco com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/562248.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-para-polimento-poli-quim-classico-562248.html"
+  },
+  {
+    "sku": "764260",
+    "name": "Desinclusor de Anel Hidro D1 - EDG",
+    "price": "R$7.938,90",
+    "description": "Embalagem com 1 unidade. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinclusor-de-anel-hidro-d1-edg-dental-cremer-764260-01.jpg",
+    "url": "https://www.dentalcremer.com.br/desinclusor-de-anel-hidro-d1-edg-764260.html"
+  },
+  {
+    "sku": "103736",
+    "name": "Caixa Para Suporte 13mm - DEKEMA",
+    "price": "R$262,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caixa-para-suporte-13mm-dekema-103736-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/caixa-para-suporte-13mm-dekema-103736.html"
+  },
+  {
+    "sku": "682601",
+    "name": "Êmbolo IPS E.Max Alox Plunger - Ivoclar Vivadent",
+    "price": "R$699,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embolo-ips-e-max-alox-plunger-2un-dental-cremer-682601-01.jpg",
+    "url": "https://www.dentalcremer.com.br/mbolo-ips-e-max-alox-plunger-ivoclar-vivadent-682601.html"
+  },
+  {
+    "sku": "923575",
+    "name": "Clinômetro Laboratorial - AmannGirrbach",
+    "price": "R$2.799,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clinometro-laboratorial-amanngirrbach-923575.jpg",
+    "url": "https://www.dentalcremer.com.br/clinometro-laboratorial-amanngirrbach-923575.html"
+  },
+  {
+    "sku": "151156",
+    "name": "Liquido Glaze para Resinas 5ml - Superdont",
+    "description": "Embalagem com 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-glaze-para-resinas-5ml-superdont-151156.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-glaze-para-resinas-5ml-superdont-151156.html"
+  },
+  {
+    "sku": "103987",
+    "name": "Kit Corante Cosmos Colors - Yller",
+    "description": "Kit com 5 frascos de 30ml cada. Nas cores White, Yellow, Black, Cyan e Magenta.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/corante-cosmos-colors-kit-yller-103987.jpg",
+    "url": "https://www.dentalcremer.com.br/corante-cosmos-colors-kit-yller-103987.html"
+  },
+  {
+    "sku": "126830",
+    "name": "Glaze Pasta Universal - Bradent",
+    "description": "Embalagem com 5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lovers-glaze-pasta-universal-bradent-126830.jpg",
+    "url": "https://www.dentalcremer.com.br/glaze-pasta-universal-bradent-126830.html"
+  },
+  {
+    "sku": "642216",
+    "name": "Pigmento Akzent Plus Glaze - Vita",
+    "description": "Embalagem com 5g Pó.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/642216.jpg",
+    "url": "https://www.dentalcremer.com.br/pigmento-akzent-plus-glaze-vita-642216.html"
+  },
+  {
+    "sku": "652116",
+    "name": "Glaze Pó Vision Classic - Bradent",
+    "description": "Embalagem com 10g.3",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/glaze-po-vision-classic-bradent-652116-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/glaze-po-vision-classic-bradent-652116.html"
+  },
+  {
+    "sku": "902709",
+    "name": "Cerâmica Baot JC Glaze - Baot",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ceramica-baot-jc-glaze-edg-902709-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/ceramica-baot-jc-glaze-902709.html"
+  },
+  {
+    "sku": "144759",
+    "name": "Líquido de Modelar MLS 250ml - Kulzer",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/liquido-de-modelar-mls-250ml-kulzer-144759.jpg",
+    "url": "https://www.dentalcremer.com.br/liquido-de-modelar-mls-250ml-kulzer-144759.html"
+  }
+]

@@ -1,0 +1,768 @@
+[
+  {
+    "sku": "DC16292",
+    "name": "Resina Acrílica Autopolimerizável Flash Pó - Vipi",
+    "price": "R$31,90",
+    "description": "Embalagem com 80g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-vipi-flash-po-dc16292.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-vipi-flash-po-vipi-dc16292.html"
+  },
+  {
+    "sku": "DC26922",
+    "name": "Ponta Diamantada PM - Microdont",
+    "price": "R$10,90",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-diamantada-pm-microdont-113028-01.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-diamantada-pm-microdont-dc26922.html"
+  },
+  {
+    "sku": "DC13127",
+    "name": "Resina Acrílica Dencor Lay em Pó - Clássico",
+    "price": "R$47,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/533316.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-dencor-lay-em-po-classico-dc13127.html"
+  },
+  {
+    "sku": "DC19726",
+    "name": "Dente VIPI Dent Plus Posterior Superior - VIPI",
+    "price": "R$11,90",
+    "description": "Embalagem com 8 dentes posteriores superiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-vipi-dent-plus-posterior-superior-vipi-dc19726-01-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-vipi-dent-plus-posterior-superior-vipi-dc19726.html"
+  },
+  {
+    "sku": "DC21636",
+    "name": "Dente New Ace Anterior Superior Yamahachi - Kota",
+    "price": "R$24,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-new-ace-anterior-superior-yamahachi-kota-dc21636.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-new-ace-anterior-superior-yamahachi-kota-dc21636.html"
+  },
+  {
+    "sku": "126263",
+    "name": "Pincel Pelo de Marta Redondo Nº 308 - Tigre",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade. Tamanho N°1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-de-marta-redondo-n-308-tigre-126263-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-de-marta-redondo-n-308-tigre-126263.html"
+  },
+  {
+    "sku": "521870",
+    "name": "Disco de Carburundum Marrom 38x0,6mm - American Burrs",
+    "price": "R$9,09",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-carborundum-marrom-american-burrs-521870-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-carborundum-marrom-american-burrs-521870.html"
+  },
+  {
+    "sku": "178814",
+    "name": "Resina Acrílica Fotopolimerizável Resinlay Pattern Photo Gel - TDV",
+    "price": "R$118,90",
+    "description": "Embalagem com 1 seringa de 3g (gel) + 3 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-foto-resinlay-pattern-photo-gel-tdv.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-fotopolimerizavel-resinlay-pattern-photo-tdv-178814.html"
+  },
+  {
+    "sku": "667813",
+    "name": "Pincel Pelo Natural para Stain Kit - Mac Dental",
+    "price": "R$65,90",
+    "description": "Kit contendo: 4 unidades - Tamanhos 0 / 00 / 1 / 1chato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/667813_635854296209593471.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-natural-para-stain-kit-mac-dental-667813.html"
+  },
+  {
+    "sku": "DC16344",
+    "name": "Resina Resilab Master - Wilcos",
+    "price": "R$76,90",
+    "description": "Resina híbrida. Seringa com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/642575_635902675248529953.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-resilab-master-wilcos-dc16344.html"
+  },
+  {
+    "sku": "DC19725",
+    "name": "Dente VIPI Dent Plus Posterior Inferior - VIPI",
+    "price": "R$11,90",
+    "description": "Embalagem com 8 dentes posteriores inferiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-vipi-dent-plus-posterior-inferior-vipi-dc19725-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-vipi-dent-plus-posterior-inferior-vipi-dc19725.html"
+  },
+  {
+    "sku": "DC10498D",
+    "name": "Dente Biotone Posterior Superior - Dentsply Sirona",
+    "price": "R$17,90",
+    "description": "Embalagem com 8 dentes posteriores superiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-biotone-posterior-superior-dentsply-sirona-dc10498d.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biotone-posterior-superior-dentsply-sirona-dc10498d.html"
+  },
+  {
+    "sku": "DC21847",
+    "name": "Dente Ivostar A-D Anterior Superior - Ivoclar Vivadent",
+    "price": "R$57,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-ivostar-a-d-anterior-superior-ivoclar-vivadent-dc21847.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-ivostar-a-d-anterior-superior-ivoclar-vivadent-dc21847.html"
+  },
+  {
+    "sku": "DC19744A",
+    "name": "Dente Biolux OMC Anterior Inferior - VIPI",
+    "price": "R$21,90",
+    "description": "Embalagem com 6 dentes anteriores inferiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-biolux-omc-anterior-inferior-vipi-dc19744a.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biolux-omc-anterior-inferior-vipi-dc19744a.html"
+  },
+  {
+    "sku": "DC38104",
+    "name": "Dente Triunfo Anterior Superior - Triunfo",
+    "price": "R$4,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-triunfo-anterior-superior-dc38104-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-triunfo-anterior-superior-triunfo-dc38104.html"
+  },
+  {
+    "sku": "DC38279",
+    "name": "Dente Delara Anterior Superior - Kulzer",
+    "price": "R$69,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo da cor B.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-delara-anterior-superior-kulzer-dc30211-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-delara-anterior-superior-kulzer-dc38279.html"
+  },
+  {
+    "sku": "DC10498A",
+    "name": "Dente Biotone Anterior Inferior - Dentsply Sirona",
+    "price": "R$17,90",
+    "description": "Embalagem com 6 dentes anteriores inferiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/angulo-dente-biotone-anterior-inferior-dentsply-sirona-dc10498a.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biotone-anterior-inferior-dentsply-sirona-dc10498a.html"
+  },
+  {
+    "sku": "DC24052",
+    "name": "Dente Vita MFT Anterior Superior - Wilcos",
+    "price": "R$81,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-vita-mft-anterior-superior-wilcos-dc24052-1-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-vita-mft-anterior-superior-wilcos-dc24052.html"
+  },
+  {
+    "sku": "755442",
+    "name": "Polidor de Resina Ultra-Gloss CA - American Burrs",
+    "price": "R$69,90",
+    "description": "Kit com 3 unidades. Taça. Fino, Médio ou Grosso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/755442_2.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-ultra-gloss-ca-american-burrs-755442.html"
+  },
+  {
+    "sku": "DC21637",
+    "name": "Dente New Ace Posterior Inferior Yamahachi - Kota",
+    "price": "R$24,90",
+    "description": "Embalagem com 8 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-new-ace-posterior-inferior-yamahachi-kota-dc21637.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-new-ace-posterior-inferior-yamahachi-kota-dc21637.html"
+  },
+  {
+    "sku": "DC21638",
+    "name": "Dente New Ace Posterior Superior Yamahachi - Kota",
+    "price": "R$24,90",
+    "description": "Embalagem com 8 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-new-ace-posterior-superior-yamahachi-kota-dc21638.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-new-ace-posterior-superior-yamahachi-kota-dc21638.html"
+  },
+  {
+    "sku": "126308",
+    "name": "Pincel Pelo de Marta Redondo Nº 308 - Tigre",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade. Tamanho N°2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-marta-redondo-308-n-2-tigre-126308.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-de-marta-redondo-n-308-tigre-126308.html"
+  },
+  {
+    "sku": "DC21822",
+    "name": "Dente Gnathostar A-D Posterior Superior - Ivoclar Vivadent",
+    "price": "R$57,90",
+    "description": "Embalagem com 8 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-gnathostar-a-d-posterior-superior-ivoclar-vivadent-dc21822.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-gnathostar-a-d-posterior-superior-ivoclar-vivadent-dc21822.html"
+  },
+  {
+    "sku": "DC24639_2",
+    "name": "Polidor de Resina Espiral Swivel - Jota",
+    "price": "R$84,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/849615.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-espiral-swivel-jota-dc24639-2.html"
+  },
+  {
+    "sku": "DC10498C",
+    "name": "Dente Biotone Posterior Inferior - Dentsply Sirona",
+    "price": "R$17,90",
+    "description": "Embalagem com 8 dentes posteriores inferiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-biotone-posterior-inferior-dentsply-sirona-dc10498c.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biotone-posterior-inferior-dentsply-sirona-dc10498c.html"
+  },
+  {
+    "sku": "DC13393",
+    "name": "Polidor de Acrílico Ultra Technique Chama PM - American Burrs",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade. Fina. Taça, Pincel, Pincel Cônico e Roda.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/521924_2.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-acrilico-ultra-technique-chama-pm-american-burrs-dc13393.html"
+  },
+  {
+    "sku": "109940",
+    "name": "Pincel Pelo Sintético Chato - Preven",
+    "price": "R$24,90",
+    "description": "Embalagem com 1 unidade. N° 04.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-sintetico-numero-4-redondo-preven-109940.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-sintetico-chato-preven-109940.html"
+  },
+  {
+    "sku": "DC38105",
+    "name": "Dente Triunfo Anterior Inferior - Triunfo",
+    "price": "R$4,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-triunfo-anterior-inferior-dc38105-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-triunfo-anterior-inferior-triunfo-dc38105.html"
+  },
+  {
+    "sku": "DC18142",
+    "name": "Resina Acrílica Resinlay Speed - TDV",
+    "price": "R$53,90",
+    "description": "Embalagem com 25g de pó.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/568448.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-resinlay-speed-tdv-dc18142.html"
+  },
+  {
+    "sku": "DC19744D",
+    "name": "Dente Biolux OMC Posterior Superior - VIPI",
+    "price": "R$21,90",
+    "description": "Embalagem com 8 dentes posteriores superiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-biolux-omc-posterior-superior-vipi-dc19744d-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biolux-omc-posterior-superior-vipi-dc19744d.html"
+  },
+  {
+    "sku": "DC13301",
+    "name": "Escova Scotch Brithe PM - American Burrs",
+    "price": "R$38,90",
+    "description": "Embalagem com 1 unidade. Escolha o formato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/522037_2.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-scotch-brithe-pm-american-burrs-dc13301.html"
+  },
+  {
+    "sku": "DC10502D",
+    "name": "Dente Premium Posterior Superior - Kulzer",
+    "price": "R$269,90",
+    "description": "Embalagem com 8 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-premium-posterior-superior-kulzer-dc10502d.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-premium-posterior-superior-kulzer-dc10502d.html"
+  },
+  {
+    "sku": "DC21823",
+    "name": "Dente Gnathostar A-D Posterior Inferior - Ivoclar Vivadent",
+    "price": "R$57,90",
+    "description": "Embalagem com 8 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-gnathostar-a-d-posterior-inferior-ivoclar-vivadent-dc21823.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-gnathostar-a-d-posterior-inferior-ivoclar-vivadent-dc21823.html"
+  },
+  {
+    "sku": "604245",
+    "name": "Escova de Feltro para Polimento PM - American Burrs",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade. PM - peça de mão. Baixa rotação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-feltro-para-polimento-pm-american-burrs-dental-cremer-604245.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-feltro-para-polimento-pm-american-burrs-604245.html"
+  },
+  {
+    "sku": "DC10846",
+    "name": "Resina Acrílica Refine Bright Kit Com Pó e Líquida - Kota",
+    "price": "R$112,90",
+    "description": "Kit com Pó com 25g e Líquido com 20ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/484274.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-refine-bright-kit-com-po-e-liquida-kota-dc10846.html"
+  },
+  {
+    "sku": "119155",
+    "name": "Kit de Polimento Dr. Paulo Kano – American Burrs",
+    "price": "R$289,90",
+    "description": "Kit com 11 unidades + Broqueiro",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-polimento-escovas-invicta-dr-paulo-kano-american-burrs-119155.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-de-polimento-dr-paulo-kano-american-burrs-119155.html"
+  },
+  {
+    "sku": "DC38093",
+    "name": "Dente Bionix Anterior Superior - Triunfo",
+    "price": "R$8,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-real-plus-anterior-superior-bionix-dc38093-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-bionix-anterior-superior-bionix-dc38093.html"
+  },
+  {
+    "sku": "185744",
+    "name": "Lamparina Hannau Life Point Simples - S. E. Comercial",
+    "price": "R$34,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/185744.jpg",
+    "url": "https://www.dentalcremer.com.br/lamparina-hannau-life-point-simples-s-e-comercial-185744.html"
+  },
+  {
+    "sku": "141318",
+    "name": "Escala de Cores Delara Shade Guide - Kulzer",
+    "price": "R$399,90",
+    "description": "Embalagem com 18 tonalidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escala-de-cores-delara-shade-guide-kulzer-141318.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cores-delara-shade-guide-kulzer-141318.html"
+  },
+  {
+    "sku": "556438",
+    "name": "Pincel Pelo Pônei Redondo - Tigre",
+    "price": "R$3,29",
+    "description": "Embalagem com 1 unidade. Nº 10.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556438_635452593546890706.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-ponei-redondo-tigre-556438.html"
+  },
+  {
+    "sku": "DC24053",
+    "name": "Dente Vita MFT Posterior Superior - Wilcos",
+    "price": "R$85,90",
+    "description": "Embalagem com 8 dentes posteriores superiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-vita-mft-posterior-superior-wilcos-dc24053-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-vita-mft-posterior-superior-wilcos-dc24053.html"
+  },
+  {
+    "sku": "DC25694",
+    "name": "Pigmento para Resina Foto Allure Artcolor - Yller",
+    "price": "R$94,90",
+    "description": "Embalagem com 1 Seringa de 2g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104699.jpg",
+    "url": "https://www.dentalcremer.com.br/pigmento-para-resina-foto-allure-artcolor-yller-dc25694.html"
+  },
+  {
+    "sku": "484052",
+    "name": "Pincel Pelo Sintético Fino - Kota",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 unidade. N° 1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/484052.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-sintetico-fino-kota-484052.html"
+  },
+  {
+    "sku": "484007",
+    "name": "Pincel Pelo Marta Kolinsky Fino - Kota",
+    "price": "R$40,90",
+    "description": "Embalagem com 1 unidade. N° 2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/484007.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-fino-kota-484007.html"
+  },
+  {
+    "sku": "DC16298",
+    "name": "Resina Acrílica Termopolimerizável Wave Pó - Vipi",
+    "price": "R$112,90",
+    "description": "Embalagem com 450g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/16298_635950137836644242.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-vipi-wave-po-vipi-dc16298.html"
+  },
+  {
+    "sku": "DC26338",
+    "name": "Dente Acrylux Anterior Superior - Ruthinium",
+    "price": "R$38,90",
+    "description": "Embalagem com 6 dentes anteriores superiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-acrylux-anterior-superior-ruthinium-dc26338.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-acrylux-anterior-superior-ruthinium-dc26338.html"
+  },
+  {
+    "sku": "107412",
+    "name": "Kit Resina Acrílica Pattern Resin LS – GC",
+    "price": "R$304,90",
+    "description": "Kit com 30g de Pó + 31,5ml de Líquido + Acessórios (pincel, taça de mistura e pipeta).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107412.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-pattern-resin-ls-kit-gc-107412.html"
+  },
+  {
+    "sku": "500196",
+    "name": "Resina Acrílica Autopolimerizável Jet  Líquido - Clássico",
+    "price": "R$76,90",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-jet-liquido-classico-500196.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-jet-liquido-classico-500196.html"
+  },
+  {
+    "sku": "DC21821",
+    "name": "Dente Ivostar A-D Anterior Inferior - Ivoclar Vivadent",
+    "price": "R$57,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-ivostar-a-d-anterior-inferior-ivoclar-vivadent-dc21821.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-ivostar-a-d-anterior-inferior-ivoclar-vivadent-dc21821.html"
+  },
+  {
+    "sku": "DC38107",
+    "name": "Dente Triunfo Posterior Superior - Triunfo",
+    "price": "R$4,90",
+    "description": "Embalagem com 8 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-triunfo-posterior-superior-dc38107-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-triunfo-posterior-superior-triunfo-dc38107.html"
+  },
+  {
+    "sku": "DC38106",
+    "name": "Dente Triunfo Posterior Inferior - Triunfo",
+    "price": "R$4,90",
+    "description": "Embalagem com 8 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-triunfo-posterior-inferior-dc38106-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-triunfo-posterior-inferior-triunfo-dc38106.html"
+  },
+  {
+    "sku": "143847",
+    "name": "Pasta de Polimento Diamantada - AF do Brasil",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 seringa de 3g e 2 pontas aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamantada-aaf-143847.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamantada-af-do-brasil-143847.html"
+  },
+  {
+    "sku": "DC19744C",
+    "name": "Dente Biolux OMC Posterior Inferior - VIPI",
+    "price": "R$21,90",
+    "description": "Embalagem com 8 dentes posteriores inferiores.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-biolux-omc-posterior-inferior-vipi-dc19744c-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biolux-omc-posterior-inferior-vipi-dc19744c.html"
+  },
+  {
+    "sku": "DC23083",
+    "name": "Escova Ultra-Brush de Carbeto de Silício Média CA - American Burrs",
+    "price": "R$48,90",
+    "description": "Embalagem com 1 unidade. Escolha o formato.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-acabamento-ultra-brush-carbeto-de-silicio-media-ca-american-burrs-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-carbeto-de-silicio-para-polimento-ultra-brush-ca-american-burrs-dc23083.html"
+  },
+  {
+    "sku": "DC24054",
+    "name": "Dente Vita MFT Anterior Inferior - Wilcos",
+    "price": "R$85,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-vita-mft-anterior-inferior-wilcos-dc24054-1-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-vita-mft-anterior-inferior-wilcos-dc24054.html"
+  },
+  {
+    "sku": "DC25688",
+    "name": "Ponta Pedra Montada Trimmer - Dedeco",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104654.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-montada-trimmer-dedeco-dc25688.html"
+  },
+  {
+    "sku": "DC10502C",
+    "name": "Dente Premium Posterior Inferior - Kulzer",
+    "price": "R$269,90",
+    "description": "Embalagem com 8 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/435719.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-premium-posterior-inferior-kulzer-dc10502c.html"
+  },
+  {
+    "sku": "DC21635",
+    "name": "Dente New Ace Anterior Inferior Yamahachi - Kota",
+    "price": "R$24,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-new-ace-anterior-inferior-yamahachi-kota-dc21635.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-new-ace-anterior-inferior-yamahachi-kota-dc21635.html"
+  },
+  {
+    "sku": "DC25685",
+    "name": "Ponta Pedra Montada para Metal Média - Dedeco",
+    "price": "R$6,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104631.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-montada-para-metal-media-dedeco-dc25685.html"
+  },
+  {
+    "sku": "525458",
+    "name": "Resina Acrílica Autopolimerizável Flash Líquido - Vipi",
+    "price": "R$18,90",
+    "description": "Embalagem com 50ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-resina-autopolimerizavel-vipi-flash-liquido-50ml-525458.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-vipi-flash-liquido-vipi-525458.html"
+  },
+  {
+    "sku": "DC38092",
+    "name": "Dente Bionix Anterior Inferior - Triunfo",
+    "price": "R$8,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-real-plus-anterior-inferior-bionix-dc38092-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-bionix-anterior-inferior-bionix-dc38092.html"
+  },
+  {
+    "sku": "DC24055",
+    "name": "Dente Vita MFT Posterior Inferior - Wilcos",
+    "price": "R$85,90",
+    "description": "Embalagem com 8 dentes posteriores inferiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-vita-mft-posterior-inferior-wilcos-dc24055.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-vita-mft-posterior-inferior-wilcos-dc24055.html"
+  },
+  {
+    "sku": "DC18082",
+    "name": "Resina Acrílica Autopolimerizável Alike Pó - GC",
+    "price": "R$127,90",
+    "description": "Embalagem com 45g de Pó. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-alike-po-gc-dental-cremer-565164.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-alike-po-gc-dc18082.html"
+  },
+  {
+    "sku": "DC26340",
+    "name": "Dente Acrylux Posterior Superior - Ruthinium",
+    "price": "R$38,90",
+    "description": "Embalagem com 8 dentes posteriores superiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-acrylux-posterior-superior-ruthinium-dc26340.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-acrylux-posterior-superior-ruthinium-dc26340.html"
+  },
+  {
+    "sku": "DC21061",
+    "name": "Pote Dappen de Silicone - Golgran",
+    "price": "R$6,59",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/601886.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-silicone-golgran-dc21061.html"
+  },
+  {
+    "sku": "726244",
+    "name": "Resina Acrílica Autopolimerizável Jet Líquido - Clássico",
+    "price": "R$135,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acril-auto-jet-liq-500ml-classico-dental-cremer-726244-01.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-jet-liquido-classico-726244.html"
+  },
+  {
+    "sku": "483994",
+    "name": "Pincel Pelo Marta Kolinsky Fino - Kota",
+    "price": "R$38,90",
+    "description": "Embalagem com 1 unidade. N° 1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/483994.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-marta-kolinsky-fino-kota-483994.html"
+  },
+  {
+    "sku": "755459",
+    "name": "Polidor de Resina Ultra-Gloss CA - American Burrs",
+    "price": "R$69,90",
+    "description": "Kit com 3 unidades. Disco. Fino, Médio ou Grosso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/755459_2.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-ultra-gloss-ca-american-burrs-755459.html"
+  },
+  {
+    "sku": "556421",
+    "name": "Pincel Pelo Pônei Redondo Nº 08 – Tigre",
+    "price": "R$2,99",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pincel-pelo-ponei-redondo-n8-dental-cremer-556421-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-ponei-redondo-tigre-556421.html"
+  },
+  {
+    "sku": "DC26341",
+    "name": "Dente Acrylux Posterior Inferior - Ruthinium",
+    "price": "R$38,90",
+    "description": "Embalagem com 8 dentes posteriores inferiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-acrylux-posterior-inferior-ruthinium-dc26341.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-acrylux-posterior-inferior-ruthinium-dc26341.html"
+  },
+  {
+    "sku": "644869",
+    "name": "Pote Dappen de Vidro Incolor - Preven",
+    "price": "R$6,99",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pote-dappen-de-vidro-incolor-dental-cremer-644869-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-dappen-de-vidro-incolor-preven-644869.html"
+  },
+  {
+    "sku": "DC30367",
+    "name": "Dente Biolux OMC Anterior Superior - VIPI",
+    "description": "Embalagem com 6 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-biolux-omc-anterior-superior-vipi-01-dc30367-001.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biolux-omc-anterior-superior-vipi-dc30367.html"
+  },
+  {
+    "sku": "738537",
+    "name": "Escala de Cores Bleach - Ivoclar Vivadent",
+    "price": "R$149,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/738537_635986601047116171.jpg",
+    "url": "https://www.dentalcremer.com.br/escala-de-cores-bleach-ivoclar-vivadent-738537.html"
+  },
+  {
+    "sku": "DC25686",
+    "name": "Ponta de Borracha - Dedeco",
+    "price": "R$17,90",
+    "description": "Embalagem com 3 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104641.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-de-borracha-roda-dedeco-dc25686.html"
+  },
+  {
+    "sku": "532937",
+    "name": "Kit Resina Acrílica Pattern Resin LS - GC",
+    "price": "R$759,90",
+    "description": "Kit com 100g de pó, 105ml de líquido, 2 dappens, 1 pincel e 1 pipeta.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-pattern-resin-ls-kit-gc-532937-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-pattern-resin-ls-kit-gc-532937.html"
+  },
+  {
+    "sku": "DC10053",
+    "name": "Broca de Tungstênio Maxicut PM – Edenta",
+    "price": "R$283,90",
+    "description": "Embalagem com 1 unidade. PM - Peça de Mão. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-tungstenio-maxicut-pm-edenta-510850.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-tungstenio-maxicut-pm-edenta-dc10053.html"
+  },
+  {
+    "sku": "DC38325",
+    "name": "Dente SR Vivodent S PE Anterior Superior - Ivoclar",
+    "price": "R$229,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-sr-vivodent-s-pe-anterior-superior-ivoclar-dental-cremer-dc38325.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-sr-vivodent-s-pe-anterior-superior-ivoclar-dc38325.html"
+  },
+  {
+    "sku": "DC38095",
+    "name": "Dente Bionix Posterior Superior - Triunfo",
+    "price": "R$8,90",
+    "description": "Embalagem com 8 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-real-plus-posterior-superior-bionix-dc38095-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-bionix-posterior-superior-bionix-dc38095.html"
+  },
+  {
+    "sku": "DC26210",
+    "name": "Resina Lab Signum Pala Cre-Ative Gingiva - Kulzer",
+    "price": "R$179,90",
+    "description": "Embalagem com 1 seringa de 3g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/nova-resina-signum-cre-active-3g.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-lab-signum-pala-cre-ative-gingiva-kulzer-dc26210.html"
+  },
+  {
+    "sku": "DC30368",
+    "name": "Dente Biolux OMC Posterior Inferior - VIPI",
+    "description": "Embalagem com 8 dentes posteriores inferiores. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-biolux-omc-posterior-inferior-vipi-dc30368-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-biolux-omc-posterior-inferior-vipi-dc30368.html"
+  },
+  {
+    "sku": "DC38094",
+    "name": "Dente Bionix Posterior Inferior - Triunfo",
+    "price": "R$8,90",
+    "description": "Embalagem com 8 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-real-plus-posterior-inferior-bionix-dc38094-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-bionix-posterior-inferior-bionix-dc38094.html"
+  },
+  {
+    "sku": "484038",
+    "name": "Pincel Pelo Sintético Chato - Kota",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade. N° 4A.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/484038.jpg",
+    "url": "https://www.dentalcremer.com.br/pincel-pelo-sintetico-chato-kota-484038.html"
+  },
+  {
+    "sku": "DC10848",
+    "name": "Resina Acrílica Refine Bright Pó - Kota",
+    "price": "R$64,90",
+    "description": "Embalagem com 25g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/484137.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-refine-bright-po-kota-dc10848.html"
+  },
+  {
+    "sku": "485127",
+    "name": "Kit Resina Acrílica Pattern Bright - Kota",
+    "price": "R$126,90",
+    "description": "Kit com 25g de pó + 20ml de líquido.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-pattern-bright-kit-kota-485127-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-pattern-bright-kit-kota-485127.html"
+  },
+  {
+    "sku": "117757",
+    "name": "Polidor Diamantado EVE Diacomp Plus Kit Twist - OdontoMega",
+    "price": "R$178,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117757.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-diamantado-eve-diacomp-plus-kit-twist-odontomega-117757.html"
+  },
+  {
+    "sku": "755770",
+    "name": "Pedra Arkansas American Stones Chama Ultra-White Fina FG - American Burrs",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ponta-pedra-arkansas-ultra-white-american-stones-fg-american-burrs-755770.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-arkansas-ultra-white-american-stones-fg-american-burrs-755770.html"
+  },
+  {
+    "sku": "332001",
+    "name": "Kit Resina Acrílica Duralay Pó e Líquido - Reliance",
+    "price": "R$373,90",
+    "description": "Kit com 28g de pó + 30 ml de líquido isolante + conta-gotas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-resina-acrilica-duralay-po-e-liquido-332001.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-duralay-kit-reliance-332001.html"
+  },
+  {
+    "sku": "DC25689",
+    "name": "Ponta Pedra Arkansas FG - Dedeco",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104656.jpg",
+    "url": "https://www.dentalcremer.com.br/ponta-pedra-arkansas-fg-dedeco-dc25689.html"
+  },
+  {
+    "sku": "DC29124",
+    "name": "Polidor Espiral Diamantado de Resina Twist-Gloss CA - American Burrs",
+    "price": "R$119,90",
+    "description": "Embalagem com 1 unidade. Escolha a granulação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/polidor-espiral-diamantado-de-resina-twist-gloss-ca-american-burrs-dc29124-1.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-espiral-diamantado-de-resina-twist-gloss-ca-american-burrs-dc29124.html"
+  },
+  {
+    "sku": "DC13394",
+    "name": "Polidor de Acrílico Ultra Technique Bastão PM - American Burrs",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/603767_2.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-acrilico-ultra-technique-bast-o-pm-american-burrs-dc13394.html"
+  },
+  {
+    "sku": "DC10684",
+    "name": "Óxido de Alumínio - Bio-Art",
+    "price": "R$94,90",
+    "description": "Embalagem com 800g. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/oxido-de-aluminio-bio-art-dc10684.jpg",
+    "url": "https://www.dentalcremer.com.br/oxido-de-aluminio-bio-art-dc10684.html"
+  },
+  {
+    "sku": "DC19018",
+    "name": "Resina Acrílica Autopolimerizante Jet Color - Clássico",
+    "price": "R$71,90",
+    "description": "Embalagem com 120ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/561302.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizante-jet-color-classico-dc19018.html"
+  },
+  {
+    "sku": "DC38324",
+    "name": "Dente SR Vivodent S PE Anterior Inferior 6 - Ivoclar",
+    "price": "R$229,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-sr-vivodent-s-pe-anterior-inferior-6-ivoclar-dental-cremer-dc38324.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-sr-vivodent-s-pe-anterior-inferior-6-ivoclar-dc38324.html"
+  },
+  {
+    "sku": "DC38280",
+    "name": "Dente Delara Anterior Superior - Kulzer",
+    "price": "R$69,90",
+    "description": "Embalagem com 6 unidades. Escolha o modelo da cor C.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dente-delara-anterior-superior-kulzer-dc30211-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dente-delara-anterior-superior-kulzer-dc38280.html"
+  },
+  {
+    "sku": "972870",
+    "name": "Lamparina a Álcool Inox - Golgran",
+    "price": "R$71,90",
+    "description": "Embalagem com 1 unidade. Ref: 100-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lamparina-a-alcool-inox-golgran-972870.jpg",
+    "url": "https://www.dentalcremer.com.br/lamparina-a-alcool-inox-golgran-972870.html"
+  },
+  {
+    "sku": "137391",
+    "name": "Resina Acrílica Autopolimerizável Pó 25G Vermelha - Triunfo",
+    "price": "R$32,90",
+    "description": "Embalagem com 25g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-acrilica-autopolimerizavel-po-25g-vermelha-triunfo-137391-aa.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-acrilica-autopolimerizavel-po-25g-vermelha-triunfo-137391.html"
+  }
+]

@@ -1,0 +1,763 @@
+[
+  {
+    "sku": "560855",
+    "name": "Membrana Biológica Bovina Lumina-Coat - Critéria",
+    "price": "R$168,90",
+    "description": "Embalagem com 1 unidade. 20x30mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-lumina-coat-criteria-560855.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-lumina-coat-criteria-560855.html"
+  },
+  {
+    "sku": "DC23143",
+    "name": "Implante Cônico HE - Singular",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 Implante + Cover. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-conico-he-singular-dc23143.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-conico-he-singular-dc23143.html"
+  },
+  {
+    "sku": "DC23152_A",
+    "name": "Ucla Co-Cr CM Anti-Rotacional - Singular",
+    "price": "R$66,90",
+    "description": "1 Ucla em CoCr + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808742.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-cm-anti-rotacional-singular-dc23152-a.html"
+  },
+  {
+    "sku": "DC19020",
+    "name": "Enxerto Ósseo Bovino Lumina-Bone - Criteria",
+    "price": "R$168,90",
+    "description": "Embalagem com 0,5g. Escolha o modelo (Fino, Médio ou Grosso).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-lumina-bone-criteria-agrupador.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-lumina-bone-criteria-dc19020.html"
+  },
+  {
+    "sku": "DC23123_2",
+    "name": "Mini Pilar Angulado CM - Singular",
+    "price": "R$178,90",
+    "description": "Embalagem com 1 Mini Pilar Angulado + 1 Parafuso Sextavado. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-pilar-cm-ne-17-graus-singular-807516.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-cm-ne-singular-dc23123-2.html"
+  },
+  {
+    "sku": "DC23122_2",
+    "name": "Mini Pilar Angulado 17 Graus HE - Singular",
+    "price": "R$178,90",
+    "description": "1 Mini Pilar Angulado + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-pilar-angulado-17-graus-he-singular-dc23122-2.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-angulado-17-graus-he-singular-dc23122-2.html"
+  },
+  {
+    "sku": "DC24670_2",
+    "name": "Análogo HE - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-he-singular-806816-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-he-singular-dc24670-2.html"
+  },
+  {
+    "sku": "DC29515",
+    "name": "Transfer Moldeira Aberta HE - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-aberta-he-singular-dc29515-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-he-singular-dc29515.html"
+  },
+  {
+    "sku": "DC25928",
+    "name": "Enxerto Ósseo Sintético Nanosynt - FGM",
+    "price": "R$218,99",
+    "description": "Embalagem com 0,5g. Escolha a granulação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-sintetico-nanosynt-fgm-05g-dc25928.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-sintetico-nanosynt-fgm-dc25928.html"
+  },
+  {
+    "sku": "DC23117_2",
+    "name": "Cicatrizador Divergente HE - Singular",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent e Universal.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/23117.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-divergente-he-singular-dc23117-2.html"
+  },
+  {
+    "sku": "DC38713_2",
+    "name": "Ucla Co-Cr CM Anti-Rotacional - Singular",
+    "description": "1 Ucla em CoCr + Parafuso Sextavado. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808742.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-cm-anti-rotacional-singular.html"
+  },
+  {
+    "sku": "DC23120_2",
+    "name": "Cover HE - Singular",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/807233.jpg",
+    "url": "https://www.dentalcremer.com.br/cover-he-singular-dc23120-2.html"
+  },
+  {
+    "sku": "DC19660",
+    "name": "Enxerto Ósseo Bovino Bonefill Denso - Bionnovation",
+    "price": "R$169,90",
+    "description": "Embalagem com 0,5g. Fino, Médio ou Grosso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/686432.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-bonefill-bionnovation-dc19660.html"
+  },
+  {
+    "sku": "DC23124",
+    "name": "Mini Pilar CM NE - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent, Sin (Unittite).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc23124.png",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-cm-ne-singular-dc23124.html"
+  },
+  {
+    "sku": "DC30596",
+    "name": "Enxerto Ósseo Bovino Geistlich Bio-Oss 0,50G - Geistlich",
+    "price": "R$621,90",
+    "description": "Embalagem com 0,50g. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-geistlich-bio-oss-05g-1-2mm-geistlich-132897-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-geistlich-bio-oss-0-5g-geistlich-dc30596.html"
+  },
+  {
+    "sku": "131623",
+    "name": "Membrana Biológica Bovina GenDerm - Baumer",
+    "description": "Embalagem com 1 unidade. Média - 30x30mm. 150 - 200 μ.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-genderm-baumer-543896.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-genderm-baumer-131623.html"
+  },
+  {
+    "sku": "DC29677",
+    "name": "Enxerto Ósseo Hap-91 Mech - JHS",
+    "price": "R$109,90",
+    "description": "Embalagem com 0,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-hap-91-10-mech-grosso-jhs-122731-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-hap-91-mech-jhs.html"
+  },
+  {
+    "sku": "107325",
+    "name": "Broca Extractor Retriever 135º com Broqueiro - Criteria",
+    "price": "R$105,90",
+    "description": "Embalagem com 1 unidade. Acompanha Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-extractor-retrivier-c-broqueiro-135-criteria-107325.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-extractor-retriver-instruments-criteria-107325.html"
+  },
+  {
+    "sku": "143241",
+    "name": "Barreira Regenerativa de Polipropileno Lumina-BOPP 20x30mm - Criteria",
+    "price": "R$128,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-regenerativa-de-polipropileno-lumina-bopp-20x30mm-criteria-143241.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-regenerativa-de-polipropileno-lumina-bopp-20x30mm-criteria-143241.html"
+  },
+  {
+    "sku": "DC24948",
+    "name": "Ucla Titânio Anti-Rotacional CM N - Singular",
+    "price": "R$33,90",
+    "description": "1 Ucla em Titânio + Parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/906905.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-anti-rotacional-cm-n-singular-dc24948.html"
+  },
+  {
+    "sku": "DC23130",
+    "name": "Pilar Universal - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent, Sin (Unittite).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/nova-pilar-universal-singular-dc23130.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-universal-singular-dc23130.html"
+  },
+  {
+    "sku": "DC23141",
+    "name": "Implante Cônico CM - Singular",
+    "price": "R$98,90",
+    "description": "Embalagem com 1 Implante + Cover.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/implante-conico-cm-singular-dc23141-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-conico-cm-singular-dc23141.html"
+  },
+  {
+    "sku": "DC23125_2",
+    "name": "Mini Pilar HE - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-pilar-he-singular-dc23125-2-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-he-singular-dc23125-2.html"
+  },
+  {
+    "sku": "114553",
+    "name": "Cilindro Mini Pilar Calcinável - Singular",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 Ucla Calcinável + Parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cilindro-mini-pilar-calcinavel-c-parafuso-109045-singular-dc-114553-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-mini-pilar-calcinavel-singular-114553.html"
+  },
+  {
+    "sku": "DC27068",
+    "name": "Ucla Calcinável HE Anti-Rotacional - Singular",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 Ucla Calcinável + Parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ucla-calcinavel-he-anti-rotacional-singular-dc27068-dental-cremer-3.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-he-anti-rotacional-singular-dc27068.html"
+  },
+  {
+    "sku": "121801",
+    "name": "Enxerto Ósseo Bovino GenOx Inorg - Baumer",
+    "description": "Embalagem com 0,5g ou 0,5cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-genox-inorg-baumer-121801-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-genox-inorg-baumer-121801.html"
+  },
+  {
+    "sku": "DC25848",
+    "name": "Conjunto Para Munhão Universal - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 Transferente + 1 Cilindro Provisório + 1 Cilindro Definitivo",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/106866.jpg",
+    "url": "https://www.dentalcremer.com.br/conjunto-para-munh-o-universal-singular-dc25848.html"
+  },
+  {
+    "sku": "201888",
+    "name": "Antisséptico para Implante Proheal - BiomacMed",
+    "price": "R$97,90",
+    "description": "Embalagem com 500mg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-para-implante-proheal-biomacmed-201888-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-para-implante-proheal-biomacmed-201888.html"
+  },
+  {
+    "sku": "DC23116",
+    "name": "Cicatrizador CM NE - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent, Sin (Unittite). Ref. 110.044.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dc23116.png",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-cm-ne-singular-dc23116.html"
+  },
+  {
+    "sku": "140331",
+    "name": "Cilindro Mini Pilar Titânio com Parafuso - Singular",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cilindro-mini-pilar-titanio-com-parafuso-singular-dental-cremer-140331.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-mini-pilar-titanio-com-parafuso-singular-140331.html"
+  },
+  {
+    "sku": "543872",
+    "name": "Enxerto Ósseo Bovino GenOx Inorg - Baumer",
+    "price": "R$114,90",
+    "description": "Embalagem com 0,5g ou 0,5cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-genox-inorg-baumer-543872.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-genox-inorg-baumer-543872.html"
+  },
+  {
+    "sku": "806809",
+    "name": "Análogo CM - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent, Sin (Unittite). Ref. 101.030. Indexado (101030)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/806809.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-cm-singular-806809.html"
+  },
+  {
+    "sku": "DC29514",
+    "name": "Transfer Moldeira Fechada HE - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-fechada-he-singular-dc29514-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-he-singular-dc29514.html"
+  },
+  {
+    "sku": "DC38215",
+    "name": "Mini Pilar HE - Singular",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-pilar-he-singular-lovers-DC38215.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-he-singular-dc38215.html"
+  },
+  {
+    "sku": "905205",
+    "name": "Parafuso Mini Pilar - 102005 - Singular",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Mini Pilar. Ref. 102.005.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/905205.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-mini-pilar-singular-905205.html"
+  },
+  {
+    "sku": "DC23147_2",
+    "name": "Ucla Titânio HE Anti-Rotacional - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. (Parafuso vendido separadamente).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/23147_a.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-he-anti-rotacional-singular-dc23147-2.html"
+  },
+  {
+    "sku": "DC27069",
+    "name": "Ucla Calcinável HE Rotacional - Singular",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 Ucla Calcinável + Parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/127133.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-he-rotacional-singular-dc27069.html"
+  },
+  {
+    "sku": "121253",
+    "name": "Transfer Moldeira Aberta Mini Pilar - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade. Acompanha parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-aberta-mini-pilar-singular-121253-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-mini-pilar-singular-121253.html"
+  },
+  {
+    "sku": "120583",
+    "name": "Transfer Moldeira Fechada CM NE - Singular",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-fechada-cm-ne-singular-120583.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-cm-ne-singular-120583.html"
+  },
+  {
+    "sku": "DC38854",
+    "name": "Base TiBase4 Cad CM N - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Com parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/base-tibase4-cad-cm-n-0-8mm-com-parafuso-1unid--singular-147371.jpg",
+    "url": "https://www.dentalcremer.com.br/base-tibase4-cad-cm-n-singular-dc38854.html"
+  },
+  {
+    "sku": "DC23160",
+    "name": "Capa de Proteção Pilar - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/capa-de-protecao-pilar-singular-dc23160.jpg",
+    "url": "https://www.dentalcremer.com.br/capa-de-protec-o-pilar-singular-dc23160.html"
+  },
+  {
+    "sku": "120584",
+    "name": "Transfer Moldeira Aberta CM NE - Singular",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-aberta-cm-ne-singular-120584.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-cm-ne-singular-120584.html"
+  },
+  {
+    "sku": "138360",
+    "name": "Cilindro Mini Pilar Calcinável - Singular",
+    "description": "Embalagem com 1 unidade + parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cilindro-mini-pilar-calcinavel-c-parafuso-109045-singular-dc-114553-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-mini-pilar-calcinavel-singular-138360.html"
+  },
+  {
+    "sku": "DC30599",
+    "name": "Enxerto Ósseo Bovino Geistlich Bio-Oss 1G - Geistlich",
+    "price": "R$1.168,90",
+    "description": "Embalagem com 1g. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-geistlich-bio-oss-1g-0-25-1mm-geistlich-132896-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-geistlich-bio-oss-1g-geistlich-dc30599.html"
+  },
+  {
+    "sku": "818390",
+    "name": "Cilindro Co-Cr Mini Pilar - 109014 - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 Ucla CoCr + Parafuso Sextavado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/818390.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-mini-pilar-co-cr-singular-818390.html"
+  },
+  {
+    "sku": "807219",
+    "name": "Cover CM - Singular",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade - 1mm. Compatibilidade: Singular, Neodent, Sin (Unittite). Ref. 110.135.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/807219.jpg",
+    "url": "https://www.dentalcremer.com.br/cover-cm-singular-807219.html"
+  },
+  {
+    "sku": "543841",
+    "name": "Enxerto Ósseo Bovino GenMix - Baumer",
+    "price": "R$190,90",
+    "description": "Embalagem com 0,75cc (cm³).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-genmix-baumer-543841-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-genmix-baumer-543841.html"
+  },
+  {
+    "sku": "808803",
+    "name": "Ucla Titanio Cm N Cinta 1,5mm - Rotac 103142 - Singular",
+    "price": "R$33,90",
+    "description": "1 Ucla em Titânio + Parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808803.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-rotacional-cm-n-neodent-singular-singular-808803.html"
+  },
+  {
+    "sku": "107324",
+    "name": "Broca Expansora Pata de Elefante Instruments - Criteria",
+    "price": "R$321,90",
+    "description": "Embalagem com 1 unidade. Acompanha Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-expansora-pata-de-elefan-borq-auto-instruments-criteria-dental-cremer-107324-01.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-expansora-pata-de-elefante-instruments-criteria-107324.html"
+  },
+  {
+    "sku": "818444",
+    "name": "Cilindro Tg Titânio Compat. Com Pilar Tg, Gt Neodent - 109042 - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Pilar TG, GT Neodent. Ref. 109.042.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/818444.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-pilar-tg-titanio-singular-818444.html"
+  },
+  {
+    "sku": "DC29791",
+    "name": "Parafuso Transferente Moldeira CM e LZ - AllPrime Select",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-laboratorial-transferente-moldeira-cm-e-linha-zero-1-6mm-allprime-select-dental-cremer-dc29791_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-transferente-moldeira-cm-e-lz-allprime-select-dc29791.html"
+  },
+  {
+    "sku": "543889",
+    "name": "Membrana Biológica Bovina GenDerm - Baumer",
+    "price": "R$190,90",
+    "description": "Embalagem com 1 unidade. Pequena - 20x20mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-biologica-bovina-genderm-baumer-543889-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-genderm-baumer-543889.html"
+  },
+  {
+    "sku": "123526",
+    "name": "Parafuso Fixação no Implante CM 1.6mm - AllPrime Select",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-fixacao-no-implante-cm-1-6mm-allprime-select-dental-cremer-123526_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-fixac-o-no-implante-cm-1-6mm-allprime-select-123526.html"
+  },
+  {
+    "sku": "818451",
+    "name": "Cilindro Pilar Tg Calcinavel - Anti Rotac 109041 - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 cilindro e 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/818451.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-pilar-tg-calcinavel-singular-818451.html"
+  },
+  {
+    "sku": "DC29849",
+    "name": "Mini Pilar Padrão CM - AllPrime Select",
+    "price": "R$60,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transmucoso-mini-padrao-cm-allprime-select-dental-cremer-dc29849_1.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-padrao-cm-allprime-select-dc29849.html"
+  },
+  {
+    "sku": "DC23129",
+    "name": "Pilar TG CM - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent, Sin (Unittite).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808223.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-tg-cm-singular-dc23129.html"
+  },
+  {
+    "sku": "DC28071",
+    "name": "Implante Cônico CM - Singular",
+    "description": "Embalagem com 1 Implante + Cover.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114040.jpg",
+    "url": "https://www.dentalcremer.com.br/implante-conico-cm-singular-dc28071.html"
+  },
+  {
+    "sku": "DC23126_2",
+    "name": "Pilar Universal Angulado 17 Graus CM - Singular",
+    "price": "R$178,90",
+    "description": "Embalagem com 1 Pilar Universal + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-universal-angulado-singular-DC23126-2-e-DC23126-A.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-universal-angulado-17-graus-cm-singular-dc23126-2.html"
+  },
+  {
+    "sku": "DC29001",
+    "name": "Parafuso Tenda DM - Bionnovation",
+    "price": "R$114,90",
+    "description": "Embalagem com 1 parafuso âncora + 1 parafuso de cobertura. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-tenda-dm-bionnovation-dc29001.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-tenda-dm-bionnovation-dc29001.html"
+  },
+  {
+    "sku": "DC29846",
+    "name": "Mini Pilar Angulado CM - AllPrime Select",
+    "price": "R$105,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transmucoso-angulado-mini-17-cm-4-8-x-1-5mm-allprime-select-dental-cremer-123800_1.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-angulado-cm-allprime-select-dc29846.html"
+  },
+  {
+    "sku": "DC24935",
+    "name": "Parafuso Sextavado HE - Singular",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/905236.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-sextavado-he-singular-dc24935.html"
+  },
+  {
+    "sku": "DC24887",
+    "name": "Análogo Pilar Universal - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/analogo-pilar-universal-singular-dc24887-1.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-pilar-universal-singular-dc24887.html"
+  },
+  {
+    "sku": "DC29801",
+    "name": "Ucla Calcinável CoCr Não Rotacional CM - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-cocr-regular-nao-rotacional-cm-allprime-select-dental-cremer-dc29801_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-nao-rotacional-cm-allprime-select-dc29801.html"
+  },
+  {
+    "sku": "DC23152_2",
+    "name": "Ucla Co-Cr CM Rotacional - Singular",
+    "price": "R$66,90",
+    "description": "1 Ucla em CoCr + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/821970.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-cm-rotacional-singular-dc23152-2.html"
+  },
+  {
+    "sku": "DC23118_2",
+    "name": "Cicatrizador HE - Singular",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/23118.jpg",
+    "url": "https://www.dentalcremer.com.br/cicatrizador-he-singular-dc23118-2.html"
+  },
+  {
+    "sku": "DC24934",
+    "name": "Parafuso Quadrado HE - Singular",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808025.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-quadrado-he-singular-dc24934.html"
+  },
+  {
+    "sku": "DC23151_2",
+    "name": "Ucla Co-Cr HE Anti-Rotacional - Singular",
+    "price": "R$66,90",
+    "description": "1 Ucla em CoCr + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808704.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-he-anti-rotacional-singular-dc23151-2.html"
+  },
+  {
+    "sku": "DC23122_A",
+    "name": "Mini Pilar Angulado 30 Graus HE - Singular",
+    "price": "R$178,90",
+    "description": "1 Mini Pilar Angulado + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mini-pilar-angulado-30-graus-he-singular-dc23122-a.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-angulado-30-graus-he-singular-dc23122-a.html"
+  },
+  {
+    "sku": "DC29842",
+    "name": "Transfer Moldeira Fechada HE - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-fechada-he-allprime-select-dental-cremer-dc29842_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-he-allprime-select-dc29842.html"
+  },
+  {
+    "sku": "147380",
+    "name": "Transfer Digital CM - Singular",
+    "price": "R$89,90",
+    "description": "Embalagem com 1 unidade. Com parafuso",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-digital-cm-singular-147380.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-digital-cm-singular-147380.html"
+  },
+  {
+    "sku": "DC29806",
+    "name": "Pilar Estético 4.5mm CM - AllPrime Select",
+    "price": "R$47,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-estetico-longo-cm-allprime-select-dental-cremer-dc29806_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-estetico-longo-cm-allprime-select-dc29806.html"
+  },
+  {
+    "sku": "143242",
+    "name": "Membrana Colágeno Bovina Lumina-Coat Double Time 10x20mm - Criteria",
+    "price": "R$168,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/membrana-colageno-bovina-lumina-coat-double-time-10x20mm-criteria-143242.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-colageno-bovina-lumina-coat-double-time-10x20mm-criteria-143242.html"
+  },
+  {
+    "sku": "906950",
+    "name": "Análogo Mini Pilar - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/906950.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-mini-pilar-singular-906950.html"
+  },
+  {
+    "sku": "DC23121",
+    "name": "Micro Pilar CM - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Singular, Neodent, Sin (Unittite).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/micro-pilar-cm-singular-dc23121.jpg",
+    "url": "https://www.dentalcremer.com.br/micro-pilar-cm-singular-dc23121.html"
+  },
+  {
+    "sku": "132894",
+    "name": "Enxerto Ósseo Bovino Geistlich Bio-Oss 0,25G (0.25-1mm) - Geistlich",
+    "price": "R$403,90",
+    "description": "Embalagem com 0,25g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxerto-osseo-bovino-geistlich-bio-oss-0-25g-0-25-1mm-geistlich-132894-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxerto-osseo-bovino-geistlich-bio-oss-0-25g-0-25-1mm-geistlich-132894.html"
+  },
+  {
+    "sku": "DC29837",
+    "name": "Transfer Moldeira Aberta HE - AllPrime Select",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o diâmetro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tranferente-moldeira-aberta-he-allprime-select-dental-cremer-dc29837_1.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-aberta-he-allprime-select-dc29837.html"
+  },
+  {
+    "sku": "DC29848",
+    "name": "Mini Pilar Padrão HE - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transmucoso-mini-padrao-he-allprime-select-dental-cremer-dc29848_1.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-padrao-he-allprime-select-dc29848.html"
+  },
+  {
+    "sku": "818468",
+    "name": "Cilindro Co-Cr Tg Compat. Com Pilar Tg, Gt Neodent - 109043 - Singular",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 Ucla CoCr + Parafuso Sextavado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/818468.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-pilar-tg-co-cr-singular-818468.html"
+  },
+  {
+    "sku": "DC29830",
+    "name": "Ucla Titânio Não Rotacional CM - AllPrime Select",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-provisorio-regular-nao-rotacional-cm-allprime-select-dental-cremer-dc29830_1.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-nao-rotacional-cm-allprime-select-dc29830.html"
+  },
+  {
+    "sku": "DC29847",
+    "name": "Mini Pilar Angulado HE - AllPrime Select",
+    "price": "R$94,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transmucoso-angulado-mini-he-allprime-select-dental-cremer-dc29847_1.jpg",
+    "url": "https://www.dentalcremer.com.br/mini-pilar-angulado-he-allprime-select-dc29847.html"
+  },
+  {
+    "sku": "DC29825",
+    "name": "Pilar de Retenção O-Ring HE - AllPrime Select",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-retencao-o-ring-he-allprime-select-dental-cremer-dc29825_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-retenc-o-o-ring-he-allprime-select-dc29825.html"
+  },
+  {
+    "sku": "123527",
+    "name": "Parafuso Fixação no Implante HE 2.0mm - AllPrime Select",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-fixacao-no-implante-hi-he-2-0mm-allprime-select-dental-cremer-123527_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-fixac-o-no-implante-hi-he-2-0mm-allprime-select-123527.html"
+  },
+  {
+    "sku": "767230",
+    "name": "Barreira Regenerativa Lumina-PTFE - Critéria",
+    "price": "R$281,90",
+    "description": "Embalagem com 1 unidade. 20x30x1mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-regenerativa-lumina-ptfe-criteria-767230-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-regenerativa-lumina-ptfe-criteria-767230.html"
+  },
+  {
+    "sku": "120579",
+    "name": "Transfer Moldeira Fechada Mini Pilar - Singular",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade + 1 parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/transfer-moldeira-fechada-mini-pilar-singular-120579-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/transfer-moldeira-fechada-mini-pilar-singular-120579.html"
+  },
+  {
+    "sku": "957877",
+    "name": "Analogo Pilar Tg - 101023 - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Ref. 101.023.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/957877.jpg",
+    "url": "https://www.dentalcremer.com.br/analogo-pilar-tg-singular-957877.html"
+  },
+  {
+    "sku": "DC23151_A_2",
+    "name": "Ucla Co-Cr HE Rotacional - Singular",
+    "price": "R$66,90",
+    "description": "1 Ucla em CoCr + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/23151_a.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-co-cr-he-rotacional-singular-dc23151-a-2.html"
+  },
+  {
+    "sku": "DC30569",
+    "name": "Parafuso Transferente Moldeira Pilar Multi Unit 2.0mm - AllPrime Select",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/parafuso-laboratorial-transferente-moldeira-fechada-multi-unit-2-0mm-allprime-select-dental-cremer-123536_1.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-transferente-moldeira-pilar-multi-unit-2-0mm-allprime-select-dc30569.html"
+  },
+  {
+    "sku": "135222",
+    "name": "Membrana Biológica Bovina Techgraft – Baumer",
+    "description": "Embalagem com 1 unidade. 20x20mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-membrana-biologica-bovina-techgraft-baumer-108586.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-biologica-bovina-techgraf-20x20mm-baumer-135222.html"
+  },
+  {
+    "sku": "DC23147_A_2",
+    "name": "Ucla Titânio HE Rotacional - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. (Parafuso vendido separadamente).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/808858.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-titanio-he-rotacional-singular-dc23147-a-2.html"
+  },
+  {
+    "sku": "127188",
+    "name": "Ucla Calcinável Anti-rotacional HE 5.0 compatível com Neodent HEX 3.3 - Singular",
+    "price": "R$13,33",
+    "description": "Embalagem com 1 unidade + Parafuso.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ucla-calcinavel-he-anti-rotacional-singular-127188-dental-cremer-3.jpg",
+    "url": "https://www.dentalcremer.com.br/ucla-calcinavel-he-anti-rotacional-singular-127188.html"
+  },
+  {
+    "sku": "818413",
+    "name": "Cilindro Micro Pilar - Calcinavel 109132  - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Micro Pilar. Ref. 109.132.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/818413.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-micro-pilar-calcinavel-singular-818413.html"
+  },
+  {
+    "sku": "905267",
+    "name": "Parafuso Tg Compat. Com Pilar Tg, Gt Neodent 102051 - Singular",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 unidade. Ref. 102.051.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/905267.jpg",
+    "url": "https://www.dentalcremer.com.br/parafuso-pilar-tg-singular-905267.html"
+  },
+  {
+    "sku": "DC23126_A",
+    "name": "Pilar Universal Angulado 30 Graus CM - Singular",
+    "price": "R$178,90",
+    "description": "1 Pilar Universal + Parafuso Sextavado",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pilar-universal-angulado-singular-DC23126-2-e-DC23126-A.jpg",
+    "url": "https://www.dentalcremer.com.br/pilar-universal-angulado-30-graus-cm-singular-dc23126-a.html"
+  },
+  {
+    "sku": "818406",
+    "name": "Cilindro Micro Pilar Titânio - 109131 - Singular",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Compatibilidade: Micro Pilar. Ref. 109.131.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/818406.jpg",
+    "url": "https://www.dentalcremer.com.br/cilindro-micro-pilar-titanio-singular-818406.html"
+  },
+  {
+    "sku": "DC29836",
+    "name": "Ti-Base Não Rotacional CM - AllPrime Select",
+    "price": "R$55,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ti-base-nao-rotacional-cm-allprime-select-dc29836.jpg",
+    "url": "https://www.dentalcremer.com.br/ti-base-nao-rotacional-cm-allprime-select-dc29836.html"
+  },
+  {
+    "sku": "DC19661",
+    "name": "Membrana Sintética PTFE Surgitime - Bionnovation",
+    "price": "R$224,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/686494_635828611053665698.jpg",
+    "url": "https://www.dentalcremer.com.br/membrana-sintetica-ptfe-surgitime-bionnovation-dc19661.html"
+  }
+]

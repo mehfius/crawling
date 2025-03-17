@@ -1,0 +1,770 @@
+[
+  {
+    "sku": "DC38646",
+    "name": "Bandeja para Esterilização Plástica Autoclavável Grande - Indusbello",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-para-esterilizacao-plastica-autoclavavel-grande-verde-com-glitter-indusbello-145176.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-para-esterilizacao-plastica-autoclavavel-grande-indusbello-dc38646.html"
+  },
+  {
+    "sku": "927825",
+    "name": "Bandeja C04 - Coraldent",
+    "price": "R$61,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/927825.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-c04-coraldent-927825.html"
+  },
+  {
+    "sku": "927849",
+    "name": "Bandeja C06 - Coraldent",
+    "price": "R$71,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/927849.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-c06-coraldent-927849.html"
+  },
+  {
+    "sku": "119843",
+    "name": "Estojo em Inox Perfurado Econox 32x16x8cm - Fami",
+    "price": "R$482,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-em-inox-perfurado-econox-32x16x8cm-fami-119843-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-em-inox-perfurado-econox-32x16x8cm-fami-119843.html"
+  },
+  {
+    "sku": "DC24967",
+    "name": "Esculpidor Lecron Colors - Ice",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esculpidor-lecron-colors-ice-dc24967-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-lecron-colors-ice-dc24967.html"
+  },
+  {
+    "sku": "DC24977",
+    "name": "Tesoura Iris - Ice",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tesoura-iris-reta-ice-102130.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-iris-ice-dc24977.html"
+  },
+  {
+    "sku": "766875",
+    "name": "Esculpidor de Fissura LM Arte - Quinelato",
+    "price": "R$329,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/766875_636051475495195770.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-de-fissura-lm-arte-quinelato-766875.html"
+  },
+  {
+    "sku": "583014",
+    "name": "Bandeja Autoclavável Azul - Maquira",
+    "price": "R$28,90",
+    "description": "Unidade. 22x12x1,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/583014_a.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-autoclavavel-azul-maquira-583014.html"
+  },
+  {
+    "sku": "119836",
+    "name": "Estojo em Inox Liso Econox 18x8x5cm - Fami",
+    "price": "R$132,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-em-inox-liso-econox-18x8x5cm-fami-119836-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-em-inox-liso-econox-18x8x5cm-fami-119836.html"
+  },
+  {
+    "sku": "119840",
+    "name": "Estojo em Inox Perfurado Econox 18x8x5cm - Fami",
+    "price": "R$151,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-em-inox-perfurado-econox-18x8x5cm-fami-119840-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-em-inox-perfurado-econox-18x8x5cm-fami-119840.html"
+  },
+  {
+    "sku": "102154",
+    "name": "Tesoura Ouro - Ice",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 unidade. Com serrilha. (Modelo Reta)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102154.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-ouro-ice-102154.html"
+  },
+  {
+    "sku": "DC11560",
+    "name": "Lima Para Osso - Golgran",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/479119.jpg",
+    "url": "https://www.dentalcremer.com.br/lima-para-osso-golgran-dc11560.html"
+  },
+  {
+    "sku": "745184",
+    "name": "Cinzel Periotomo Duplo Millennium Curvo - Golgran",
+    "price": "R$73,90",
+    "description": "Embalagem com 1 unidade. (Modelo curvo) Ref: 32-17.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cinzel-periotomo-duplo-curvo-millen-golgran-dental-cremer-745184-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cinzel-periotomo-duplo-millennium-curvo-golgran-745184.html"
+  },
+  {
+    "sku": "145158",
+    "name": "Refil Macro Modelo Top Arcada Dentária - Pronew",
+    "price": "R$223,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-macro-modelo-top-arcada-dentaria-pronew-145158.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-macro-modelo-top-arcada-dentaria-pronew-145158.html"
+  },
+  {
+    "sku": "119835",
+    "name": "Bandeja em Inox Retangular Econox Autoclavável 42x30x2cm - Fami",
+    "price": "R$235,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-em-inox-retangular-econox-fami-119835-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-em-inox-retangular-econox-42x30x2cm-fami-119835.html"
+  },
+  {
+    "sku": "508352",
+    "name": "Porta Agulha Mayo Hegar - Golgran",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 unidade. 17cm. Ref: 135-17.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-agulha-mayo-hegar-17cm-dental-cremer-508352-01.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-mayo-hegar-golgran-508352.html"
+  },
+  {
+    "sku": "767018",
+    "name": "Bandeja Grande C10 - Coraldent",
+    "price": "R$61,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/767018.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-grande-c10-coraldent-767018.html"
+  },
+  {
+    "sku": "DC30142",
+    "name": "Calcador Elegance - Ice",
+    "price": "R$74,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/calcador-elegance-3092-ice-126866-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/calcador-elegance-ice-dc30142.html"
+  },
+  {
+    "sku": "DC24340",
+    "name": "Alavanca Seldin - Fava",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/773019_636095369868303469.jpg",
+    "url": "https://www.dentalcremer.com.br/alavanca-seldin-fava-dc24340.html"
+  },
+  {
+    "sku": "124886",
+    "name": "Alicate Ortodôntico Corte Fio Grosso com Wídia - Orthometric",
+    "price": "R$470,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-fio-grosso-com-widia-orthometric-124886-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-fio-grosso-com-widia-orthometric-124886.html"
+  },
+  {
+    "sku": "126256",
+    "name": "Alavanca Pott - Golgran",
+    "price": "R$173,90",
+    "description": "Embalagem com 2 unidade. Ref:49-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alavanca-pott-golgran-126256-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alavanca-pott-golgran-126256.html"
+  },
+  {
+    "sku": "344110",
+    "name": "Descolador Freer - Golgran",
+    "price": "R$73,90",
+    "description": "Embalagem com 1 unidade. Cabo Pesado (Cód. 344110) Ref: 35-15.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/344110.jpg",
+    "url": "https://www.dentalcremer.com.br/descolador-freer-golgran-344110.html"
+  },
+  {
+    "sku": "119834",
+    "name": "Bandeja em Inox Retangular Econox Autoclavável 32x24x1,5cm - Fami",
+    "price": "R$129,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-em-inox-retangular-econox-32x24x15cm-fami-119834-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-em-inox-retangular-econox-32x24x1-5cm-fami-119834.html"
+  },
+  {
+    "sku": "143901",
+    "name": "Manequim Pediatria Plp - Orais",
+    "price": "R$332,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/manequim-pediatria-plp-143901.jpg",
+    "url": "https://www.dentalcremer.com.br/manequim-pediatria-plp-orais-143901.html"
+  },
+  {
+    "sku": "821277",
+    "name": "Macro Modelo Escova Dental - Medfio",
+    "price": "R$57,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/821277.jpg",
+    "url": "https://www.dentalcremer.com.br/macro-modelo-escova-dental-medfio-821277.html"
+  },
+  {
+    "sku": "119838",
+    "name": "Estojo em Inox Liso Econox 26x12x6cm - Fami",
+    "price": "R$252,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-em-inox-liso-econox-26x12x6cm-fami-119838-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-em-inox-liso-econox-26x12x6cm-fami-119838.html"
+  },
+  {
+    "sku": "119839",
+    "name": "Estojo em Inox Liso Econox 32x16x8cm - Fami",
+    "price": "R$470,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-em-inox-liso-econox-32x16x8cm-fami-119839-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-em-inox-liso-econox-32x16x8cm-fami-119839.html"
+  },
+  {
+    "sku": "567267",
+    "name": "Espelho Bucal Nº 5 - Golgran",
+    "price": "R$11,90",
+    "description": "Embalagem com 2 unidades. Ref: 85-12.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-bucal-n-5-golgran-567267.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-bucal-n-5-golgran-567267.html"
+  },
+  {
+    "sku": "477603",
+    "name": "Tesoura Metzenbaum Delicada - Quinelato",
+    "price": "R$74,90",
+    "description": "Embalagem com 1 unidade. 15cm. Modelo: Curvo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tesoura-metzenbaum-delicada-curva-15cm-dental-cremer-477603-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-metzenbaum-delicada-quinelato-477603.html"
+  },
+  {
+    "sku": "DC30699",
+    "name": "Alicate Ortodôntico para Corte de Amarrilho Angulado com Wídia - Orthometric",
+    "price": "R$470,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-de-amarrilho-com-widia-orthometric-124883-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-corte-de-amarrilho-angulado-com-widia-orthometric-dc30699.html"
+  },
+  {
+    "sku": "126274",
+    "name": "Alicate Universal N° 325 - Golgran",
+    "price": "R$117,90",
+    "description": "Embalagem com 1 unidade. Ref: 52-22.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-universal-325-golgran-126274.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-universal-n-325-golgran-126274.html"
+  },
+  {
+    "sku": "DC21257",
+    "name": "Espelho Bucal Plano N° 5 - Hu-Friedy",
+    "price": "R$118,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/612837_635739363682325237.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-bucal-plano-n-5-hu-friedy-dc21257.html"
+  },
+  {
+    "sku": "124900",
+    "name": "Alicate Ortodôntico Removedor Bandas/Resina com Wídia Nº 347 - Orthometric",
+    "price": "R$228,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-removedor-bandas-resina-com-widia-n-347-orthometric-124900-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-removedor-bandas-resina-com-widia-n-347-orthometric-124900.html"
+  },
+  {
+    "sku": "124884",
+    "name": "Alicate Ortodôntico Corte Distal com Wídia - Orthometric",
+    "price": "R$554,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-distal-com-widia-orthometric-124884-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-com-widia-orthometric-124884.html"
+  },
+  {
+    "sku": "477177",
+    "name": "Descolador de Molt Nº 9 - Quinelato",
+    "price": "R$99,90",
+    "description": "Embalagem com 1 unidade. 18cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/descolador-molt-numero-9-quinelato-477177.jpg",
+    "url": "https://www.dentalcremer.com.br/descolador-molt-quinelato-477177.html"
+  },
+  {
+    "sku": "124885",
+    "name": "Alicate Ortodôntico Corte Distal Rente com Wídia - Orthometric",
+    "price": "R$554,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-distal-rente-com-widia-orthometric-124885-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-distal-rente-com-widia-orthometric-124885.html"
+  },
+  {
+    "sku": "479065",
+    "name": "Cuba Inox Redonda - Fava",
+    "price": "R$23,90",
+    "description": "Unidade. Capacidade 160ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/479065.jpg",
+    "url": "https://www.dentalcremer.com.br/cuba-inox-redonda-fava-479065.html"
+  },
+  {
+    "sku": "143897",
+    "name": "Macro Simulador de Cárie - Orais",
+    "price": "R$118,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/macro-simulador-de-carie-143897.jpg",
+    "url": "https://www.dentalcremer.com.br/macro-simulador-de-carie-orais-143897.html"
+  },
+  {
+    "sku": "DC13447",
+    "name": "Escavador de Dentina Oitavado Infantil - Golgran",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade. Escolha a modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/508000.jpg",
+    "url": "https://www.dentalcremer.com.br/escavador-de-dentina-oitavado-infantil-golgran-dc13447.html"
+  },
+  {
+    "sku": "DC27063",
+    "name": "Alavanca Seldin Infantil - Quinelato",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/159301.jpg",
+    "url": "https://www.dentalcremer.com.br/alavanca-seldin-infantil-quinelato-dc27063.html"
+  },
+  {
+    "sku": "821253",
+    "name": "Macro Modelo Arcada Dentária Sem Língua - Medfio",
+    "price": "R$369,90",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/821253.jpg",
+    "url": "https://www.dentalcremer.com.br/macro-modelo-arcada-dentaria-medfio-821253.html"
+  },
+  {
+    "sku": "100484",
+    "name": "Kit Alavanca Apexo - Ice",
+    "price": "R$159,90",
+    "description": "Embalagem com 3 unidades, sendo 1 direita, 1 esquerda e 1 reta.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/100484.jpg",
+    "url": "https://www.dentalcremer.com.br/alavanca-apexo-kit-ice-100484.html"
+  },
+  {
+    "sku": "744835",
+    "name": "Alavanca Heidbrink Infantil Millennium - Golgran",
+    "price": "R$154,90",
+    "description": "Embalagem com 3 unidades. Ref:51-8.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/744835.jpg",
+    "url": "https://www.dentalcremer.com.br/alavanca-heidbrink-infantil-millennium-golgran-744835.html"
+  },
+  {
+    "sku": "477283",
+    "name": "Porta Agulha Mayo Hegar Com Wídea - Quinelato",
+    "price": "R$299,90",
+    "description": "Embalagem com 1 unidade. 14cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/477283_635464773359921808.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-mayo-hegar-com-widea-quinelato-477283.html"
+  },
+  {
+    "sku": "143890",
+    "name": "Manequim para Técnicas Cirurgicas - Maxilar Superior - Orais",
+    "price": "R$222,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/manequim-p-tecnicas-cirurgicas-maxilar-superior-143890.jpg",
+    "url": "https://www.dentalcremer.com.br/manequim-para-tecnicas-cirurgicas-maxilar-superior-orais-143890.html"
+  },
+  {
+    "sku": "477276",
+    "name": "Porta Agulha Castroviejo Com Wídea - Quinelato",
+    "price": "R$499,90",
+    "description": "Embalagem com 1 unidade. 14cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-agulha-castroviejo-c-widia-14cm-dental-cremer-477276-01.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-castroviejo-com-widea-quinelato-477276.html"
+  },
+  {
+    "sku": "124908",
+    "name": "Alicate Ortodôntico para Dobra de NiTi - Orthometric",
+    "price": "R$286,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-para-dobra-de-niti-orthometric-124908-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-dobra-de-niti-orthometric-124908.html"
+  },
+  {
+    "sku": "540543",
+    "name": "Porta Agulha Castroviejo Simples - Golgran",
+    "price": "R$179,90",
+    "description": "Embalagem com 1 unidade. 14cm. Modelo curvo. Ref: 135-3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/540543.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-castroviejo-simples-golgran-540543.html"
+  },
+  {
+    "sku": "507720",
+    "name": "Descolador Molt Simples Millennium - Golgran",
+    "price": "R$93,90",
+    "description": "Embalagem com 1 unidade. Nº 9. Ref: 35-17.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/descolador-molt-9-millennium-dental-cremer-507720-01.jpg",
+    "url": "https://www.dentalcremer.com.br/descolador-molt-simples-millennium-golgran-507720.html"
+  },
+  {
+    "sku": "124891",
+    "name": "Alicate Ortodôntico Angle com Wídia Nº 139 - Orthometric",
+    "price": "R$228,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-angle-com-widia-n-139-orthometric-124891-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-angle-com-widia-n-139-orthometric-124891.html"
+  },
+  {
+    "sku": "124906",
+    "name": "Porta Agulha Mathieu Mini 11,5cm - Orthometric",
+    "price": "R$98,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-agulha-mathieu-mini-11-5cm-orthometric-124906-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-mathieu-mini-11-5cm-orthometric.html"
+  },
+  {
+    "sku": "DC13477",
+    "name": "Calcador Duplo Millennium - Golgran",
+    "price": "R$52,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/540512.jpg",
+    "url": "https://www.dentalcremer.com.br/calcador-duplo-millennium-golgran-dc13477.html"
+  },
+  {
+    "sku": "124894",
+    "name": "Alicate Tweed Ômega Loop - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-tweed-omega-loop-orthometric-124894-dental-cremer-3.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-tweed-omega-loop-orthometric-124894.html"
+  },
+  {
+    "sku": "143907",
+    "name": "Manequim Cirurgia 401 - Orais",
+    "price": "R$123,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/manequim-cirurgia-401-143907.jpg",
+    "url": "https://www.dentalcremer.com.br/manequim-cirurgia-401-orais-143907.html"
+  },
+  {
+    "sku": "124888",
+    "name": "Alicate Ortodôntico Weingart Universal - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-weingart-universal-orthometric-124888-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-weingart-universal-orthometric-124888.html"
+  },
+  {
+    "sku": "952292",
+    "name": "Cabo Para Bisturi Azul - Golgran",
+    "price": "R$65,90",
+    "description": "Embalagem com 1 unidade. N° 5. Ref: 41-12.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/952292.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-bisturi-azul-golgran-952292.html"
+  },
+  {
+    "sku": "124907",
+    "name": "Alicate Ortodôntico para Gancho Bola com Wídia - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-para-gancho-bola-com-widia-orthometric-124907-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-gancho-bola-com-widia-orthometric-124907.html"
+  },
+  {
+    "sku": "821260",
+    "name": "Macro Modelo Arcada Dentária Com Língua - Medfio",
+    "price": "R$389,90",
+    "description": "Unidade. Com ou sem língua.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/821260.jpg",
+    "url": "https://www.dentalcremer.com.br/macro-modelo-arcada-dentaria-medfio-821260.html"
+  },
+  {
+    "sku": "615937",
+    "name": "Cuba Inox Redonda - Golgran",
+    "price": "R$32,90",
+    "description": "Unidade. Capacidade 160ml. Ref: 229-1.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/615937.jpg",
+    "url": "https://www.dentalcremer.com.br/cuba-inox-redonda-golgran-615937.html"
+  },
+  {
+    "sku": "139929",
+    "name": "Manequim Didático Ortodôntico Misto - Orthometric",
+    "price": "R$426,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/manequim-ortodontico-misto-dental-cremer-139929-01.jpg",
+    "url": "https://www.dentalcremer.com.br/manequim-ortodontico-misto-orthometric-139929.html"
+  },
+  {
+    "sku": "132486",
+    "name": "Alicate Ortodôntico How Reto Nº 110 - Zatty",
+    "price": "R$156,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-how-reto-n-1110-zatty-132486.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-how-reto-n-110-zatty-132486.html"
+  },
+  {
+    "sku": "DC24339",
+    "name": "Alavanca Heidbrink - Fava",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/772999_636095370357057735.jpg",
+    "url": "https://www.dentalcremer.com.br/alavanca-heidbrink-fava-dc24339.html"
+  },
+  {
+    "sku": "124896",
+    "name": "Alicate Ortodôntico para Torque Individual Fêmea - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-para-torque-individual-femea-orthometric-124896-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-torque-individual-femea-orthometric-124896.html"
+  },
+  {
+    "sku": "508093",
+    "name": "Esculpidor Lecron Mini Oitavado - Golgran",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Modelo Mini. Ref: 79-5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/508093.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-lecron-mini-oitavado-golgran-508093.html"
+  },
+  {
+    "sku": "124916",
+    "name": "Alicate Ortodôntico Corte de Botão para Alinhador - Orthometric",
+    "price": "R$494,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-corte-de-bot-o-para-alinhador-orthometric-124916-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-corte-de-bot-o-para-alinhador-orthometric-124916.html"
+  },
+  {
+    "sku": "477184",
+    "name": "Esculpidor Lecron - Quinelato",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espatula-lecron-dental-cremer-477184-01.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-lecron-quinelato-477184.html"
+  },
+  {
+    "sku": "130312",
+    "name": "Calcador Duplo Nº 3101 - Millenium",
+    "price": "R$92,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/calcador-duplo-n-3101-millennium-130312.jpg",
+    "url": "https://www.dentalcremer.com.br/calcador-duplo-n-3101-millenium-130312.html"
+  },
+  {
+    "sku": "DC27202",
+    "name": "Porta Agulha Mathieu Modificado para Ortodontia - Quinelato",
+    "price": "R$119,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559033.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-mathieu-modificado-para-ortodontia-quinelato-dc27202.html"
+  },
+  {
+    "sku": "100814",
+    "name": "Porta Agulha Orto Mathieu 14cm - Orthometric",
+    "price": "R$98,90",
+    "description": "Embalagem com 1 unidade. 14cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-agulha-orto-mathieu-14-cm-orthometric-100814.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-orto-mathieu-14-cm-orthometric-100814.html"
+  },
+  {
+    "sku": "549188",
+    "name": "Afastador Farabeuf Adulto - Golgran",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 par. 13x125mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-farabeuf-adulto-dental-cremer-549188-01.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-farabeuf-adulto-golgran-549188.html"
+  },
+  {
+    "sku": "952322",
+    "name": "Cinzel Periótomo Reto Flexível Preto/Azul Millennium - Golgran",
+    "price": "R$131,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cinzel-periotomo-reto-flexivel-pretoazul-millen-golgran-dental-cremer-952322-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cinzel-periotomo-reto-flexivel-preto-azul-millennium-golgran-952322.html"
+  },
+  {
+    "sku": "477542",
+    "name": "Tesoura Castroviejo Curva - Quinelato",
+    "price": "R$122,90",
+    "description": "Embalagem com 1 unidade. 11cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tesoura-castroviejo-curva-11cm-dental-cremer-477542-01.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-castroviejo-curva-quinelato-477542.html"
+  },
+  {
+    "sku": "126865",
+    "name": "Kit Espelho para Fotografia JG Cristal - Ice",
+    "price": "R$298,90",
+    "description": "Embalagem com 4 unidades sendo Oclusal, Oclusal Infantil, Lateral e Lingual.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-espelho-para-fotografia-jg-cristal-ice-126865-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-espelho-para-fotografia-jg-cristal-ice-126865.html"
+  },
+  {
+    "sku": "745009",
+    "name": "Cabo Para Bisturi - Golgran",
+    "price": "R$82,90",
+    "description": "Embalagem com 1 unidade. Nº 5A. Ref: 41-4.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-p-bisturi-5a-dental-cremer-745009-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-bisturi-golgran-745009.html"
+  },
+  {
+    "sku": "745672",
+    "name": "Esculpidor Discóide Cleóide Adulto Millennium - Golgran",
+    "price": "R$66,90",
+    "description": "Embalagem com 1 unidade. Ref: 75-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/745672.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-discoide-cleoide-adulto-millennium-golgran-745672.html"
+  },
+  {
+    "sku": "104729",
+    "name": "Suporte Ergonomic Flex - Orais",
+    "price": "R$137,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/104729.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-ergonomic-flex-orais-104729.html"
+  },
+  {
+    "sku": "126343",
+    "name": "Cabo para Bisturi N° 04 - Golgran",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cabo-para-bisturi-n-04-golgran-126343.jpg",
+    "url": "https://www.dentalcremer.com.br/cabo-para-bisturi-n-04-golgran-126343.html"
+  },
+  {
+    "sku": "DC30139",
+    "name": "Tesoura Mayo - Ice",
+    "price": "R$44,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tesoura-mayo-reta-ice-126852-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-mayo-ice-dc30139.html"
+  },
+  {
+    "sku": "143899",
+    "name": "Sequência de Modelos Dentística - Orais",
+    "price": "R$167,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sequencia-de-modelos-dentistica-143899.jpg",
+    "url": "https://www.dentalcremer.com.br/sequencia-de-modelos-dentistica-orais-143899.html"
+  },
+  {
+    "sku": "DC13413",
+    "name": "Cinzel Periotomo Millennium - Golgran",
+    "price": "R$73,90",
+    "description": "Embalagem com 1 unidade. Modelo curvo ou reto.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/507478.jpg",
+    "url": "https://www.dentalcremer.com.br/cinzel-periotomo-millennium-golgran-dc13413.html"
+  },
+  {
+    "sku": "144467",
+    "name": "Kit Promocional Instrumentais para Alinhadores Grátis 1 Porta Alicate - Orthometric",
+    "price": "R$2.076,90",
+    "description": "Embalagem com 1 unidade",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-instrumentais-para-alinhadores-gratis-1-porta-alicate-orthometric-144467.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-instrumentais-para-alinhadores-gratis-1-porta-alicate-orthometric-144467.html"
+  },
+  {
+    "sku": "143900",
+    "name": "Suporte Ergonomic Flex - Orais",
+    "price": "R$137,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suporte-ergonomic-flex-143900.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-ergonomic-flex-orais-143900.html"
+  },
+  {
+    "sku": "558999",
+    "name": "Porta Agulha Mathieu Orto - Quinelato",
+    "price": "R$113,90",
+    "description": "Embalagem com 1 unidade. 11cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/porta-agulha-mathieu-ortodontia-11cm-dental-cremer-558999-01.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-mathieu-orto-quinelato-558999.html"
+  },
+  {
+    "sku": "100506",
+    "name": "Esculpidor Lecron - Ice",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esculpidor-lecron-ice-100506.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-lecron-ice-100506.html"
+  },
+  {
+    "sku": "120481",
+    "name": "Esculpidor Discóide Cleóide N° 89-92 STD - AllPrime",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/esculpidor-discoide-cleoide-numero-89-32-std-allprime.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-discoide-cleoide-n-89-92-std-allprime-120481.html"
+  },
+  {
+    "sku": "DC30140",
+    "name": "Tesoura Metzembaum - Ice",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tesoura-metzembaum-reta-ice-2025.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-metzembaum-ice-dc30140.html"
+  },
+  {
+    "sku": "121599",
+    "name": "Escavador de Dentina N° 17 Colors - Ice",
+    "price": "R$22,90",
+    "description": "Embalagem com 1 unidade. (Cor Rosa)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escavador-de-dentina-n-17-colors-ice-121599-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escavador-de-dentina-n-17-colors-ice-121599.html"
+  },
+  {
+    "sku": "DC11507",
+    "name": "Esculpidor Hollemback - Quinelato",
+    "price": "R$30,00",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/477702.jpg",
+    "url": "https://www.dentalcremer.com.br/esculpidor-hollemback-quinelato-dc11507.html"
+  },
+  {
+    "sku": "DC11627",
+    "name": "Tesoura Goldman Fox - Quinelato",
+    "price": "R$69,90",
+    "description": "Embalagem com 1 unidade de 13cm. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/477573.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-goldman-fox-quinelato-dc11627.html"
+  },
+  {
+    "sku": "124890",
+    "name": "Alicate Ortodôntico Angle Nº 139 - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-angle-n-139-orthometric-124890-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-angle-n-139-orthometric-124890.html"
+  },
+  {
+    "sku": "126252",
+    "name": "Alavanca Heinderbrink Adulto - Millennium",
+    "price": "R$154,90",
+    "description": "Embalagem com 3 peças, sendo Nºs 1, 2 e 3.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alavanca-heinderbrink-3-pecas-adulto-millennium-126252-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alavanca-heinderbrink-3-pecas-adulto-millennium.html"
+  },
+  {
+    "sku": "124887",
+    "name": "Alicate Ortodôntico de La Rosa com Mola - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-de-la-rosa-com-mola-orthometric-124887-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-de-la-rosa-com-mola-orthometric-124887.html"
+  },
+  {
+    "sku": "559019",
+    "name": "Porta Agulha Mathieu para Ligadura Elástica - Quinelato",
+    "price": "R$119,90",
+    "description": "Embalagem com 1 unidade. 11cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559019.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-agulha-mathieu-para-ligadura-elastica-quinelato-559019.html"
+  },
+  {
+    "sku": "144425",
+    "name": "Alicate Ortodôntico Angle 139 com Wídia E Corte - Orthometric",
+    "price": "R$398,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-angle-139-com-widia-e-corte-144425.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-angle-139-com-widia-e-corte-orthometric-144425.html"
+  },
+  {
+    "sku": "124895",
+    "name": "Alicate Ortodôntico para Torque Individual Macho - Orthometric",
+    "price": "R$175,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-para-torque-individual-macho-orthometric-124895-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-para-torque-individual-macho-orthometric-124895.html"
+  },
+  {
+    "sku": "124912",
+    "name": "Alicate Ortodôntico Para Ativação Circular em Alinhador - Orthometric",
+    "price": "R$395,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alicate-ortodontico-para-ativacao-circular-em-alinhador-orthometric-124912-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alicate-ortodontico-alinhador-orthometric-124912.html"
+  }
+]

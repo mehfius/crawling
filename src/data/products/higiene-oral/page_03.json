@@ -1,0 +1,707 @@
+[
+  {
+    "sku": "708752",
+    "name": "Escova Dental Infantil Stages 4 Frozen - Oral-B",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-stages-4-frozen-oral-b-dc-708752-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-stages-4-frozen-oral-b-708752.html"
+  },
+  {
+    "sku": "743586",
+    "name": "Limpador de Língua - Morelli",
+    "price": "R$7,90",
+    "description": "Embalagem com 2 unidades. Cores Azul e Rosa.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/limpador-de-lingua-cores-azul-e-rosa-dental-cremer-743586-01.jpg",
+    "url": "https://www.dentalcremer.com.br/limpador-de-lingua-morelli-743586.html"
+  },
+  {
+    "sku": "119340",
+    "name": "Escova Dental Life Pro Infantil Macia - Medfio",
+    "price": "R$5,39",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-life-pro-infantil-macia-medfio-119340-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-life-pro-infantil-macia-medfio-119340.html"
+  },
+  {
+    "sku": "146786",
+    "name": "Antisséptico Bucal Infantil - Inphloral",
+    "price": "R$51,90",
+    "description": "Embalagem com 60ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-infantil-inphloral-146786-a.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-infantil-inphloral-146786.html"
+  },
+  {
+    "sku": "131909",
+    "name": "Enxaguante Bucal Menta - Powerdent",
+    "price": "R$9,90",
+    "description": "Embalagem com 300ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-menta-powerdent-131909-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-menta-powerdent-131909.html"
+  },
+  {
+    "sku": "119341",
+    "name": "Escova Massageadora Baby Brush - Medfio",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-massageadora-baby-brush-medfio-119341-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-massageadora-baby-brush-medfio-119341.html"
+  },
+  {
+    "sku": "DC17357",
+    "name": "Antisséptico Bucal Complete - Oral-B",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade de 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-complete-oral-b-dc17357-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-complete-oral-b-dc17357.html"
+  },
+  {
+    "sku": "146785",
+    "name": "Enxaguante Bucal - Inphloral",
+    "price": "R$51,90",
+    "description": "Embalagem com 140ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-inphloral-146785-1.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-inphloral-146785.html"
+  },
+  {
+    "sku": "151684",
+    "name": "Enxaguante Bucal Adulto Bio - Gum",
+    "price": "R$20,90",
+    "description": "Embalagem com 300ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-adulto-bio-gum-151684.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-adulto-bio-gum-151684.html"
+  },
+  {
+    "sku": "111109",
+    "name": "Escova Personalizada Expert Gengiva Sensi - Oral-B",
+    "price": "R$355,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-personalizada-expert-gengiva-sensi-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-expert-gengiva-sensi-oral-b-111109.html"
+  },
+  {
+    "sku": "132765",
+    "name": "Escova Interdental Proxa Brush - GUM",
+    "price": "R$14,90",
+    "description": "Embalagem com 3 unidades, sendo 1 fino cilíndrico (vermelho), 1 fino cônico (verde) e 1 mediano cônico (azul).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-interdental-proxa-brush-gum-132765.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-interdental-proxa-brush-gum-132765.html"
+  },
+  {
+    "sku": "102678",
+    "name": "Escova Dental Indicator Plus 35 Personalizada - Oral-B",
+    "price": "R$191,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.\r\nEmbalagens e escovas possuem cores aleatórias, sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-dente-personalizada-indicator-plus-35-dental-cremer-102678.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-indicator-plus-35-oral-b-102678.html"
+  },
+  {
+    "sku": "132764",
+    "name": "Palito Interdental Soft-Picks Menta - GUM",
+    "price": "R$20,90",
+    "description": "Embalagem com 16 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/palito-interdental-soft-picks-menta-gum-132764.jpg",
+    "url": "https://www.dentalcremer.com.br/palito-interdental-soft-picks-menta-gum-132764.html"
+  },
+  {
+    "sku": "104207",
+    "name": "Kit Necessaire Zip-Zap Personalizada - Oral-B",
+    "price": "R$92,90",
+    "description": "Embalagem com 24 unidades. Pedido mínimo de 48 necessaires (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/necessaire-zip-zap-personalizada-kit-oral-b-104207-01.jpg",
+    "url": "https://www.dentalcremer.com.br/necessaire-zip-zap-personalizada-kit-oral-b-104207.html"
+  },
+  {
+    "sku": "DC38446",
+    "name": "Necessaire Básica com Estampa - Oral-B",
+    "price": "R$7,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/necessaire-basica-azul-com-estampa-oral-b-142748.jpg",
+    "url": "https://www.dentalcremer.com.br/necessaire-basica-com-estampa-oral-b-dc38446.html"
+  },
+  {
+    "sku": "102688",
+    "name": "Escova Personalizada Indicator Plus Color 35 - Oral-B",
+    "price": "R$176,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-escova-de-dente-personalizada-indicator-plus-color-dental-cremer-102688.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-indicator-plus-color-35-oral-b-102688.html"
+  },
+  {
+    "sku": "124922",
+    "name": "Escova Interdental -  Colgate",
+    "price": "R$27,90",
+    "description": "Embalagem com 4 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-interdental-rocalflex-124922-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-interdental-colgate.html"
+  },
+  {
+    "sku": "DC38447",
+    "name": "Necessaire com Tela - Oral-B",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/necessaire-com-tela-azul-royal-oral-b-142751.jpg",
+    "url": "https://www.dentalcremer.com.br/necessaire-com-tela-oral-b-dc38447.html"
+  },
+  {
+    "sku": "122178",
+    "name": "Passa Fio Soft Needle - Medfio",
+    "price": "R$6,99",
+    "description": "Embalagem com 30 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/passa-fio-soft-needle-medfio-122178-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/passa-fio-soft-needle-medfio.html"
+  },
+  {
+    "sku": "751918",
+    "name": "Limpador de Língua Powerlimp - Powerdent",
+    "price": "R$8,69",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/751918_636015115857698466.jpg",
+    "url": "https://www.dentalcremer.com.br/limpador-de-lingua-powerlimp-powerdent-751918.html"
+  },
+  {
+    "sku": "147387",
+    "name": "Necessaire Básica Azul com Estampa - Personalizado - Oral-B",
+    "price": "R$53,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/necessaire-basica-azul-com-estampa-personalizado-oral-b-147387.jpg",
+    "url": "https://www.dentalcremer.com.br/necessaire-basica-azul-com-estampa-personalizado-oral-b-147387.html"
+  },
+  {
+    "sku": "147389",
+    "name": "Necessaire Básica Gelo com Estampa - Personalizado - Oral-B",
+    "price": "R$53,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/necessaire-basica-gelo-com-estampa-personalizado-oral-b-147389.jpg",
+    "url": "https://www.dentalcremer.com.br/necessaire-basica-gelo-com-estampa-personalizado-oral-b-147389.html"
+  },
+  {
+    "sku": "102677",
+    "name": "Escova Dental Indicator Plus 30 Personalizada - Oral-B",
+    "price": "R$213,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização. \r\nEmbalagens e escovas possuem cores aleatórias, sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-indicator-plus-personalizada-dental-cremer-4.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-indicator-plus-30-oral-b-102677.html"
+  },
+  {
+    "sku": "102690",
+    "name": "Escova Personalizada Gengiva Detox - Oral-B",
+    "price": "R$252,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-de-dente-gengiva-detox-personalizada-ultrafino-oralb-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-gengiva-detox-oral-b-102690.html"
+  },
+  {
+    "sku": "589078",
+    "name": "Limpador de Língua - Morelli",
+    "price": "R$7,90",
+    "description": "Embalagem com 2 unidades. Cores Azul e amarelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/limpador-de-lingua-cores-azul-e-amarelo-dental-cremer-589078-01.jpg",
+    "url": "https://www.dentalcremer.com.br/limpador-de-lingua-morelli-589078.html"
+  },
+  {
+    "sku": "141100",
+    "name": "Irrigador Water Flosser Bivolt - Oral-B",
+    "price": "R$699,90",
+    "description": "Embalagem com 1 irrigador bucal portátil, 1 carregador, 2 bocais (1 Aquafloss, 1 jato de precisão).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/irrigador-water-flosser-bivolt-oral-b-dental-cremer-141100.jpg",
+    "url": "https://www.dentalcremer.com.br/irrigador-water-flosser-bivolt-oral-b-141100.html"
+  },
+  {
+    "sku": "147388",
+    "name": "Necessaire Básica Pink com Estampa - Personalizado - Oral-B",
+    "price": "R$53,90",
+    "description": "Embalagem com 6 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/necessaire-basica-pink-com-estampa-personalizado-oral-b-147388.jpg",
+    "url": "https://www.dentalcremer.com.br/necessaire-basica-pink-com-estampa-personalizado-oral-b-147388.html"
+  },
+  {
+    "sku": "111107",
+    "name": "Escova Personalizada Expert Gengiva Limpeza - Oral-B",
+    "price": "R$355,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-expert-gengiva-limpeza-personalizada-dental-cremer-111107-06.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-expert-gengiva-limpeza-oral-b-111107.html"
+  },
+  {
+    "sku": "107403",
+    "name": "Escova Personalizada Stages 3 Toy Story - Oral-B",
+    "price": "R$283,90",
+    "description": "Kit com 24 Escovas. Pedido mínimo de 48 Escovas (2 Kits) para Personalização.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-stages-toy-story-24un-oral-b-personalizada-dental-cremer-107403-05.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-personalizada-stages-3-toy-story-oral-b-107403.html"
+  },
+  {
+    "sku": "118389",
+    "name": "Creme Fixador de Dentadura Fixodent Original - P&G",
+    "price": "R$76,90",
+    "description": "Embalagem com 39g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-fixador-de-dentadura-fixodent-original-pg-118389-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-fixador-de-dentadura-fixodent-original-p-g-118389.html"
+  },
+  {
+    "sku": "118394",
+    "name": "Creme Fixador de Dentadura Fixodent Original - P&G",
+    "price": "R$169,90",
+    "description": "Embalagem com 2 unidades de 68g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118394.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-fixador-de-dentadura-fixodent-original-p-g-118394.html"
+  },
+  {
+    "sku": "118392",
+    "name": "Creme Fixador de Dentadura Fixodent Original + Creme Dental - P&G",
+    "price": "R$76,90",
+    "description": "Embalagem com 1 Fixodent 39g + Creme Dental Oral-B.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118392.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-fixador-de-dentadura-fixodent-original-creme-dental-p-g-118392.html"
+  },
+  {
+    "sku": "118390",
+    "name": "Creme Fixador de Dentadura Fixodent Original - P&G",
+    "price": "R$113,90",
+    "description": "Embalagem com 68g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118390.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-fixador-de-dentadura-fixodent-original-p-g-118390.html"
+  },
+  {
+    "sku": "142439",
+    "name": "Escova Dental Indicator Plus 30 Leve 15 Pague 12 - Oral-B",
+    "description": "Kit com 15 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-indicator-plus-30-oral-b-leve-15-pague-12-dental-cremer-142439.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-indicator-plus-30-oral-b-leve-15-pague-12-oral-b-142439.html"
+  },
+  {
+    "sku": "572070",
+    "name": "Antisséptico Bucal Complete - Oral-B",
+    "description": "Embalagem com 1 unidade de 2 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-complete-oral-b-2litros-572070.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-complete-oral-b-572070.html"
+  },
+  {
+    "sku": "571967",
+    "name": "Escova Dental Indicator Plus 30 - Oral-B",
+    "description": "Embalagem com 1 unidade. Embalagens e escovas possuem cores aleatórias, sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-certas-escova-dental-indicator-plus-30-oral-b-571967.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-indicator-plus-30-oral-b-571967.html"
+  },
+  {
+    "sku": "122010",
+    "name": "Escova Dental Ultra Soft - Colgate",
+    "description": "Embalagem com 1 unidade. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-ultra-soft-colgate-122010-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-ultra-soft-colgate-122010.html"
+  },
+  {
+    "sku": "137871",
+    "name": "Escova Dental Indicator Plus 30 - Oral-B",
+    "description": "Embalagem com 1 unidade. Embalagens e escovas possuem cores aleatórias, sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-indicator-plus-30-oral-b-dc-571967-01.jpg",
+    "url": "https://www.dentalcremer.com.br/lovers-escova-dental-indicator-plus-30-oral-b-137871.html"
+  },
+  {
+    "sku": "146152",
+    "name": "Escova Dental Infantil Piuí +3 - Powerdent",
+    "description": "Embalagem com 1 unidade (Sortida).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-piui-3-powerdent-146152.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-piui-3-powerdent-146152.html"
+  },
+  {
+    "sku": "546354",
+    "name": "Escova Dental Ultra Soft CS 5460 - Curaprox",
+    "description": "Embalagem com 3 unidades. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/opcoes-escova-dental-ultra-soft-cs-5460-curaprox-546354.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-ultra-soft-cs-5460-curaprox-546354.html"
+  },
+  {
+    "sku": "479386",
+    "name": "Escova Dental Ortodôntica CS Ortho - Curaprox",
+    "description": "Embalagem com 1 unidade. Cores Sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-ortodontica-cs-ortho-curaprox-479386.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-ortodontica-cs-ortho-curaprox-479386.html"
+  },
+  {
+    "sku": "151680",
+    "name": "Escova Dental Infantil Patrulha Canina Sortido - Gum",
+    "description": "Embalagem com 1 unidade",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-patrulha-canina-sortido-gum-151680.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-patrulha-canina-sortido-gum-151680.html"
+  },
+  {
+    "sku": "DC20333",
+    "name": "Escova Dental Adulto CS5460 Ultra Soft - Curaprox",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-adulto-cs5460-verde-ultra-soft-dental-cremer-598568-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-adulto-cs5460-ultra-soft-curaprox-dc20333.html"
+  },
+  {
+    "sku": "111102",
+    "name": "Escova Dental Expert Gengiva Alcance - Oral-B",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dente-expert-gengiva-alcance-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-expert-gengiva-alcance-oral-b-111102.html"
+  },
+  {
+    "sku": "102661",
+    "name": "Escova Dental Adulto Ultra Soft Elmex - Colgate",
+    "description": "Embalagem com 1 unidade. Cores Sortidas sem opção de escolha.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102661.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-adulto-ultra-soft-elmex-102661.html"
+  },
+  {
+    "sku": "479539",
+    "name": "Escova Dental Ultra Soft CS 5460B - Curaprox",
+    "description": "Embalagem com 1 unidade. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/479539.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-ultra-soft-cs-5460b-curaprox-479539.html"
+  },
+  {
+    "sku": "512045",
+    "name": "Escova Dental Soft CS 1560B - Curaprox",
+    "description": "Embalagem com 1 unidade. Cores Sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/512045.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-soft-cs-1560b-curaprox-512045.html"
+  },
+  {
+    "sku": "516791",
+    "name": "Escova Dental Plus Macia - Topz",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-plus-macia-dental-cremer-516791-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-plus-macia-topz-516791.html"
+  },
+  {
+    "sku": "533842",
+    "name": "Escova Dental Plus Média - Topz",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/533842_635481797641907557.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-plus-media-topz-533842.html"
+  },
+  {
+    "sku": "571974",
+    "name": "Escova Dental Indicator Plus 35 - Oral-B",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-escova-dental-indicator-plus-35-pro-saude-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-indicator-plus-35-oral-b-571974.html"
+  },
+  {
+    "sku": "111374",
+    "name": "Escova Dental Eco Care Bio - PowerDent",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eco-care-bio-powerdent-dental-cremer-111374-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eco-care-bio-powerdent-111374.html"
+  },
+  {
+    "sku": "137872",
+    "name": "Escova Dental Indicator Plus 35 - Oral-B",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-escova-dental-indicator-plus-35-pro-saude-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lovers-escova-dental-indicator-plus-35-oral-b-137872.html"
+  },
+  {
+    "sku": "130282",
+    "name": "Escova Dental Precision Black - MEDFIO",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-precision-black-medfio-dc-130282.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-precision-black-medfio-130282.html"
+  },
+  {
+    "sku": "125902",
+    "name": "Escova Dental Kit Steps - Kess",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-kit-steps-kess-125902-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-kit-steps-kess-125902.html"
+  },
+  {
+    "sku": "111375",
+    "name": "Escova Dental Eco Care Bamboo - PowerDent",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eco-care-bamboo-powerdent-dental-cremer-111375-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eco-care-bamboo-powerdent-111375.html"
+  },
+  {
+    "sku": "DC20534",
+    "name": "Escova Dental Torcedor - PowerDent",
+    "description": "Embalagem com 1 unidade. Escolha seu time.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606935_635693548480877528.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-torcedor-powerdent-dc20534.html"
+  },
+  {
+    "sku": "131912",
+    "name": "Escova Dental Infantil Bubu 5+ - Powerdent",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-infantil-bubu-5-powerdent-131912-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-bubu-5-powerdent-131912.html"
+  },
+  {
+    "sku": "142441",
+    "name": "Enxaguante Bucal Complete 2L Leve 6 E Pague 4 - Oral-B",
+    "description": "Kit com 6 unidades de 2 litros cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-complete-2l-oral-b-leve-6-e-pague-4-dental-cremer-142441.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-complete-2l-oral-b-leve-6-e-pague-4-oral-b-142441.html"
+  },
+  {
+    "sku": "102665",
+    "name": "Creme Dental Sensitive - ELMEX",
+    "description": "Embalagem com 110g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-sensitive-elmex-102665-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-sensitive-elmex-102665.html"
+  },
+  {
+    "sku": "125990",
+    "name": "Gel Dental Infantil Trolls - Gum",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gel-dental-infantil-trolls-gum-125990.jpg",
+    "url": "https://www.dentalcremer.com.br/gel-dental-infantil-trolls-gum-125990.html"
+  },
+  {
+    "sku": "149390",
+    "name": "Kit Promocional Antisséptico Bucal Complete 2L - Oral-B",
+    "description": "Kit com 02 unidades do Antisséptico Bucal Complete 2L",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-antisseptico-bucal-complete-2l-oral-b-l-572070.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-antisseptico-bucal-complete-2l-oral-b-149390.html"
+  },
+  {
+    "sku": "102664",
+    "name": "Creme Dental Anticáries Elmex - Colgate",
+    "description": "Embalagem com 90g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102664.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-anticaries-elmex-102664.html"
+  },
+  {
+    "sku": "124231",
+    "name": "Antisséptico Bucal Clean Mint Regular - Colgate",
+    "description": "Embalagem de 2 Litros com Pump.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-clean-mint-colgate-124231-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-clean-mint-colgate-124231.html"
+  },
+  {
+    "sku": "572261",
+    "name": "Fio Dental Encerado Essential Floss Menta - Oral-B",
+    "description": "Embalagem com 25m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-fio-dental-encerado-essential-floss-menta-25m-oral-b.jpg",
+    "url": "https://www.dentalcremer.com.br/fio-dental-essential-floss-menta-oral-b-572261.html"
+  },
+  {
+    "sku": "130534",
+    "name": "Gel Ortoform para Limpeza de Próteses e Aparelhos Ortodônticos Móveis 30ml - Fórmula & Ação",
+    "description": "Embalagem com 30ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/gel-ortoform-para-limpeza-de-proteses-e-aparelhos-ortodonticos-moveis-30ml-formula-e-acao-130534-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/gel-ortoform-para-limpeza-de-proteses-e-aparelhos-ortodonticos-moveis-30ml-formula-e-ac-o-130534.html"
+  },
+  {
+    "sku": "102609",
+    "name": "Solução Bucal Chlorclear 0,12% - Vic Pharma",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102609.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-bucal-chlorclear-0-12-vic-pharma-102609.html"
+  },
+  {
+    "sku": "110296",
+    "name": "Gel Dental Tandy - Colgate",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-tandy-tutti-frutti-dental-cremer-110296-02.jpg",
+    "url": "https://www.dentalcremer.com.br/gel-dental-tandy-colgate-110296.html"
+  },
+  {
+    "sku": "126582",
+    "name": "Escova Dental Elétrica SonicPro 30 -  Colgate",
+    "description": "Embalagem com 1 escova dental elétrica recarregável, 1 refil extra Limpeza Profunda, carregador USB e estojo de viagem.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-philips-sonicpro-30-colgate-126582-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-sonicpro-30-colgate-126582.html"
+  },
+  {
+    "sku": "120327",
+    "name": "Antisséptico Bucal - Hálito Puro",
+    "description": "Embalagem com 1 litro",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-halito-puro-120327-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-halito-puro-120327.html"
+  },
+  {
+    "sku": "553734",
+    "name": "Escova Dental Infantil Smart Toothbrush Ultra Soft CS 7600 - Curaprox",
+    "description": "Embalagem com 1 unidade. Cores sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-smart-ultra-soft-cs-7600-curaprox-dc-553734-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-smart-toothbrush-ultra-soft-cs-7600-curaprox-553734.html"
+  },
+  {
+    "sku": "125258",
+    "name": "Escova Dental Elétrica SonicPro 50 Philips Bivolt - Colgate",
+    "description": "Embalagem com 1 escova elétrica + 1 base + 2 cabeças limpeza profunda + 1 cabeça branqueadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-sonicpro-50-philips-bivolt-preto-colgate-125258.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-sonicpro-50-philips-bivolt-branca-colgate-125258.html"
+  },
+  {
+    "sku": "151682",
+    "name": "Enxaguante Bucal Infantil Patrulha Canina - Gum",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/enxaguante-bucal-infantil-patrulha-canina-gum-151682.jpg",
+    "url": "https://www.dentalcremer.com.br/enxaguante-bucal-infantil-patrulha-canina-gum-151682.html"
+  },
+  {
+    "sku": "145412",
+    "name": "Creme Dental Opalescence Whitenning Toothpaste Cool Mint Alívio de Sensibilidade - Ultradent",
+    "description": "Embalagem com 90g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-opalescence-ultradent-145412.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-opalescence-sensitivity-relief-menta-ultradent-145412.html"
+  },
+  {
+    "sku": "108066",
+    "name": "Creme Dental Stages Jasmine - Oral-B",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-fluor-stages-jasmine-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-stages-jasmine-oral-b-108066.html"
+  },
+  {
+    "sku": "108068",
+    "name": "Creme Dental Stages Toy Story - Oral-B",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-fluor-stages-toy-story-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-stages-toy-story-oral-b-108068.html"
+  },
+  {
+    "sku": "127166",
+    "name": "Escova Dental Elétrica SonicPro 70 - Colgate",
+    "description": "Embalagem com 1 Escova Dental Elétrica Recarregável À Prova D’Água + 3 Refis Adicionais + 1 Carregador bivolt + 1 Estojo de viagem recarregável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-philips-sonicpro-70-colgate-127166.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-sonicpro-70-colgate-127166.html"
+  },
+  {
+    "sku": "120618",
+    "name": "Antisséptico Bucal Repair - Bianco",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-repair-bianco-120618-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-repair-bianco-120618.html"
+  },
+  {
+    "sku": "128265",
+    "name": "Escova Eletrica Io Series 9 - Oral-B",
+    "description": "Embalagem com 1 escova elétrica + 2 unidades do refil Ultimate Clean + 1 cabo. Bivolt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-eletrica-io-series-9-haldle-oral-b-128265-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eletrica-io-series-9-haldle-oral-b-128265.html"
+  },
+  {
+    "sku": "108067",
+    "name": "Creme Dental Stages Pateta - Oral-B",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-infantil-comfluor-stages-pateta-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-stages-pateta-oral-b-108067.html"
+  },
+  {
+    "sku": "126581",
+    "name": "Escova Dental Elétrica SonicPro 10 - Colgate",
+    "description": "Embalagem com 1 escova dental elétrica recarregável e carregador USB.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-dental-eletrica-sonicpro-10-colgate-126581-capa-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-sonicpro-10-colgate-126581.html"
+  },
+  {
+    "sku": "172287",
+    "name": "Creme Dental Kids Minnie - Oral-B",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/creme-dental-kids-minnie-oral-b-oral-b-dc-172287-01.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-kids-minnie-oral-b-172287.html"
+  },
+  {
+    "sku": "172270",
+    "name": "Creme Dental Kids Mickey - Oral-B",
+    "description": "Embalagem com 50g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-creme-dental-infantil-kids-mickey-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-kids-mickey-oral-b-172270.html"
+  },
+  {
+    "sku": "684995",
+    "name": "Creme Dental Stages Princesas - Oral-B",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/684995_635804321408443645.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-stages-princesas-oral-b-684995.html"
+  },
+  {
+    "sku": "115245",
+    "name": "Antisséptico Bucal Clean Mint Refil - Colgate",
+    "description": "Embalagem com 1 refil de 2 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-clean-mint-refil-colgate-115245-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-clean-mint-refil-2l-colgate-115245.html"
+  },
+  {
+    "sku": "111141",
+    "name": "Creme Dental O2 - Bianco",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111141.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-o2-bianco-111141.html"
+  },
+  {
+    "sku": "111142",
+    "name": "Creme Dental Pro Clinical - Bianco",
+    "description": "Embalagem com 100g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111142.jpg",
+    "url": "https://www.dentalcremer.com.br/creme-dental-pro-clinical-bianco-111142.html"
+  },
+  {
+    "sku": "DC29377",
+    "name": "Escova Dental Elétrica Pro 2000 - Oral-B",
+    "description": "Embalagem com 1 escova elétrica recarregável (cabo) + 1 refil Oral-B CrossAction + 1 refil Oral-B Sensi Ultrafino + 1 carregador portátil.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-eletrica-pro-2000-oral-b-dc29109-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-eletrica-pro-2000-oral-b-dc29377.html"
+  },
+  {
+    "sku": "653403",
+    "name": "Refil Escova Eletrica Floss Action 2un - Oral-B",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-refil-escova-eletrica-floss-action-oral-b-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-eletrica-refil-floss-action-oral-b-653403.html"
+  },
+  {
+    "sku": "511949",
+    "name": "Refil de Escova Elétrica Ponta Sensitive CHS200 - Curaprox",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/511949.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-escova-eletrica-ponta-sensitive-chs200-curaprox-511949.html"
+  },
+  {
+    "sku": "132323",
+    "name": "Refil Escova Eletrica Charcoal 2un - Oral-B",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/refil-escova-dental-eletrica-oral-b-132323-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-escova-dental-eletrica-oral-b-132323.html"
+  },
+  {
+    "sku": "102610",
+    "name": "Solução Bucal Chlorclear 0,12% - Vic Pharma",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102610.jpg",
+    "url": "https://www.dentalcremer.com.br/soluc-o-bucal-chlorclear-0-12-vic-pharma-102610.html"
+  },
+  {
+    "sku": "120328",
+    "name": "Antisséptico Bucal Para Dispenser 3 em 1 - Hálito Puro",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-dispenser-3-em-1-halito-puro-120328-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-dispenser-3-em-1-halito-puro-120328.html"
+  },
+  {
+    "sku": "684988",
+    "name": "Escova Dental Infantil Stages 3 Princesas - Oral-B",
+    "description": "Embalagem com 1 unidade. Cores Sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-escova-dental-infantil-stages-3-princesas-oralb-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-infantil-stages-3-princesas-oral-b-684988.html"
+  },
+  {
+    "sku": "138426",
+    "name": "Antisséptico Bucal - BlueM",
+    "description": "Frasco com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/748277.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-bluem-138426.html"
+  },
+  {
+    "sku": "516753",
+    "name": "Escova Dental Kids Macia - Topz",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/516753_635481798293839915.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-dental-kids-macia-topz-516753.html"
+  },
+  {
+    "sku": "102663",
+    "name": "Antisséptico Bucal Sensitive Elmex - Colgate",
+    "description": "Embalagem com 400ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-bucal-sensitive-elmex-102663.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-bucal-sensitive-elmex-102663.html"
+  }
+]

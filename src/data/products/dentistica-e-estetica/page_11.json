@@ -1,0 +1,759 @@
+[
+  {
+    "sku": "118029",
+    "name": "Placa Termomoldável Pet-G 125mmx0,7mm - Orthometric",
+    "price": "R$699,90",
+    "description": "Embalagem com 25 unidades. 125mmx0,7mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/118029.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-termomoldavel-pet-g-125mmx0-7mm-orthometric-118029.html"
+  },
+  {
+    "sku": "708158",
+    "name": "Disco de Lixa Optidisc - Kerr",
+    "price": "R$473,90",
+    "description": "Kit com 120 unidades sortidas (15 unidades de cada modelo) + 1 mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-disco-de-lixa-optidisc-kerr-708158.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-optidisc-kerr-708158.html"
+  },
+  {
+    "sku": "389357",
+    "name": "Disco de Lixa 3M™ Sof-Lex™ Nacional - Solventum",
+    "price": "R$220,90",
+    "description": "Kit com 50 unidades sortidas. Tamanho 3/4. Série Azul (Nacional). Referência 1958D.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/389357.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-sof-lextm-nacional-3m-solventum-389357.html"
+  },
+  {
+    "sku": "DC24769_A",
+    "name": "Afastador Labial Expandex Black - Indusbello",
+    "price": "R$36,90",
+    "description": "Embalagem com 2 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/871500.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-expandex-black-indusbello-dc24769-a.html"
+  },
+  {
+    "sku": "105868",
+    "name": "Condicionador Ácido Fluorídrico Porcelana 10% - Lysanda",
+    "price": "R$17,90",
+    "description": "Embalagem com 2,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105868.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fluoridrico-porcelana-10-lysanda-105868.html"
+  },
+  {
+    "sku": "143024",
+    "name": "Condicionador Ácido Fosfórico 37% 3 Seringas - Orbi",
+    "price": "R$9,90",
+    "description": "Embalagem com 3 seringas de 3g cada e 3 pontas aplicadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fosforico-37-3-seringas-orbi-dental-cremer-143024.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fosforico-37-3-seringas-orbi-143024.html"
+  },
+  {
+    "sku": "DC18100",
+    "name": "Disco de Lixa - TDV",
+    "price": "R$124,90",
+    "description": "Embalagem com 100 unidades de 16mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-sortido-16mm-tdv-dc18100.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-tdv-dc18100.html"
+  },
+  {
+    "sku": "DC17230",
+    "name": "Afastador Labial Expandex Transparente - Indusbello",
+    "price": "R$30,90",
+    "description": "Embalagem com 2 unidades. Escolha o tamanho. Cor Transparente.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/563313_635482051993949826.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-expandex-indusbello-dc17230.html"
+  },
+  {
+    "sku": "126466",
+    "name": "Kit Super Snap Mandril + Discos - Shofu",
+    "price": "R$218,90",
+    "description": "Embalagem com 32 discos, 16 mini-discos, 1 midi-ponta Composite Fine e 1 Mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-super-snap-mandil-discos-shofu-126466-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-super-snap-mandil-discos-shofu-126466.html"
+  },
+  {
+    "sku": "542530",
+    "name": "Disco Feltro Polimax - TDV",
+    "price": "R$97,90",
+    "description": "Embalagem com 12 unidades + mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/542530.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-feltro-polimax-tdv-542530.html"
+  },
+  {
+    "sku": "394610",
+    "name": "Condicionador Ácido Fosfórico Alpha Etch 37% - DFL",
+    "price": "R$14,90",
+    "description": "Embalagem com 3 seringas de 2,5ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-alpha-etch-dfl-dc-394610-01.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fosforico-alpha-etch-37-dfl-394610.html"
+  },
+  {
+    "sku": "133298",
+    "name": "Disco de Lixa 3M™ Sof-Lex™ Pop-On Kit - Solventum",
+    "description": "Kit com 120 unidades + Mandril. Tamanho 1/2. Série azul. (G, M, F, SF - 30 unidades de cada).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/389418.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-sof-lextm-pop-on-kit-3m-solventum-133298.html"
+  },
+  {
+    "sku": "DC38925",
+    "name": "Cunha Anatômica Plástica Interproximal Ultrawedge Diamantada - American Burrs",
+    "price": "R$45,90",
+    "description": "Embalagem com 40 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-plastica-interproximal-ultrawedge-diamantada-extra-grande-40unid--american-burrs-148161.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-plastica-interproximal-ultrawedge-diamantada-american-burrs-dc38925.html"
+  },
+  {
+    "sku": "567670",
+    "name": "Disco de Feltro 8mm - TDV",
+    "price": "R$52,90",
+    "description": "Embalagem com 12 unidades de 8mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-feltro-8mm-tdv-567670.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-feltro-tdv-567670.html"
+  },
+  {
+    "sku": "552591",
+    "name": "Papel Carbono 40 Micras - Bausch",
+    "price": "R$157,90",
+    "description": "Embalagem com 200 unidades. 40 Micras. BK 63.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-azulverm-40-micras-200-tiras-bausch-dc-552591-01.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-40-micras-bausch-552591.html"
+  },
+  {
+    "sku": "126916",
+    "name": "Broca Carbide Multilaminada 12 Lâminas FG - Jota",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-multilaminada-12-laminas-fg-jota-126916.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-multilaminada-12-laminas-fg-jota-126916.html"
+  },
+  {
+    "sku": "105867",
+    "name": "Condicionador Ácido Fluorídrico Porcelana 5% - Lysanda",
+    "price": "R$17,90",
+    "description": "Embalagem com 2,5g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105867.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fluoridrico-porcelana-5-lysanda-105867.html"
+  },
+  {
+    "sku": "145057",
+    "name": "Kit Optimize + Cinta Profilática - TDV",
+    "price": "R$279,90",
+    "description": "8 chamas. 8 discos. 8 taças. 1 mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-optimize--cinta-profilatica-tdv-145057.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-optimize-cinta-profilatica-tdv-145057.html"
+  },
+  {
+    "sku": "212167",
+    "name": "Disco de Lixa - TDV",
+    "price": "R$124,90",
+    "description": "Embalagem com 100 unidades de 16mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-tdv-212167-1.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-tdv-212167.html"
+  },
+  {
+    "sku": "DC16567",
+    "name": "Kit Papel Carbono para Articulação 200 Micras - Bausch",
+    "price": "R$371,90",
+    "description": "Embalagem com 300 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-papel-carbono-para-articulacao-200-micras-bausch-DC16567.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-200-micras-kit-bausch-dc16567.html"
+  },
+  {
+    "sku": "DC38351",
+    "name": "Afastador Labial com Haste Branco - Morelli",
+    "price": "R$18,00",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-labial-com-haste-branco-dental-cremer-dc38333.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-com-haste-branco-morelli-dc38333.html"
+  },
+  {
+    "sku": "965209",
+    "name": "Condicionador Ácido Fosfórico Lysac Gel 37% - Lysanda",
+    "price": "R$8,99",
+    "description": "Embalagem com 3 seringas de 2,5ml + 3 ponteiras aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/965209.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fosforico-lysac-gel-37-lysanda-965209.html"
+  },
+  {
+    "sku": "133447",
+    "name": "Barreira Gengival Fotopolimerizável MicroDam Azul 2g - Microdont",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-gengival-fotopolimerizavel-microdam-azul-2g-microdont-133447-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-gengival-fotopolimerizavel-microdam-azul-2g-microdont-133447.html"
+  },
+  {
+    "sku": "DC29946",
+    "name": "Condicionador Ácido Fluorídrico - Indusbello",
+    "price": "R$28,90",
+    "description": "Embalagem com 1 seringa de 3ml e 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fluoridrico-5-indusbello-124746-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fluoridrico-indusbello-dc29946.html"
+  },
+  {
+    "sku": "389418",
+    "name": "Kit Disco de Lixa 3M™ Sof-Lex™ Pop-On – Solventum",
+    "price": "R$514,90",
+    "description": "Kit com 120 unidades + Mandril. Tamanho 1/2. Série azul. Referência 1980B.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/389418.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-sof-lextm-pop-on-kit-3m-solventum-389418.html"
+  },
+  {
+    "sku": "143025",
+    "name": "Condicionador Ácido Fluorídrico 10% 1 Seringa - Orbi",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 seringa de 3g e 1 ponta aplicadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fluoridrico-10-1-seringa-orbi-dental-cremer-143025.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fluoridrico-10-1-seringa-orbi-143025.html"
+  },
+  {
+    "sku": "123050",
+    "name": "Pasta de Polimento Potenza Specchi AL - PHS",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 seringa de 3g + Ponteiras de Aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-potenza-specchi-al-phs-123050-01.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-potenza-specchi-al-phs-123050.html"
+  },
+  {
+    "sku": "DC23113",
+    "name": "Cimento Resinoso 3M™ Dual RelyX™ Ultimate - Solventum",
+    "price": "R$672,90",
+    "description": "Embalagem com 1 clicker de 4,5g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-relyxtm-ultimate-a1-3m-espe-764628-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-relyxtm-ultimate-3m-solventum-espe-dc23113.html"
+  },
+  {
+    "sku": "143833",
+    "name": "Dessensibilizante Dental 2% - AF do Brasil",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 seringa de 3g e 1 ponta aplicadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-dental-2-aaf-143833.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-dental-2-af-do-brasil-143833.html"
+  },
+  {
+    "sku": "DC38496",
+    "name": "Dessensibilizante Sensitivity Gel 3g - Iodontosul",
+    "price": "R$10,90",
+    "description": "Embalagem com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-sensitivity-gel-0-2-3g-iodontosul-dental-cremer-143400.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-sensitivity-gel-3g-iodontosul-dc38496.html"
+  },
+  {
+    "sku": "145448",
+    "name": "Papel Carbono Duplo Azul/Vermelho - AF do Brasil",
+    "price": "R$7,99",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-duplo-azul-vermelho-aaf-145448.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-duplo-azul-vermelho-af-do-brasil-145448.html"
+  },
+  {
+    "sku": "DC29688",
+    "name": "Cunha Anatômica de Madeira - TDV",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-de-madeira-tdv-dc29688-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-de-madeira-tdv-dc29688.html"
+  },
+  {
+    "sku": "DC38334",
+    "name": "Afastador Labial Branco - Morelli",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-labial-branco-dental-cremer-dc38334.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-branco-morelli-dc38334.html"
+  },
+  {
+    "sku": "567878",
+    "name": "Cunha Elástica - TDV",
+    "price": "R$41,90",
+    "description": "Embalagem com 25 unidades sortidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-elastica-tdv-567878.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-elastica-tdv-567878.html"
+  },
+  {
+    "sku": "120132",
+    "name": "Papel Carbono Super Carbon Dupla Face - Maquira",
+    "description": "Embalagem com 12 unidades. Dupla face (azul e vermelho).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-para-articulac-o-super-carbon-maquira-384802-01.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-para-articulac-o-super-carbon-maquira-120132.html"
+  },
+  {
+    "sku": "DC24250",
+    "name": "Afastador Labial Expandex Rosa - Indusbello",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/759884_636116948426779829.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-expandex-indusbello-dc24250.html"
+  },
+  {
+    "sku": "DC38241",
+    "name": "Disco de Lixa com Velcro 260mm 80gr - Nova Ogp",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-com-velcro-260mm-gr80-preto-nova-ogp-dental-cremer-138886.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-com-velcro-260mm-gr80-nova-ogp-dc38241.html"
+  },
+  {
+    "sku": "DC10522",
+    "name": "Disco de Feltro - Kota",
+    "price": "R$26,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/483864.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-feltro-kota-dc10522.html"
+  },
+  {
+    "sku": "DC29690",
+    "name": "Disco de Lixa - TDV",
+    "description": "Embalagem com 100 unidades de 16mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-lixa-tdv-dc29690-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-tdv-dc29690.html"
+  },
+  {
+    "sku": "658712",
+    "name": "Cunha Anatômica de Madeira Colorida Sortida - AF do Brasil",
+    "price": "R$13,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-madeira-colorida-sortida-658712-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-de-madeira-colorida-sortida-af-do-brasil-658712.html"
+  },
+  {
+    "sku": "DC30770",
+    "name": "Papel Carbono BK Progress 100 Micras - Bausch",
+    "description": "Embalagem com 300 unidades. BK 51 ou BK 52.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629026.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-bk-progress-100-micras-bausch-dc30770.html"
+  },
+  {
+    "sku": "479225",
+    "name": "Pasta Para Micro-abrasão Opalustre - Ultradent",
+    "price": "R$149,90",
+    "description": "Kit com 1 seringa de 1,2mL + 5 white tips + 2 Opalcup abrasão + 2 Opalcup acabamento.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/479225_2.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-para-micro-abras-o-opalustre-ultradent-479225.html"
+  },
+  {
+    "sku": "126241",
+    "name": "Afastador Labial Frontal/Lateral Formato ''C'' Adulto para Fotografia - Indusbello",
+    "price": "R$43,90",
+    "description": "Embalagem com  2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-labial-frontal-lateral-formato-c-adulto-para-fotografia-indusbello-126241-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-frontal-lateral-formato-c-adulto-para-fotografia-indusbello-126241.html"
+  },
+  {
+    "sku": "DC26194",
+    "name": "Disco Diamantado Mono Face - American Burrs",
+    "price": "R$77,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo. * Acompanha mandril.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/604023_2.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-mono-face-american-burrs-dc26194.html"
+  },
+  {
+    "sku": "965216",
+    "name": "Pasta de Polimento Lysdiamond - Lysanda",
+    "price": "R$19,90",
+    "description": "Embalagem com 2,5g + 3 ponteiras aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/965216_1.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-lysdiamond-lysanda-965216.html"
+  },
+  {
+    "sku": "DC16568",
+    "name": "Papel Carbono 200 Micras Refil - Bausch",
+    "price": "R$334,90",
+    "description": "Embalagem com 300 unidades. 200 Micras. BK 1001 ou BK 1002.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/552546.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-200-micras-refil-bausch-dc16568.html"
+  },
+  {
+    "sku": "384802",
+    "name": "Papel Carbono Super Carbon Dupla Face - Maquira",
+    "price": "R$19,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-para-articulac-o-super-carbon-maquira-384802-01.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-para-articulac-o-super-carbon-maquira-384802.html"
+  },
+  {
+    "sku": "DC29368",
+    "name": "Broca Carbide Cirúrgica Esférica CA 26mm – AllPrime",
+    "price": "R$21,90",
+    "description": "Embalagem com 1 unidade. Contra Ângulo. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/110100.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-esferica-ca-allprime-dc29368.html"
+  },
+  {
+    "sku": "130116",
+    "name": "Kit Twist-Gloss de Polidores Diamantados CA - American Burrs",
+    "price": "R$374,90",
+    "description": "Kit com 2 Polidores Espirais Diamantados CA (Média, Fina), 3 Polidores de Resina CA (Grossa, Média, Fina), 1 Escova Pelo de Cabra, 1 Broqueiro Autoclavável de 75 furos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-twist-gloss-polidores-diamantadas-ca-american-burrs-130116-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-twist-gloss-polidores-diamantadas-ca-american-burrs.html"
+  },
+  {
+    "sku": "DC17461",
+    "name": "Cimento Resinoso NX3 Try-In Gel - Kerr",
+    "price": "R$79,90",
+    "description": "Embalagem com 3g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-nx3-try-in-gel-kerr-dc17461-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-nx3-try-in-gel-kerr-dc17461.html"
+  },
+  {
+    "sku": "DC28153",
+    "name": "Barreira Gengival Top Dam - FGM",
+    "description": "Embalagem com 2g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/Barreira-Gengival-Top-Dam-dc28153-Embalagem-Produto.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-gengival-top-dam-fgm-dc28151.html"
+  },
+  {
+    "sku": "DC24613_2",
+    "name": "Broca Carbide FG 12 Lâminas - Jota",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-fg-12-laminas-jota-dc24613-2-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-fg-12-laminas-jota-dc24613-2.html"
+  },
+  {
+    "sku": "132834",
+    "name": "Kit Cimento Resinoso Dual seT PP + Resina Luna 2 - SDI",
+    "price": "R$373,90",
+    "description": "Kit composto por 1 seringa dupla de 7g do Cimento Resinoso Dual seT PP na cor A2 + 14 pontas misturadoras + 1 seringa de 4g de Resina Luna 2 na cor A2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-cimento-resinoso-dual-set-pp-e-resina-luna-2-sdi-132834.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-cimento-resinoso-dual-set-pp-resina-luna-2-sdi-132834.html"
+  },
+  {
+    "sku": "131827",
+    "name": "Kit Signature Invicta Preparos e Polimentos Dr. Ricardo Tanus - American Burrs",
+    "price": "R$771,90",
+    "description": "Kit com 3 polidores (fino, médio e grosso), 1 escova de polimento CA Ultra-Brush carbeto de silício, 1 escova de polimento CA pelo de cabra, 16 pontas diamantadas (1012, 1014, 1092, 2191, 2135, 2200, 2143, 3118, 3122, 3131, 3168, 3215, 4137, 4138, 4141, 4142), 1 broca Carbide cilíndrica 1558 e 1 broqueiro autoclavável de 75 furos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-signature-invicta-preparos-e-polimentos-dr-ricardo-tanus-american-burrs-131827-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-signature-invicta-preparos-e-polimentos-dr-ricardo-tanus-american-burrs-131827.html"
+  },
+  {
+    "sku": "128586",
+    "name": "Kit Signature de Polimento Perfeito by Dr. Pedro Neto - American Burrs",
+    "price": "R$466,90",
+    "description": "Kit com 4 Polidores de Resina + 2 Polidores Espiral Diamantados + 2 Escovas de Polimento + 1 Broqueiro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/1-kit-signature-de-polimento-perfeito-by-dr-pedro-neto-american-burrs-128586.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-signature-de-polimento-perfeito-by-dr-pedro-neto-american-burrs-128586.html"
+  },
+  {
+    "sku": "126468",
+    "name": "Disco de Silicone OneGloss IC Cônica Invertida Nº 2 - Shofu",
+    "price": "R$254,90",
+    "description": "Embalagem com 25 unidades cônicas invertidas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-silicone-one-gloss-ic-conica-invertida-n-2-shofu-126468-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-silicone-onegloss-ic-conica-invertida-n-2-shofu-126468.html"
+  },
+  {
+    "sku": "DC18519_A",
+    "name": "Disco Diamantado Duraflex Dupla Face Total PM - American Burrs",
+    "price": "R$77,90",
+    "description": "Embalagem com 1 unidade. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-duraflex-dupla-face-total-pm-american-burrs-dental-cremer-dc18519-a.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-dupla-face-total-american-burrs-dc18519-a.html"
+  },
+  {
+    "sku": "123012",
+    "name": "Dessensibilizante Potenza Esente 0,2% - PHS",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 seringa de 3g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-potenza-esente-0-2-phs-123012-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-potenza-esente-0-2-phs-123012.html"
+  },
+  {
+    "sku": "113913",
+    "name": "Pasta de Polimento Opal L - Renfert",
+    "description": "Embalagem com 35g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-opal-l-renfert-597011.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-opal-l-renfert-113913.html"
+  },
+  {
+    "sku": "143338",
+    "name": "Pasta de Polimento Diamantada Diamond Pro 3G - Iodontosul",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 seringa de 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamantada-diamond-pro-3g-iodontosul-dental-cremer-143338.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamantada-diamond-pro-3g-iodontosul-143338.html"
+  },
+  {
+    "sku": "DC29149",
+    "name": "Disco de Lixa Starter Flexi-D Eve - Odotomega",
+    "price": "R$533,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117759.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-starter-flexi-d-eve-odotomega-dc29149.html"
+  },
+  {
+    "sku": "DC18809",
+    "name": "Carbono Arti-Spray BK 288 - Bausch",
+    "price": "R$303,90",
+    "description": "Embalagem com 75ml. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/552584_635436062871658736.jpg",
+    "url": "https://www.dentalcremer.com.br/carbono-arti-spray-bk-288-bausch-dc18809.html"
+  },
+  {
+    "sku": "552577",
+    "name": "Papel Carbono Filme Arti-Fol Metallic 12 Micras - Bausch",
+    "price": "R$244,90",
+    "description": "Rolo 20 metros. Refil.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/552577.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-filme-12-micras-refil-bausch-552577.html"
+  },
+  {
+    "sku": "629033",
+    "name": "Papel Carbono 40Micras Arcada BK81 - Bausch",
+    "price": "R$502,90",
+    "description": "Embalagem com 150 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629033_635853386265079314.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-40micras-arcada-bk81-bausch-629033.html"
+  },
+  {
+    "sku": "DC10878",
+    "name": "Resina Fill Magic Flow - Vigodent",
+    "price": "R$43,90",
+    "description": "Resina Microhíbrida. Seringa com 1,2g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-fill-magic-flow-coltene-dc10878-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-fill-magic-flow-vigodent-dc10878.html"
+  },
+  {
+    "sku": "DC13401_A",
+    "name": "Disco Diamantado Dupla Face Periférico - American Burrs",
+    "price": "R$77,90",
+    "description": "Embalagem com 1 unidade. 22x0,20mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-diamantado-dupla-face-periferico-american-burrs-dc13401-a-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-diamantado-dupla-face-periferico-american-burrs-dc13401-a.html"
+  },
+  {
+    "sku": "272215",
+    "name": "Dessensibilizante Desensibilize KF 0,2% - FGM",
+    "price": "R$32,99",
+    "description": "Embalagem com 1 seringa com 2,5g + 1 ponteira.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-desensibilize-kf-0-2-fgm-272215-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-desensibilize-kf-0-2-fgm-272215.html"
+  },
+  {
+    "sku": "320237",
+    "name": "Papel Carbono Contacto Film - Angelus",
+    "price": "R$178,90",
+    "description": "Embalagem com 140 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-contacto-film-angelus-320237.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-contacto-film-angelus-320237.html"
+  },
+  {
+    "sku": "702842",
+    "name": "Pasta de Polimento Universal - Lysanda",
+    "price": "R$31,90",
+    "description": "Embalagem com 65g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-universal-lysanda-702842.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-universal-lysanda-702842.html"
+  },
+  {
+    "sku": "537253",
+    "name": "Papel Carbono Accu Film - Parkell",
+    "price": "R$399,90",
+    "description": "Embalagem com 5 Blocos com 50 tiras cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/537253.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-accu-film-parkell-537253.html"
+  },
+  {
+    "sku": "DC18807",
+    "name": "Papel Carbono Filme 12Micras - Bausch",
+    "price": "R$241,90",
+    "description": "Embalagem com 20m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/701049_635852763893214027.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-filme-12micras-bausch-dc18807.html"
+  },
+  {
+    "sku": "348491",
+    "name": "Fibra de Vidro Trançada Interlig - Angelus",
+    "price": "R$256,90",
+    "description": "Embalagem com 3 tiras, comprimento de 8,5cm cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fibra-de-vidro-trancada-interlig-angelus-dc-348491-01.jpg",
+    "url": "https://www.dentalcremer.com.br/fibra-de-vidro-trancada-interlig-angelus-348491.html"
+  },
+  {
+    "sku": "138888",
+    "name": "Disco de Carborundum 260Mm - Nova Ogp",
+    "price": "R$64,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-de-carborundum-260mm-nova-ogp-dental-cremer-138888.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-carborundum-260mm-nova-ogp-138888.html"
+  },
+  {
+    "sku": "DC24770",
+    "name": "Afastador Labial Lip Expand Rosa - Indusbello",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/871609.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-lip-expand-rosa-indusbello-dc24770.html"
+  },
+  {
+    "sku": "DC29385",
+    "name": "Broca Carbide Esférica FG 25mm - AllPrime",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/110078.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-esferica-fg-25mm-allprime-dc29385.html"
+  },
+  {
+    "sku": "DC24769",
+    "name": "Afastador Labial Expandex Black - Indusbello",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/871494.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-expandex-black-indusbello-dc24769.html"
+  },
+  {
+    "sku": "DC11387",
+    "name": "Afastador Labial - Morelli",
+    "price": "R$27,00",
+    "description": "Embalagem com 2 unidades. Tamanho P ou G.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-labial-morelli-dc11387.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-morelli-dc11387.html"
+  },
+  {
+    "sku": "952926",
+    "name": "Cunha Anatômica Madeira - Maquira",
+    "price": "R$28,90",
+    "description": "Embalagem com 100 unidades. Sortida Colorida.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cunha-anatomica-de-madeira-maquira-952926.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-de-madeira-maquira-952926.html"
+  },
+  {
+    "sku": "133443",
+    "name": "Pasta de Polimento Ultrafina Diamond Excel - FGM",
+    "price": "R$91,99",
+    "description": "Embalagem com 1 aplicador 2g + 1 ponta preta + 1 manual.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-ultrafina-diamond-excel-fgm-133443-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-ultrafina-diamond-excel-fgm-133443.html"
+  },
+  {
+    "sku": "DC29958",
+    "name": "Cimento Resinoso Dual Autoadesivo Panavia SA Luting Multi Automix - Kuraray",
+    "price": "R$599,90",
+    "description": "Embalagem com 1 seringa dupla de 8,2g e 20 pontas misturadoras. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-autoadesivo-panavia-sa-luting-multil-automix-kuraray-dc29958-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-autoadesivo-panavia-sa-luting-multil-automix-kuraray-dc29958.html"
+  },
+  {
+    "sku": "213683",
+    "name": "Pasta de Polimento Diamond AC I e AC II - FGM",
+    "price": "R$70,99",
+    "description": "Embalagem com 1 seringa AC I 4g + 1 seringa AC II 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamond-ac-i-e-ac-ii-fgm-213683.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamond-ac-i-e-ac-ii-fgm-213683.html"
+  },
+  {
+    "sku": "DC30760",
+    "name": "Papel Carbono 200 Micras Kit - Bausch",
+    "description": "Embalagem com 300 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-azul-200-micras-300-tiras-bausch-dc-552553-01.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-200-micras-kit-bausch-dc30760.html"
+  },
+  {
+    "sku": "359596",
+    "name": "Fita Para Isolamento Isotape - TDV",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 fita com 5m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/359596.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-para-isolamento-isotape-tdv-359596.html"
+  },
+  {
+    "sku": "126271",
+    "name": "Afastador Labial Frontal/Lateral Formato \"V\" Adulto para Fotografia - Indusbello",
+    "price": "R$49,90",
+    "description": "Embalagem com  2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/afastador-labial-frontal-lateral-formato-v-adulto-para-fotografia-indusbello-126271-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-frontal-lateral-formato-v-adulto-para-fotografia-indusbello-126271.html"
+  },
+  {
+    "sku": "143023",
+    "name": "Barreira Gengival Fotopolimerizável 1 Seringa - Orbi",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 seringa de 2g e 1 ponta aplicadora.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-gengival-fotopolimerizavel-1-seringa-orbi-dental-cremer-143023.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-gengival-fotopolimerizavel-1-seringa-orbi-143023.html"
+  },
+  {
+    "sku": "774443",
+    "name": "Afastador de Lábios Frontal para Estética - Indusbello",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/774443_636078259614281158.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-de-labios-frontal-para-estetica-indusbello-774443.html"
+  },
+  {
+    "sku": "DC18818",
+    "name": "Cunha Anatômica Palodent V3 - Dentsply Sirona",
+    "price": "R$265,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/701605.jpg",
+    "url": "https://www.dentalcremer.com.br/cunha-anatomica-palodent-v3-dentsply-sirona-dc18818.html"
+  },
+  {
+    "sku": "DC29367",
+    "name": "Broca Carbide Operatória Esférica PM 44,5mm – AllPrime",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. Peça de Mão. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/broca-carbide-esferica-pm-allprime-dc29367-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/broca-carbide-esferica-pm-allprime-dc29367.html"
+  },
+  {
+    "sku": "DC18645",
+    "name": "Papel Carbono BK Progress 100 Micras - Bausch",
+    "price": "R$371,90",
+    "description": "Embalagem com 300 unidades. 100 Micras. BK 51 ou BK 52.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629019.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-bk-progress-100-micras-bausch-dc18645.html"
+  },
+  {
+    "sku": "DC24639_2",
+    "name": "Polidor de Resina Espiral Swivel - Jota",
+    "price": "R$84,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/849615.jpg",
+    "url": "https://www.dentalcremer.com.br/polidor-de-resina-espiral-swivel-jota-dc24639-2.html"
+  },
+  {
+    "sku": "DC24248",
+    "name": "Afastador Labial Expandex Azul - Indusbello",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/759815_636116946873784330.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-expandex-indusbello-dc24248.html"
+  },
+  {
+    "sku": "122132",
+    "name": "Pasta de Polimento Diamond Universal - Maquira",
+    "description": "Embalagem com 1 seringa com 2g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pasta-de-polimento-diamond-universal-maquira-122132-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-de-polimento-diamond-universal-maquira-122132.html"
+  },
+  {
+    "sku": "733389",
+    "name": "Dessensibilizante Soothe 6% - SDI",
+    "price": "R$177,90",
+    "description": "Embalagem com 4 unidades, 1,2ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dessensibilizante-soothe-6-sdi-733389-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/dessensibilizante-soothe-6-sdi-733389.html"
+  },
+  {
+    "sku": "143842",
+    "name": "Barreira Gengival Fotopolimerizável - AF do Brasil",
+    "price": "R$12,90",
+    "description": "Embalagem com 1 seringa de 2g e 2 pontas aplicadoras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/barreira-gengival-fotopolimerizavel-aaf-143842.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-gengival-fotopolimerizavel-af-do-brasil-143842.html"
+  },
+  {
+    "sku": "DC17228",
+    "name": "Afastador Labial Expandex Branco - Indusbello",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Escolha o tamanho. Cor Branco.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/563276_635478656228950910.jpg",
+    "url": "https://www.dentalcremer.com.br/afastador-labial-expandex-indusbello-dc17228.html"
+  },
+  {
+    "sku": "122104",
+    "name": "Papel Carbono Super Carbon Basic - Maquira",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-carbono-super-carbon-basic-maquira-122104-01.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-super-carbon-basic-maquira-122104.html"
+  }
+]

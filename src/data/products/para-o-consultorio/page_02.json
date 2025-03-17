@@ -1,0 +1,678 @@
+[
+  {
+    "sku": "616040",
+    "name": "Lixeira de Inox Duo Coleta 30L – Biovis",
+    "price": "R$802,90",
+    "description": "Embalagem com 1 unidade de 30 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/616040_635719430963334326.jpg",
+    "url": "https://www.dentalcremer.com.br/lixeira-de-inox-duo-coleta-biovis-616040.html"
+  },
+  {
+    "sku": "616033",
+    "name": "Lixeira de Inox Coleta - Biovis",
+    "price": "R$429,90",
+    "description": "Unidade de 15L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/616033_635719431026358730.jpg",
+    "url": "https://www.dentalcremer.com.br/lixeira-de-inox-coleta-biovis-616033.html"
+  },
+  {
+    "sku": "537635",
+    "name": "Bloco de Recibo Honorário - Preven",
+    "price": "R$8,39",
+    "description": "Embalagem com 50 folhas. 23,3x10,5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/537635.jpg",
+    "url": "https://www.dentalcremer.com.br/bloco-de-recibo-honorario-preven-537635.html"
+  },
+  {
+    "sku": "DC29256",
+    "name": "Aplique Adesivo Espelhado - Agir",
+    "price": "R$9,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aplique-com-adesivo-frente-agir-dental-cremer-118502.jpg",
+    "url": "https://www.dentalcremer.com.br/aplique-com-adesivo-agir-dc29256.html"
+  },
+  {
+    "sku": "127051",
+    "name": "Higienizador de Assento Spray - Scott",
+    "price": "R$167,90",
+    "description": "Embalagem com 2 unidades de 300ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-higienizador-assento-spray-scott-127051.jpg",
+    "url": "https://www.dentalcremer.com.br/higienizador-de-assento-spray-scott-127051.html"
+  },
+  {
+    "sku": "127049",
+    "name": "Refil de Protetor de Assento - Kimberly Clark",
+    "price": "R$187,90",
+    "description": "Embalagem com 6 unidades de 100 folhas cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-refil-protetor-assento-kimberly-clark-127049.jpg",
+    "url": "https://www.dentalcremer.com.br/refil-de-protetor-de-assento-kimberly-clark-127049.html"
+  },
+  {
+    "sku": "117929",
+    "name": "Bloco de Anotações Estampa 1 - Super Ritinha",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bloco-de-anotacoes-estampa-1-super-ritinha-117929.jpg",
+    "url": "https://www.dentalcremer.com.br/bloco-de-anotacoes-estampa-1-super-ritinha-117929.html"
+  },
+  {
+    "sku": "604726",
+    "name": "Almotolia Graduada - Jon",
+    "price": "R$9,90",
+    "description": "Frasco com 120ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/604726_635696348581142940.jpg",
+    "url": "https://www.dentalcremer.com.br/almotolia-graduada-jon-604726.html"
+  },
+  {
+    "sku": "113101",
+    "name": "Tapete Secante 3M™ - Solventum",
+    "price": "R$453,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/113101.jpg",
+    "url": "https://www.dentalcremer.com.br/tapete-secante-3m-solventum-113101.html"
+  },
+  {
+    "sku": "DC30735",
+    "name": "Quadro 3D Ortodontia - Archneer",
+    "price": "R$158,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/quadro-3d-ortodontia-dourado-archneer-134271.jpg",
+    "url": "https://www.dentalcremer.com.br/quadro-3d-ortodontia-archneer-dc30735.html"
+  },
+  {
+    "sku": "119012",
+    "name": "Relógio Oval Odonto - Agir",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/relogio-oval-odonto-agir-dental-cremer-119012.jpg",
+    "url": "https://www.dentalcremer.com.br/relogio-oval-odonto-agir-119012.html"
+  },
+  {
+    "sku": "727913",
+    "name": "Coletor de Copo Inox - Brinox",
+    "price": "R$370,90",
+    "description": "Unidade. 20x60cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/727913_635981482695072292.jpg",
+    "url": "https://www.dentalcremer.com.br/coletor-de-copo-inox-brinox-727913.html"
+  },
+  {
+    "sku": "118504",
+    "name": "Relógio Oval Odonto - Agir",
+    "price": "R$62,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/relogio-de-parede-oval-odonto-agir-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/relogio-oval-odonto-agir-118504.html"
+  },
+  {
+    "sku": "556506",
+    "name": "Isqueiro Maxi Gas - Bic",
+    "price": "R$9,19",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/isqueiro-descartavel-maxi-gas-1un-dental-cremer-556506-01.jpg",
+    "url": "https://www.dentalcremer.com.br/isqueiro-maxi-gas-bic-556506.html"
+  },
+  {
+    "sku": "604740",
+    "name": "Almotolia Graduada - Jon",
+    "price": "R$18,90",
+    "description": "Frasco com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/604740_635696348640268835.jpg",
+    "url": "https://www.dentalcremer.com.br/almotolia-graduada-jon-604740.html"
+  },
+  {
+    "sku": "556926",
+    "name": "Régua New Line Cristal - Waleu",
+    "price": "R$3,39",
+    "description": "Embalagem com 1 unidade. 20cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556926_635452559025831183.jpg",
+    "url": "https://www.dentalcremer.com.br/regua-new-line-cristal-waleu-556926.html"
+  },
+  {
+    "sku": "748307",
+    "name": "Chaveiro Odonto - Dental Kids",
+    "price": "R$30,90",
+    "description": "Embalagem com 20 unidades sortidas..",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/748307.jpg",
+    "url": "https://www.dentalcremer.com.br/chaveiro-odonto-dental-kids-748307.html"
+  },
+  {
+    "sku": "629477",
+    "name": "Pilha Alcalina Palito AAA - Rayovac",
+    "price": "R$14,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629477_635754253328862505.jpg",
+    "url": "https://www.dentalcremer.com.br/pilha-alcalina-palito-aaa-rayovac-629477.html"
+  },
+  {
+    "sku": "629460",
+    "name": "Pilha Alcalina Pequena AA - Rayovac",
+    "price": "R$14,90",
+    "description": "Embalagem com 2 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629460_635754253391418505.jpg",
+    "url": "https://www.dentalcremer.com.br/pilha-alcalina-pequena-aa-rayovac-629460.html"
+  },
+  {
+    "sku": "175998",
+    "name": "Cola de Alta Resistência Super Bonder Original - Loctite",
+    "price": "R$10,90",
+    "description": "Embalagem com 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/175998.jpg",
+    "url": "https://www.dentalcremer.com.br/cola-de-alta-resistencia-super-bonder-original-loctite-175998.html"
+  },
+  {
+    "sku": "102551",
+    "name": "Removedor de Mancha de Tecido Stainform - Fórmula & Ação",
+    "price": "R$104,90",
+    "description": "Embalagem com 60ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/102551.jpg",
+    "url": "https://www.dentalcremer.com.br/removedor-de-mancha-de-tecido-stainform-formula-e-ac-o-102551.html"
+  },
+  {
+    "sku": "118508",
+    "name": "Mesa Auxiliar Com 3 Bandejas - Agir",
+    "price": "R$1.019,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mesa-auxiliar-mult-duo-3-bandejas-agir-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mesa-auxiliar-mult-com-3-bandejas-agir-118508.html"
+  },
+  {
+    "sku": "583625",
+    "name": "Cartucho de Tinta Original 22 Colorido Inkjet - HP",
+    "price": "R$287,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/22_635562152023728497.jpg",
+    "url": "https://www.dentalcremer.com.br/cartucho-de-tinta-original-22-colorido-inkjet-hp-583625.html"
+  },
+  {
+    "sku": "118509",
+    "name": "Mesa Auxiliar Mult Duo Com 2 Bandejas - Agir",
+    "price": "R$937,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mesa-auxiliar-mult-duo-2-bandejas-agir-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/mesa-auxiliar-mult-duo-com-2-bandejas-agir-118509.html"
+  },
+  {
+    "sku": "117943",
+    "name": "Bloco de Anotações Estampa 3 - Super Ritinha",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117943.png",
+    "url": "https://www.dentalcremer.com.br/bloco-de-anotacoes-estampa-3-super-ritinha-117943.html"
+  },
+  {
+    "sku": "661309",
+    "name": "CD-R Gravável - Elgin",
+    "price": "R$1,69",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/661309_635814965966655065.jpg",
+    "url": "https://www.dentalcremer.com.br/cd-r-gravavel-elgin-661309.html"
+  },
+  {
+    "sku": "121781",
+    "name": "Espelho Decorativo em Acrílico Círculo - Agir",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-decorativo-em-acrilico-circulo-agir-121781-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-decorativo-em-acrilico-circulo-agir-121781.html"
+  },
+  {
+    "sku": "121782",
+    "name": "Espelho Decorativo em Acrílico Flor - Agir",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/espelho-decorativo-em-acrilico-flor-agir-121782-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/espelho-decorativo-em-acrilico-flor-agir-121782.html"
+  },
+  {
+    "sku": "556445",
+    "name": "Tesoura Corta Fácil Multiuso - Mundial",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 unidade em inox.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556445_635452557349724207.jpg",
+    "url": "https://www.dentalcremer.com.br/tesoura-corta-facil-multiuso-mundial-556445.html"
+  },
+  {
+    "sku": "693348",
+    "name": "Dispenser Porta Papel Higiênico Rolo - Nobre",
+    "price": "R$37,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/693348_635840609059507680.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-porta-papel-higienico-rolo-nobre-693348.html"
+  },
+  {
+    "sku": "556353",
+    "name": "Elástico em Látex N18 - Fulgor",
+    "price": "R$7,79",
+    "description": "Embalagem com 110 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556353_635452556695131423.jpg",
+    "url": "https://www.dentalcremer.com.br/elastico-em-latex-n18-fulgor-556353.html"
+  },
+  {
+    "sku": "DC24916",
+    "name": "Capa para SeatBall - Coraldent",
+    "price": "R$71,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/951875.jpg",
+    "url": "https://www.dentalcremer.com.br/capa-para-seatball-coraldent-dc24916.html"
+  },
+  {
+    "sku": "182774",
+    "name": "Monitor 21,5 BCC CK - Dell",
+    "price": "R$1.499,90",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/monitor-21-5-bcc-ck-dell-182774-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/monitor-21-5-bcc-ck-dell-182774.html"
+  },
+  {
+    "sku": "734645",
+    "name": "Tatuagem Temporária - Dental Kids",
+    "description": "Embalagem com 1 cartela (32 tatuagens).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tatuagem-temporaria-dental-kids-734645-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/tatuagem-temporaria-dental-kids-734645.html"
+  },
+  {
+    "sku": "669596",
+    "name": "Pinte e Brinque - Dental Kids",
+    "description": "Embalagem com 5 Folhas + Giz de Cera.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/669596.jpg",
+    "url": "https://www.dentalcremer.com.br/pinte-e-brinque-dental-kids-669596.html"
+  },
+  {
+    "sku": "115464",
+    "name": "Papel Higiênico Interfolhado Folha Dupla - Neve®",
+    "description": "Embalagem com 250 folhas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115464_1.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-interfolhado-folha-dupla-neve-115464.html"
+  },
+  {
+    "sku": "734652",
+    "name": "Adesivo Infantil - Dental Kids",
+    "description": "Embalagem com 2 cartelas.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/734652.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-infantil-dental-kids-734652.html"
+  },
+  {
+    "sku": "115547",
+    "name": "Dispenser para Papel Toalha em Rolo MOD Slim Roll - Kimberly-Clark",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dispenser-para-papel-toalha-rolo-slim-kimberly-clark-dc-115547-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-para-papel-toalha-em-rolo-mod-slim-roll-kimberly-clark-115547.html"
+  },
+  {
+    "sku": "115549",
+    "name": "Dispenser para Papel Higiênico Interfolhado MOD - Kimberly-Clark",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115549.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-para-papel-higienico-interfolhado-mod-kimberly-clark-115549.html"
+  },
+  {
+    "sku": "115492",
+    "name": "Papel Toalha Smart Folha Simples Rolo - Scott®",
+    "description": "Embalagem com 6 rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115492.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-smart-folha-simples-rolo-scottr-115492.html"
+  },
+  {
+    "sku": "115491",
+    "name": "Papel Toalha Folha Simples Rolo - Scott®",
+    "description": "Embalagem com 6 rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115491.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-folha-simples-rolo-scottr-115491.html"
+  },
+  {
+    "sku": "734669",
+    "name": "Quebra Cabeça Tematizado - Dental Kids",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/734669.jpg",
+    "url": "https://www.dentalcremer.com.br/quebra-cabeca-tematizado-dental-kids-734669.html"
+  },
+  {
+    "sku": "585902",
+    "name": "Cartela de Adesivos - Angie by Angelus",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/585902.jpg",
+    "url": "https://www.dentalcremer.com.br/cartela-de-adesivos-angie-by-angelus-585902.html"
+  },
+  {
+    "sku": "173734",
+    "name": "Tatuagem Infantil - Turma da Ritinha",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/173734.jpg",
+    "url": "https://www.dentalcremer.com.br/tatuagem-infantil-turma-da-ritinha-173734.html"
+  },
+  {
+    "sku": "193596",
+    "name": "Capinha Infantil - Turma da Ritinha",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/capinha-infantil-turma-da-ritinha-193596-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/capinha-infantil-turma-da-ritinha-193596.html"
+  },
+  {
+    "sku": "134283",
+    "name": "Tatuagem Temporária - Dental Kids",
+    "description": "Embalagem com 1 cartela (32 tatuagens).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tatuagem-temporaria-dental-kids-734645-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/tatuagem-temporaria-dental-kids-134283.html"
+  },
+  {
+    "sku": "669619",
+    "name": "Dominó Tematizado - Dental Kids",
+    "description": "Embalagem com um jogo completo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/669619.jpg",
+    "url": "https://www.dentalcremer.com.br/domino-tematizado-dental-kids-669619.html"
+  },
+  {
+    "sku": "669602",
+    "name": "Jogo da Memória - Dental Kids",
+    "description": "Embalagem com 1 cartela com 28 peças.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/brinquedo-jogo-da-memoria-dental-kids-669602-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/jogo-da-memoria-dental-kids-669602.html"
+  },
+  {
+    "sku": "117974",
+    "name": "Jogo da Memória - Turma da Ritinha",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117974.jpg",
+    "url": "https://www.dentalcremer.com.br/jogo-da-memoria-turma-da-ritinha-117974.html"
+  },
+  {
+    "sku": "115494",
+    "name": "Papel Toalha Smart Folha Simples Rolo - Scott®",
+    "description": "Embalagem com 6 rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115494.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-smart-folha-simples-rolo-scottr-115494.html"
+  },
+  {
+    "sku": "115501",
+    "name": "Papel Toalha Basic Folha Simples Rolo - Scott®",
+    "description": "Embalagem com 12 rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115501.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-basic-folha-simples-rolo-scottr-115501.html"
+  },
+  {
+    "sku": "115489",
+    "name": "Papel Toalha Airflex Folha Simples Rolo - Kleenex",
+    "description": "Embalagem com 12 rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115489.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-airflex-folha-simples-rolo-kleenex-115489.html"
+  },
+  {
+    "sku": "115502",
+    "name": "Papel Toalha Rolo - Kleenex®",
+    "description": "Embalagem com 6 rolos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115502.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-toalha-rolo-kleenexr-115502.html"
+  },
+  {
+    "sku": "117981",
+    "name": "Quebra Cabeça - Turma da Ritinha",
+    "description": "Unidade. 24 Peças",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/117981.jpg",
+    "url": "https://www.dentalcremer.com.br/quebra-cabeca-turma-da-ritinha-117981.html"
+  },
+  {
+    "sku": "173697",
+    "name": "Quebra Cabeça 20 Peças - Turma da Ritinha",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/173697.jpg",
+    "url": "https://www.dentalcremer.com.br/quebra-cabeca-20-pecas-turma-da-ritinha-173697.html"
+  },
+  {
+    "sku": "602876",
+    "name": "Massa para Modelar - Acrilex",
+    "description": "Embalagem com 12 Cores.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/massinha-p-modelar-soft-credeal-dc-602876-01.jpg",
+    "url": "https://www.dentalcremer.com.br/massa-para-modelar-acrilex-602876.html"
+  },
+  {
+    "sku": "145127",
+    "name": "Pote Nitronplast Pequeno - Nitronplast",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pote-nitronplast-pequeno-nitronplast-145127.jpg",
+    "url": "https://www.dentalcremer.com.br/pote-nitronplast-pequeno-nitronplast-145127.html"
+  },
+  {
+    "sku": "133977",
+    "name": "Organizador de Gavetas - Purimax",
+    "description": "Embalagem com 7 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/organizador-de-gavetas-com-7-pecas-purimax-133977-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/organizador-de-gavetas-com-7-pecas-purimax.html"
+  },
+  {
+    "sku": "167993",
+    "name": "Quadro Multiuso A4 Cristal - Dello",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/167993.jpg",
+    "url": "https://www.dentalcremer.com.br/quadro-multiuso-a4-cristal-dello-167993.html"
+  },
+  {
+    "sku": "101201",
+    "name": "Caneta Marcador Retroprojetor 1.0 - Pilot",
+    "description": "Embalagem com 1 unidade. (Cor Vermelha)",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101201.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-marcador-retroprojetor-1-0-pilot-101201.html"
+  },
+  {
+    "sku": "DC29300",
+    "name": "Placa Decorativa - Agir",
+    "description": "Embalagem com 1 unidade. Escolha uma opção.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-decorativa-agir-dental-cremer-dc29300.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-decorativa-agir-dc29300.html"
+  },
+  {
+    "sku": "187090",
+    "name": "Organizador de Mesa - Dello",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/187090.jpg",
+    "url": "https://www.dentalcremer.com.br/organizador-de-mesa-dello-187090.html"
+  },
+  {
+    "sku": "DC26816",
+    "name": "Almofada para Equipo com Elástico - FunWork",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/almofada-para-cadeira-odontologica-funwork-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/almofada-para-equipo-com-elastico-funwork-dc26816.html"
+  },
+  {
+    "sku": "101188",
+    "name": "Caneta Esferográfica 4 Cores - Bic",
+    "description": "Embalagem com 1 unidade. Azul, Vermelho, Verde e Preto.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/caneta-esferografica-bic-4cores-dental-cremer-101188-01.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-esferografica-4-cores-bic-101188.html"
+  },
+  {
+    "sku": "DC20689",
+    "name": "Caixa Organizadora The Best Box - Polibras",
+    "description": "Unidade. Cristal, Vermelha ou Azul.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/615838_635720270366814293.jpg",
+    "url": "https://www.dentalcremer.com.br/caixa-organizadora-the-best-box-polibras-dc20689.html"
+  },
+  {
+    "sku": "560121",
+    "name": "Dispenser Duo de Papel Toalha e Saboneteira - Biovis",
+    "description": "Kit com 1 Dispenser Duo de Papel Toalha + Saboneteira com Espelho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/duo-toalheiro-c-saboneteira-e-espelho-biovis-dc-560121-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-duo-de-papel-toalha-e-saboneteira-biovis-560121.html"
+  },
+  {
+    "sku": "556599",
+    "name": "Caneta Esferográfica Cristal Fina - Bic",
+    "description": "Embalagem com 3 unidades. Azul",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556599_635452555632120167.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-esferografica-cristal-fina-bic-556599.html"
+  },
+  {
+    "sku": "161465",
+    "name": "Dispenser de Fio Dental Biofio - Biovis",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dispenser-de-fio-dental-biofio-biovis-dc-161465-01.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-de-fio-dental-biofio-biovis-161465.html"
+  },
+  {
+    "sku": "113116",
+    "name": "Dispensador Papel Toalha Paper Pop - Biovis",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/113116.jpg",
+    "url": "https://www.dentalcremer.com.br/dispensador-papel-toalha-paper-pop-biovis-113116.html"
+  },
+  {
+    "sku": "556636",
+    "name": "Caneta Fixa para Mesa - Sempre Consigo",
+    "description": "Embalagem com 1 unidade Com base.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556636_635452566622100608.jpg",
+    "url": "https://www.dentalcremer.com.br/caneta-fixa-para-mesa-sempre-consigo-556636.html"
+  },
+  {
+    "sku": "113114",
+    "name": "Porta Papel Higiênico AG+ - Biovis",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/113114.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-papel-higienico-ag-biovis-113114.html"
+  },
+  {
+    "sku": "126249",
+    "name": "Saco Plástico Sacolé - Segplast",
+    "description": "Embalagem com 1000 unidades. 4cm x 23cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-plastico-4cmx23cm-1000unidsegplast-dental-cremer-126249.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-plastico-4cmx23cm-1000unid-segplast-126249.html"
+  },
+  {
+    "sku": "132341",
+    "name": "Pano Multiuso X60 Rolo Jumbo 27,7x31,5cm - Wypall",
+    "description": "Embalagem com 890 panos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/pano-multiuso-x60-rolo-jumbo-27-7x31-5cm-wypall-132341-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/pano-multiuso-x60-rolo-jumbo-27-7x31-5cm-wypall-132341.html"
+  },
+  {
+    "sku": "115508",
+    "name": "Pano de Limpeza X50 Simplimax Azul - WypAll",
+    "description": "Embalagem com 50 panos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115508.jpg",
+    "url": "https://www.dentalcremer.com.br/pano-de-limpeza-x50-simplimax-azul-wypall-115508.html"
+  },
+  {
+    "sku": "115507",
+    "name": "Pano de Limpeza X50 Simplimax Vermelho - WypAll",
+    "description": "Embalagem com 50 panos.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115507.jpg",
+    "url": "https://www.dentalcremer.com.br/pano-de-limpeza-x50-simplimax-vermelho-wypall-115507.html"
+  },
+  {
+    "sku": "105415",
+    "name": "Lixeira Vime 12L Com Pedal - Nitron",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/105415.jpg",
+    "url": "https://www.dentalcremer.com.br/lixeira-vime-12l-com-pedal-nitron-105415.html"
+  },
+  {
+    "sku": "905465",
+    "name": "Lixeira Automática Bionox - Biovis",
+    "description": "Unidade de 6L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/905465.jpg",
+    "url": "https://www.dentalcremer.com.br/lixeira-automatica-bionox-biovis-905465.html"
+  },
+  {
+    "sku": "606072",
+    "name": "Papel Higiênico Neutro Folha Simples - Fofinho",
+    "description": "Embalagem com 4 Rolos de 60m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-higienico-neutro-folha-simples-60mx4-rolos-dental-cremer-606072-01.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-neutro-folha-simples-fofinho-606072.html"
+  },
+  {
+    "sku": "559828",
+    "name": "Papel Higiênico Simples - Fofinho",
+    "description": "Embalagem com 4 unidades de 30m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/559828_635458736190394747.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-higienico-simples-fofinho-559828.html"
+  },
+  {
+    "sku": "560107",
+    "name": "Lixeira Automática Bionox - Biovis",
+    "description": "Unidade de 12L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/560107_635458735223013943.jpg",
+    "url": "https://www.dentalcremer.com.br/lixeira-automatica-bionox-biovis-560107.html"
+  },
+  {
+    "sku": "609189",
+    "name": "Porta Guarda-Chuvas Gamma 20x43cm - Brinox",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/609189.jpg",
+    "url": "https://www.dentalcremer.com.br/porta-guarda-chuvas-gamma-20x43cm-brinox.html"
+  },
+  {
+    "sku": "DC30737",
+    "name": "Quadro 3D Endodontia - Archneer",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/quadro-3d-endodontia-dourado-archneer-134276.jpg",
+    "url": "https://www.dentalcremer.com.br/quadro-3d-endodontia-archneer-dc30737.html"
+  },
+  {
+    "sku": "DC30734",
+    "name": "Quadro 3D Odontologia - Archneer",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/quadro-3d-odontologia-dourado-archneer-134269.jpg",
+    "url": "https://www.dentalcremer.com.br/quadro-3d-odontologia-archneer-dc30734.html"
+  },
+  {
+    "sku": "556872",
+    "name": "Pasta Ofício Plástica Cristal - ACP",
+    "description": "Embalagem com 1 unidade. Com Lombo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556872.jpg",
+    "url": "https://www.dentalcremer.com.br/pasta-oficio-plastica-cristal-acp-556872.html"
+  },
+  {
+    "sku": "556810",
+    "name": "Transferidor 360 Graus Cristal - Waleu",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/556810_635452559071228347.jpg",
+    "url": "https://www.dentalcremer.com.br/transferidor-360-graus-cristal-waleu-556810.html"
+  },
+  {
+    "sku": "602869",
+    "name": "Massa para Modelar - Acrilex",
+    "description": "Embalagem com 6 Cores.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/602869_635665039399317525.jpg",
+    "url": "https://www.dentalcremer.com.br/massa-para-modelar-acrilex-602869.html"
+  },
+  {
+    "sku": "175325",
+    "name": "Saboneteira Nobre City - Nobre",
+    "description": "Unidade 800ml. Cor Branco.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saboneteira-nobre-city-nobre-175325.jpg",
+    "url": "https://www.dentalcremer.com.br/saboneteira-nobre-city-nobre-175325.html"
+  },
+  {
+    "sku": "168020",
+    "name": "Envelope Plástico A4 - ACP",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-plastico-a4-para-consultorio-odontologico-acp-168020.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-plastico-a4-acp-168020.html"
+  },
+  {
+    "sku": "609219",
+    "name": "Dispenser Multi - Brinox",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/609219.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-multi-brinox-609219.html"
+  },
+  {
+    "sku": "925654",
+    "name": "Mochila W. Pack - Dentpack",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/925654.jpg",
+    "url": "https://www.dentalcremer.com.br/mochila-w-pack-dentpack-925654.html"
+  },
+  {
+    "sku": "557183",
+    "name": "Clips Colorido 3/0 - Bacchi",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/557183_635452607081485738.jpg",
+    "url": "https://www.dentalcremer.com.br/clips-colorido-3-0-bacchi-557183.html"
+  },
+  {
+    "sku": "122715",
+    "name": "Brinquedo Bubu - FunWork",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/brinquedo-bubu-funwork-122715-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/brinquedo-bubu-funwork-122715.html"
+  }
+]

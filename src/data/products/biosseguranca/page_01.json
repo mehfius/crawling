@@ -1,0 +1,768 @@
+[
+  {
+    "sku": "544015",
+    "name": "Rolo Para Esterilização 20cmx100m - HospFlex",
+    "price": "R$139,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-200mm-x-100m-hospflex-dc-544015-03.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-20cmx100m-hospflex.html"
+  },
+  {
+    "sku": "126815",
+    "name": "Álcool Etílico 70% Saneante - Prolink",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-etilico-70-saneante-prolink-126815.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-etilico-70-saneante-prolink-126815.html"
+  },
+  {
+    "sku": "101333",
+    "name": "Detergente Enzimático Zymedet Gold 5-E - Prolink",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-zymedet-gold-5-enzimas-1l-prolink-dc-101333-01.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-zymedet-gold-5-e-prolink-101333.html"
+  },
+  {
+    "sku": "117618",
+    "name": "Rolo para Esterilização 15cmx100m - AllPrime",
+    "price": "R$105,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-15cmx100m-allprime-117618.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-15cmx100m-allprime-117618.html"
+  },
+  {
+    "sku": "148498",
+    "name": "Rolo para Esterilização 30cm X 100m - Masterdent",
+    "price": "R$192,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-30cmx100m-148498.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-30cm-x-100m-masterdent-148498.html"
+  },
+  {
+    "sku": "128941",
+    "name": "Envelope para Esterilização Autosselante 90x260mm - AllPrime",
+    "price": "R$27,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-e-envelope-esterilizacao-autosselante-90x260mm-allprime-128941.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizac-o-autosselante-90x260mm-allprime-128941.html"
+  },
+  {
+    "sku": "DC26814",
+    "name": "Estojo para Esterilização Perfurado Sterilys Perio - Lysanda",
+    "price": "R$35,90",
+    "description": "Embalagem com 2 unidades. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-esterilizacao-perfurado-sterilys-perio-lysanda-111399.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-sterilys-com-glitter-pequeno-lysanda-dc26811.html"
+  },
+  {
+    "sku": "111190",
+    "name": "Estojo de Esterilização Para 36 Limas + Tamborel - MK Life",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 unidade. Para 36 limas + Tamborel.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/111190.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-para-36-limas-tamborel-mk-life-111190.html"
+  },
+  {
+    "sku": "549119",
+    "name": "Rolo Para Esterilização 5cmx100m - HospFlex",
+    "price": "R$37,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/angulo-rolo-para-esterilizacao-5cm-100m-hospflex-549119.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-5cmx100m-hospflex.html"
+  },
+  {
+    "sku": "593365",
+    "name": "Estojo Inox Perfurado - Golgran",
+    "price": "R$125,90",
+    "description": "Unidade. 20x10x5cm. Ref: 88-2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perfurado-golgran-593365.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-golgran-593365.html"
+  },
+  {
+    "sku": "672312",
+    "name": "Água Destilada para Autoclave - Water Clean",
+    "price": "R$17,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agua-destilada-autoclave-water-clean-672312.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-destilada-para-autoclave-water-clean-672312.html"
+  },
+  {
+    "sku": "777789",
+    "name": "Envelope Autosselante 55x130mm - Medstéril",
+    "price": "R$20,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/777789.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-55x130mm-medsteril.html"
+  },
+  {
+    "sku": "149047",
+    "name": "Indicador Biológico 24horas - Allprime",
+    "price": "R$45,90",
+    "description": "Embalagem com 10 unidades",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-24horas-149047.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-24horas-allprime-149047.html"
+  },
+  {
+    "sku": "112046",
+    "name": "Óculos de Segurança 3M™ Secure Fit™ 400X Antiembaçante Scotchgard™ - Solventum",
+    "price": "R$58,90",
+    "description": "Embalagem com 1 unidade. Incolor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/oculos-seguranca-sf400x-incolor-3m-112046.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-seguranca-sf400x-incolor-3m-solventum-112046.html"
+  },
+  {
+    "sku": "543988",
+    "name": "Rolo Para Esterilização 8cmx100m - HospFlex",
+    "price": "R$51,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-esterilizacao-8cmx100m-hospflex-543988.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-8cmx100m-hospflex.html"
+  },
+  {
+    "sku": "961416",
+    "name": "Clorexidina Riohex 2% Aquosa - Rioquímica",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 litro. Gliconato de clorexidina 2 (Solução Aquosa).\r\nMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.\r\nSE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO\r\nÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clorexidina-riohex-2-aquosa-rioquimica-961416.jpg",
+    "url": "https://www.dentalcremer.com.br/clorexidina-2-aquosa-rioquimica-961416.html"
+  },
+  {
+    "sku": "545494",
+    "name": "Indicador Biológico Clean Test 24horas - Clean Up",
+    "price": "R$49,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/545494.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-clean-test-clean-up.html"
+  },
+  {
+    "sku": "545517",
+    "name": "Indicador Químico - Clean Up",
+    "price": "R$19,90",
+    "description": "Embalagem com 25 unidades. Classe 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/545517.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-clean-up-545517.html"
+  },
+  {
+    "sku": "544046",
+    "name": "Rolo Para Esterilização 15cmx50m - HospFlex",
+    "price": "R$65,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/544046.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-15cmx50m-hospflex.html"
+  },
+  {
+    "sku": "106926",
+    "name": "Manta Invólucro Para Esterilização ProtClean - Protdesc",
+    "price": "R$31,90",
+    "description": "Embalagem com 20 unidades. 50x50cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/manta-involucro-para-esterilizacao-protclean-leve-106926.jpg",
+    "url": "https://www.dentalcremer.com.br/manta-involucro-para-esterilizac-o-protclean-protdesc.html"
+  },
+  {
+    "sku": "159370",
+    "name": "Wrap para Esterilização 30x30cm - HospFlex",
+    "price": "R$21,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/159370.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-30x30cm-hospflex.html"
+  },
+  {
+    "sku": "543995",
+    "name": "Rolo Para Esterilização 10cmx100m - HospFlex",
+    "price": "R$68,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-rolo-para-esterilizacao-10cm-100m-hospflex-543995.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-10cmx100m-hospflex.html"
+  },
+  {
+    "sku": "132353",
+    "name": "Estojo para Esterilização Inox Perfurado Autoclavável 20x10x5cm - Golgran",
+    "price": "R$110,90",
+    "description": "Embalagem com 1 estojo autoclavável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-inox-perfurado-autoclavavel-132353-golgran-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-inox-perfurado-autoclavavel-20x10x5cm-golgran-132353.html"
+  },
+  {
+    "sku": "370201",
+    "name": "Escova de Assepsia Riohex Scrub 2% - Rioquímica",
+    "price": "R$4,90",
+    "description": "Embalagem com 1 unidade. (Riohex Scrub). Gliconato de clorexidina 2% (Solução alcóolica).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/370201.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-assepsia-riohex-scrub-2-rioquimica-370201.html"
+  },
+  {
+    "sku": "759389",
+    "name": "Indicador Biológico Biological Test 24horas - 2I",
+    "price": "R$59,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-biological-test-24horas-2i-759389.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-biological-test-24horas-2i-759389.html"
+  },
+  {
+    "sku": "394498",
+    "name": "Envelope Autosselante 150x250mm - Medstéril",
+    "price": "R$45,90",
+    "description": "Embalagem para 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-auto-selante-150x250mm-medsteril-394498-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-150x250mm-medsteril-394498.html"
+  },
+  {
+    "sku": "114500",
+    "name": "Água Destilada para Autoclave - Water Clean",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/114500.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-destilada-para-autoclave-water-clean-114500.html"
+  },
+  {
+    "sku": "143405",
+    "name": "Rolo para Esterilização Add Pack 5cm X 100M - Amcor",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-add-pack-100m-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pack-5cm-x-100m-amcor-143405.html"
+  },
+  {
+    "sku": "549126",
+    "name": "Rolo Para Esterilização 25cmx100m - HospFlex",
+    "price": "R$178,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/angulo-rolo-para-esterilizacao-25cm-100m-hospflex-549126.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-25cmx100m-hospflex.html"
+  },
+  {
+    "sku": "777772",
+    "name": "Envelope Autosselante 55x100mm - Medstéril",
+    "price": "R$19,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-autoselante-55x100mm-200un-papelplastico-medsteril-dental-cremer-777772-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-55x100mm-medsteril.html"
+  },
+  {
+    "sku": "544039",
+    "name": "Rolo Para Esterilização 10cmx50m - HospFlex",
+    "price": "R$39,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/544039.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-10cmx50m-hospflex.html"
+  },
+  {
+    "sku": "549164",
+    "name": "Rolo Para Esterilização 30cmx50m - HospFlex",
+    "price": "R$132,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-30cmx50m-hospflex-549164.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-30cmx50m-hospflex.html"
+  },
+  {
+    "sku": "128939",
+    "name": "Envelope para Esterilização Autosselante 70x230mm - AllPrime",
+    "price": "R$45,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-e-envelope-esterilizacao-autosselante-70x230mm-allprime-128939.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizac-o-autosselante-70x230mm-allprime-128939.html"
+  },
+  {
+    "sku": "544053",
+    "name": "Rolo Para Esterilização 20cmx50m - HospFlex",
+    "price": "R$89,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/544053.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-20cmx50m-hospflex.html"
+  },
+  {
+    "sku": "549133",
+    "name": "Rolo Para Esterilização 30cmx100m - HospFlex",
+    "price": "R$214,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-30cm-100m-hospflex-549133.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-30cmx100m-hospflex.html"
+  },
+  {
+    "sku": "394481",
+    "name": "Envelope Autosselante 90x260mm - Medstéril",
+    "price": "R$27,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-auto-selante-90x260mm-medsteril-394481-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-90x260mm-medsteril-394481.html"
+  },
+  {
+    "sku": "215021",
+    "name": "Rolo Para Esterilização 20cmx50m - Amcor",
+    "price": "R$91,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-p-esterilizacao-200mm-x-50m-amcor-dc-215021-01.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-20cmx50m-amcor.html"
+  },
+  {
+    "sku": "148501",
+    "name": "Rolo para Esterilização 8cm X 100m - Masterdent",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-8cmx100m-148501.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-8cm-x-100m-masterdent-148501.html"
+  },
+  {
+    "sku": "128940",
+    "name": "Envelope para Esterilização Autosselante 90x160mm - AllPrime",
+    "price": "R$27,90",
+    "description": "Embalagem com 100 unidades",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-90-16mm-allprime-128940-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizac-o-autosselante-90x160mm-allprime-128940.html"
+  },
+  {
+    "sku": "544008",
+    "name": "Rolo Para Esterilização 15cmx100m - HospFlex",
+    "price": "R$102,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/folha-rolo-esterilizacao-12cmx100m-hospflex-544008.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-15cmx100m-hospflex.html"
+  },
+  {
+    "sku": "128942",
+    "name": "Envelope para Esterilização Autosselante 90x260mm - AllPrime",
+    "price": "R$50,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-e-envelope-esterilizacao-autosselante-90x260mm-allprime-128942.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizac-o-autosselante-90x260mm-allprime-128942.html"
+  },
+  {
+    "sku": "543919",
+    "name": "Envelope Autosselante 90x260mm - HospFlex",
+    "price": "R$48,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/543919.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-90x260mm-hospflex-543919.html"
+  },
+  {
+    "sku": "549140",
+    "name": "Rolo Para Esterilização 5cmx50m - HospFlex",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/549140.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-5cmx50m-hospflex.html"
+  },
+  {
+    "sku": "394504",
+    "name": "Envelope Autosselante 190x330mm - Medstéril",
+    "price": "R$73,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-esterilizacao-autosselante-190-x-330mm-100-unidades-medsteril-dc-394504-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-190x330mm-medsteril-394504.html"
+  },
+  {
+    "sku": "151833",
+    "name": "Rolo para Esterilização 15cm X 100m - Amcor",
+    "price": "R$118,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-35cm-x-100m-151837.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-15cm-x-100m-amcor-151833.html"
+  },
+  {
+    "sku": "394511",
+    "name": "Envelope Autosselante 240x380mm - Medstéril",
+    "price": "R$98,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-esterilizacao-autosselante-240-x-380mm-100-unidades-medsteril-dc-394511-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-240x380mm-medsteril-394511.html"
+  },
+  {
+    "sku": "549157",
+    "name": "Rolo Para Esterilização 25cmx50m - HospFlex",
+    "price": "R$109,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-250mm-x-50m-hospflex-dc-549157-01.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-25cmx50m-hospflex.html"
+  },
+  {
+    "sku": "128938",
+    "name": "Envelope para Esterilização Autosselante 50x130mm - AllPrime",
+    "price": "R$22,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-e-envelope-esterilizacao-autosselante-50x130mm-allprime-128938.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizac-o-autosselante-50x130mm-allprime-128938.html"
+  },
+  {
+    "sku": "108509",
+    "name": "Estojo para Esterilização Perfurado Tifanny Grande - Lysanda",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fechado-estojo-esterilizacao-perfurado-sterilys-grande-tiffany-lysanda-108505.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-tifanny-grande-lysanda-108509.html"
+  },
+  {
+    "sku": "543964",
+    "name": "Envelope Autosselante 150x250mm - HospFlex",
+    "price": "R$49,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-de-esterilizacao-autosselante-150x250mm-100-unidades-dental-cremer-543964-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-150x250mm-hospflex-543964.html"
+  },
+  {
+    "sku": "148499",
+    "name": "Rolo para Esterilização 10cm X 100m - Masterdent",
+    "price": "R$58,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-8cmx100m-148501.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-10cm-x-100m-masterdent-148499.html"
+  },
+  {
+    "sku": "606799",
+    "name": "Antisséptico Tópico Degermante Riohex 2% - Rioquímica",
+    "price": "R$5,69",
+    "description": "Embalagem com 100ml.\r\nMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.\r\nSE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO\r\nÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-topico-degermante-riohex-2-rioquimica-100ml-606799.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-degermante-riohex-2-rioquimica-606799.html"
+  },
+  {
+    "sku": "142895",
+    "name": "Desinfetante Hospitalar Pronto Uso - Medcare",
+    "price": "R$19,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-hospitalar-pronto-uso-medcare-medcare-dental-cremer-142895.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-hospitalar-pronto-uso-medcare-142895.html"
+  },
+  {
+    "sku": "DC38877",
+    "name": "Bandeja para Esterilização Plástico Colors Pequeno - Golgran",
+    "price": "R$9,90",
+    "description": "Embalagem com 1 unidade. Tamanho 1,5x10,75x23,5cm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/bandeja-para-esterilizacao-plastico-colors-pequeno-1-5x13-7x23-5cm-amarelo-1unid--golgran.jpg",
+    "url": "https://www.dentalcremer.com.br/bandeja-para-esterilizacao-plastico-colors-pequeno-golgran-dc38877.html"
+  },
+  {
+    "sku": "543933",
+    "name": "Envelope Autosselante 190x330mm - HospFlex",
+    "price": "R$127,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-esterilizacao-autosselante-190x330mm-200-unidades-dental-cremer-543933-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-190x330mm-hospflex-543933.html"
+  },
+  {
+    "sku": "770360",
+    "name": "Estojo de Inox para Endodontia Placa Alumínio - Fava",
+    "price": "R$237,90",
+    "description": "Unidade. 20x10x5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-para-endodontia-placa-aluminio-fava-770360-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-para-endodontia-placa-aluminio-fava-770360.html"
+  },
+  {
+    "sku": "394474",
+    "name": "Envelope Autosselante 70x230mm - Medstéril",
+    "price": "R$20,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/394474.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-70x230mm-medsteril-394474.html"
+  },
+  {
+    "sku": "DC25951",
+    "name": "Estojo para Esterilização Perfurado Sterilys Grande - Lysanda",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/108503.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-perfurado-sterilys-grande-lysanda-dc25951.html"
+  },
+  {
+    "sku": "150129",
+    "name": "Envelope para Esterilização Autosselante 55 x 130mm - Microdont",
+    "price": "R$13,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150125.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-55-x-130mm-microdont-150129.html"
+  },
+  {
+    "sku": "150122",
+    "name": "Rolo para Esterilização 50mm x 100M - Microdont",
+    "price": "R$41,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-50mm-x-100m-microdont-150122.html"
+  },
+  {
+    "sku": "820393",
+    "name": "Envelope Autosselante 90x160mm - HospFlex",
+    "price": "R$29,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-esterilizacao-autosselante-9-x-16cm-hospflex-dc-820393-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-90x160mm-hospflex.html"
+  },
+  {
+    "sku": "132930",
+    "name": "Wrap para Esterilização SMS Pesado 50G 90x90cm - Amcor",
+    "price": "R$434,90",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-pesado-50g-90-90-amcor-132930.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-pesado-50g-90x90cm-amcor-132930.html"
+  },
+  {
+    "sku": "963403",
+    "name": "Suporte para Seladora e Rolo para Esterilização Facility - Agir",
+    "price": "R$285,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/963403.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-seladora-e-rolo-para-esterilizac-o-facility-agir.html"
+  },
+  {
+    "sku": "765137",
+    "name": "Papel Crepado para Esterilização 30x30cm - HospFlex",
+    "price": "R$102,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/765137.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterelizac-o-30x30cm-hospflex.html"
+  },
+  {
+    "sku": "432541",
+    "name": "Suporte Para Envelope de Esterilização - Cristófoli",
+    "price": "R$119,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-suporte-para-esterilizacao-cristofoli-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-envelope-de-esterilizacao-cristofoli-432541.html"
+  },
+  {
+    "sku": "117616",
+    "name": "Rolo para Esterilização 8cmx100m - AllPrime",
+    "price": "R$54,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-8cmx100m-allprime-117616.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-8cmx100m-allprime-117616.html"
+  },
+  {
+    "sku": "692792",
+    "name": "Envelope Autosselante 70mmx230mm - HospFlex",
+    "price": "R$40,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/692792.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-70mmx230mm-hospflex.html"
+  },
+  {
+    "sku": "765120",
+    "name": "Papel Crepado para Esterilização 20x20cm - HospFlex",
+    "price": "R$59,90",
+    "description": "Embalagem com 500 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/765120.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterelizac-o-20x20cm-hospflex.html"
+  },
+  {
+    "sku": "215014",
+    "name": "Rolo Para Esterilização 15cmx50m - Amcor",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-p-esterilizacao-150mm-x-50m-amcor-dc-215014-01.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-15cmx50m-amcor.html"
+  },
+  {
+    "sku": "112048",
+    "name": "Óculos de Segurança 3M™ Vision 2000 - Solventum",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/oculos-seguranca-vision-2000-3m-112048.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-seguranca-visiontm-2000-3m-solventum-112048.html"
+  },
+  {
+    "sku": "151836",
+    "name": "Rolo para Esterilização 30cm X 100m - Amcor",
+    "price": "R$248,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-35cm-x-100m-151837.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-30cm-x-100m-amcor-151836.html"
+  },
+  {
+    "sku": "765106",
+    "name": "Rolo para Esterilização 12cmx100m - HospFlex",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-12cmx100m-hospflex-765106-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-12cmx100m-hospflex.html"
+  },
+  {
+    "sku": "127989",
+    "name": "Wrap para Esterilização 40x40cm - Vedamax",
+    "price": "R$32,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wrap-para-esterilizac-o-40x40cm-vedamax-127989-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-40x40cm-vedamax-127989.html"
+  },
+  {
+    "sku": "543957",
+    "name": "Envelope Autosselante 90x260mm - HospFlex",
+    "price": "R$34,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/543957.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-90x260mm-hospflex-543957.html"
+  },
+  {
+    "sku": "117617",
+    "name": "Rolo para Esterilização 10cmx100m - AllPrime",
+    "price": "R$79,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-allprime-117617-dental-cremer-11.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-10cmx100m-allprime-117617.html"
+  },
+  {
+    "sku": "738759",
+    "name": "Envelope Autosselante 150x250mm - HospFlex",
+    "price": "R$72,90",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-de-esterilizacao-autosselante-150x250mm-200-unidade-hospflex-dc-738759-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-150x250mm-hospflex.html"
+  },
+  {
+    "sku": "151835",
+    "name": "Rolo para Esterilização 25cm X 100m - Amcor",
+    "price": "R$207,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-35cm-x-100m-151837.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-25cm-x-100m-amcor-151835.html"
+  },
+  {
+    "sku": "150125",
+    "name": "Envelope para Esterilização Autosselante 150 x 250mm - Microdont",
+    "price": "R$52,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150125.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150125.html"
+  },
+  {
+    "sku": "126254",
+    "name": "Rolo para Esterilização 12cmx50m - HospFlex",
+    "price": "R$46,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-hospflex-126254-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-12cmx50m-hospflex-126254.html"
+  },
+  {
+    "sku": "151837",
+    "name": "Rolo para Esterilização 35cm X 100m - Amcor",
+    "price": "R$290,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-35cm-x-100m-151837.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-35cm-x-100m-amcor-151837.html"
+  },
+  {
+    "sku": "115216",
+    "name": "Rolo Para Esterilização 20cmx100m - HospFlex",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-20cmx100m-hospflex-115216-lovers.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-20cmx100m-hospflex-115216.html"
+  },
+  {
+    "sku": "117619",
+    "name": "Rolo para Esterilização 20cmx100m - AllPrime",
+    "price": "R$159,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-20cmx100m-allprime-117619.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-20cmx100m-allprime-117619.html"
+  },
+  {
+    "sku": "117620",
+    "name": "Rolo para Esterilização 30cmx100m - AllPrime",
+    "price": "R$221,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-30cmx100m-allprime-117620.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-30cmx100m-allprime-117620.html"
+  },
+  {
+    "sku": "214994",
+    "name": "Rolo Para Esterilização 7,5cmx50m - Amcor",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-7-5cmx50m-amcor-214994-1.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-7-5cmx50m-amcor.html"
+  },
+  {
+    "sku": "632132",
+    "name": "Suporte para Rolo de Esterilização Parede - Biotron",
+    "price": "R$178,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/632132.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-rolo-de-esterilizac-o-parede-biotron.html"
+  },
+  {
+    "sku": "127990",
+    "name": "Wrap para Esterilização 50x50cm - Vedamax",
+    "price": "R$50,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wrap-para-esterilizac-o-50x50cm-vedamax-127990-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-50x50cm-vedamax-127990.html"
+  },
+  {
+    "sku": "143406",
+    "name": "Rolo para Esterilização Add Pack 8cmX100m Amcor",
+    "price": "R$63,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-add-pack-100m-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pack-8cm-x-100m-amcor-143406.html"
+  },
+  {
+    "sku": "543971",
+    "name": "Envelope Autosselante 240x380mm - HospFlex",
+    "price": "R$109,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-de-esterilizacao-autosselante-240x380mm-100-unidades-dental-cremer-543971-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-240x380mm-hospflex.html"
+  },
+  {
+    "sku": "107062",
+    "name": "Rolo Esterilização 30cmx100m - Injecta",
+    "price": "R$219,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107062.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-esterilizac-o-30cmx100m-injecta.html"
+  },
+  {
+    "sku": "117614",
+    "name": "Rolo para Esterilização 5cmx100m - AllPrime",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizac-o-5cmx100m-allprime-117614.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-5cmx100m-allprime-117614.html"
+  },
+  {
+    "sku": "543940",
+    "name": "Envelope Autosselante 70x230mm - HospFlex",
+    "price": "R$24,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/543940.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-70x230mm-hospflex.html"
+  },
+  {
+    "sku": "150119",
+    "name": "Rolo para Esterilização 200mm x 100M - Microdont",
+    "price": "R$166,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-100mm-x-100m-microdont-150116.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-200mm-x-100m-microdont-150119.html"
+  },
+  {
+    "sku": "559279",
+    "name": "Envelope Autosselante 140x290mm - HospFlex",
+    "price": "R$45,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-de-esterilizacao-autosselante-140x290mm-100-unidades-hospflex-dc-559279-02.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-140x290mm-hospflex.html"
+  },
+  {
+    "sku": "107061",
+    "name": "Rolo Para Esterilização 25cmx100m - Injecta",
+    "price": "R$169,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/107061.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-esterilizac-o-25cmx100m-injecta.html"
+  },
+  {
+    "sku": "765113",
+    "name": "Fita para Autoclave - HospFlex",
+    "price": "R$6,19",
+    "description": "Embalagem com 1 unidade. 19mmx30m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fita-p-autoclave-19mmx30m-dental-cremer-765113-01.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-para-autoclave-hospflex-765113.html"
+  },
+  {
+    "sku": "159394",
+    "name": "Wrap para Esterilização 50x50cm 40G - HospFlex",
+    "price": "R$57,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/159394.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-50x50cm-hospflex.html"
+  }
+]

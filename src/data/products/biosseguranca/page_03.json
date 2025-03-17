@@ -1,0 +1,765 @@
+[
+  {
+    "sku": "DC39183",
+    "name": "Kit Estojo para Esterilização Sterilys Plus com Glitter - Lysanda",
+    "price": "R$141,90",
+    "description": "Kit com 5 estojos (1 grande, 2 pequenos e 2 périos) e 1 bandeja média.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-estojo-para-esterelizacao-sterilys-plus-com-glitter-lysanda-dc39183.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-estojo-para-esterelizacao-sterilys-plus-com-glitter-lysanda-dc39183.html"
+  },
+  {
+    "sku": "979565",
+    "name": "Indicador Químico - Essence Dental",
+    "price": "R$41,90",
+    "description": "Embalagem com 50 unidades. Classe 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/979565.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-essence-dental.html"
+  },
+  {
+    "sku": "DC39182",
+    "name": "Kit Estojo para Esterilização Sterilys Plus - Lysanda",
+    "price": "R$132,90",
+    "description": "Kit com 5 estojos (1 grande, 2 pequenos e 2 périos) e 1 bandeja média.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-estojo-para-esterelizacao-sterilys-plus-lysanda-dc39182.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-estojo-para-esterelizacao-sterilys-plus-lysanda-dc39182.html"
+  },
+  {
+    "sku": "119232",
+    "name": "Estojo para Esterilização de Instrumentos Lm-Servo 5 - Quinelato",
+    "price": "R$289,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-de-instrumentos-lm-servo-5-quinelato-119232-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-de-instrumentos-lm-servo-5-quinelato-119232.html"
+  },
+  {
+    "sku": "DC25658",
+    "name": "Estojo para Esterilização Steribox 1 - Prisma",
+    "price": "R$59,90",
+    "description": "Embalagem com 2 unidades. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-steribox-1-prisma-dc25658-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-steribox-1-prisma-dc25658.html"
+  },
+  {
+    "sku": "DC38834",
+    "name": "Estojo para Esterilização Plástico com Divisórias - Indusbello",
+    "price": "R$34,90",
+    "description": "Embalagem com 1 unidade. Medidas 190x95x34mm",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-plastico-com-divisorias-rosa-bebe-indusbello-147104.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizacao-plastico-com-divisorias-indusbello-dc38834.html"
+  },
+  {
+    "sku": "DC29639",
+    "name": "Estojo para Esterilização de Instrumento Sterilys Grande - Lysanda",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-de-instrumento-sterilys-grande-vinho-bordo-lysanda-122417-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-de-instrumento-sterilys-grande-lysanda-dc29639.html"
+  },
+  {
+    "sku": "DC39181",
+    "name": "Kit Estojo para Esterilização Plástico Sterilys Colorido com Glitter  - Lysanda",
+    "price": "R$103,90",
+    "description": "Kit com 3 estojos (pequeno, grande e pério) e 1 bandeja média.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-estojo-para-esterelizacao-plastico-sterilys-colorido-com-glitter-lysanda-dc39181.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-estojo-para-esterelizacao-plastico-sterilys-colorido-com-glitter-lysanda-dc39181.html"
+  },
+  {
+    "sku": "615982",
+    "name": "Estojo Inox Liso G101 - Golgran",
+    "price": "R$116,90",
+    "description": "Unidade. 20x10x5cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-liso-golgran-615982.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-liso-golgran-615982.html"
+  },
+  {
+    "sku": "119841",
+    "name": "Estojo em Inox Perfurado Econox 20X10X5cm - Fami",
+    "price": "R$189,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perfurado-econox-fami-119841.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-em-inox-perfurado-econox-20x10x5cm-fami-119841.html"
+  },
+  {
+    "sku": "240276",
+    "name": "Estojo Inox Liso - Fava",
+    "price": "R$80,90",
+    "description": "Unidade. 18x08x03cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/240276.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-liso-fava-240276.html"
+  },
+  {
+    "sku": "112083",
+    "name": "Estojo para Esterilização Inox Liso Cirúrgico - Fava",
+    "price": "R$223,90",
+    "description": "Unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-esterilizacao-inox-28x14x6xliso-cirurgico-fava-112083.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-inox-liso-cirurgico-fava-112083.html"
+  },
+  {
+    "sku": "512748",
+    "name": "Estojo Inox Perfurado - Fava",
+    "price": "R$525,90",
+    "description": "Unidade. 32x16x8cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-inox-perfurado-fava-aberto-512748.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-perfurado-fava-512748.html"
+  },
+  {
+    "sku": "770414",
+    "name": "Estojo de Inox para Implante Perfurado Dias PRF - Fava",
+    "price": "R$1.388,90",
+    "description": "Unidade. 26x12x6cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770414_636090171821304160.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-para-implante-perfurado-dias-prf-fava.html"
+  },
+  {
+    "sku": "770612",
+    "name": "Estojo de Inox Pefurado - Fava",
+    "price": "R$402,90",
+    "description": "Unidade. 30x16x8cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770612.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-pefurado-fava-770612.html"
+  },
+  {
+    "sku": "770544",
+    "name": "Estojo de Inox Perfurado Milleniun - Fava",
+    "price": "R$114,90",
+    "description": "Unidade. 20x10x3cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/770544.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-de-inox-perfurado-milleniun-fava-770544.html"
+  },
+  {
+    "sku": "615975",
+    "name": "Estojo Inox Liso - Golgran",
+    "price": "R$85,90",
+    "description": "Unidade. 18x8x3cm. Ref: 88-5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/615975.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-inox-liso-golgran-615975.html"
+  },
+  {
+    "sku": "112045",
+    "name": "Óculos de Segurança 3M™ Virtua Incolor - Solventum",
+    "price": "R$36,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112045.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-seguranca-virtuatm-incolor-3m-solventum-112045.html"
+  },
+  {
+    "sku": "295269",
+    "name": "Antisséptico Tópico Degermante Riohex 2% - Rioquímica",
+    "price": "R$31,90",
+    "description": "Embalagem com 1 litro. \r\nMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.\r\nSE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO\r\nÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-topico-degermante-riohex-rioquimica-295269.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-degermante-riohex-2-rioquimica-295269.html"
+  },
+  {
+    "sku": "129500",
+    "name": "Indicador Biológico AllPrime 8h - AllPrime",
+    "price": "R$57,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-allprime-8h-allprime-129500-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-allprime-8h-allprime-129500.html"
+  },
+  {
+    "sku": "600582",
+    "name": "Saco Plástico Sacolé - Segplast",
+    "price": "R$1,89",
+    "description": "Embalagem com 100 unidades. 4cm x 23cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-plastico-4cm-x-23cm-100-unidades-segplast-dc-600582-01.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-plastico-sacole-segplast-600582.html"
+  },
+  {
+    "sku": "115679",
+    "name": "Indicador Químico Bowie & Dick Clean Test - Clean Up",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115679.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-bowie-dick-clean-test-clean-up-115679.html"
+  },
+  {
+    "sku": "122657",
+    "name": "Indicador Químico Integrador Classe 5 - 2I",
+    "price": "R$135,90",
+    "description": "Embalagem com 250 unidades. Classe 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-quimico-integrador-2i-classe-5-250-unid-122657.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-integrador-2i-122657.html"
+  },
+  {
+    "sku": "148474",
+    "name": "Saco para Lixo Hospitalar 15L - Evobag",
+    "price": "R$28,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-hospitalar-15l-evobag.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-15l-evobag-148474.html"
+  },
+  {
+    "sku": "600599",
+    "name": "Saco Plástico Sacolé - Segplast",
+    "price": "R$2,29",
+    "description": "Embalagem com 100 unidades. 5cm x 23cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-plastico-5cm-x-23cm-100-unidades-segplast-dc-600599-01.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-plastico-sacole-segplast-600599.html"
+  },
+  {
+    "sku": "112935",
+    "name": "Óculos de Proteção Incolor - Preven",
+    "price": "R$6,29",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/oculos-de-protec-o-incolor-preven-112935-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-protec-o-incolor-preven-112935.html"
+  },
+  {
+    "sku": "295658",
+    "name": "Desinfetante Germi Rio - Rioquímica",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/295658.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-germi-rio-rioquimica-295658.html"
+  },
+  {
+    "sku": "607949",
+    "name": "Fita para Autoclave - SSPlus",
+    "price": "R$6,90",
+    "description": "Embalagem com 1 unidade. 19mmx30m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fita-para-autoclave-19mm-x-30m-ssplus-607949.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-para-autoclave-ssplus-607949.html"
+  },
+  {
+    "sku": "961393",
+    "name": "Antisséptico Riohex 2% Solução Alcóolica - Rioquímica",
+    "price": "R$33,90",
+    "description": "Embalagem com 1 litro. Gliconato de clorexidina 2(Solução alcóolica).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/961393.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-riohex-2-soluc-o-alcoolica-rioquimica-961393.html"
+  },
+  {
+    "sku": "689044",
+    "name": "Detergente Enzimático Riozyme Eco - Rioquímica",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-riozyme-eco-rioquimica-689044-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-riozyme-eco-rioquimica-689044.html"
+  },
+  {
+    "sku": "702729",
+    "name": "Indicador Biológico Bioindicador 24 horas - Maquira",
+    "price": "R$62,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-bio-indicador-maquira-702729.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-bio-indicador-maquira.html"
+  },
+  {
+    "sku": "161861",
+    "name": "Óculos de Proteção A700 Incolor XTR - UVEX",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/161861.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-protec-o-a700-incolor-xtr-uvex-161861.html"
+  },
+  {
+    "sku": "122640",
+    "name": "Indicador Químico Integrador Classe 5 - 2I",
+    "price": "R$39,90",
+    "description": "Embalagem com 25 unidades. Classe 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-quimico-integrador-2i-classe-5-25-unidades-122640.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-integrador-2i-122640.html"
+  },
+  {
+    "sku": "623505",
+    "name": "Desincrustante Oximax - Rioquímica",
+    "price": "R$67,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/623505.jpg",
+    "url": "https://www.dentalcremer.com.br/desincrustante-oximax-rioquimica-623505.html"
+  },
+  {
+    "sku": "104793",
+    "name": "Saco Plástico Sacolé - Segplast",
+    "price": "R$21,90",
+    "description": "Embalagem com 1000 unidades. 5cm x 23cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-plastico-5cm-x-23cm-1000-unidades-segplast-dc-104793-01.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-plastico-sacole-segplast-104793.html"
+  },
+  {
+    "sku": "560824",
+    "name": "Desinfetante Germicidal - Asfer",
+    "price": "R$43,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-germicidal-asfer-560824.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-germicidal-asfer-560824.html"
+  },
+  {
+    "sku": "295665",
+    "name": "Desinfetante Germi Rio - Rioquímica",
+    "price": "R$68,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/295665.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-germi-rio-rioquimica-295665.html"
+  },
+  {
+    "sku": "554045",
+    "name": "Óculos de Proteção para Paciente - MMO",
+    "price": "R$134,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/554045_2.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-protec-o-para-paciente-mmo-554045.html"
+  },
+  {
+    "sku": "148472",
+    "name": "Saco para Lixo Hospitalar 30L - Evobag",
+    "price": "R$40,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-hospitalar-30l-evobag.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-30l-evobag-148472.html"
+  },
+  {
+    "sku": "148471",
+    "name": "Saco para Lixo Hospitalar 50L - Evobag",
+    "price": "R$56,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-hospitalar-50l-evobag.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-50l-evobag-148471.html"
+  },
+  {
+    "sku": "135188",
+    "name": "Álcool 70% Saneante - Prolink",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-70-saneante-5l-prolink-dc-101318-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-70-saneante-prolink-135188.html"
+  },
+  {
+    "sku": "126286",
+    "name": "Escova para Assepsia Seca - Vic Pharma",
+    "price": "R$2,99",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-para-assepsia-seca-vic-pharma-126286.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-para-assepsia-seca-vic-pharma-126286.html"
+  },
+  {
+    "sku": "118262",
+    "name": "Indicador Biológico Steritest 24horas - Cristófoli",
+    "price": "R$66,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/teste-indicador-biologico-steritest-cristofoli-dc-118262-01.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-steritest-24horas-cristofoli-118262.html"
+  },
+  {
+    "sku": "606768",
+    "name": "Antisséptico Tópico Riohex 0,5% - Rioquímica",
+    "price": "R$23,90",
+    "description": "Embalagem com 1 litro. Gliconato de clorexidina 0,5 (Solução Alcóolica).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-antisseptico-riohex-05-clorexidina-solucao-alcoolica-1l-rioquimica-dc-606768-01.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-riohex-0-5-rioquimica-606768.html"
+  },
+  {
+    "sku": "121968",
+    "name": "Desinfetante Perax Rio 0,2% Pronto Uso 1L - Rioquímica",
+    "price": "R$68,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-perax-rio-0-2-pronto-uso-1l-rioquimica-121968-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-perax-rio-0-2-pronto-uso-1l-rioquimica-121968.html"
+  },
+  {
+    "sku": "140525",
+    "name": "Saco para Lixo Hospitalar Branco 110L/20Kg - Zibag",
+    "price": "R$103,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-branco-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-branco-110l-20kg-zibag-140525.html"
+  },
+  {
+    "sku": "101334",
+    "name": "Detergente Enzimático Zymedet Gold 5-E - Prolink",
+    "price": "R$124,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101334.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-zymedet-gold-5-e-prolink-101334.html"
+  },
+  {
+    "sku": "295191",
+    "name": "Antisséptico Tópico PVPI Riodeine Dermo Suave - Rioquímica",
+    "price": "R$98,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/295191.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-pvpi-riodeine-dermo-suave-rioquimica-295191.html"
+  },
+  {
+    "sku": "121876",
+    "name": "Álcool 70% 1L - Vic Pharma",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-70-1l-vic-pharma-121876-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-70-1l-vic-pharma-121876.html"
+  },
+  {
+    "sku": "547924",
+    "name": "Desinfetante Germi Rio - Rioquímica",
+    "price": "R$30,90",
+    "description": "Embalagem frasco borrifador com 750ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/547924.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-germi-rio-rioquimica-547924.html"
+  },
+  {
+    "sku": "145040",
+    "name": "Indicador Químico Helix - Boma",
+    "price": "R$1.363,90",
+    "description": "Embalagem com 1 pistola e 250 tiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-quimico-helix-250unid--145040.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-helix-boma-145040.html"
+  },
+  {
+    "sku": "100567",
+    "name": "Indicador Biológico Bioindicador 8 horas - Maquira",
+    "price": "R$68,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-bio-maquira.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-bio-maquira.html"
+  },
+  {
+    "sku": "341317",
+    "name": "Desincrustante para Autoclave Clave Clean - Asfer",
+    "price": "R$12,90",
+    "description": "Embalagem com 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/341317.jpg",
+    "url": "https://www.dentalcremer.com.br/desincrustante-para-autoclave-clave-clean-asfer-341317.html"
+  },
+  {
+    "sku": "148470",
+    "name": "Saco para Lixo Hospitalar 100L - Evobag",
+    "price": "R$180,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-hospitalar-100l-evobag.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-100l-evobag-148470.html"
+  },
+  {
+    "sku": "386943",
+    "name": "Detergente Enzimático - Asfer",
+    "price": "R$12,90",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-asfer-386943-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-asfer-386943.html"
+  },
+  {
+    "sku": "124986",
+    "name": "Lenço para Assepsia Álcool Swab - Uniqmed",
+    "price": "R$6,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lenco-para-assepsia-alcool-swab-unq-124986-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lenco-para-assepsia-alcool-swab-uniqmed-124986.html"
+  },
+  {
+    "sku": "907308",
+    "name": "Indicador Biológico 24horas - SSPlus",
+    "price": "R$59,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-24horas-ssplus-907308-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-ssplus.html"
+  },
+  {
+    "sku": "113775",
+    "name": "Detergente Enzimático Zymedet Gold 5-E - Prolink",
+    "description": "Embalagem com 1 lItro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-zymedet-gold-5-e-prolink-113775.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-zymedet-gold-5-e-prolink-113775.html"
+  },
+  {
+    "sku": "342468",
+    "name": "Sabonete Líquido Protex - Colgate",
+    "price": "R$49,90",
+    "description": "Embalagem com 1 litro. Válvula Pump.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabonete-liquido-protex-colgate-342468.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-liquido-protex-colgate-342468.html"
+  },
+  {
+    "sku": "546026",
+    "name": "Detergente Enzimático Riozyme IV e Neutro - Rioquímica",
+    "price": "R$87,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-riozyme-iv-e-neutro-1l-rioquimica-dc-546026-01.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-riozyme-iv-e-neutro-rioquimica-546026.html"
+  },
+  {
+    "sku": "295412",
+    "name": "Alcool Etílico 70% Saneante Rialcool 70 - Rioquímica",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-rialcool-70-1l-rioquimica-dc-295412-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-etilico-70-saneante-rialcool-70-rioquimica-295412.html"
+  },
+  {
+    "sku": "606591",
+    "name": "Álcool Etílico 70% Antisséptico Rialcool 70 - Rioquímica",
+    "price": "R$3,69",
+    "description": "Embalagem com 100ml. É UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULAMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-rialcool-70-100ml-rioquimica-dc-606591-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-etilico-70-antisseptico-rialcool-70-rioquimica-606591.html"
+  },
+  {
+    "sku": "546934",
+    "name": "Indicador Químico Integrador Steam Plus Classe 5 - Cristófoli",
+    "price": "R$261,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-quimico-integrador-steam-plus-classe-5-cristofoli-546934-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-integrador-steam-plus-classe-5-cristofoli-546934.html"
+  },
+  {
+    "sku": "140511",
+    "name": "Saco para Lixo Reciclado Preto 110L/18Kg - Zibag",
+    "price": "R$51,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-preto-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-reciclado-preto-110l-18kg-zibag-140511.html"
+  },
+  {
+    "sku": "140526",
+    "name": "Saco para Lixo Hospitalar Branco 110L/33Kg - Zibag",
+    "price": "R$126,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-branco-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-branco-110l-33kg-zibag-140526.html"
+  },
+  {
+    "sku": "161830",
+    "name": "Óculos de Proteção Ultraspec 2000 Incolor - UVEX",
+    "price": "R$61,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/161830.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-protec-o-ultraspec-2000-incolor-uvex.html"
+  },
+  {
+    "sku": "140535",
+    "name": "Saco para Lixo Tóxico Laranja 110L/33Kg - Zibag",
+    "price": "R$126,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-toxico-laranja-110l-33kg-zibag-dental-cremer-140535.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-toxico-laranja-110l-33kg-zibag-140535.html"
+  },
+  {
+    "sku": "140534",
+    "name": "Saco para Lixo Preto Leve 110L - Zibag",
+    "price": "R$36,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-preto-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-preto-leve-110l-zibag-140534.html"
+  },
+  {
+    "sku": "140531",
+    "name": "Saco Hamper Verde com Fita 120L/20Kg - Zibag",
+    "price": "R$68,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-hamper-verde-com-fita-120l-20kg-zibag-dental-cremer-140531.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-hamper-verde-com-fita-120l-20kg-zibag-140531.html"
+  },
+  {
+    "sku": "140530",
+    "name": "Saco Hamper Azul com Fita 120L/20Kg - Zibag",
+    "price": "R$68,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-hamper-azul-com-fita-120l-20kg-zibag-dental-cremer-140530.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-hamper-azul-com-fita-120l-20kg-zibag-140530.html"
+  },
+  {
+    "sku": "140512",
+    "name": "Saco para Lixo Reciclado Preto 110L/26Kg - Zibag",
+    "price": "R$66,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-preto-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-reciclado-preto-110l-26kg-zibag-140512.html"
+  },
+  {
+    "sku": "138581",
+    "name": "Indicador Químico Integrador Classe 5 - 2I",
+    "description": "Embalagem com 25 unidades. Classe 5.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-quimico-integrador-2i-classe-5-25-unidades-122640.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-integrador-2i-138581.html"
+  },
+  {
+    "sku": "140524",
+    "name": "Saco para Lixo Hospitalar Branco 110L/15Kg - Zibag",
+    "price": "R$80,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-branco-zibag-dental-cremer-1140524.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-hospitalar-branco-110l-15kg-zibag-140524.html"
+  },
+  {
+    "sku": "140529",
+    "name": "Saco Hamper Vermelho com Fita 120L/20Kg - Zibag",
+    "price": "R$68,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-hamper-vermelho-com-fita-120l-20kg-zibag-dental-cremer-140529.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-hamper-vermelho-com-fita-120l-20kg-zibag-140529.html"
+  },
+  {
+    "sku": "140516",
+    "name": "Saco para Lixo Reciclado Preto ABNT 110L/50Kg - Zibag",
+    "price": "R$54,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-preto-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-reciclado-preto-abnt-110l-50kg-zibag-140516.html"
+  },
+  {
+    "sku": "140520",
+    "name": "Saco para Lixo Reciclado Branco 110L/26Kg - Zibag",
+    "price": "R$76,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-branco-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-reciclado-branco-110l-26kg-zibag-140520.html"
+  },
+  {
+    "sku": "606812",
+    "name": "Antisséptico Tópico Degermante Riohex 2% - Rioquímica",
+    "price": "R$3,69",
+    "description": "Embalagem com 30ml. \r\nMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.\r\nSE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO\r\nÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/riohex-antisseptico-topico-demergance-rioquimica-606812.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-degermante-riohex-2-rioquimica-606812.html"
+  },
+  {
+    "sku": "140522",
+    "name": "Saco para Lixo Azul 110L/35Kg - Zibag",
+    "price": "R$99,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-branco-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-azul-110l-35kg-zibag-140522.html"
+  },
+  {
+    "sku": "140518",
+    "name": "Saco para Lixo Reciclado Branco 110L/12Kg - Zibag",
+    "price": "R$45,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-branco-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-reciclado-branco-110l-12kg-zibag-140518.html"
+  },
+  {
+    "sku": "140532",
+    "name": "Saco Hamper Amarelo com Fita 120L/20Kg - Zibag",
+    "price": "R$68,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-hamper-amarelo-com-fita-120l-20kg-zibag-dental-cremer-140532.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-hamper-amarelo-com-fita-120l-20kg-zibag-140532.html"
+  },
+  {
+    "sku": "606522",
+    "name": "Desinfetante Glutaron 2% 32 dias - Rioquímica",
+    "price": "R$34,90",
+    "description": "Embalagem com 1 litro de desinfetante + 1 pó ativador de 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606522.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-glutaron-32-dias-rioquimica-606522.html"
+  },
+  {
+    "sku": "119073",
+    "name": "Indicador Químico Integrador Classe 6 - 2I",
+    "price": "R$99,90",
+    "description": "Embalagem com 25 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-quimico-integrador-2i-classe-6-25-unid-119073.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-integrador-2i-119073.html"
+  },
+  {
+    "sku": "140517",
+    "name": "Saco para Lixo Reciclado Preto 110L/20Kg - Zibag",
+    "price": "R$75,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-preto-zibag-dental-cremer-140517.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-reciclado-preto-110l-20kg-zibag-140517.html"
+  },
+  {
+    "sku": "140510",
+    "name": "Saco para Lixo Reciclado Preto 110L/12Kg - Zibag",
+    "price": "R$43,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/saco-para-lixo-reciclado-preto-zibag-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/saco-para-lixo-reciclado-preto-110l-12kg-zibag-140510.html"
+  },
+  {
+    "sku": "129957",
+    "name": "Indicador Biológico Clicktest 24 horas - Maxximed",
+    "price": "R$71,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-clicktest-24-horas-maxximed-129957-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-biologico-clicktest-24-horas-maxximed-129957.html"
+  },
+  {
+    "sku": "606423",
+    "name": "Álcool Iodado 0,1% - Rioquímica",
+    "price": "R$32,90",
+    "description": "Embalagem com 1 litro.MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606423.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-iodado-0-1-rioquimica-606423.html"
+  },
+  {
+    "sku": "689051",
+    "name": "Detergente Enzimático Riozyme Eco - Rioquímica",
+    "price": "R$205,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-riozyme-eco-rioquimica-689051.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-riozyme-eco-rioquimica-689051.html"
+  },
+  {
+    "sku": "119074",
+    "name": "Indicador Químico Integrador Classe 6 - 2I",
+    "price": "R$283,90",
+    "description": "Embalagem com 250 unidades. Classe 6.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-quimico-integrador-classe-6-250-unid-2i-119074.jpg",
+    "url": "https://www.dentalcremer.com.br/indicador-quimico-integrador-2i-119074.html"
+  },
+  {
+    "sku": "372106",
+    "name": "Escova de Assepsia com PVPI Riodeine Scrub - Rioquímica",
+    "price": "R$5,90",
+    "description": "Embalagem com 1 unidade. Iodopolividona 10% (solução com tensoativos).\r\nMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 576/2021. AFE Nº 1.01.520-1.\r\nSE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO.\r\nÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. \r\nLEIA A BULA.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/372106.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-assepsia-com-pvpi-riodeine-scrub-rioquimica-372106.html"
+  },
+  {
+    "sku": "386936",
+    "name": "Detergente Enzimático - Asfer",
+    "price": "R$43,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-asfer-386936-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-asfer-386936.html"
+  },
+  {
+    "sku": "137939",
+    "name": "Indicador Biológico Biological Test 24horas - 2I",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/indicador-biologico-biological-test-2i-dc-759389-01.jpg",
+    "url": "https://www.dentalcremer.com.br/lovers-indicador-biologico-biological-test-24horas-2i-137939.html"
+  },
+  {
+    "sku": "137601",
+    "name": "Óculos de Proteção - SSPlus",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/oculos-protecao-ssplus-dental-cremer-299960.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-protecao-ssplus-137601.html"
+  },
+  {
+    "sku": "100848",
+    "name": "Detergente Enzimático Riozyme Pronto Uso - Rioquímica",
+    "price": "R$58,90",
+    "description": "Embalagem frasco borrifador com 750ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-riozyme-pronto-p-uso-750ml-rioquimica-dc-100848-01.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-riozyme-pronto-uso-rioquimica-100848.html"
+  },
+  {
+    "sku": "132148",
+    "name": "Desinfetante Advanced Med 2L - Advanced Med",
+    "price": "R$32,90",
+    "description": "Embalagem com 2 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-advanced-med-2l-advanced-med-132148-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-advanced-med-2l-advanced-med-132148.html"
+  },
+  {
+    "sku": "129357",
+    "name": "Água Estéril para Injeção 1L - BEKER",
+    "price": "R$355,90",
+    "description": "Embalagem com 14 unidades. Bolsa.\r\nAtenção! Este produto possui venda restrita ao profissional prescritor, devidamente inscrito em Conselho de Classe.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/anestesico_semg.jpg",
+    "url": "https://www.dentalcremer.com.br/agua-esteril-para-injetaveis-1000ml-beker-129357.html"
+  },
+  {
+    "sku": "185935",
+    "name": "Fita para Autoclave 3M™ Comply™ 1322 - Solventum",
+    "price": "R$47,90",
+    "description": "Embalagem com 1 unidade. 18mmX55m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-fita-para-autoclave-3m-comply-1322-3m-185935.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-para-autoclave-3m-solventum-complytm-1322-3m-solventum-185935.html"
+  }
+]

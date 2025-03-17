@@ -1,0 +1,747 @@
+[
+  {
+    "sku": "101356",
+    "name": "Álcool Gel 70% Antisséptico Septpro - Prolink",
+    "price": "R$1,79",
+    "description": "Embalagem com 90g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101356.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-gel-70-antisseptico-septpro-prolink-101356.html"
+  },
+  {
+    "sku": "132150",
+    "name": "Detergente Smart Advanced Med 1L - Advanced Med",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-smart-advanced-med-1l-advanced-med-132150-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-smart-advanced-med-1l-advanced-med-132150.html"
+  },
+  {
+    "sku": "101361",
+    "name": "Loção Aquosa Septhex Dermo Suave 0,2% - Prolink",
+    "price": "R$2,09",
+    "description": "Embalagem com 100ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/locao-aquosa-septhex-dermo-suave-02-100ml-prolink-dental-cremer-101361-01.jpg",
+    "url": "https://www.dentalcremer.com.br/loc-o-aquosa-septhex-dermo-suave-0-2-prolink-101361.html"
+  },
+  {
+    "sku": "753240",
+    "name": "Protetor Plástico Sleeve para Fotopolimerizador Radii Cal - SDI",
+    "price": "R$651,90",
+    "description": "Embalagem com 1000 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-plastico-p-radii-cal-1000un-dental-cremer-753240-01.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-plastico-sleeve-para-fotopolimerizador-radii-cal-sdi-753240.html"
+  },
+  {
+    "sku": "138493",
+    "name": "Lençol Descartável com Elástico Branco - Tamanho Único - ANADONA",
+    "price": "R$15,90",
+    "description": "Embalagem Contém: 10 Unidades de Lençol Descartável TNT com Elástico",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lencol-descartavel-com-elastico-branco-ana-138493-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-descartavel-com-elastico-branco-anadona-138493.html"
+  },
+  {
+    "sku": "625219",
+    "name": "Detergente Enzimático Riozyme IV e Neutro - Rioquímica",
+    "price": "R$422,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/625219.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-riozyme-iv-e-neutro-rioquimica-625219.html"
+  },
+  {
+    "sku": "109100",
+    "name": "Desinfetante Germi Rio Wipes Flow Pack - Rioquímica",
+    "price": "R$30,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-germi-rio-wipes-flowpack-rioquimica-109100-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-germi-rio-wipes-flow-pack-rioquimica-109100.html"
+  },
+  {
+    "sku": "606584",
+    "name": "Álcool Etílico 70% Antisséptico Rialcool 70 - Rioquímica",
+    "price": "R$20,90",
+    "description": "Embalagem com 1 litro.É UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULAMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606584.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-etilico-70-antisseptico-rialcool-70-rioquimica-606584.html"
+  },
+  {
+    "sku": "626940",
+    "name": "Antisséptico Tópico Riohex 1% - Ríoquímica",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 litro. Gliconato de clorexidina 1 (Solução Aquosa).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-topico-riohex-1-rioquimica-626940.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-riohex-1-rioquimica-626940.html"
+  },
+  {
+    "sku": "135191",
+    "name": "Álcool Gel 70% Antisséptico Septpro - Prolink",
+    "description": "Embalagem com 4,4Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101360.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-gel-70-antisseptico-septpro-prolink-135191.html"
+  },
+  {
+    "sku": "606485",
+    "name": "Detergente Deter Rio Pronto Uso - Rioquímica",
+    "price": "R$94,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-deter-rio-5l-dental-cremer-606485-01.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-deter-rio-pronto-uso-rioquimica-606485.html"
+  },
+  {
+    "sku": "132153",
+    "name": "Sabonete Líquido Antisséptico Prata Advanced Silver Care 500ml - Advanced Med",
+    "price": "R$46,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabonete-liquido-antisseptico-prata-advanced-silver-care-500ml-advanced-med-132153.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-liquido-antisseptico-prata-advanced-silver-care-500ml-advanced-med-132153.html"
+  },
+  {
+    "sku": "121969",
+    "name": "Desinfetante Perax Rio 0,2% Pronto Uso 5L - Rioquímica",
+    "price": "R$249,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-perax-rio-0-2-pronto-uso-5l-rioquimica-121969-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-perax-rio-0-2-pronto-uso-5l-rioquimica-121969.html"
+  },
+  {
+    "sku": "161885",
+    "name": "Óculos de Proteção Sae Incolor - PROT-CAP",
+    "price": "R$18,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/161885.jpg",
+    "url": "https://www.dentalcremer.com.br/oculos-de-protec-o-sae-incolor-prot-cap-161885.html"
+  },
+  {
+    "sku": "145466",
+    "name": "Escova para Limpeza de Broca - AF do Brasil",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-para-limpeza-de-broca-aaf-145466.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-para-limpeza-de-broca-af-do-brasil-145466.html"
+  },
+  {
+    "sku": "606751",
+    "name": "Antisséptico Tópico Riohex 0,5% - Rioquímica",
+    "price": "R$3,19",
+    "description": "Embalagem com 30ml. Gliconato de clorexidina 0,5 (Solução Alcóolica).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606751.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-riohex-0-5-rioquimica-606751.html"
+  },
+  {
+    "sku": "101345",
+    "name": "Sabonete Cremoso Septderm - Prolink",
+    "price": "R$35,90",
+    "description": "Embalagem com 5 litros. Aroma Erva Doce.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabonete-cremoso-septderm-erva-doce-5l-dental-cremer-101345-01.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-cremoso-septderm-prolink-101345.html"
+  },
+  {
+    "sku": "804324",
+    "name": "Desinfetante Bactspray - DCMA",
+    "price": "R$44,90",
+    "description": "Embalagem com 400ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/804324.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-bactspray-dcma-804324.html"
+  },
+  {
+    "sku": "606621",
+    "name": "Degermante PVPI Riodeine Dermo Suave - Rioquímica",
+    "price": "R$12,90",
+    "description": "Embalagem com 100ml.MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606621.jpg",
+    "url": "https://www.dentalcremer.com.br/degermante-pvpi-riodeine-dermo-suave-rioquimica-606621.html"
+  },
+  {
+    "sku": "295672",
+    "name": "Desincrustante Ortofosfato Trissódico Rio 93 - Rioquímica",
+    "price": "R$107,90",
+    "description": "Embalagem com 1kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/295672.jpg",
+    "url": "https://www.dentalcremer.com.br/desincrustante-ortofosfato-trissodico-rio-93-rioquimica-295672.html"
+  },
+  {
+    "sku": "101363",
+    "name": "Loção Aquosa Septhex Dermo Suave 0,2% - Prolink",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101363.jpg",
+    "url": "https://www.dentalcremer.com.br/loc-o-aquosa-septhex-dermo-suave-0-2-prolink-101363.html"
+  },
+  {
+    "sku": "606539",
+    "name": "Desinfetante Glutaron 32 dias - Rioquímica",
+    "price": "R$95,90",
+    "description": "Embalagem com 5 litros de desinfetante + Pó ativador de 20g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-glutaron-32-dias-rioquimica-606539-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-glutaron-32-dias-rioquimica-606539.html"
+  },
+  {
+    "sku": "DC30179",
+    "name": "Disco de PMMA para CAD/CAM Zirkonzahn Multicolor 16mm - Celmat",
+    "price": "R$385,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-pmma-para-cadcam-zirkonzahn-multicolor-16mm-celmat-DC30179.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-pmma-para-cad-cam-zirkonzahn-multicolor-16mm-celmat-dc30179.html"
+  },
+  {
+    "sku": "132149",
+    "name": "Desinfetante Advanced Med Foam Espuma 500ml - Advanced Med",
+    "price": "R$35,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-advanced-med-foam-espuma-500ml-advanced-med-132149-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-advanced-med-foam-espuma-500ml-advanced-med-132149.html"
+  },
+  {
+    "sku": "125674",
+    "name": "Antisséptico Gliconato de Clorexidina 4% Degermante - Vic Pharma",
+    "price": "R$57,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-gliconato-clorexidina-4-degermante-vic-pharma-1L-125674.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-gliconato-de-clorexidina-4-degermante-vic-pharma-125674.html"
+  },
+  {
+    "sku": "107613",
+    "name": "Protetor de Cadeira com Elástico 20GR - Medis",
+    "price": "R$61,90",
+    "description": "Embalagem com 10 unidades. 2,00 x 0,90mt.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-de-cadeira-c-elastico-20gr-dental-cremer-107613-02.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-de-cadeira-com-elastico-20gr-medis-107613.html"
+  },
+  {
+    "sku": "109739",
+    "name": "Desincrustante Oxi Remov - Vic Pharma",
+    "price": "R$69,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-desincrustante-oxi-remov-1l-vic-pharma-dc-109739-01.jpg",
+    "url": "https://www.dentalcremer.com.br/desincrustante-oxi-remov-vic-pharma-109739.html"
+  },
+  {
+    "sku": "125675",
+    "name": "Antisséptico Gliconato de Clorexidina 4% Degermante - Vic Pharma",
+    "price": "R$7,19",
+    "description": "Embalagem com 100ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-gliconato-de-clorexidina-4-degermante-100ml-125675.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-gliconato-de-clorexidina-4-degermante-vic-pharma-125675.html"
+  },
+  {
+    "sku": "295429",
+    "name": "Álcool Etílico 70% Saneante Rialcool - Rioquímica",
+    "price": "R$96,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-rialcool-70-5l-rioquimica-dc-295429.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-etilico-70-saneante-rialcool-rioquimica-295429.html"
+  },
+  {
+    "sku": "606676",
+    "name": "Sabonete Cremoso Rioderm Soft - Rioquímica",
+    "price": "R$27,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606676.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-cremoso-rioderm-soft-rioquimica-606676.html"
+  },
+  {
+    "sku": "560787",
+    "name": "Dissolvente de Gesso Solv-Gesso - Asfer",
+    "price": "R$61,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/dissolvente-de-gesso-solv-gesso-asfer-560787.jpg",
+    "url": "https://www.dentalcremer.com.br/dissolvente-de-gesso-solv-gesso-asfer-560787.html"
+  },
+  {
+    "sku": "295528",
+    "name": "Sabonete Cremoso Riomax - Rioquímica",
+    "price": "R$15,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabonete-cremoso-riomax-rioquimica-295528-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-cremoso-riomax-rioquimica-295528.html"
+  },
+  {
+    "sku": "143402",
+    "name": "Escova para Limpeza de Broca Brush Drill. - Iodontosul",
+    "price": "R$14,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-para-limpeza-de-broca-brush-drill--iodontosul-dental-cremer-143402.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-para-limpeza-de-broca-brush-drill-iodontosul-143402.html"
+  },
+  {
+    "sku": "295160",
+    "name": "Degermante PVPI Riodeine Dermo Suave - Rioquímica",
+    "price": "R$104,90",
+    "description": "Embalagem com 1 litro.MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/295160.jpg",
+    "url": "https://www.dentalcremer.com.br/degermante-pvpi-riodeine-dermo-suave-rioquimica-295160.html"
+  },
+  {
+    "sku": "142892",
+    "name": "Protetor de Mangueira Descartável - Sp Health",
+    "price": "R$5,99",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/protetor-de-mangueira-descartavel-dental-cremer-142892.jpg",
+    "url": "https://www.dentalcremer.com.br/protetor-de-mangueira-descartavel-sp-health-142892.html"
+  },
+  {
+    "sku": "118736",
+    "name": "Sabonete Dermo Espuma Refil - Kleenex",
+    "price": "R$89,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabonete-dermo-espuma-refil-kleenex-118736-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-dermo-espuma-refil-kleenex-118736.html"
+  },
+  {
+    "sku": "567304",
+    "name": "Escova de Assepsia M-P Scrub Seca - Cristália",
+    "price": "R$3,49",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/567304.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-de-assepsia-m-p-scrub-seca-cristalia-567304.html"
+  },
+  {
+    "sku": "606775",
+    "name": "Antisséptico Tópico Riohex 0,5% Colorido 100ml - Rioquímica",
+    "price": "R$4,69",
+    "description": "Embalagem com 100ml, azul. Gliconato de clorexidina 0,5 (Solução Alcóolica).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606775.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-riohex-0-5-colorido-100ml-rioquimica-606775.html"
+  },
+  {
+    "sku": "606782",
+    "name": "Antisséptico Tópico Riohex 0,5% Colorido - Rioquímica",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 litro. Azul. Gliconato de clorexidina 0,5 (Solução Alcóolica).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606782.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-riohex-0-5-colorido-rioquimica-606782.html"
+  },
+  {
+    "sku": "295337",
+    "name": "Antisséptico Tópico Degermante Riohex 4% - Rioquímica",
+    "price": "R$57,90",
+    "description": "Embalagem com 1 litro. Gliconato de clorexidina 4 (Solução com Tensoativos).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/295337.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-degermante-riohex-4-rioquimica-295337.html"
+  },
+  {
+    "sku": "606454",
+    "name": "Desinfetante Cloro Rio 2,5% - Rioquímica",
+    "price": "R$11,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-cloro-rio-25-1l-rioquimica-dc-606454-01.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-cloro-rio-2-5-rioquimica-606454.html"
+  },
+  {
+    "sku": "115503",
+    "name": "Sabonete Uso Geral Spray Refil - Scott®",
+    "price": "R$35,90",
+    "description": "Embalagem com 400ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/sabonete-uso-geral-spray-refil-scottr-115503.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-uso-geral-spray-refil-scottr-115503.html"
+  },
+  {
+    "sku": "606607",
+    "name": "Álcool Etílico 70% Antisséptico Rialcool 70 - Rioquímica",
+    "price": "R$34,90",
+    "description": "Embalagem com 120 unidades de 1ml cada.É UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULAMEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/alcool-70-rialcool-1mlx120un-antisseptico-dental-cremer-606607-01.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-etilico-70-antisseptico-rialcool-70-rioquimica-606607.html"
+  },
+  {
+    "sku": "629699",
+    "name": "Desinfetante Cloro Rio 1% - Rioquímica",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/629699.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-cloro-rio-1-rioquimica-629699.html"
+  },
+  {
+    "sku": "101360",
+    "name": "Álcool Gel 70% Antisséptico Septpro - Prolink",
+    "price": "R$71,90",
+    "description": "Embalagem com 4,4Kg.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101360.jpg",
+    "url": "https://www.dentalcremer.com.br/alcool-gel-70-antisseptico-septpro-prolink-101360.html"
+  },
+  {
+    "sku": "148655",
+    "name": "Desinfetante Cloro Link 1% 5L - Prolink",
+    "price": "R$12,90",
+    "description": "Embalagem com 5L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-cloro-link-1-5-l-prolink-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-cloro-link-1-5l-prolink-148655.html"
+  },
+  {
+    "sku": "606829",
+    "name": "Antisséptico Tópico Degermante Riohex 4% - Rioquímica",
+    "price": "R$7,69",
+    "description": "Embalagem com 100ml. Gliconato de clorexidina 4 (Solução com Tensoativos).MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-topico-degermante-riohex-4-100ml-rioquimica-dc-606829-01.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-degermante-riohex-4-rioquimica-606829.html"
+  },
+  {
+    "sku": "615692",
+    "name": "Dissolvente de Gesso GessoLV - Lysanda",
+    "price": "R$45,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/615692.jpg",
+    "url": "https://www.dentalcremer.com.br/dissolvente-de-gesso-gessolv-lysanda-615692.html"
+  },
+  {
+    "sku": "973440",
+    "name": "Lençol Descartável Premium - Descarbox",
+    "price": "R$16,90",
+    "description": "Embalagem com 1 unidade. Rolo de 50cmx50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/973440.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-descartavel-premium-descarbox-973440.html"
+  },
+  {
+    "sku": "148654",
+    "name": "Desinfetante Cloro Link 1% 1L - Prolink",
+    "price": "R$3,90",
+    "description": "Embalagem com 1L.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-cloro-link-1-1l-prolink-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-cloro-link-1-1l-prolink-148654.html"
+  },
+  {
+    "sku": "606669",
+    "name": "Antisséptico Tópico PVPI Riodeine Tintura - Rioquímica",
+    "price": "R$12,90",
+    "description": "Embalagem com 100ml.MEDICAMENTO DE NOTIFICAÇÃO SIMPLIFICADA RDC Anvisa Nº 107/2016. AFE Nº 1.01.520-1.SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADOÉ UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-topico-pvpi-riodeine-tintura-rioquimica-606669.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-pvpi-riodeine-tintura-rioquimica-606669.html"
+  },
+  {
+    "sku": "631661",
+    "name": "Fita Teste Perax Rio Test Strips - Rioquímica",
+    "price": "R$154,90",
+    "description": "Embalagem com 30 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/631661.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-teste-perax-rio-test-strips-rioquimica-631661.html"
+  },
+  {
+    "sku": "112869",
+    "name": "Lençol Descartável Com Elástico Branco - Protdesc",
+    "price": "R$21,90",
+    "description": "Embalagem com 10 unidades. 210 x 90 cm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lencol-descartavel-branco-210-90-112869.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-descartavel-com-elastico-branco-protdesc-112869.html"
+  },
+  {
+    "sku": "973426",
+    "name": "Lençol Descartável Ecológico - Descarbox",
+    "price": "R$13,90",
+    "description": "Embalagem com 1 unidade. Rolo de 50cmx50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/973426.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-descartavel-ecologico-descarbox-973426.html"
+  },
+  {
+    "sku": "606652",
+    "name": "Antisséptico Tópico PVPI Riodeine Dermo Suave - Rioquímica",
+    "price": "R$5,79",
+    "description": "Embalagem com 30ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606652.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-pvpi-riodeine-dermo-suave-rioquimica-606652.html"
+  },
+  {
+    "sku": "132152",
+    "name": "Detergente Pré-Limpeza Advanced Med 500ml - Advanced Med",
+    "price": "R$43,90",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-pre-limpeza-advanced-med-500ml-advanced-med-132152-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-pre-limpeza-advanced-med-500ml-advanced-med-132152.html"
+  },
+  {
+    "sku": "606843",
+    "name": "Escova Assepsia Seca RQ - Rioquímica",
+    "price": "R$3,19",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/escova-assepsia-seca-rq-rioquimica-606843-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/escova-assepsia-seca-rq-rioquimica-606843.html"
+  },
+  {
+    "sku": "101344",
+    "name": "Sabonete Cremoso Septderm - Prolink",
+    "price": "R$10,90",
+    "description": "Embalagem com 1 litro. Aroma: Erva Doce.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/101344.jpg",
+    "url": "https://www.dentalcremer.com.br/sabonete-cremoso-septderm-prolink-101344.html"
+  },
+  {
+    "sku": "560794",
+    "name": "Dissolvente de Alginato Solv-Alginato - Asfer",
+    "price": "R$25,90",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/560794.jpg",
+    "url": "https://www.dentalcremer.com.br/dissolvente-de-alginato-solv-alginato-asfer-560794.html"
+  },
+  {
+    "sku": "139750",
+    "name": "Detergente Desincrustante Oxi Remov 5L - VIC PHARMA",
+    "price": "R$271,90",
+    "description": "Embalagem com 5l.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-desincrustante-oxi-remov-5l-139750.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-desincrustante-oxi-remov-5l-vic-pharma-139750.html"
+  },
+  {
+    "sku": "111452",
+    "name": "Lenço Umedecido com Álcool Swabs 70% - BD",
+    "price": "R$45,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lenco-umedecido-a-alcool-swabs-70-100un-bd-dental-cremer-111452-01.jpg",
+    "url": "https://www.dentalcremer.com.br/lenco-umedecido-com-alcool-swabs-70-bd-111452.html"
+  },
+  {
+    "sku": "547948",
+    "name": "Fita Teste Glutaron Test Strips - Rioquímica",
+    "price": "R$203,90",
+    "description": "Embalagem com 30 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/547948.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-teste-glutaron-test-strips-rioquimica-547948.html"
+  },
+  {
+    "sku": "606645",
+    "name": "Antisséptico Tópico PVPI Riodeine Dermo Suave - Rioquímica",
+    "price": "R$12,90",
+    "description": "Embalagem com 100ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/antisseptico-dermo-suave-riohex-02-100ml-rioquimica-dc-606645-01.jpg",
+    "url": "https://www.dentalcremer.com.br/antisseptico-topico-pvpi-riodeine-dermo-suave-rioquimica-606645.html"
+  },
+  {
+    "sku": "973457",
+    "name": "Lençol Descartável Premium - Descarbox",
+    "price": "R$29,90",
+    "description": "Embalagem com 1 unidade. Rolo de 70cmx50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/973457.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-descartavel-premium-descarbox-973457.html"
+  },
+  {
+    "sku": "973433",
+    "name": "Lençol Descartável Ecológico - Descarbox",
+    "price": "R$19,90",
+    "description": "Embalagem com 1 unidade. Rolo de 70cmx50m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/973433.jpg",
+    "url": "https://www.dentalcremer.com.br/lencol-descartavel-ecologico-descarbox-973433.html"
+  },
+  {
+    "sku": "121874",
+    "name": "Desinfetante Vic Glutaral Clear 1L - Vic Pharma",
+    "price": "R$78,90",
+    "description": "Embalagem com 1 litro + 1 inativador de 40g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-vic-glutaral-clear-1l-vic-pharma-121874.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-vic-glutaral-clear-1l-vic-pharma-121874.html"
+  },
+  {
+    "sku": "137486",
+    "name": "Detergente Pré-Limpeza Advanced Med 500ml - Advanced Med",
+    "description": "Embalagem com 500ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-pre-limpeza-advanced-med-500ml-advanced-med-132152-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-pre-limpeza-advanced-med-500ml-advanced-med-137486.html"
+  },
+  {
+    "sku": "606447",
+    "name": "Desinfetante Cloro Rio 1% - Rioquímica",
+    "price": "R$48,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606447.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-cloro-rio-1-rioquimica-606447.html"
+  },
+  {
+    "sku": "606461",
+    "name": "Desinfetante Cloro Rio 2,5% - Rioquímica",
+    "price": "R$55,90",
+    "description": "Embalagem com 5 litros.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/606461.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-cloro-rio-2-5-rioquimica-606461.html"
+  },
+  {
+    "sku": "118332",
+    "name": "Desinfetante Cloro Rio Pastilhas - Rioquímica",
+    "price": "R$36,90",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-cloro-rio-pastilhas-1g-118332.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-cloro-rio-pastilhas-rioquimica.html"
+  },
+  {
+    "sku": "121875",
+    "name": "Desinfetante Vic Glutaral Clear 5L - Vic Pharma",
+    "price": "R$232,90",
+    "description": "Embalagem com 5l + 1 inativador de 200g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/desinfetante-vic-glutaral-clear-5l-vic-pharma-121875.jpg",
+    "url": "https://www.dentalcremer.com.br/desinfetante-vic-glutaral-clear-5l-vic-pharma-121875.html"
+  },
+  {
+    "sku": "615685",
+    "name": "Dissolvente de Gesso GessoLV - Lysanda",
+    "price": "R$17,90",
+    "description": "Embalagem com 250ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/615685.jpg",
+    "url": "https://www.dentalcremer.com.br/dissolvente-de-gesso-gessolv-lysanda-615685.html"
+  },
+  {
+    "sku": "112496",
+    "name": "Filme Impermeável com Adesivo Leukoplast Hypafix Rolo Transparente 10cmx10m - Essity",
+    "price": "R$238,90",
+    "description": "Embalagem com 1 rolo de 10cmx10m.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112496.jpg",
+    "url": "https://www.dentalcremer.com.br/filme-impermeavel-com-adesivo-leukoplast-hypafix-rolo-transparente-10cmx10m-essity-112496.html"
+  },
+  {
+    "sku": "127055",
+    "name": "Dispenser para Álcool em Gel Antisséptico Automático - Kimberly-Clark",
+    "price": "R$635,90",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhe-dispenser-alcool-gel-antisseptico-automatico-kimberly-clark-127055.jpg",
+    "url": "https://www.dentalcremer.com.br/dispenser-para-alcool-em-gel-antisseptico-automatico-kimberly-clark-127055.html"
+  },
+  {
+    "sku": "111865",
+    "name": "Mesa Auxiliar Protetora - Agir",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/mesa-auxiliar-protetora-agir-111865.jpg",
+    "url": "https://www.dentalcremer.com.br/mesa-auxiliar-protetora-agir-111865.html"
+  },
+  {
+    "sku": "112492",
+    "name": "Filme Impermeável com Compressa Central Leukomed T Plus Transparente 10x35cm - Essity",
+    "price": "R$847,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/112492.jpg",
+    "url": "https://www.dentalcremer.com.br/filme-impermeavel-com-compressa-central-leukomed-t-plus-transparente-10x35cm-essity-112492.html"
+  },
+  {
+    "sku": "DC38247",
+    "name": "Estojo para Esterilização Plástico - Nova OGP",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterelizacao-plastico-18-5x10x2cm-nova-ogp-dental-cremer-dc38247.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterelizacao-plastico-nova-ogp-dc38247.html"
+  },
+  {
+    "sku": "132354",
+    "name": "Estojo para Esterilização Inox Perfurado Autoclavável 18x8x3cm - Golgran",
+    "description": "Embalagem com 1 estojo autoclavável.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/estojo-para-esterilizacao-inox-perfurado-autoclavavel-132354-golgran-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/estojo-para-esterilizac-o-inox-perfurado-autoclavavel-18x8x3cm-golgran-132354.html"
+  },
+  {
+    "sku": "148502",
+    "name": "Rolo para Esterilização 5cm X 100m - Masterdent",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-5cmx100m-148502.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-5cm-x-100m-masterdent-148502.html"
+  },
+  {
+    "sku": "151830",
+    "name": "Rolo para Esterilização 10cm X 100m - Amcor",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-35cm-x-100m-151837.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-10cm-x-100m-amcor-151830.html"
+  },
+  {
+    "sku": "150134",
+    "name": "Envelope para Esterilização Autosselante 90 x 260mm - Microdont",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-para-esterilizacao-autosselante-150-x-250mm-microdont-150125.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-para-esterilizacao-autosselante-90-x-260mm-microdont-150134.html"
+  },
+  {
+    "sku": "148500",
+    "name": "Rolo para Esterilização 15cm X 100m - Masterdent",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-15cmx100m-148500.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-15cm-x-100m-masterdent-148500.html"
+  },
+  {
+    "sku": "148496",
+    "name": "Rolo para Esterilização 20cm X 100m - Masterdent",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-20cmx100m-148496.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizacao-20cm-x-100m-masterdent-148496.html"
+  },
+  {
+    "sku": "142435",
+    "name": "Detergente Enzimático SaniSud by AllPrime 1L - AllPrime",
+    "description": "Embalagem com 1 litro.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detergente-enzimatico-sanisud-by-allprime-1l-allprime-142435-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/detergente-enzimatico-sanisud-by-allprime-1l-allprime-142435.html"
+  },
+  {
+    "sku": "143407",
+    "name": "Rolo para Esterilização Add Pack 10cm X 100M - Amcor",
+    "description": "Embalagem com 1 unidade.  Possui 1 indicador para vapor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-add-pack-100m-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pack-10cm-x-100m-amcor-143407.html"
+  },
+  {
+    "sku": "143410",
+    "name": "Rolo para Esterilização Add Pack 15cm X 100M - Amcor",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-add-pack-100m-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pack-15cm-x-100m-amcor-143410.html"
+  },
+  {
+    "sku": "214406",
+    "name": "Envelope Autosselante 140x290mm - Amcor",
+    "description": "Embalagem com 200 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/envelope-p-esterilizacao-autosselante-14-x-29cm-200-unid-amcor-dc-214406-01.jpg",
+    "url": "https://www.dentalcremer.com.br/envelope-autosselante-140x290mm-amcor-214406.html"
+  },
+  {
+    "sku": "159417",
+    "name": "Wrap para Esterilização 70x70cm - HospFlex",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/159417.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-70x70cm-hospflex.html"
+  },
+  {
+    "sku": "149022",
+    "name": "Suporte para 8 Embalagens de Esterilização para Vitale 5L - Cristófoli",
+    "description": "Embalagem com 10 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/suporte-para-envelopes-de-esterilizacao-vitale-5l-cristofoli-ds-dc.jpg",
+    "url": "https://www.dentalcremer.com.br/suporte-para-envelopes-de-esterilizacao-vitale-5l-cristofoli-149022.html"
+  },
+  {
+    "sku": "143413",
+    "name": "Rolo para Esterilização Add Pack 30cm X 100M - Amcor",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-add-pack-100m-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pack-30cm-x-100m-amcor-143413.html"
+  },
+  {
+    "sku": "143414",
+    "name": "Rolo para Esterilização Add Pack 35cm X 100M - Amcor",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-add-pack-100m-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pack-35cm-x-100m-amcor-143414.html"
+  },
+  {
+    "sku": "143408",
+    "name": "Rolo para Esterilização Add Pack 12cm X 100M - Amcor",
+    "description": "Embalagem com 1 unidade.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/rolo-para-esterilizacao-add-pack-100m-novo.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pack-12cm-x-100m-amcor-143408.html"
+  },
+  {
+    "sku": "132923",
+    "name": "Wrap para Esterilização SMS Leve 40G 75x75cm - Amcor",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-leve-40g-75-75-amcor-132923.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-leve-40g-75x75cm-amcor-132923.html"
+  },
+  {
+    "sku": "132919",
+    "name": "Papel Crepado para Esterilização 120x120cm - Amcor",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/papel-crepado-para-esterilizacao-amcor-120-120-132919.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-crepado-para-esterelizac-o-120x120cm-amcor-132919.html"
+  },
+  {
+    "sku": "132931",
+    "name": "Wrap para Esterilização SMS Pesado 50G 100x100cm - Amcor",
+    "description": "Embalagem com 120 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/wraps-para-esterilizacao-sms-pesado-50g-100-100-amcor-132931.jpg",
+    "url": "https://www.dentalcremer.com.br/wrap-para-esterilizac-o-sms-pesado-50g-100x100cm-amcor-132931.html"
+  },
+  {
+    "sku": "119220",
+    "name": "Rolo Para Esterilização Add-Pak 10cmx100m - Amcor",
+    "description": "Embalagem com 1 unidade. Possui 3 indicadores para vapor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-rolo-esterilizacao-add-pak-10.jpg",
+    "url": "https://www.dentalcremer.com.br/rolo-para-esterilizac-o-add-pak-10cmx100m-amcor.html"
+  }
+]

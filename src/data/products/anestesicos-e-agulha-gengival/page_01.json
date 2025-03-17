@@ -1,0 +1,243 @@
+[
+  {
+    "sku": "DC25611",
+    "name": "Agulha Gengival - AllPrime",
+    "price": "R$49,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-agulha-gengival-allprime-dc25611.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-allprime-dc25611.html"
+  },
+  {
+    "sku": "218169",
+    "name": "Anestésico Alphacaine 2% 1:100.000 - DFL",
+    "price": "R$173,45",
+    "description": "Solução injetável de cloridrato de lidocaína e epinefrina. Embalagem com 50 tubetes de cristal (vidro) com 1,8ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-alphacaine-2-1-100-000-dfl-218169.html"
+  },
+  {
+    "sku": "144329",
+    "name": "Anestésico Lidostesim AD 2% 1:100.000 - DLA",
+    "price": "R$216,74",
+    "description": "Com vasoconstritor. Solução estéril injetável de Cloridrato de Lidocaína (20mg/ml) com hemitartarato de Epinefrina (0,02 mg/ml), acondicionados em carpules (tubetes livre de metilparabeno) com 1,8ml cada. Embalagem com 50 tubetes de plástico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-lidocaina-lidostesim-ad-com-epinefrina-2-1-100-000-com-vasoconstritor-dla-144329.html"
+  },
+  {
+    "sku": "271041",
+    "name": "Anestésico Articaine 4% 1:100.000 - DFL",
+    "price": "R$256,15",
+    "description": "Solução estéril injetável de Cloridrato de Articaína 4% (40mg/ml) com Epinefrina 1:100.000, (10µg/ml), acondicionados em carpules (tubetes) com 1,8ml cada. Embalagem com 50 tubetes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-articaine-4-1-100-000-dfl-271041.html"
+  },
+  {
+    "sku": "218138",
+    "name": "Anestésico Mepiadre 2% - DFL",
+    "price": "R$231,03",
+    "description": "Solução estéril injetável de Cloridrato de Mepivacaína 2% (20mg/ml) e Epinefrina 1:100.000 (10µg/ml), acondicionados em tubetes de vidro com êmbolos sincronizados. Embalagem com 50 tubetes de 1,8 mL cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-mepiadre-2-dfl-218138.html"
+  },
+  {
+    "sku": "220728",
+    "name": "Anestésico Tópico Benzotop 20% - DFL",
+    "price": "R$8,14",
+    "description": "Embalagem com 12g de Benzocaína.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-topico-benzotop-20-dfl-220728.html"
+  },
+  {
+    "sku": "277784",
+    "name": "Anestésico Mepivalem Ad 2% 1:100.000 - DLA",
+    "price": "R$283,01",
+    "description": "Solução estéril injetável de Cloridrato de Mepivacaína 2% (20mg/ml) e Epinefrina 1:100.000 (0,01mg/ml), acondicionados em carpules (tubetes livre de metilparabeno) com 1,8ml cada. Embalagem com 50 tubetes.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-mepivalem-ad-2-1-100-000-dla.html"
+  },
+  {
+    "sku": "120412",
+    "name": "Anestésico Articaína Articaine 4% 1:200.000 - DFL",
+    "price": "R$234,85",
+    "description": "Embalagem com 50 tubetes. Solução estéril injetável de Cloridrato de Articaína 4% (40mg/ml) e Epinefrina 1:200.000 (5µg/ml), acondicionados em carpules (tubetes) com 1,8ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-articaine-4-1-200-000-dfl-120412.html"
+  },
+  {
+    "sku": "233445",
+    "name": "Anestésico Tópico Xylestesin 10% Spray - Cristália",
+    "price": "R$114,90",
+    "description": "Embalagem com 1 frasco de 50ml. Solução spray de Lidocaína 10% (100mg/mL), sem vasoconstritor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-topico-xylestesin-10-spray-cristalia-233445.html"
+  },
+  {
+    "sku": "277777",
+    "name": "Anestésico Mepivalem 3% - DLA",
+    "price": "R$279,87",
+    "description": "Embalagem com 50 tubetes de plástico com 1,8ml cada. Cloridrato Mepivacaína 3% (30 mg/ml) sem vasoconstritor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-mepivalem-3-dla.html"
+  },
+  {
+    "sku": "DC29679",
+    "name": "Agulha Gengival Septoject XL - Septodont",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-gengival-septoject-septodont-dc29679-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-septoject-xl-septodont-dc29679.html"
+  },
+  {
+    "sku": "DC26547",
+    "name": "Agulha Gengival Unoject - DFL",
+    "price": "R$96,90",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-agulha-gengival-unoject-nova-dfl-dc26547.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-unoject-dfl-dc26547.html"
+  },
+  {
+    "sku": "DC30516",
+    "name": "Agulha Gengival Dencojet - DFL",
+    "price": "R$61,90",
+    "description": "Embalagem com 100 unidades. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-gengival-dencojet-nova-dfl-713176-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-dencojet-dfl-dc30516.html"
+  },
+  {
+    "sku": "237634",
+    "name": "Anestésico Prilonest 3% - DFL",
+    "price": "R$235,26",
+    "description": "Com vasoconstritor. Embalagem com 50 tubetes de vidro de 1,8 ml, acondicionados em blisters lacrados com 10 tubetes cada. Solução estéril injetável de Cloridrato de Prilocaína 3% (30mg/ml) em associação com Felipressina (0,03UI/ml).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-prilonest-3-dfl-237634.html"
+  },
+  {
+    "sku": "218152",
+    "name": "Anestésico Mepisv 3% - DFL",
+    "price": "R$231,03",
+    "description": "Embalagem com 50 tubetes de cristal (vidro) com 1,8ml cada. Solução injetável estéril de Cloridrato Mepivacaína 3% (30mg/ml) sem vasoconstritor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-mepisv-3-dfl-218152.html"
+  },
+  {
+    "sku": "151153",
+    "name": "Anestésico Tópico Benzotop 20% Tutti-Frutti 30G - DFL",
+    "price": "R$19,98",
+    "description": "Embalagem com 30g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-topico-benzotop-20-tutti-frutti-30g-dfl-151153.html"
+  },
+  {
+    "sku": "323870",
+    "name": "Anestésico Xylestesin 2% Sem Vasoconstritor - Cristália",
+    "price": "R$290,10",
+    "description": "Embalagem com 50 tubetes de plástico com 1,8ml cada. Cloridrato de Lidocaína Sem vasoconstritor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-xylestesin-2-cristalia.html"
+  },
+  {
+    "sku": "122016",
+    "name": "Agulha Gengival Dencojet - DFL",
+    "description": "Embalagem com 100 unidades. Curta.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-gengival-dencojet-30g-curta-03-x-25mm-dfl-dental-cremer-122016.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-dencojet-nova-dfl-122016.html"
+  },
+  {
+    "sku": "151698",
+    "name": "Anestésico Septanest Articaína 4% com Epinefrina 1:100.000 - Septodont",
+    "price": "R$240,90",
+    "description": "Embalagem com 50 tubetes de vidro com 1,7ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-septanest-articaina-4-com-epinefrina-1-100-000-septodont-151698.html"
+  },
+  {
+    "sku": "542523",
+    "name": "Anestésico Neocaína 0,5% 1:200.000 - Cristália",
+    "price": "R$185,90",
+    "description": "Com vasoconstritor. Embalagem com 25 tubetes de plástico de 1,8ml cada. Solução injetável de Cloridrato de Bupivacaína 0,5% com Hemitartarato de Epinefrina 1:200.000.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-neocaina-0-5-1-200-000-cristalia.html"
+  },
+  {
+    "sku": "546002",
+    "name": "Anestésico Mepicain 3%  - Cristália",
+    "price": "R$333,60",
+    "description": "Embalagem com 50 tubetes de plástico com 1,8ml cada. Solução injetável de Cloridrato de Mepivacaína, sem vasoconstritor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-mepicain-3-cristalia.html"
+  },
+  {
+    "sku": "233452",
+    "name": "Anestésico Xylestesin 2% Com Vasoconstritor - Cristália",
+    "price": "R$290,10",
+    "description": "Embalagem com 50 tubetes de plástico com 1,8ml cada. Cloridrato de Lidocaína com Hemitartarato de Norepinefrina.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-xylestesin-2-1-50-000-cristalia.html"
+  },
+  {
+    "sku": "DC10072",
+    "name": "Agulha Gengival - Injex",
+    "price": "R$48,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-gengival-injex-dc10072.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-injex-dc10072.html"
+  },
+  {
+    "sku": "DC19714",
+    "name": "Agulha Gengival - Procare",
+    "price": "R$51,90",
+    "description": "Embalagem com 100 unidades. Extra-curta, curta ou longa.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-gengival-procare-dc19714-capa.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-procare-dc19714.html"
+  },
+  {
+    "sku": "DC16406",
+    "name": "Agulha Gengival Septoject XL - Septodont",
+    "price": "R$105,90",
+    "description": "Embalagem com 100 unidades. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-gengival-septoject-xl-septodont-dental-cremer-DC16406.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-septoject-xl-septodont-dc16406.html"
+  },
+  {
+    "sku": "133465",
+    "name": "Agulha Gengival 27G 35mm Longa - Terumo",
+    "price": "R$210,90",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/capa-agulha-gengival-27g-35mm-longa-terumo-133465.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-27g-35mm-longa-terumo-133465.html"
+  },
+  {
+    "sku": "220834",
+    "name": "Anestésico SS White 100 1:2.500 - SS White",
+    "description": "Solução estéril injetável local de Cloridratos de Lidocaína 2% e de Fenilefrina 1:2.500. Caixa com 50 carpules de plástico com 1,8 ml cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-ss-white-100-1-2-500-ss-white.html"
+  },
+  {
+    "sku": "104078",
+    "name": "Anestésico Tópico Medicaína 5% - Cristália",
+    "description": "Embalagem com 1 Bisnaga de 5g. Creme Dermatológico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-padrao-venda-sob-prescricao-medica.jpg",
+    "url": "https://www.dentalcremer.com.br/anestesico-medicaina-5-cristalia.html"
+  },
+  {
+    "sku": "133466",
+    "name": "Agulha Gengival 30G 21mm Curta - Terumo",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/capa-agulha-gengival-30g-21mm-curta-terumo-133466.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-30g-21mm-curta-terumo-133466.html"
+  },
+  {
+    "sku": "142571",
+    "name": "Agulha Descartável para Irrigação 30G - Dentsply Sirona",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/agulha-descartavel-para-irrigacao-30g-142571.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-descartavel-para-irrigac-o-30g-dentsply-sirona-142571.html"
+  },
+  {
+    "sku": "DC38327",
+    "name": "Agulha Gengival - Procare",
+    "description": "Embalagem com 100 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/692952_2.jpg",
+    "url": "https://www.dentalcremer.com.br/agulha-gengival-procare-dc38327.html"
+  }
+]

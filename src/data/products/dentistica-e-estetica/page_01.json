@@ -1,0 +1,762 @@
+[
+  {
+    "sku": "DC10933",
+    "name": "Resina 3M™ Z100™ - Solventum",
+    "price": "R$58,90",
+    "description": "Resina Microhíbrida. Seringa com 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-z100tm-3m-dc10933.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-z100tm-3m-solventum-dc10933.html"
+  },
+  {
+    "sku": "DC24643",
+    "name": "Resina Forma - Ultradent",
+    "price": "R$164,90",
+    "description": "Resina Nanohíbrida. Seringa com 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-resina-forma-ultradent-dc24643.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-forma-ultradent-dc24643.html"
+  },
+  {
+    "sku": "315356",
+    "name": "Clareador Whiteness HP 35% - FGM",
+    "price": "R$199,99",
+    "description": "Peróxido de Hidrogênio na concentração 35%. Kit com Espessante + Neutralize + Espátula + Placa para preparo do gel + Top Dam de 2g + 6 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-composicao-kit-clareador-whiteness-hp-fgm-315356.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-hp-fgm-315356.html"
+  },
+  {
+    "sku": "DC10898",
+    "name": "Resina 3M™ Filtek™ Z250 XT - Solventum",
+    "price": "R$128,90",
+    "description": "Resina Microhíbrida. Seringa com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-filtek-z250-xt-3m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-filtektm-z250-xt-3m-solventum-dc10898.html"
+  },
+  {
+    "sku": "DC10917",
+    "name": "Resina Fill Magic - Vigodent",
+    "price": "R$35,90",
+    "description": "Embalagem com 1 seringa de 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-fill-magic-coltene-115121-dental-cremer-10.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-fill-magic-vigodent-dc10917.html"
+  },
+  {
+    "sku": "DC25223",
+    "name": "Resina Palfique LX5 - Tokuyama",
+    "price": "R$495,90",
+    "description": "Embalagem com 1 unidade (3,8g). Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-e-seringa-resina-palfique-lx5-3g-tokuyama-dc25223.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-palfique-lx5-tokuyama-dc25223.html"
+  },
+  {
+    "sku": "978865",
+    "name": "Kit Acabamento e Polimento de Resina Completo Ultra-Gloss - American Burrs",
+    "price": "R$281,90",
+    "description": "Kit com 15 peças + Broqueiro autoclavável de 75 furos (Confira o kit completo em Informações Adicionais).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-acabamento-e-polimento-de-resina-completo-ultra-gloss-american-burrs-978865.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-acabamento-e-polimento-de-resina-completo-ultra-gloss-american-burrs-978865.html"
+  },
+  {
+    "sku": "370942",
+    "name": "Adesivo Ambar - FGM",
+    "price": "R$75,49",
+    "description": "Embalagem com 4ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-ambar-fgm-4ml-dental-cremer-370942.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-ambar-fgm-370942.html"
+  },
+  {
+    "sku": "DC10982",
+    "name": "Resina TPH Spectrum - Dentsply Sirona",
+    "price": "R$17,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/430202.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-tph-spectrum-dentsply-sirona-dc10982.html"
+  },
+  {
+    "sku": "214277",
+    "name": "Papel Carbono Contacto Paper - Angelus",
+    "price": "R$10,90",
+    "description": "Embalagem com 12 unidades. Dupla face (azul e vermelho).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/214277.jpg",
+    "url": "https://www.dentalcremer.com.br/papel-carbono-contacto-paper-angelus-214277.html"
+  },
+  {
+    "sku": "DC30794",
+    "name": "Clareador Whiteness Simple - FGM",
+    "description": "Peróxido de Carbamida. Kit com 3 seringas com 3g cada + 3 ponteiras para aplicação. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-whiteness-simple-fgm-DC10451.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-simple-fgm-dc30794.html"
+  },
+  {
+    "sku": "184594",
+    "name": "Tira de Lixa de Aço 4mm - AllPrime",
+    "price": "R$16,90",
+    "description": "Embalagem com 12 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-de-lixa-de-aco-allprime-184594.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184594.html"
+  },
+  {
+    "sku": "DC10903",
+    "name": "Resina 3M™ Filtek™ Z350 XT - Solventum",
+    "price": "R$298,90",
+    "description": "Embalagem com 1 resina nanoparticulada de 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-embalagem-resina-filtek-z350-xt-3m-DC10903.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-filtektm-z350-xt-3m-solventum-dc10903.html"
+  },
+  {
+    "sku": "DC25141",
+    "name": "Resina - AllPrime",
+    "price": "R$22,90",
+    "description": "Resina Microhíbrida. Seringa com 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-resina-allprime-dc25141-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-allprime-dc25141.html"
+  },
+  {
+    "sku": "122947",
+    "name": "Clareador Potenza Bianco PRO SS 38% H2O2 On - PHS",
+    "price": "R$289,90",
+    "description": "Peróxido de Hidrogênio. Kit com 6 seringas de Peróxido de Hidrogênio com 1,3g cada (Fase 1) + 6 seringas de Espessante com 0,4g cada (Fase 2) + Frasco do Neutralizante com 10g + 1 seringa de Barreira Gengival com 2,5g + 7 Ponteiras de aplicação. Suficiente para 6 sessões.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-potenza-bianco-pro-ss-38-h2o2-phs-122947-01.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-potenza-bianco-pro-ss-38-h2o2-phs-122947.html"
+  },
+  {
+    "sku": "DC25219",
+    "name": "Resina Estelite Omega - Tokuyama",
+    "price": "R$837,90",
+    "description": "Embalagem com 1 unidade (4g). Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-estelite-omega-tokuyama-dental-cremer-dc25219.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-estelite-omega-tokuyama-dc25219.html"
+  },
+  {
+    "sku": "267013",
+    "name": "Adesivo 3M™ Adper™ Single Bond 2 - Solventum",
+    "price": "R$209,90",
+    "description": "Embalagem com 1 frasco de 6g. Adesivo Nanoparticulado.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-adper-single-bond-2-3m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-adpertm-single-bond-2-3m-solventum-267013.html"
+  },
+  {
+    "sku": "DC10451",
+    "name": "Clareador Whiteness Simple - FGM",
+    "price": "R$42,99",
+    "description": "Peróxido de Carbamida 10%, 16% ou 22%. Kit com 3 seringas com 3g cada nas concentrações 10%, 16% ou 22% + 3 ponteiras para aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-do-clareador-whiteness-simple-fgm-dc10451.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-simple-fgm-dc10451.html"
+  },
+  {
+    "sku": "DC24388",
+    "name": "Resina Spectra Smart - Dentsply Sirona",
+    "price": "R$67,90",
+    "description": "Embalagem com 1 seringa de 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-resina-spectra-smart-dentsply-sirona-dc24388.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-spectra-smart-dentsply-sirona-dc24388.html"
+  },
+  {
+    "sku": "DC39184",
+    "name": "Resina Filtek Easy Match - Solventum",
+    "price": "R$179,00",
+    "description": "Embalagem com 1 seringa de 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-filtek-easy-match-bright-solventum-151120.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-filtek-easy-match-solventum-dc39184.html"
+  },
+  {
+    "sku": "112934",
+    "name": "Resina Vittra APS Unique - FGM",
+    "price": "R$166,99",
+    "description": "Resina Nanoparticulada com Exclusiva Tecnologia APS. Embalagem com 1 seringa de 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-vittra-aps-unique-fgm-dc-112934.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-vittra-aps-unique-fgm-112934.html"
+  },
+  {
+    "sku": "DC18796",
+    "name": "Resina Applic Flow - Maquira",
+    "price": "R$26,90",
+    "description": "Embalagem com 1 seringa com 2 g e 5 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-applic-flow-maquira-dc18796.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-applic-flow-maquira-dc18796.html"
+  },
+  {
+    "sku": "151720",
+    "name": "Kit Resina Filtek™ Z250 XT + Adesivo Single Bond Universal - Solventum",
+    "price": "R$386,70",
+    "description": "Kit com 2 seringas de 4g cada (A2) 1 seringa de 4g (A3) e 1 frasco de 1ml (Adesivo).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-resina-filtek-z250-xt-e-adesivo-single-bond-universal-3m-solventum.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-resina-filtektm-z250-xt-adesivo-single-bond-universal-solventum-151720.html"
+  },
+  {
+    "sku": "116860",
+    "name": "Adesivo 3M™ Single Bond Universal - Solventum",
+    "price": "R$246,90",
+    "description": "Embalagem com 1 adesivo Single Bond Universal de 3ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-single-bond-universal-3m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-single-bonde-universal-3m-solventum-116860.html"
+  },
+  {
+    "sku": "DC18814",
+    "name": "Resina Charisma Classic - Kulzer",
+    "price": "R$79,90",
+    "description": "Resina microhíbrida. Embalagem com 1 seringa de 4 gramas. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-charisma-classic-b3-4g-kulzer-dc-701508-02.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-charisma-classic-kulzer-dc18814.html"
+  },
+  {
+    "sku": "DC10940",
+    "name": "Resina IPS Empress Direct - Ivoclar Vivadent",
+    "price": "R$459,90",
+    "description": "Resina Nanohíbrida. Seringa com 3g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-odontologica-ips-empress-direct-ivoclar-vivadent-dc10940-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-ips-empress-direct-ivoclar-vivadent-dc10940.html"
+  },
+  {
+    "sku": "DC10576",
+    "name": "Fita Banda Matriz Metálica - Maquira",
+    "price": "R$4,09",
+    "description": "Embalagem com 1 rolo. Escolha o tamanho.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/fita-banda-matriz-metalica-maquira-DC10576.jpg",
+    "url": "https://www.dentalcremer.com.br/fita-banda-matriz-metalica-maquira-dc10576.html"
+  },
+  {
+    "sku": "DC28142",
+    "name": "Resina Fill Magic - Vigodent",
+    "description": "Embalagem com 1 seringa de 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-fill-magic-coltene-115121-dental-cremer-10.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-fill-magic-vigodent-dc28142.html"
+  },
+  {
+    "sku": "DC18739",
+    "name": "Clareador Opalescence™ PF - Ultradent",
+    "price": "R$157,90",
+    "description": "Peróxido de Carbamida 10%, 15% ou 20%. Embalagem com 12 seringas 1,2ml. Regular.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/opalescence-10-pf-regular-kit-12-seringas-DC18739.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-opalescence-pf-ultradent-dc18739.html"
+  },
+  {
+    "sku": "DC18624",
+    "name": "Resina Opallis Odontopediatria - FGM",
+    "price": "R$65,49",
+    "description": "Resina Nanohíbrida. Seringa com 2g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-composta-opallis-odontopediatria-2g-DC18624.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-opallis-odontopediatria-fgm-dc18624.html"
+  },
+  {
+    "sku": "DC24665",
+    "name": "Resina Herculite Précis - Kerr",
+    "price": "R$157,90",
+    "description": "Resina Nanohíbrida. Embalagem com 1 seringa de 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-herculite-precis-kerr-dc24665-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-herculite-precis-kerr-dc24665.html"
+  },
+  {
+    "sku": "513004",
+    "name": "Placa para Moldeira de Clareamento Whiteness 1mm - FGM",
+    "price": "R$25,99",
+    "description": "Embalagem com 5 unidades EVA de 1mm.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/placa-para-moldeira-de-clareamento-whiteness-fgm-5unidades-1mm-513004.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-moldeira-de-clareamento-whiteness-fgm-513004.html"
+  },
+  {
+    "sku": "105145",
+    "name": "Clareador Whiteness Simple 22% - FGM",
+    "price": "R$129,49",
+    "description": "Peróxido de Carbamida 22%. Kit com 10 seringas de 3g cada + 10 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-whiteness-simple-22-fgm-105145.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-simple-22-fgm-105145.html"
+  },
+  {
+    "sku": "178982",
+    "name": "Adesivo Ambar Universal APS - FGM",
+    "price": "R$274,99",
+    "description": "Embalagem com 5ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-adesivo-ambar-universal-aps-fgm-178982.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-ambar-universal-aps-fgm-178982.html"
+  },
+  {
+    "sku": "DC10533",
+    "name": "Disco de Lixa 3M™ Sof-Lex™ Pop-On - Solventum",
+    "price": "R$194,90",
+    "description": "Embalagem com 30 unidades. Sem mandril. Escolha o modelo.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/disco-lixa-popon-serie-laranja-3m-dc10533-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/disco-de-lixa-sof-lextm-pop-on-3m-solventum-dc10533.html"
+  },
+  {
+    "sku": "151232",
+    "name": "Kit Clareador Whiteness HP 35% - FGM",
+    "price": "R$193,99",
+    "description": "Kit composto por 2 frascos de solução Neutralize, 1 peróxido de hidrogênio para 3 pacientes, 1 espessante, 1 Barreira Gengival Top Dam Blue de 2g, 2 placas para preparo do gel, 1 peróxido de hidrogênio para 1 paciente, 1 espessante e 1 espátula de mistura.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-whiteness-hp-4-pacientes-35-fgm-151232.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-whiteness-hp-35-fgm-151232.html"
+  },
+  {
+    "sku": "DC10924",
+    "name": "Resina Llis - FGM",
+    "price": "R$46,99",
+    "description": "Resina Nanohíbrida. Seringa de 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-llis-4g-fgm-dental-cremer-DC10924.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-llis-fgm-dc10924.html"
+  },
+  {
+    "sku": "DC26954",
+    "name": "Resina Epic - Biodinâmica",
+    "price": "R$84,90",
+    "description": "Resina nanohíbrida. Seringa com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-epic-biodinamica-seringa-dc26954.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-epic-biodinamica-dc26954.html"
+  },
+  {
+    "sku": "DC39243",
+    "name": "Resina 3M™ Z100™ DuoPack - Solventum",
+    "price": "R$117,80",
+    "description": "Resina Microhíbrida. Embalagem com 2 seringas de 4g cada. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-z100-duopack-2-seringas-4g-solventum-3m.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-z100-duopack-solventum-dc39243.html"
+  },
+  {
+    "sku": "150095",
+    "name": "Kit Promocional Resina Z100 Tripack + Adesivo Adper Single Bond 2 - Solventum",
+    "price": "R$305,60",
+    "description": "Kit com 3 seringas de 4g cada (A1, A2 e A3) e 1 frasco de 3g (Adesivo).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-resina-z100-tripack--adesivo-adper-single-bond-2-solventum-150095.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-resina-z100-tripack-adesivo-adper-single-bond-2-solventum-150095.html"
+  },
+  {
+    "sku": "185751",
+    "name": "Placa para Moldeira Cristal Redonda 1mm - Bio-Art",
+    "price": "R$34,90",
+    "description": "Embalagem com 5 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/embalagem-placa-plastificadora-a-vacuo-bioart-redonda-1mm-185751.jpg",
+    "url": "https://www.dentalcremer.com.br/placa-para-moldeira-cristal-pet-g-bio-art-185751.html"
+  },
+  {
+    "sku": "DC29302",
+    "name": "Resina Palfique LX5 Mini - Tokuyama",
+    "price": "R$195,90",
+    "description": "Resina supra-nano particulada. Seringa de 1g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/129588.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-palfique-lx5-mini-tokuyama-dc29302.html"
+  },
+  {
+    "sku": "DC10358",
+    "name": "Cimento Resinoso 3M™ Dual Relyx™ U200 - Solventum",
+    "price": "R$706,90",
+    "description": "Embalagem com 1 clicker de 11g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-relyx-u200-clicker-11g-3m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-relyxtm-u200-3m-solventum-dc10358.html"
+  },
+  {
+    "sku": "139800",
+    "name": "Kit Resina 3M™ Z100™ - Solventum",
+    "price": "R$316,90",
+    "description": "Kit com 3 seringas de 4g na cor A3 e 3 seringas de 4g na cor A2.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-composta-microh-z100-a3-3m-dental-cremer-139800.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-composta-microh-z100-a3-a2-3m-solventum-139800.html"
+  },
+  {
+    "sku": "355413",
+    "name": "Tira de Lixa de Poliéster 3M™ Sof-Lex™ 4mm - Solventum",
+    "price": "R$75,90",
+    "description": "Embalagem com 50 unidades.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/tira-lixa-sof-lex-3m-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-sof-lextm-3m-solventum-355413.html"
+  },
+  {
+    "sku": "DC10929",
+    "name": "Resina Opallis Flow - FGM",
+    "price": "R$45,99",
+    "description": "Resina Microhíbrida. Seringa com 2g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/original-resina-opallis-flow-fgm-DC10929.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-opallis-flow-fgm-dc10929.html"
+  },
+  {
+    "sku": "DC10864",
+    "name": "Resina Charisma Diamond - Kulzer",
+    "price": "R$194,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-charisma-diamond-kulzer-dental-cremer-DC10864.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-charisma-diamond-kulzer-dc10864.html"
+  },
+  {
+    "sku": "DC13242",
+    "name": "Cimento Resinoso Dual seT PP - SDI",
+    "price": "R$333,90",
+    "description": "Embalagem com 7g (seringa dupla) + 14 pontas misturadoras. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/cimento-resinoso-dual-set-pp-sdi-dc13242-dental-cremer-01.jpg",
+    "url": "https://www.dentalcremer.com.br/cimento-resinoso-dual-set-pp-sdi-dc13242.html"
+  },
+  {
+    "sku": "DC26638",
+    "name": "Resina Sigma Flow - DFL",
+    "price": "R$47,90",
+    "description": "Seringa com 2,4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-sigma-flow-nova-dfl-dc26638-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-sigma-flow-dfl-dc26638.html"
+  },
+  {
+    "sku": "315363",
+    "name": "Mini Kit Clareador Whiteness HP- FGM",
+    "price": "R$77,69",
+    "description": "Peróxido de Hidrogênio 35%. Mini kit com 1 frasco de 4g de peróxido de hidrogênio, 1 frasco com 2g de espessante, 1 frasco com 2g neutralizante, 1 espátula, 1 placa para preparo do gel e instruções para o profissional.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/detalhes-acessorios-kit-clareador-whiteness-hp-fgm-315363.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-hp-mini-kit-fgm-315363.html"
+  },
+  {
+    "sku": "115907",
+    "name": "Kit Clareador Whiteness Simple 16% - FGM",
+    "price": "R$129,49",
+    "description": "Embalagem com 10 seringas com 3g de gel cada + 10 ponteiras para aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-clareador-whiteness-simple-16-fgm-115907.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-clareador-whiteness-simple-16-fgm-115907.html"
+  },
+  {
+    "sku": "124735",
+    "name": "Ionômero de Vidro Forrador Ionglass Photo Opaco Universal - Maquira",
+    "price": "R$85,90",
+    "description": "Embalagem com 1 Seringa com 2,5 g e 5 ponteiras.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/ionomero-de-vidro-forrador-ionglass-photo-maquira-124735.jpg",
+    "url": "https://www.dentalcremer.com.br/ionomero-de-vidro-forrador-ionglass-photo-maquira-124735.html"
+  },
+  {
+    "sku": "DC25896",
+    "name": "Resina Harmonize - Kerr",
+    "price": "R$320,90",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-harmonize-dentina-a1-kerr-dc-DC25896-01.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-harmonize-kerr-dc25896.html"
+  },
+  {
+    "sku": "120894",
+    "name": "Resina Charisma Diamond One - Kulzer",
+    "price": "R$289,90",
+    "description": "Nano-híbrida. Embalagem com 1 seringa de 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-charisma-diamond-one-kulzer-120894.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-charisma-diamond-one-kulzer-120894.html"
+  },
+  {
+    "sku": "DC24567",
+    "name": "Resina Vittra APS - FGM",
+    "price": "R$179,99",
+    "description": "Submicrométrica. Seringa com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-composta-nanohibrida-vittra-aps-4g-DC24567.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-composta-nanohibrida-vittra-aps-fgm-dc24567.html"
+  },
+  {
+    "sku": "DC10259",
+    "name": "Barreira Gengival Top Dam - FGM",
+    "price": "R$46,99",
+    "description": "Embalagem com 2g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/Barreira-Gengival-Top-Dam-dc28153-Embalagem-Produto.jpg",
+    "url": "https://www.dentalcremer.com.br/barreira-gengival-top-dam-fgm-dc10259.html"
+  },
+  {
+    "sku": "DC10916",
+    "name": "Resina Herculite Classic - Kerr",
+    "price": "R$62,90",
+    "description": "Microhíbrida. Seringa com 5g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-herculite-classic-kerr-dc10916.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-herculite-classic-kerr-dc10916.html"
+  },
+  {
+    "sku": "DC10979",
+    "name": "Resina Tetric N-Ceram - Ivoclar Vivadent",
+    "price": "R$259,90",
+    "description": "Resina Nanohíbrida. Seringa com 3,5g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-tetric-n-ceram-seringa-ivoclar-vivadent-dc10979.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-tetric-n-ceram-ivoclar-vivadent-dc10979.html"
+  },
+  {
+    "sku": "DC25939",
+    "name": "Resina Compômero Twinky Star Flow - Voco",
+    "price": "R$134,90",
+    "description": "Compômero. Embalagem com 1 capsula de 2g + 15 cânulas de aplicação tipo 44. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-twinky-star-flow-voco-dc25939.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-twinky-star-flow-voco-dc25939.html"
+  },
+  {
+    "sku": "DC25466",
+    "name": "Resina 3M™ Filtek™ Z250 XT DuoPack - Solventum",
+    "price": "R$257,80",
+    "description": "Resina Microhíbrida. Kit com 2 resinas Filtek Z250 de 4g cada, escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/973723.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-filtektm-z250-xt-duopack-3m-solventum-dc25466.html"
+  },
+  {
+    "sku": "151880",
+    "name": "Kit Resina Estelite Bianco Trial - Tokuyama",
+    "price": "R$808,90",
+    "description": "Embalagem com 4 seringas contendo 1g cada (W1, W2, W3, W4).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-resina-estelite-bianco-151874.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-resina-estelite-bianco-trial-tokuyama-151880.html"
+  },
+  {
+    "sku": "DC28140",
+    "name": "Resina TPH Spectrum - Dentsply Sirona",
+    "description": "Resina Microhíbrida. Seringa com 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115156.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-tph-spectrum-dentsply-sirona-dc28140.html"
+  },
+  {
+    "sku": "345179",
+    "name": "Clareador Whiteness Perfect 22% - FGM",
+    "price": "R$22,92",
+    "description": "Peróxido de Carbamida 22%. Embalagem com 3g + Ponteira para aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-whiteness-perfect-22-fgm-345179.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-perfect-22-fgm-345179.html"
+  },
+  {
+    "sku": "DC24387",
+    "name": "Resina Spectra Basic - Dentsply Sirona",
+    "price": "R$41,90",
+    "description": "Resina Microhíbrida. Embalagem com 1 seringa de 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-spectra-basic-dentsply-sirona-dc24387.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-spectra-basic-dentsply-sirona-dc24387.html"
+  },
+  {
+    "sku": "DC10422",
+    "name": "Clareador White Class - FGM",
+    "price": "R$23,74",
+    "description": "Peróxido de Hidrogênio. Embalagem com 3g. Escolha a concentração.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/428643.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-white-class-fgm-dc10422.html"
+  },
+  {
+    "sku": "DC26530",
+    "name": "Resina Flow IPS Empress Direct Effect - Ivoclar Vivadent",
+    "price": "R$259,90",
+    "description": "Resina Nanohíbrida. Seringa com 1,8g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-flow-ips-empress-direct-ivoclar-dc26530-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-flow-ips-empress-direct-ivoclar-dc26530.html"
+  },
+  {
+    "sku": "151679",
+    "name": "Kit Combo Essential Optibond Fl Prime + Adesivo + Resinas - Kerr",
+    "price": "R$749,90",
+    "description": "Kit com 1 adesivo de 8ml (OptiBond FL Refil), 1 prime de 8ml (OptiBond FL Refil), 1 seringa de 2g (Resina Harmonize US/Row AE2 Amostra) e 2 seringas de 4g cada (Resina Herculite Précis A2E e A2D).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-combo-essential-optibond-fl-prime--adesivo--resinas-kerr-151679.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-combo-essential-optibond-fl-prime-adesivo-resinas-kerr-151679.html"
+  },
+  {
+    "sku": "DC39244",
+    "name": "Kit Resina Universal Filtek Z350 XT + Grátis Discos Abrasivos Sof-Lex Pop-On 4931G - Solventum",
+    "price": "R$493,80",
+    "description": "Kit com 1 seringa de 4g e 30 discos. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-resina-filtek-z350-xt-disco-sof-lex-pop-on-4931g-solventum-3m.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-resina-universal-filtek-z350-xt-gratis-discos-abrasivos-sof-lex-pop-on-4931g-solventum-dc39244.html"
+  },
+  {
+    "sku": "125173",
+    "name": "Clareador Opalescence PF 35% Regular - Ultradent",
+    "price": "R$129,90",
+    "description": "Peróxido de Carbamida. Embalagem com 5 seringas do Clareador Opalescence 35% PF Regular com 3g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-opalescence-35-pf-regular-5-seringas-3g-ultradent-125173-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-opalescence-35-pf-regular-5-seringas-3g-ultradent-125173.html"
+  },
+  {
+    "sku": "150096",
+    "name": "Kit Promocional Resina Filtek Z350 XT Duopack + Adesivo Single Bond Universal - Solventum",
+    "price": "R$597,90",
+    "description": "Kit com 2 seringas de 4g cada (A1B e A2B) e 1 frasco de 1ml (Adesivo).",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-promocional-resina-filtek-z350-xt-duopack--adesivo-single-bond-universal-1ml-150096.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-promocional-resina-filtek-z350-xt-duopack-adesivo-single-bond-universal-solventum-150096.html"
+  },
+  {
+    "sku": "582970",
+    "name": "Adesivo Bond 2.1 - Maquira",
+    "price": "R$39,90",
+    "description": "Embalagem com 6ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/adesivo-bond-2-1-maquira-2-6ml-582970.jpg",
+    "url": "https://www.dentalcremer.com.br/adesivo-bond-2-1-maquira-2.html"
+  },
+  {
+    "sku": "113965",
+    "name": "Condicionador Ácido Fosfórico 37%- AllPrime",
+    "description": "Embalagem com 3 seringas de 2,5ml cada e 3 ponteiras para aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fosforico-37-allprime-859980-01-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fosforico-37-allprime-113965.html"
+  },
+  {
+    "sku": "290417",
+    "name": "Clareador Whiteness Perfect 16% - FGM",
+    "price": "R$21,84",
+    "description": "Peróxido de Carbamida 16%. Embalagem com 1 seringa de 3g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-whiteness-perfect-16-fgm-290417-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-perfect-16-fgm-290417.html"
+  },
+  {
+    "sku": "151842",
+    "name": "Kit Resina Charisma Diamond Bleach Duopack - Kulzer",
+    "price": "R$269,90",
+    "description": "Kit com 2 seringas de 4g cada nas cores BXL e OB.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-resina-charisma-diamond-bleach-duopack-kulzer-151842.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-resina-charisma-diamond-bleach-duopack-kulzer-151842.html"
+  },
+  {
+    "sku": "DC30093",
+    "name": "Resina Beautifil Flow Plus F00 - Shofu",
+    "price": "R$313,90",
+    "description": "Embalagem com 1 seringa de 2,2g e 5 pontas de aplicação.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-beautifil-flow-plus-shofu-dental-cremer-dc30093.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-beautifil-flow-plus-shofu-dc30093.html"
+  },
+  {
+    "sku": "DC30124",
+    "name": "Resina Fluida Sigma Flow - DFL",
+    "description": "Seringa com 2,4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/lovers-embalagem-resina-sigma-flow-nova-dfl-DC30124.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-fluida-sigma-flow-nova-dfl-dc30124.html"
+  },
+  {
+    "sku": "137398",
+    "name": "Kit Resina 3M™ Filtek™ Z350XT + Resina 3M™ Filtek™ One + 3M™ Scotchbond™ Universal + Porta Resina Exclusivo - Solventum",
+    "price": "R$1.497,90",
+    "description": "Kit com 3 seringas de Resina Filtek Z350XT com 4g (Dentina, Corpo e Esmalte) na cor A2 + 1 Scotchbond Universal Plus com 3 ml + 1 seringa de Filtek One com 4 g na cor A2 + 1 Porta Resinas de Acrílico.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-resina-filtek-z350xt-3m-scotchbond-universal-dental-cremer-137398-2.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-resina-filtek-z350xt-resina-filtek-one-scotchbond-universal-porta-resina-exclusivo-3m-solventum.html"
+  },
+  {
+    "sku": "DC24567_A",
+    "name": "Resina Vittra APS - FGM",
+    "price": "R$118,99",
+    "description": "Submicrométrica. Seringa com 2g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-composta-nanohibrida-vittra-aps-fgm-dc24567-a-01.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-composta-nanohibrida-vittra-aps-fgm-dc24567-a.html"
+  },
+  {
+    "sku": "DC10871",
+    "name": "Resina Master Flow - Biodinâmica",
+    "price": "R$29,90",
+    "description": "Resina Híbrida. Embalagem com 1 seringa com 2g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-master-flow-biodinamica-dc10871.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-master-flow-biodinamica-dc10871.html"
+  },
+  {
+    "sku": "DC24946",
+    "name": "Resina Tetric N-Flow Bulk Fill - Ivoclar Vivadent",
+    "price": "R$119,90",
+    "description": "Embalagem com 1 seringa de 2g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/aplicador-e-resina-tetric-n-flow-bulk-fill-ivoclar-vivadent-dc24946.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-tetric-n-flow-bulk-fill-ivoclar-vivadent-dc24946.html"
+  },
+  {
+    "sku": "DC39190",
+    "name": "Resina Elora APS - FGM",
+    "price": "R$153,90",
+    "description": "Embalagem com 1 seringa. Escolha a cor e tamanho da seringa.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-elora-aps-fgm-2g.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-elora-aps-fgm-dc39190.html"
+  },
+  {
+    "sku": "DC30222",
+    "name": "Resina Innova com Zircônia - Vigodent",
+    "price": "R$115,90",
+    "description": "Resina Nanohíbrida. Embalagem com 1 unidade de 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-innova-esmalte-vigodent-dc30222-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-innova-esmalte-vigodent-dc30222.html"
+  },
+  {
+    "sku": "DC16034",
+    "name": "Resina Opallis - FGM",
+    "price": "R$65,49",
+    "description": "Resina Nanohíbrida. Seringa com 2g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-opallis-fgm-DC16034.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-opallis-fgm-dc16034.html"
+  },
+  {
+    "sku": "DC29474",
+    "name": "Resina Spectra Smart - Dentsply Sirona",
+    "description": "Resina Nanohíbrida. Embalagem com 1 seringa de 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-spectra-smart-dentsply-sirona-120306-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-spectra-smart-dentsply-sirona-dc29474.html"
+  },
+  {
+    "sku": "792423",
+    "name": "Kit Resina Spectra Basic - Dentsply Sirona",
+    "price": "R$261,90",
+    "description": "Resina Microhíbrida. Kit com 7 seringas com 4g cada nas cores A1, A2, A3, A3.5, A4, B1, C2 + um exclusivo display de acrílico grátis.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-resina-spectra-basic-dentsply-sirona-792423-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-spectra-kit-basic-dentsply-sirona-792423.html"
+  },
+  {
+    "sku": "DC10865",
+    "name": "Resina Durafill VS - Kulzer",
+    "price": "R$99,90",
+    "description": "Resina Micropartícula. Seringa com 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/552898_2.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-durafill-vs-kulzer-dc10865.html"
+  },
+  {
+    "sku": "115119",
+    "name": "Resina Aura Bulk Fill - SDI",
+    "description": "Seringa com 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/115119.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-aura-bulk-fill-sdi-115119.html"
+  },
+  {
+    "sku": "DC10930",
+    "name": "Resina Point 4 - Kerr",
+    "price": "R$49,90",
+    "description": "Microhíbrida. Seringa com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/nova-embalagem-resina-point-4-kerr-dc10930.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-point-4-kerr-dc10930.html"
+  },
+  {
+    "sku": "513035",
+    "name": "Condicionador Ácido Fosfórico Fusion Duralink 37% - Angelus",
+    "price": "R$8,59",
+    "description": "Embalagem com 3 unidades, 3g cada.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/condicionador-acido-fosforico-fusion-duralink-37-angelus-513035-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/condicionador-acido-fosforico-fusion-duralink-37-angelus-513035.html"
+  },
+  {
+    "sku": "243123",
+    "name": "Clareador Whiteness Super Endo - FGM",
+    "price": "R$132,99",
+    "description": "Peróxido de Carbamida 37%. Embalagem com 1 seringa com 3g + 15 ponteiras de aplicação + manual para instruções.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/clareador-whiteness-super-endo-fgm-243123-01.jpg",
+    "url": "https://www.dentalcremer.com.br/clareador-whiteness-super-endo-fgm-243123.html"
+  },
+  {
+    "sku": "DC16562",
+    "name": "Resina Ultrafill - Biodinâmica",
+    "price": "R$20,90",
+    "description": "Resina Microhíbrida. Embalagem com 1 seringa de 4g. Escolha a Cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-ultrafill-biodinamica-dc16562-dental-cremer-2.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-ultrafill-biodinamica-dc16562.html"
+  },
+  {
+    "sku": "DC10928",
+    "name": "Resina Opallis - FGM",
+    "price": "R$99,99",
+    "description": "Embalagem com 1 unidade. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-opallis-fgm-4g-DC10928.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-opallis-fgm-dc10928.html"
+  },
+  {
+    "sku": "149736",
+    "name": "Kit Resina Llis - FGM",
+    "price": "R$213,96",
+    "description": "Kit com 3 seringas de Resina Llis com 4g cada (cores EA2, EA3 e DA2), 3 seringas de Condac 37% de 2,5ml cada e 1 frasco de adesivo Ambar de 6ml.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/imagem-embalagem-kit-resina-llis-149736.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-resina-llis-fgm-149736.html"
+  },
+  {
+    "sku": "595307",
+    "name": "Resina Aura Bulk Fill - SDI",
+    "price": "R$209,90",
+    "description": "Resina Nanohíbrida. Embalagem com 1 seringa de 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/seringa-resina-aura-bulk-fill-sdi-595307-dental-cremer-1.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-aura-bulk-fill-sdi-595307.html"
+  },
+  {
+    "sku": "DC29633",
+    "name": "Resina  Epic - Biodinâmica",
+    "description": "Resina nanohíbrida. Seringa com 4g. Escolha a cor.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/resina-epic-biodinamica-dc29633-dental-cremer.jpg",
+    "url": "https://www.dentalcremer.com.br/resina-epic-biodinamica-dc29633.html"
+  },
+  {
+    "sku": "151719",
+    "name": "Kit Resina Especial Filtek + Adesivo Scotchbond Universal Plus - Solventum",
+    "price": "R$2.067,00",
+    "description": "Kit com 5 seringas de Resina Filtek Z350 XT de 4g cada + 1 frasco de Adesivo Scotchbond Universal Plus de 1,5ml, 1 seringa de Resina Filtek Supreme Flow 2g e 1 seringa de Resina Filtek One Bulk Fill de 4g.",
+    "image": "https://cdn.dentalcremer.com.br/produtos/210/kit-especial-resina-filtek-e-adesivo-solventum-3m.jpg",
+    "url": "https://www.dentalcremer.com.br/kit-resina-especial-filtek-adesivo-scotchbond-universal-plus-solventum-151719.html"
+  }
+]
